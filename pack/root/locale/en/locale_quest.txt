@@ -1,0 +1,465 @@
+1	Create guild
+2	Do you really want to create a guild for 1 Won?
+3	Price: 
+4	Yes
+5	No
+6	The name must not contain special characters and its length must be between 3 and 11 characters!
+7	Do you really want to create a guild with this name?[ENTER]
+8	You don’t have enough Yang.
+9	You are already in a guild.
+10	[System] Guild name is invalid (strlen <2 or >11!)
+11	[System] Guild name is invalid (contains special characters!)
+12	[System] Guild was not created (the name is already taken or you are already a guild member)
+13	[System] Guild has been created.
+14	[System] The player is already a guild member
+15	[System] The player is already a guild leader
+16	GM: Restrict.
+17	Enter the name of the person you want to restrict!
+18	Player such as:
+19	does not exist!
+20	GM: Check.
+21	Has guild: 
+22	Is master: 
+23	Kingdom: 
+24	Kingdom NPC: 
+25	Leave guild
+26	Do you really want to leave the guild?
+27	You have left the guild.
+28	Disband guild
+29	Do you really want to disband the guild?
+30	The guild has been disbanded.
+31	Cannot create a guild, you are already in one!
+32	Do you really want to create a guild for 1 Won?
+33	You don’t have the required item to create a guild.
+34	You don’t have enough money to create a guild.
+35	You don’t have a sufficient leadership level.
+36	You must wait a bit longer before submitting another item.
+37	This item had great quality!
+38	You have completed the biologist mission.
+39	This item had very poor quality!
+40	You don’t have the required item for research.
+41	Your level is too low.
+42	You have completed the collector mission.
+43	[Ice Cave] Kill 50 monsters and then use the seal!
+44	[Ice Cave] Destroy all boulders!
+45	[Ice Cave] Kill 3 mini bosses!
+46	[Ice Cave] Kill the boss!
+47	Enter the Ice Cave (125+)
+48	Guardian:
+49	Hello!
+50	Do I understand correctly? Do you want to enter the Ice Cave?
+51	Without the required items
+52	and level, I won’t let you pass.
+53	Number of entries today: 
+54	The limit will be reset in:
+55	%d hours and %d minutes.
+56	0 hours and 0 minutes.
+57	You need:
+58	Required item
+59	Do you want to continue?
+60	Sure!
+61	I’d rather not.
+62	Teleportation is currently not possible!
+63	You don’t have the required item!
+64	[Ice Cave] Welcome to the dungeon!
+65	[Ice Cave] Monsters have appeared!
+66	Kill 50 monsters
+67	[Ice Cave] Use the seal to proceed further!
+68	[Ice Cave] Success!
+69	[Ice Cave] The next objective will appear in 5 seconds!
+70	[Ice Cave] Boulders have appeared!
+71	Destroy 8 boulders
+72	[Ice Cave] Great job!
+73	[Ice Cave] Still remaining: 
+74	 boulders!
+75	Kill 3 mini bosses
+76	[Ice Cave] You have successfully killed the mini bosses!
+77	Destroy 4 boulders
+78	[Ice Cave] The boss has appeared!
+79	Kill the boss!
+80	[Ice Cave] You have successfully killed the boss!
+81	[Ice Cave] You will be teleported out of the dungeon in one minute!
+82	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Ice Cave |cFFc5ff8c(Lv. 125)|r in time: |cFFf7b983%s!
+83	Overall ranking
+84	Point ranking
+85	Baek-Go
+86	Crafting
+87	Crafting - soul stones
+88	Crafting - elixirs
+89	Crafting - autobuff skills
+90	Rank, pet, mount
+91	Levels for achievement points
+92	Achievement point shop
+93	Damnation level
+94	Increase damnation level (test)
+95	Fishing collection
+96	Shop
+97	Fish
+98	Relics and smelting
+99	Easter items
+100	[Emperor’s Gorge] Kill 50 monsters!
+101	[Emperor’s Gorge] The Emperor’s Servant has appeared!
+102	[Emperor’s Gorge] Destroy 6 boulders!
+103	[Emperor’s Gorge] Kill 4 djinns!
+104	[Emperor’s Gorge] The Imperial Naga has appeared!
+105	Enter Emperor’s Gorge (Lv. 160+)
+106	Do I understand correctly? Do you want to enter the Emperor’s Gorge?
+107	[Emperor’s Gorge] Welcome to Emperor’s Gorge!
+108	[Emperor’s Gorge] Monsters have appeared!
+109	Kill the monsters in the gorge.
+110	[Emperor’s Gorge] You have killed all monsters!
+111	[Emperor’s Gorge] The Emperor’s Servant is awakening...
+112	[Emperor’s Gorge] Remaining monsters: 
+113	Reduce the servant’s HP below 66%
+114	[Emperor’s Gorge] The servant has summoned boulders!
+115	Destroy all 6 rocks
+116	[Emperor’s Gorge] All boulders have been destroyed!
+117	[Emperor’s Gorge] Continue fighting the servant!
+118	Reduce the servant’s HP below 33%
+119	[Emperor’s Gorge] Remaining boulders: 
+120	[Emperor’s Gorge] The servant is summoning reinforcements!
+121	Kill 4 djinns.
+122	[Emperor’s Gorge] You have defeated all djinns!
+123	[Emperor’s Gorge] Kill the Emperor’s Servant!
+124	Kill the Emperor’s Servant
+125	[Emperor’s Gorge] Remaining djinns: 
+126	[Emperor’s Gorge] Emperor’s Servant!
+127	[Emperor’s Gorge] But wait... something is not right...
+128	Kill the Imperial Naga!
+129	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Emperor’s Gorge |cFFc5ff8c(Lv. 150)|r in time: |cFFf7b983%s!
+130	This cannot be done right now.
+131	You have no skills.
+132	Cannot be used in a dungeon.
+133	Soul Stone:
+134	Using this item will remove
+135	the effect of the Exorcism Scroll.
+136	You don’t have any skill at G level.
+137	Select the skill you want to train:
+138	Leave
+139	Skill training was successful.
+140	Dragon Souls – closed season
+141	Dragon Souls are temporarily unavailable.
+142	You have already reached today’s limit.
+143	You can start a new Dragon Soul collection season.
+144	Dragon Souls
+145	You cannot collect any more Dragon Souls today.
+146	A new Dragon Soul collection season has begun!
+147	Dragon Souls – refinement
+148	Here you can refine your Dragon Souls.
+149	Mythical Alchemy: Bonus change
+150	Do you really want to open the bonus change window?
+151	Dragon Soul Shop
+152	Welcome to the Dragon Soul Shop!
+153	[Demon Shrine] Kill 50 monsters and then use the seal!
+154	[Demon Shrine] Destroy all boulders!
+155	[Demon Shrine] Kill 3 mini bosses!
+156	[Demon Shrine] Kill the boss!
+157	Enter the Demon Shrine (75+)
+158	Do I understand correctly? Do you want to enter the Demon Shrine?
+159	[Demon Shrine] Welcome to the dungeon!
+160	[Demon Shrine] Monsters have appeared!
+161	[Demon Shrine] Use the seal to proceed further!
+162	[Demon Shrine] Boulders have appeared!
+163	[Demon Shrine] Great job!
+164	[Demon Shrine] Still remaining: 
+165	[Demon Shrine] You have successfully killed the mini bosses!
+166	[Demon Shrine] The boss has appeared!
+167	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Demon Shrine |cFFc5ff8c(Lv. 75)|r in time: |cFFf7b983%s!
+168	Return to dungeon
+169	Do you want to return to the dungeon?
+170	[Spider Queen’s Lair] Kill 50 monsters and then use the seal!
+171	[Spider Queen’s Lair] Destroy all boulders!
+172	[Spider Queen’s Lair] Kill 3 mini bosses!
+173	[Spider Queen’s Lair] Kill the boss!
+174	Enter the Spider Queen’s Lair (50+)
+175	Do I understand correctly? Do you want to enter the Spider Queen’s Lair?
+176	[Spider Queen’s Lair] Welcome to the dungeon!
+177	[Spider Queen’s Lair] Monsters have appeared!
+178	[Spider Queen’s Lair] Use the seal to proceed further!
+179	[Spider Queen’s Lair] Boulders have appeared!
+180	Destroy 5 boulders
+181	[Spider Queen’s Lair] Great job!
+182	[Spider Queen’s Lair] Still remaining: 
+183	[Spider Queen’s Lair] You have successfully killed the mini bosses!
+184	[Spider Queen’s Lair] The boss has appeared!
+185	[Spider Queen’s Lair] You will be teleported out of the dungeon in 20 seconds!
+186	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Spider Queen’s Lair |cFFc5ff8c(Lv. 50)|r in time: |cFFf7b983%s!
+187	[Easter Dungeon] Kill 150 monsters and then use the seal!
+188	[Easter Dungeon] Destroy all boulders!
+189	[Easter Dungeon] Kill 3 mini bosses!
+190	[Easter Dungeon] Kill the boss!
+191	Easter Dungeon
+192	Do I understand correctly? Do you want to enter the Easter Dungeon?
+193	Without the required items, I won’t let you pass.
+194	[Easter Dungeon] Welcome to the dungeon!
+195	[Easter Dungeon] Monsters have appeared!
+196	Kill 150 monsters
+197	[Easter Dungeon] Use the seal to proceed further!
+198	[Easter Dungeon] Boulders have appeared!
+199	[Easter Dungeon] Great job!
+200	[Easter Dungeon] Still remaining: 
+201	[Easter Dungeon] You have successfully killed the mini bosses!
+202	[Easter Dungeon] The boss has appeared!
+203	[Easter Dungeon] You will be teleported out of the dungeon in 20 seconds!
+204	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Easter Dungeon |cFFc5ff8c|r in time: |cFFf7b983%s!
+205	Easter Map
+206	Welcome!
+207	Do you want to teleport to the Easter Map?
+208	 - You can enter the map once every 4 hours
+209	 - You can stay in the map for a maximum of 1 hour.
+210	Teleport
+211	Not now
+212	The Easter Map is currently unavailable.
+213	You can enter the Easter Map again in:
+214	hour(s) and
+215	minute(s).
+216	Your time has expired. You will be teleported back to the city.
+217	Blocked functions:
+218	Trade
+219	Guild invitations
+220	Friend invitations
+221	Party invitations
+222	Party requests
+223	Whispering
+224	[Gates of Hell] Kill 50 monsters and then use the seal!
+225	[Gates of Hell] Destroy all boulders!
+226	[Gates of Hell] Kill 3 mini bosses!
+227	[Gates of Hell] Kill the mini bosses!
+228	[Gates of Hell] Kill the boss!
+229	Enter the Gates of Hell (150+)
+230	Do I understand correctly? Do you want to enter the Gates of Hell?
+231	[Gates of Hell] Welcome to the dungeon!
+232	[Gates of Hell] Monsters have appeared!
+233	[Gates of Hell] Use the seal to proceed further!
+234	[Gates of Hell] Boulders have appeared!
+235	[Gates of Hell] Great job!
+236	[Gates of Hell] Still remaining: 
+237	[Gates of Hell] You have successfully killed the mini bosses!
+238	Kill the mini bosses
+239	[Gates of Hell] The boss has appeared!
+240	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Gates of Hell |cFFc5ff8c(Lv. 150)|r in time: |cFFf7b983%s!
+241	Crafting - Horseshoe
+242	Gender Change Spell
+243	Cannot change gender while wearing a costume for the opposite gender!
+244	You must be at least level 50!
+245	Cannot change gender while you are married!
+246	Cannot change gender while transformed!
+247	You must wait 24 hours!
+248	Remaining time:
+249	Do you really want to change your gender?
+250	Gender has been changed.
+251	To complete the process, please log out and log back in.
+252	[AP Coupon] This cannot be done right now.
+253	[AP Coupon] You don’t have the required coupon!
+254	Achievement Points have been increased by
+255	Your level is too high to be in this map.
+256	Shard crafting
+257	Deokbae:
+258	This pickaxe has too few points.
+259	Do you really want to upgrade the pickaxe?
+260	The upgrade failed...
+261	It looks much better now.
+262	Unfortunately, the pickaxe upgrade failed.
+263	The pickaxe now has a lower level.
+264	[Empire Change] This cannot be done right now.
+265	Empire Change:
+266	With this item, you can change your empire,
+267	but it’s not free—everything has a price.
+268	You can change your empire every 3 days,
+269	and you will also need 1,000,000,000 Yang.
+270	Do you want to change your empire?
+271	[Empire Change] You don’t have 1,000,000,000 Yang.
+272	[Empire Change] The item is currently disabled.
+273	[Empire Change] You must leave your guild first.
+274	[Empire Change] You must get divorced first.
+275	Select a new empire
+276	Shinsoo
+277	Jinno
+278	Cancel
+279	[Empire Change] You are already in this empire.
+280	[Empire Change] Empire changed! You must log out and log back in for the changes to take effect.
+281	Give Up
+282	Cancel
+283	You gave up on this quest
+284	Not all party members are on this map!
+285	Some party members do not have the required level:
+286	You don’t have a sufficient level to enter this dungeon!
+287	Some players do not have the required pass:
+288	Some players cannot be teleported:
+289	Were you trying to fleece the guard?...
+290	Input number
+291	%d sec.
+292	%d min. %d sec.
+293	%d h. %d m.
+294	%d d. %d h.
+295	This fishing rod does not have enough points!
+296	Your fishing rod is already at the maximum level!
+297	Do you really want to upgrade this fishing rod?
+298	The upgrade failed.
+299	The fishing rod upgrade was successful!
+300	Try again later!
+301	[Ancient Jungle] Kill 50 monsters and then use the seal!
+302	[Ancient Jungle] Destroy all boulders!
+303	[Ancient Jungle] Kill 3 mini bosses!
+304	[Ancient Jungle] Kill the mini bosses!
+305	[Ancient Jungle] Kill the boss!
+306	Enter the Ancient Jungle (175+)
+307	Do I understand correctly? Do you want to enter the Ancient Jungle?
+308	[Ancient Jungle] Welcome to the dungeon!
+309	[Ancient Jungle] Monsters have appeared!
+310	[Ancient Jungle] Use the seal to proceed further!
+311	[Ancient Jungle] Boulders have appeared!
+312	[Ancient Jungle] Great job!
+313	[Ancient Jungle] Still remaining: 
+314	[Ancient Jungle] You have successfully killed the mini bosses!
+315	[Ancient Jungle] The boss has appeared!
+316	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Ancient Jungle |cFFc5ff8c(Lv. 175)|r in time: |cFFf7b983%s!
+317	Combination
+318	Do you want to combine sashes?
+319	Item absorption
+320	Do you want to absorb a weapon into the sash?
+321	[Scorpion Ruins] Kill 50 monsters and then use the seal!
+322	[Scorpion Ruins] Destroy all boulders!
+323	[Scorpion Ruins] Kill 3 mini bosses!
+324	[Scorpion Ruins] Kill the boss!
+325	Enter the Scorpion Ruins (100+)
+326	Do I understand correctly? Do you want to enter the Scorpion Ruins?
+327	This dungeon cannot be entered in a party.
+328	[Scorpion Ruins] Welcome to the dungeon!
+329	[Scorpion Ruins] Monsters have appeared!
+330	[Scorpion Ruins] Use the seal to proceed further!
+331	[Scorpion Ruins] Boulders have appeared!
+332	Destroy 6 boulders
+333	[Scorpion Ruins] You have successfully killed the boss!
+334	[Scorpion Ruins] You will be teleported out of the dungeon in one minute!
+335	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Scorpion Ruins |cFFc5ff8c(Lv. 100)|r in time: |cFFf7b983%s!
+336	Skill training
+337	Body
+338	Mental
+339	Daggers
+340	Bow
+341	WP
+342	BM
+343	Buff
+344	Healer
+345	Select skills:
+346	Choose your specialization.
+347	Choose later
+348	You have chosen your specialization!
+349	Costume selection:
+350	Select costume type:
+351	PvP costume
+352	PvM costume
+353	You have received a PvP costume!
+354	Select a PvP costume weapon:
+355	There is no way back after selection.
+356	You have received a PvM costume!
+357	Select a PvM costume weapon:
+358	Selection canceled.
+359	Select costume weapon:
+360	Try again in 10 seconds.
+361	You don’t have enough space in your inventory.
+362	Invalid item.
+363	You can train the skill again in 
+364	minutes or use an Exorcism Scroll.
+365	You can train the skill again in 8 hours.
+366	Skill training failed.
+367	Skill training is not 100%.
+368	Skill reset
+369	Welcome,
+370	If you want to reset your skills
+371	and choose a new specialization, it will cost you something.
+372	Price: 1,000,000,000 Yang.
+373	Do you want to reset your skills?
+374	This change cannot be undone!
+375	[Old Lady] You don’t have 1,000,000,000 Yang.
+376	[Old Lady] You cannot do this right now.
+377	[Old Lady] You have no skills.
+378	Valentine’s costumes for free!
+379	Hello!
+380	Here are your free Item Shop items for Valentine’s Day!
+381	They contain full bonuses and last for 3 days.
+382	OK
+383	Not now
+384	Warehouse
+385	Item Shop
+386	[Ghost Ship] Destroy the boulder
+387	[Ghost Ship] Kill all monsters (on a mount)
+388	[Ghost Ship] Destroy the boulder on the ground.
+389	[Ghost Ship] Kill all monsters
+390	[Ghost Ship] Destroy all boulders!
+391	[Ghost Ship] Kill the boss!
+392	[Ghost Ship] Destroy the captain’s chest!
+393	Enter the Ghost Ship (Lv. 149)
+394	Do I understand correctly? Do you want to enter the Ghost Ship?
+395	- Party (2 players)
+396	[Ghost Ship] You must have at least 1 other player nearby.
+397	[Ghost Ship] You are not the party leader!
+398	[Ghost Ship] You don’t have a sufficient level!
+399	[Ghost Ship] Your level is too high!
+400	[Ghost Ship] The leader does not have enough passes! (x2)
+401	[Ghost Ship] Welcome to the dungeon!
+402	You failed to complete the dungeon in time. Everyone will be teleported out of the dungeon!
+403	[Ghost Ship] A boulder has appeared!
+404	[Ghost Ship] A chest has appeared!
+405	[Ghost Ship] You destroyed the chest!
+406	[Ghost Ship] Everyone will be teleported out of the dungeon in one minute!
+407	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Ghost Ship (I) |cFFc5ff8c(Lv. 149)|r in time: |cFFf7b9
+408	Enter the Ghost Ship (Lv. 200)
+409	Do I understand correctly? Do you want to enter the Ghost Ship?
+410	[Ghost Ship] You don’t have a sufficient level!
+411	[Ghost Ship] Your level is too high!
+412	[Ghost Ship] The leader does not have enough passes! (x2)
+413	[Ghost Ship] You have successfully killed the boss!
+414	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Ghost Ship (II) |cFFc5ff8c(Lv. 200)|r in time: |cFFf7b98
+415	[Wukong Mountains] Kill 50 monsters and then use the seal!
+416	[Wukong Mountains] Destroy all boulders!
+417	[Wukong Mountains] Kill 3 mini bosses!
+418	Enter the Wukong Mountains (75+)
+419	Do I understand correctly? Do you want to enter the Wukong Mountains?
+420	[Wukong Mountains] Welcome to the dungeon!
+421	[Wukong Mountains] Monsters have appeared!
+422	[Wukong Mountains] Use the seal to proceed further!
+423	[Wukong Mountains] Boulders have appeared!
+424	[Wukong Mountains] You have successfully killed the mini bosses!
+425	[Wukong Mountains] You have successfully killed the boss!
+426	[Wukong Mountains] You will be teleported out of the dungeon in one minute!
+427	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r completed |cFFf7dd83Wukong Mountains |cFFc5ff8c(Lv. 75)|r in time: |cFFf7b983%s!
+428	Crafting
+429	Crafting - Soul Stones
+430	Crafting - Potions
+431	Crafting - Autobuff Skills
+432	Crafting - Rank, pets, mounts
+433	Achievement levels
+434	Store - Achievement points
+435	Fish Collection
+436	Store
+437	Fishes
+438	Relics and melts
+439	Choose costume:
+440	Choose type of costume:
+441	PvP Costume
+442	PvM Costume
+443	Choose costume weapon:
+444	This action is irreversible.
+445	You obtained costume weapon
+446	Canceled.
+447	Choose costume weapon:
+448	PvP Wings
+449	PvM Wings
+450	Choose wings:
+451	You obtained wings, pet and mount!
+452	Try again in 10 seconds.
+453	This cannot be done in dungeon.
+454	You dont have enough space in inventory.
+455	Easter Valley
+456	You can enter the Easter Valley again in:
+457	(Character restriction)
+458	Do you want to teleport to the Easter Valley?
+459	 - You can enter the map once every 6 hours (CHAR + HWID)
+460	 - Cooldown starts from the moment you enter the map
+461	 - You can stay in the map for a maximum of 30 minutes
+462	The Easter Valley is currently unavailable.
+463	(HWID restriction)
+464	Easter Crafting
+

@@ -1,0 +1,1839 @@
+ITEMSHOP_WHEEL_CHEQUE_TEXT	|Eemoji/cheque_icon|e Wons Wheel
+TOOLTIP_BONUS_PET	Passive skills of pet are enchanted
+TOOLTIP_BONUS_PASSIVE_SKILLS	All passive skill at P - You received additional bonuses
+GUILD_GUARDIAN_ACTIVATE_FEE_INFO	Activace bonusù stráce stojí 500.000 cechovních zlaákù a trvá 24 hodin.
+SAVE_LOCATION_REMOVE_LOCATION_QUESTION	Opravdu chceš odstranit tento záznam?
+SAVE_LOCATION_ENTER_NAME	Zadej název
+SPECIAL_ATTR_EMPTY_ATTR_SOCKET	[Empty Bonus]
+MULTI_FARM_TITLE	Multi Farm Block
+MULTI_FARM_TEXT	|Eemoji/key_lclick|e You need click for active/deactive drop for this character.
+MULTI_FARM_ACTIVE_TEXT	Do you want open this character drop?
+MULTI_FARM_DEACTIVE_TEXT	Do you want close this character drop?
+MULTI_FARM_ACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFFYou can get drop.|r 
+MULTI_FARM_DEACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFFYou cant get drop.|r 
+MULTI_FARM_PREMIUM_EFFECT	Increase multi farm account count: +%d	SA
+DUNGEON_PROGRESSBAR_CRIMSON_BLUE	Blue: 
+DUNGEON_PROGRESSBAR_CRIMSON_RED	Red: 
+EXPANDEDTASKBAR_WIKI	Wiki
+STARTER_PACKAGE_CONTAINS	Obsahuje:
+STARTER_PACKAGE_SMALL_1	• Elvion Premium (3D)
+STARTER_PACKAGE_SMALL_2	• Zlodìjské rukavice (1h)
+STARTER_PACKAGE_SMALL_3	• Prsten Zkušeností (1h)
+BATTLEPASS_PACKAGE_1	• Battlepass Premium
+BATTLEPASS_PACKAGE_2	• 7x Levelup Battlepass
+STARTER_PACKAGE_MEDIUM_1	• Elvion Premium (14D)
+STARTER_PACKAGE_MEDIUM_2	• Malá El (Mazlíèek)
+STARTER_PACKAGE_MEDIUM_3	• Zlodìjské rukavice (1h)
+STARTER_PACKAGE_MEDIUM_4	• Experience Ring (1h)
+STARTER_PACKAGE_BIG_1	• Elvion Premium (30D)
+STARTER_PACKAGE_BIG_2	• Balíèek Andìla (Celı Set)
+STARTER_PACKAGE_BIG_3	• Zesílení kostımové zbranì (PVM)
+STARTER_PACKAGE_BIG_4	• Andìlskı kùò (Mount)
+STARTER_PACKAGE_BIG_5	• Zlodìjské rukavice (1h)
+STARTER_PACKAGE_BIG_6	• Prsten Zkušeností (1h)
+COSTUME_BOOST_PACKAGE_1	• Zesílení mazlíèka (PVM)
+COSTUME_BOOST_PACKAGE_2	• Zesílení kostımu (PVM)
+COSTUME_BOOST_PACKAGE_3	• Zesílení úèesu (PVM)
+COSTUME_BOOST_PACKAGE_4	• Zesílení kostımové zbranì (PVM)
+COSTUME_BOOST_PACKAGE_5	• Zesílení šerpy (PVM)
+TOOLTIP_REMAINING	Zbıvá: %.2f%%
+OFFLINESHOP_EXTEND_SHOP_TIME	Chceš obnovit èas stánku za 1.000.000.000 yangù?
+OFFLINESHOP_EXTEND_TIME_NOT_POSSIBLE	Momentálnì nelze obnovit èas stánku.
+DUNGEON_PROGRESSBAR_EMERALD	Emeraldová duše 
+DUNGEON_PROGRESSBAR_GORGON	Zbıvající Kyslík - 
+INVENTORY_OPEN_VOTESHOP	Otevøít Vote4buff Obchod
+INVENTORY_OPEN_WORLDBOSS	Otevøít Worldboss Obchod
+AUTOBUFF_BONUS_1	Bonus: |cFF82cf36+15.0% |r(|cFFffce47
+AUTOBUFF_BONUS_2	Bonus: |cFF82cf36+15.0% |r(|cFFffce47
+AUTOBUFF_BONUS_3	Bonus: |cFF82cf36+120.0 |r(|cFFffce47
+AUTOBUFF_CHANCE	Šance na kritickı zásah: |cFFffce47+
+AUTOBUFF_ATTACK_VALUE	Hodnota útoku: |cFFffce47+
+EVENTCALENDAR_PERSONAL_EVENTS	Aktivní eventy
+WHISPER_BUTTON_OPEN	Šepot
+REFINEWINDOW_FIND_WIKI	Najít ve wikipedii
+GOLDBAR_DESC_PER	/ Prut
+GOLDBAR_DESC_WARNING	* 1 bar will remain after use.
+AUTOSKILL_0_1	Trénuj sílu svého tìla
+AUTOSKILL_0_2	Trénuj odolnost svého tìla
+AUTOSKILL_1_1	Nabruš své dıky k zabíjení
+AUTOSKILL_1_2	Pouij luk v boji
+AUTOSKILL_2_1	Miluj své zbranì
+AUTOSKILL_2_2	Hraj si s èernou magií
+AUTOSKILL_3_1	Pouij sílu k pomoci
+AUTOSKILL_3_2	Pouij svìtlo k léèení
+BATTLEPASS_CURRENT_STAGE	Momentální úroveò: {}
+BATTLEPASS_PREMIUM_QUESTION_1	Opravdu chceš aktivovat premium battlepass?
+BATTLEPASS_MISSION_MISSING	Chybìjící mise {}
+BATTLEPASS_EXP_ENDED	Skonèilo
+BATTLEPASS_EXPIRED	Battlepass skonèil
+MISSIONS_BONUS_ATTBONUS_MONSTER	Silnı proti pøíšerám +%d%%	SA
+MISSIONS_BONUS_ATT_GRADE_BONUS	Hodnota útoku +%d	SA
+MISSIONS_BONUS_ATTBONUS_RULER	Silnı proti vládcùm +%d%%	SA
+MISSIONS_BONUS_TOTAL_DAMAGE	Celkové poškození +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_DEVIL	Silnı proti ïáblùm +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE_PVM	PVM Poškození schopností +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE_RESIST	Odolnost proti poškození schopností +%d	SA
+MISSIONS_BONUS_AVG_DAMAGE	Prùmìrná škoda +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_ORC	Silnı proti orkùm +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE	Poškození schopností +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_ELEMENT	Silnı proti elementùm +%d%%	SA
+MISSIONS_BONUS_ELEMENT_RESIST	Odolnost proti elementùm +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_HUMAN	Silnı proti lidem +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_STONE	Silnı proti balvanùm +%d%%	SA
+MISSIONS_BONUS_DUNGEON_POWER	Síla v dungeonech +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_BOSS	Silnı proti bossùm +%d%%	SA
+MISSIONS_BONUS_NONE	-
+MISSIONS_REQUIRED_LEVEL	Potøebná úroveò: 
+COMPANION_PET_EXP_WITH_CHAR	|cffc99573|H|hKlasickı exp|H|h
+COMPANION_PET_FEED_ITEM_1	|cffc99573|H|h(Lv. 40-70)|H|h
+COMPANION_PET_FEED_ITEM_2	|cffc99573|H|h(Lv. 70-110)|H|h
+COMPANION_PET_FEED_ITEM_3	|cffc99573|H|h(Lv. 110-150)|H|h
+TOOLTIP_ATT_GRADE_PVM	Hodnota útoku PvM +%d	SA
+SKILL_PVM_LINKED_TO	|cFFcabdabSpárováno s:|r |cFFc79e65%s|r
+SKILL_PVM_STRENGTHENED_BY	|cFFcabdabLze posílit statusem:|r |cFFc79e65%s|r
+SKILL_PVM_LEVEL_FIXED	Úroveò schopnosti je pevná - síla pochází z párové schopnosti.
+SKILL_PVM_ATK_VALUE	|cFFcabdabHodnota útoku PvM:|r |cFFc79e65+%d|r
+SKILL_PVM_ATK_VALUE_ZERO	|cFFcabdabHodnota útoku PvM: +0 (nejprve vytrénuj svou párovou schopnost)|r
+SKILL_PVM_NOT_AVAILABLE	Není dostupné pro tuto tøídu.
+VIP_CONVERT_QUESTION	Chcete pøevést zbıvající premium èas zpìt do pøedmìtu?
+VIP_TOOLTIP	Premium	SNA
+VIP_ITEM_SUBTITLE	Aktivuje premium
+VIP_SECTION_BENEFITS	Vıhody:
+VIP_METIN_QUEUE	• Metin fronta a 7 balvanù
+VIP_AUTO_PICKUP	• Automatickı sbìr pøedmìtù
+VIP_EXP_BONUS	• +50% EXP
+VIP_TITLE	• Umoní nasadit titul do premiového slotu
+VIP_SAVE_LOCATION	• +1 extra stránka v uloenıch lokacích
+VIP_MINING_HEADER	Tìba
+VIP_MINING_1	• +5% šance na vytìení rudy
+VIP_MINING_2	• +5% šance na vìtší poèet rudy
+VIP_MINING_3	• +5% šance na zisk bonusovıch bodù do krumpáèe
+VIP_MINING_4	• Doba trvání tìení zkrácena o 1 sekundu
+VIP_FISHING_HEADER	Rybaøení
+VIP_FISHING_1	• +10% šance na chycení ryby
+VIP_FISHING_2	• +10% šance na okamitı úlovek
+VIP_FISHING_3	• +10% šance na vìtší rybu
+VIP_FISHING_4	• +25% více yangù za rybu
+VIP_FISHING_5	• 50% šance na double bú z ryb
+VIP_WARNING_HEADER	Tip:
+VIP_TEXT_WARNING_1	Premium je moné zrušit kliknutím na ikonku premium
+VIP_TEXT_WARNING_2	v levém horním rohu. Po zrušení dostaneš premium zpìt
+VIP_TEXT_WARNING_3	do inventáøe i se zbıvající dobou trvání.
+DO_YOU_BUY_ITEM_NORMAL	Opravdu chceš zakoupit %s za %d?
+ITEM_PRICE_TITLE	Cena:
+ITEM_IS_FREE	Zdarma
+WORLDBOSS_LESS_THAN_MINUTE	Ménì ne minuta
+DO_YOU_BUY_ITEM_AP1	Opravdu chceš zakoupit %s za %s?
+DO_YOU_BUY_ITEM_AP2	Opravdu chceš zakoupit %s (%s kusù) za %s?
+VOTE4BUFF_QUESTION1	Opravdu chceš vybrat tento bonus?
+VOTE4BUFF_QUESTION2	Opravdu chceš zmìnit bonus pro %s?
+VOTE4BUFF_TIME_LEFT	Zbıvající èas: %s
+VOTE4BUFF_BONUS_SELECTION	Nyní si mùeš vybrat bonus!
+VOTE4BUFF_VOTE_REWARDS	Odmìny za hlasování
+VOTE4BUFF_BONUS_TITLE	Bonusy
+VOTE4BUFF_WARNING_MSG1	Pøed vıbìrem bonusu musíš hlasovat!
+VOTE4BUFF_WARNING_MSG2	Po hlasování klikni znovu na tlaèítko hlasování
+VOTE4BUFF_AVAILABLE	Vote 4 Buff je k dispozici!
+VOTE4BUFF_VOTE_INFORMATION	Klikni zde pro hlasování!
+VOTE4BUFF_AFFECT_TITLE	Vote4Buff
+SKILL_MINING_CHANCE	Šance na vytìení rudy +%d%%
+SKILL_MINING_CHANCE_MORE_ORE	Šance na vìtší poèet rudy +%d%%
+SKILL_MINING_LESS_TIME	Zkrácení èasu tìení -%dsek.
+SKILL_MINING_RELIC_CHANCE	Šance na jádro reliktu +%d%%
+SKILL_MINING_ORE_COUNT	Vytìeno rudy: %s
+SKILL_FISHES_CAUGHT	Vyloveno ryb: %s
+WIKI_CUBE_PERCENT	{}%
+WIKI_CUBE	Vıroba
+WIKI_EQUIPMENT_RUNES	Runy
+WIKI_EQUIPMENT_PET_EQ	Vybavení mazlíèka
+WIKI_EQUIPMENT_MOUNT_EQ	Vybavení jezd. zvíøete
+EXTRA_BONUS_ITEM_TITLE	Odemyká Extra Bonusy
+EXTRA_BONUS_ITEM_DESC	Odemkne a vylepší speciální bonusy na vybranıch pøedmìtech.
+EXTRA_BONUS_COMPATIBLE_ITEMS	Kompatibilní pøedmìty:
+EXTRA_BONUS_SASH_INFO	Šerpa
+EXTRA_BONUS_SASH_EFFECT	Zvyší absorpci z 30% na 45%
+EXTRA_BONUS_GLOVES_INFO	Rukavice síly +9
+EXTRA_BONUS_GLOVES_EFFECT	Zvyšuje poslední 2 bonusy o +20%
+EXTRA_BONUS_PET_INFO	Vybavení mazlíèka +9
+EXTRA_BONUS_PET_EFFECT	Odemkne dodateèné bonusy
+EXTRA_BONUS_RUNE_INFO	Legendární runy
+EXTRA_BONUS_RUNE_EFFECT	Odemkne dodateèné bonusy
+EXTRA_BONUS_REQUIREMENTS	Poadavky:
+EXTRA_BONUS_REQ_SASH	• Šerpa s absorpcí > 30%
+EXTRA_BONUS_REQ_GLOVES	• Rukavice síly +9 s 5 bonusy
+EXTRA_BONUS_REQ_PET	• Vybavení mazlíèka +9
+EXTRA_BONUS_REQ_RUNE	• Runy +5
+EXTRA_BONUS_WARNING	Lze pouít pouze jednou na jeden pøedmìt!
+FISHWIKI_FISH_27802	Hodnota útoku +20
+FISHWIKI_FISH_27803	Síla +5
+FISHWIKI_FISH_27804	Inteligence +5
+FISHWIKI_FISH_27805	Pohyblivost +5
+FISHWIKI_FISH_27806	Bonus BZK +25%
+FISHWIKI_FISH_27807	Šance na kritickı zásah +20%
+FISHWIKI_FISH_27808	Šance na pronikavı zásah +20%
+FISHWIKI_FISH_27809	Silnı proti orkùm +20%
+FISHWIKI_FISH_27810	Poškození schopností +5%
+FISHWIKI_FISH_27811	Odolnost proti poškození schopností +5%
+FISHWIKI_FISH_27812	Silnı proti ïáblùm +10%
+FISHWIKI_FISH_27813	Silnı proti zvíøatùm +10%
+FISHWIKI_FISH_27814	Silnı proti ezoterikùm +10%
+FISHWIKI_FISH_27815	Silnı proti orkùm +10%
+FISHWIKI_FISH_27816	Hodnota útoku +30
+FISHWIKI_FISH_27817	Hodnota útoku +50
+FISHWIKI_FISH_27818	Max. ZB: +2000
+FISHWIKI_FISH_27819	Max. ZB: +3000
+FISHWIKI_FISH_27820	Max. ZB: +4000
+FISHWIKI_FISH_27821	Prùmìrná škoda +3%
+FISHWIKI_FISH_27822	Silnı proti legendám +15%
+FISHWIKI_FISH_27823	Silnı proti balvanùm +10%
+FISHWIKI_FISHINGPOLE_GRADE	Rybáøskı prut +0 a +15
+FISHWIKI_NOTIFICATION	Nová ryba!
+FISHWIKI_HIDE_WINDOW	Skrıt okno
+FISHWIKI_NOTIFICATION_TEXT	Jdi za rybáøem a mrkni do kolekce!
+MISSIONS_WINDOW_BIOLOG	Biologickı vızkum
+MISSIONS_WINDOW_COLLECTOR	Sbìratel
+MISSIONS_WINDOW_HUNTING	Lov
+MISSIONS_WINDOW_BOSSOLOGY	Bossologie
+MISSIONS_WINDOW_STONEOLOGY	Balvanologie
+MISSIONS_WINDOW_LOCATION	|cFFf1e6c0Lokace: |r
+MISSIONS_WINDOW_NOT_POSSIBLE	Tuto monost lze pouít pouze u misí sbìratele.
+NOTIFICATION_CATEGORY_SPECIAL_ITEM_EXPIRED_DESCRIPTION	Èas trvání pøedmìtu vypršela!
+NOTIFICATION_CATEGORY_BIOLOG_MISSION_READY_DESCRIPTION	Mùeš doruèit další pøedmìt biologovi!
+NOTIFICATION_CATEGORY_ALCHEMY_EXPIRED_DESCRIPTION	Èas trvání draèí alchymii vypršel!
+NOTIFICATION_CATEGORY_MELT_EXPIRED_DESCRIPTION	Èas trvání tavby vypšel!
+TOOLTIP_WIKI	 - Wikipedia
+TOOLTIP_SEARCH	|Eemoji/key_ctrl|e + |Eemoji/key_shift|e + |Eemoji/key_lclick|e - Vyhledat v obchodech
+RANKING_DAMAGE_BOSS_POSITION	Pozice
+RANKING_DAMAGE_PLAYER_NAME	Název hráèe
+RANKING_DAMAGE_PLAYER_LEVEL	Úroveò hráèe
+RANKING_DAMAGE_PLAYER_DAMAGE_DONE	Udìlené poškození
+RANKING_DAMAGE_BOSS	ebøíèek poškození TOP 15
+EXPANDEDTASKBAR_OFFLINESHOP	Offlineshop
+EXPANDEDTASKBAR_COMPANION	Spoleèníci
+EXPANDEDTASKBAR_SHOPSEARCH	Vyhledávání v obchodech
+EXPANDEDTASKBAR_BONUSES	Okno bonusù
+EXPANDEDTASKBAR_SWITCHBOT	Switchbot
+EXPANDEDTASKBAR_AUTOBUFF	Autobuff
+EXPANDEDTASKBAR_RANKING	ebøíèek
+EXPANDEDTASKBAR_BIN	Koš
+EXPANDEDTASKBAR_RUNE	Runy
+EXPANDEDTASKBAR_ARTEFAKT	Artefakty
+EXPANDEDTASKBAR_CHANGEEQUIPMENT	Zmìna vıbavy
+EXPANDEDTASKBAR_STORAGE	Sklad
+EXPANDEDTASKBAR_SAVELOCATION	Ukládání lokací
+EXPANDEDTASKBAR_POTIONS	Elixíry
+ATLAS_WINDOW_NAME	|cFFc79e65Název:|r |cFFcabdab%s|r
+ATLAS_WINDOW_COORDINATES	|cFFc79e65Souøadnice:|r |cFFcabdab(%d, %d)|r
+ATLAS_WINDOW_RESPAWN	|cFFc79e65Respawn:|r |cFFcabdab%s|r
+ATLAS_WINDOW_COOLDOWN	|cFFc79e65Cooldown:|r |cFFcabdab%s|r
+ATLAS_WINDOW_WIKI	|Eemoji/key_alt|e + |Eemoji/key_lclick|e - |cFFcabdabOtevøít ve wikipedii|r
+MINIMAP_BUTTON_DUNGEON	Dungeony
+MINIMAP_BUTTON_WARP	Lokace
+MINIMAP_BUTTON_MISSIONS	Mise
+MINIMAP_BUTTON_COLLECTION	Kolekce
+MINIMAP_BUTTON_TITLE	Tituly
+MINIMAP_BOSS_AVAILABLE	Naivu
+MINIMAP_BOSS_TOOLTIP	[Èas respawnu: %s]
+WARP_WINDOW_MAPS_LOW	Lehké lokace
+WARP_WINDOW_MAPS_HIGH	Tìší lokace
+WARP_WINDOW_MAPS_SPECIAL	Speciální lokace
+WARP_WINDOW_SEARCH_MAPS	Vyhledat lokaci...
+WARP_WINDOW_MAP_1	Království Jinno
+WARP_WINDOW_MAP_2	Vesnice Jinno
+WARP_WINDOW_MAP_3	Království Shinsoo
+WARP_WINDOW_MAP_4	Vesnice Shinsoo
+WARP_WINDOW_MAP_6	Hora Sohan
+WARP_WINDOW_MAP_7	Údolí orkù
+WARP_WINDOW_MAP_8	Les
+WARP_WINDOW_MAP_9	Pavouèí jeskynì
+WARP_WINDOW_MAP_10	Údolí kyklopù
+WARP_WINDOW_MAP_11	Starodávná pouš
+WARP_WINDOW_MAP_12	Mrazivá Krajina
+WARP_WINDOW_MAP_13	Ohnivá pustina
+WARP_WINDOW_MAP_14	Magickı les
+WARP_WINDOW_MAP_15	Skrytı dùl
+WARP_WINDOW_MAP_16	Rybáøské pobøeí
+WARP_WINDOW_MAP_17	Cechovní mapa
+WARP_WINDOW_MAP_18	Prokleté údolí
+WARP_WINDOW_MAP_19	Velikonoèní údolí
+WARP_WINDOW_UNDEAD	|cff544661Nemrtvı|r
+WARP_WINDOW_DEVIL	|cffb783e6Ïábel|r
+WARP_WINDOW_ANIMAL	|cff8ad47fZvíøe|r
+WARP_WINDOW_ORC	|cffbaa079Ork|r
+WARP_WINDOW_MYSTICS	|cffee73f0Ezoterik|r
+WARP_WINDOW_ICE	|cff6ccbebLed|r
+WARP_WINDOW_DARK	|cff7e07e0Temnota|r
+WARP_WINDOW_EARTH	|cffccd977Zemì|r
+WARP_WINDOW_WIND	|cff59d961Vítr|r
+WARP_WINDOW_FIRE	|cffe35c44Oheò|r
+DUNGEON_TRACK_DUNGEON_1	Tábor Prachozuba
+DUNGEON_TRACK_DUNGEON_2	Vì démonù
+DUNGEON_TRACK_DUNGEON_3	Svatynì Azraela
+DUNGEON_TRACK_DUNGEON_4	Chrám Hwang
+DUNGEON_TRACK_DUNGEON_5	Smaragdové Doupì
+DUNGEON_TRACK_DUNGEON_6	Hlubiny Gorgony
+DUNGEON_TRACK_DUNGEON_7	Hedvábné Hlubiny
+DUNGEON_TRACK_DUNGEON_8	Dungeon 8
+DUNGEON_TRACK_DUNGEON_9	Dungeon 9
+DUNGEON_TRACK_DUNGEON_10	Dungeon 10
+DUNGEON_TRACK_DUNGEON_11	Dungeon 11
+DUNGEON_TRACK_TITLE_DUNGEONS	Dungeony
+DUNGEON_TRACK_TITLE_MAPS	Mapy
+DUNGEON_TRACK_NOTIFICATION	%s#je nyní dostupnı
+DUNGEON_TRACK_CHECKBOX	Upozornit jakmile bude dostupnı
+DUNGEON_TRACK_LEVEL_INFO	Potøebná úroveò:
+DUNGEON_TRACK_DAILY_LIMIT_INFO	Denní limit:
+DUNGEON_TRACK_GROUP_INFO	Group Request:
+DUNGEON_TRACK_COOLDOWN_INFO	Cooldown:
+DUNGEON_TRACK_TICKET_INFO	Propustka
+DUNGEON_TRACK_SHOP_INFO	Dungeon Obchod
+DUNGEON_TRACK_TELEPORT_ENTER	Teleportovat do dungeonu
+DUNGEON_TRACK_WARP	Teleportovat ke vstupu
+DUNGEON_TRACK_TEST	Test if you can kill the dungeon boss, without paying the Entry Ticket. Polymorph Marble is usable for free.
+DUNGEON_TRACK_PERSONAL_STATISTICS	Moje statistiky
+DUNGEON_TRACK_RANK_COMPLETED	ebøíèek: Celkovì dokonèeno
+DUNGEON_TRACK_RANK_FASTEST	ebøíèek: Nejrychlejší èas
+DUNGEON_TRACK_RANK_DMG	ebøíèek: Poškození do bosse
+DUNGEON_TRACK_COMPLETED	Dokonèeno
+DUNGEON_TRACK_FASTEST	Nejrychlejší
+DUNGEON_TRACK_DMG	Poškození
+DUNGEON_TRACK_SLOW_INFO	Musíš poèkat
+DUNGEON_TRACK_TRUE	True
+DUNGEON_TRACK_FALSE	False
+DUNGEON_TRACK_MOVE_UP	Posunout nahoru
+DUNGEON_TRACK_MOVE_DOWN	Posunout dolù
+DUNGEON_TRACK_HIDE	Skrıt
+DUNGEON_TRACK_DEACTIVE	Neaktivní
+DUNGEON_TRACK_ACTIVE	Dostupnı
+DUNGEON_TRACK_WHISPER_MESSAGE	%s je dostupnı.
+DUNGEON_TRACK_HIGH_LEVEL	Vyšší úrovnì
+DUNGEON_TRACK_LOW_LEVEL	Menší úrovnì
+DUNGEON_TRACK_BONUS	Bonus
+DUNGEON_TRACK_RANK_INDEX	Umístìní
+DUNGEON_TRACK_RANK_NAME	Jméno
+DUNGEON_TRACK_RANK_LEVEL	Level
+DUNGEON_TRACK_RANK_COMPLETED_TITLE	Dokonèeno
+DUNGEON_TRACK_RANK_FASTEST_TITLE	Nejrychlejší
+DUNGEON_TRACK_RANK_DMG_TITLE	Poškození
+DUNGEON_TRACK_DAILY_INFO	Denních vstupù:
+DUNGEON_TRACK_RESET_INFO	Resetuje se za:
+DUNGEON_TRACK_DAILY_LIMIT_REACHED	Denní limit
+DUNGEON_TRACK_DAILY_LIMIT_MESSAGE	Denní limit dosaen
+TITLE_ACHIEVEMENT_NEED_PREMIUM	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPro aktivace sekundárního titulu musíš mít premium.|r
+TITLE_ACHIEVEMENT_ACTIVATED_PREMIUM_TITLE	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAktivoval jsi premiovı titul.|r
+TITLE_ACHIEVEMENT_REMOVED_FROM_FAVOURITES	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aOdstranil jsi titul ze sekce oblíbené.|r
+TITLE_ACHIEVEMENT_ADDED_TO_FAVOURITES	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTitul pøidán do sekce oblíbené.|r
+TITLE_ACHIEVEMENT_TOOLTIP_ACTIVATE	|Eemoji/key_lclick|e - Aktivovat (Primární slot)
+TITLE_ACHIEVEMENT_TOOLTIP_ACTIVATE_PREMIUM	|Eemoji/key_rclick|e - Aktivovat (Premiovı slot)
+TITLE_ACHIEVEMENT_TOOLTIP_ADD_FAVOURITE	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Pøidat do oblíbenıch
+TITLE_ACHIEVEMENT_ACTIVATED_PRIMARY	|cff00ff00Aktivní v primární slotu|r
+TITLE_ACHIEVEMENT_ACTIVATED_PREMIUM	|cffffaa00Aktivní v sekundárním slotu|r
+TITLE_ACHIEVEMENT_NOT_UNLOCKED_YET	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTento titul jsi ještì neodemkl.|r
+TITLE_ACHIEVEMENT_TITLE_ACTIVE_IN_PREMIUM	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Tento titul je momentálnì aktivní v premiovém slotu.|r
+TITLE_ACHIEVEMENT_TITLE_ACTIVE_IN_PRIMARY	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Tento titul je ji aktivní primárním slotu!|r
+TITLE_ACHIEVEMENT_TITLE_CANNOT_ACTIVATE_TOGETHER_PRIMARY	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Tento titul nelze aktivovat spoleènì s primárním titulem!|r
+TITLE_ACHIEVEMENT_TITLE_CANNOT_ACTIVATE_TOGETHER	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356Systém|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Tento titul nelze aktivovat spoleènì s premiovım titulem!|r
+TITLE_ACHIEVEMENT_SEARCH_TITLES	Vyhledat titul...
+TITLE_ACHIEVEMENT_UNLOCKED_STATUS	Status: Odemknuto
+TITLE_ACHIEVEMENT_UNLOCKED	Odemknuto
+TITLE_ACHIEVEMENT_PROGRESS	Postup: %s / %s
+TITLE_ACHIEVEMENT_WINDOW_TITLEBAR	Tituly za úspìchy
+TITLE_ACHIEVEMENT_WINDOW_ALL_TITLES	Všechny tituly
+TITLE_ACHIEVEMENT_WINDOW_UNLOCKED_TITLES	Odemknuty
+TITLE_ACHIEVEMENT_WINDOW_FAVOURITE_TITLES	Oblíbené
+TITLE_ACHIEVEMENT_WINDOW_TITLES	Seznam titulù
+TITLE_ACHIEVEMENT_1	Nièitel I
+TITLE_ACHIEVEMENT_2	Nièitel II
+TITLE_ACHIEVEMENT_3	Nièitel III
+TITLE_ACHIEVEMENT_4	Zabiják I
+TITLE_ACHIEVEMENT_5	Zabiják II
+TITLE_ACHIEVEMENT_6	Zabiják III
+TITLE_ACHIEVEMENT_7	Dobrodruh
+TITLE_ACHIEVEMENT_8	Switchbot Master
+TITLE_ACHIEVEMENT_9	Switchbot Grand Master
+TITLE_ACHIEVEMENT_10	Lovec relikvií
+TITLE_ACHIEVEMENT_11	Stratég
+TITLE_ACHIEVEMENT_12	Alchymista
+TITLE_ACHIEVEMENT_13	Horník
+TITLE_ACHIEVEMENT_14	Zkušenı horník
+TITLE_ACHIEVEMENT_15	Mistr horník
+TITLE_ACHIEVEMENT_16	Rybáø
+TITLE_ACHIEVEMENT_17	Zkušenı rybáø
+TITLE_ACHIEVEMENT_18	Mistr rybáø
+TITLE_ACHIEVEMENT_19	???
+TITLE_ACHIEVEMENT_20	???
+TITLE_ACHIEVEMENT_21	Nezlomnı
+TITLE_ACHIEVEMENT_22	Vládce dungeonù
+TITLE_ACHIEVEMENT_23	No-Lifer
+TITLE_ACHIEVEMENT_24	Nedotknutelnı
+TITLE_ACHIEVEMENT_COMPLETE_TASK	Dokonèi zadání
+TITLE_ACHIEVEMENT_INFO_BONUS_1	Silnı proti metinùm +5%
+TITLE_ACHIEVEMENT_INFO_BONUS_2	Silnı proti metinùm +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_3	Silnı proti metinùm +20%
+TITLE_ACHIEVEMENT_INFO_BONUS_4	Silnı proti bossùm +5%
+TITLE_ACHIEVEMENT_INFO_BONUS_5	Silnı proti bossùm +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_6	Silnı proti bossùm +20%
+TITLE_ACHIEVEMENT_INFO_BONUS_7	+5 dungeon limit
+TITLE_ACHIEVEMENT_INFO_BONUS_8	Vìtší 1-5 bonusy
+TITLE_ACHIEVEMENT_INFO_BONUS_9	Vyšší šance na lepší prùmku a schopku
+TITLE_ACHIEVEMENT_INFO_BONUS_10	+5% šance, e zaèarovat relikvii zùstane
+TITLE_ACHIEVEMENT_INFO_BONUS_11	+5% šance na vylepšení
+TITLE_ACHIEVEMENT_INFO_BONUS_12	+5% šance na vylepšení draèích run
+TITLE_ACHIEVEMENT_INFO_BONUS_13	+5% šance na úspìšné tìení
+TITLE_ACHIEVEMENT_INFO_BONUS_14	+10% šance na úspìšné tìení
+TITLE_ACHIEVEMENT_INFO_BONUS_15	+15% šance na úspìšné tìení
+TITLE_ACHIEVEMENT_INFO_BONUS_16	+5% šance vylovit rybu
+TITLE_ACHIEVEMENT_INFO_BONUS_17	+10% šance vylovit rybu
+TITLE_ACHIEVEMENT_INFO_BONUS_18	+15% šance vylovit rybu
+TITLE_ACHIEVEMENT_INFO_BONUS_19	“Neúspìch posiluje vùli.”
+TITLE_ACHIEVEMENT_INFO_BONUS_20	“Pouèil ses… nakonec.”
+TITLE_ACHIEVEMENT_INFO_BONUS_21	+7% šance na vylepšení
+TITLE_ACHIEVEMENT_INFO_BONUS_22	Strong against emperors +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_23	„Èas promarnìnı správnì.“
+TITLE_ACHIEVEMENT_INFO_BONUS_24	„Bolest je pro chudáky.“
+TITLE_ACHIEVEMENT_INFO_OBJECT_1	Zniè 1.000 kamenù metin
+TITLE_ACHIEVEMENT_INFO_OBJECT_2	Zniè 50.000 kamenù metin
+TITLE_ACHIEVEMENT_INFO_OBJECT_3	Zniè 200.000 kamenù metin
+TITLE_ACHIEVEMENT_INFO_OBJECT_4	Zabij 1.000 bossù
+TITLE_ACHIEVEMENT_INFO_OBJECT_5	Zabij 50.000 bossù
+TITLE_ACHIEVEMENT_INFO_OBJECT_6	Zabij 200.000 bossù
+TITLE_ACHIEVEMENT_INFO_OBJECT_7	Dr #1 èas ve kterémkoliv dungeonu
+TITLE_ACHIEVEMENT_INFO_OBJECT_8	Pouij 50.000 zaèarovat pøedmìt
+TITLE_ACHIEVEMENT_INFO_OBJECT_9	Pouij 500.000 zaèarovat pøedmìt
+TITLE_ACHIEVEMENT_INFO_OBJECT_10	Pouij 1.000 zaèarovat relikvie
+TITLE_ACHIEVEMENT_INFO_OBJECT_11	Vylepší 1.000 pøedmìtù
+TITLE_ACHIEVEMENT_INFO_OBJECT_12	Vylepší 1.000 draèích run
+TITLE_ACHIEVEMENT_INFO_OBJECT_13	Vytì 20.000 rudy
+TITLE_ACHIEVEMENT_INFO_OBJECT_14	Vytì 200.000 rudy
+TITLE_ACHIEVEMENT_INFO_OBJECT_15	Vytì 1.000.000 rudy
+TITLE_ACHIEVEMENT_INFO_OBJECT_16	Vylov 1.000 ryb
+TITLE_ACHIEVEMENT_INFO_OBJECT_17	Vylov 10.000 ryb
+TITLE_ACHIEVEMENT_INFO_OBJECT_18	Vylov 100.000 ryb
+TITLE_ACHIEVEMENT_INFO_OBJECT_19	Toto je tajnı titul
+TITLE_ACHIEVEMENT_INFO_OBJECT_20	Toto je tajnı titul
+TITLE_ACHIEVEMENT_INFO_OBJECT_21	Neúspìšné vylepšení 30x v øadì
+TITLE_ACHIEVEMENT_INFO_OBJECT_22	Zabij 1000 dungeon bossù
+TITLE_ACHIEVEMENT_INFO_OBJECT_23	Nahraj 2.000 hodin
+TITLE_ACHIEVEMENT_INFO_OBJECT_24	Dokonèi dungeon bez toho, ani bys dostal dmg
+TITLE_ACHIEVEMENT_UNKNOWN_TITLE	Neznámı titul
+TITLE_ACHIEVEMENT_UNKNOWN_TITLE_NUM	Neznámı titul %d
+TOOLTIP_FISHING_SKILL_BONUS_STARFISH	Šance na vylovení rybáøské hvìzdy +%d%%
+COMMUNITY_FRIEND_SECTION	Pøátelé
+COMMUNITY_GUILD_SECTION	Cech
+COMMUNITY_BLOCKED_SECTION	Blokováno
+COMMUNITY_TEAM_SECTION	Tım
+COMMUNITY_FAVOURITE_SECTION	Oblíbené
+COMMUNITY_NO_GUILD	ádnı cech
+MESSENGER_SUPPORT	Podpora
+MESSENGER_TITLE	Seznam pøátel
+MESSENGER_ADD_FRIEND	Pøidat pøítele
+MESSENGER_WHISPER	Šepot
+MESSENGER_DELETE_FRIEND	Odstranit pøítele
+MESSENGER_MOBILE	Mobile
+MESSENGER_OPEN_GUILD	Otevøít cech
+PURCHASES_ACCOUNTID	ID úètu	
+PURCHASES_DATE	Datum	
+PURCHASES_IP	IP	
+PURCHASES_ITEMBOUGHT	Zakoupené pøedmìty	
+PURCHASES_PRICE	Cena	
+PURCHASES_PRICE_TEXT	|cfffaf8f5%s |cfffaf8f5Draèích mincí
+CATEGORY_0_NAME	Limitované nabídky
+CATEGORY_0_SUB_0_NAME	Limitované nabídky
+CATEGORY_0_SUB_1_NAME	Limitované nabídky
+CATEGORY_0_SUB_2_NAME	Limitované nabídky
+CATEGORY_1_NAME	Balíèky
+CATEGORY_2_NAME	Kostımy
+CATEGORY_2_SUB_0_NAME	Kostımy Autobuffa
+CATEGORY_2_SUB_1_NAME	Kostımové brnìní
+CATEGORY_2_SUB_2_NAME	Kostımové úèesy
+CATEGORY_2_SUB_3_NAME	Kostımové schopnosti
+CATEGORY_2_SUB_4_NAME	Kostımová zvíøata
+CATEGORY_2_SUB_5_NAME	Kostımové balíèky
+CATEGORY_3_NAME	Mazlíèci a jezd. zvíø.
+CATEGORY_3_SUB_0_NAME	Jezdecká zvíøata
+CATEGORY_3_SUB_2_NAME	Mazlíèci
+CATEGORY_4_NAME	Kupony
+CATEGORY_5_NAME	Speciální
+CATEGORY_5_SUB_0_NAME	Kostımové zbranì
+CATEGORY_5_SUB_1_NAME	Kostımové brnìní
+CATEGORY_5_SUB_2_NAME	Kostımové úèesy
+CATEGORY_5_SUB_3_NAME	Kostımová zvíøata
+CATEGORY_5_SUB_4_NAME	Kostımové šerpy
+CATEGORY_5_SUB_5_NAME	Efekty
+CATEGORY_6_NAME	Speciální balíèky
+CATEGORY_7_NAME	Prsteny
+CATEGORY_8_NAME	Zesílení kostımù
+ITEMSHOP_3RDSHOP_COIN	AP's	
+ITEMSHOP_3RDSHOP_COINS	%d AP's	
+ITEMSHOP_3RDSHOP_NAME	Other shop	
+ITEMSHOP_ACCEPT_CHANGE_PRICE	Ok	
+ITEMSHOP_ADD_DISCOUNT_DISCOUNT_TITLE	Sleva:	
+ITEMSHOP_ADD_DISCOUNT_HOUR	h	
+ITEMSHOP_ADD_DISCOUNT_MINUTE	m	
+ITEMSHOP_ADD_DISCOUNT_SECOND	s	
+ITEMSHOP_ADD_DISCOUNT_TITLE1	Aplikovat slevu v celé kategorii:	
+ITEMSHOP_ADD_ITEM_ACCEPT_TEXT_BUTTON	Potvrdit	
+ITEMSHOP_ADD_ITEM_BONUS_TITLE	Bonus	
+ITEMSHOP_ADD_ITEM_CATEGORY_TITLE	Kategorie:	
+ITEMSHOP_ADD_ITEM_RESET_TEXT_BUTTON	Reset	
+ITEMSHOP_ADD_ITEM_STONE_TITLE	Kámen	
+ITEMSHOP_ADD_ITEM_VALUE_TITLE	Hodnota	
+ITEMSHOP_ADD_ITEM_VNUM_TITLE	VNUM:	
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TEXT_BUTTON	Add Discounts	
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TOOLTIP_BUTTON	Add Discounts with Time to an item.	
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TEXT_BUTTON	Add items	
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TOOLTIP_BUTTON	Add new items to the shop.	
+ITEMSHOP_ADMIN_PANEL_NAME	GM Zone	
+ITEMSHOP_ADMIN_PANEL_RETURN_TOOLTIP_BUTTON	Return	
+ITEMSHOP_ADMIN_PANEL_TITLE	Administration	
+ITEMSHOP_BEST_WHEEL_PRIZES	Odmìny	
+ITEMSHOP_BUY	Zakoupit	
+ITEMSHOP_BUY_BUTTON	Zakoupit	
+ITEMSHOP_BUY_ITEM_WITHOUT_AMOUNT_QUESTION	Opravdu chceš zakoupit pøedmìt %s za %d %s?	
+ITEMSHOP_BUY_ITEM_WITH_AMOUNT_QUESTION	Opravdu chceš zakoupit pøedmìt %sx %s za %d %s?	
+ITEMSHOP_BUY_TEXT	Opravdu chceš zakoupit pøedmìt |cffF7BD48%s|r ?	
+ITEMSHOP_BUY_TEXT_COUNT	Opravdu chceš zakoupit pøedmìt |cffF7BD48%sx%d|r ?	
+ITEMSHOP_CANCEL_CHANGE_PRICE	Zrušit	
+ITEMSHOP_CATEGORY_DISCOUNT_QUESTION	Are you sure that you want to apply a discount of %d%% in this category %dH, %dM and %dS?	
+ITEMSHOP_CHANGE_PRICE_QUESTION	Are you sure you want to change the price of this article?	
+ITEMSHOP_CHANGE_PRICE_TOOLTIP_BUTTON	Change price	
+ITEMSHOP_COINS	Draèí mince:	
+ITEMSHOP_COUNT	Mnoství	
+ITEMSHOP_DATE	Datum: %s	
+ITEMSHOP_DELETE_ITEM_QUESTION	Are you sure you want to eliminate this element?	
+ITEMSHOP_DELETE_ITEM_TOOLTIP_BUTTON	Eliminate element	
+ITEMSHOP_DISCOUNT_WEEK	Discounts of the week	
+ITEMSHOP_DRAGONCOINT	Draèí mince	
+ITEMSHOP_DRSSHOP_COIN	VC's	
+ITEMSHOP_DRSSHOP_NAME	-	
+ITEMSHOP_HOME_NAME	home	
+ITEMSHOP_HOTITEMS	Kolo štìstí	
+ITEMSHOP_PROMOCODE	Vouchery
+ITEMSHOP_PROMOCODE_TOOLTIP_TITLE	How Voucher Codes Work
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE1	Step 1: In itemshop click on "Buy" button next to coins
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE2	Step 2: Login on our website and click on shopping cart button
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE3	Step 3: You will be redirected to elvion.mentra.gg - Select amount
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE4	Step 4: After purchase you will get your voucher code from Mentra
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE5	Step 5: Enter received voucher code to itemshop
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE6	Step 6: Click on "redeem" button, reopen itemshop and thats it!
+ITEMSHOP_HOUR	Hodina	
+ITEMSHOP_HOURS_MINUTES_SECONDS	%dH %dM %dS	
+ITEMSHOP_ISHOP_COIN	MD's	
+ITEMSHOP_ISHOP_NAME	Shop	
+ITEMSHOP_ITEMSEARCH_DEFAULT_TEXT	Vyhledat pøedmìty...	
+ITEMSHOP_ITEM_AMOUNT	You.	
+ITEMSHOP_ITEM_DISCOUNT_QUESTION	Are you sure you want to apply a discount of %of %to %s for %dH, %dM and %dS?	
+ITEMSHOP_LAST_COUNT	Zbıvající poèet: %d	
+ITEMSHOP_LAST_DISCOUNTS	Last Discouts	
+ITEMSHOP_LOAD	Naèítám data...	
+ITEMSHOP_LOGS_NAME	Historie	
+ITEMSHOP_MAIN_BUTTON	Start	
+ITEMSHOP_MOST_BOUGHT_ITEMS	Nejvíce zakoupenıch	
+ITEMSHOP_NEW_PRICE_TITLE	Nová cena:	
+ITEMSHOP_OFFERS	|Eishop/offer|e Nabídky	
+ITEMSHOP_PRICE	Cena	
+ITEMSHOP_PRICE_NEW	%s Draèích mincí
+ITEMSHOP_PRICE_ONLY_TEXT	%s Draèích mincí
+ITEMSHOP_PRICE_TITLE_BOX	Cena: %d %s	
+ITEMSHOP_PRICE_WITH_DISCOUNT	|Eemoji/itemshop/mini_coin|e |cffFF7B7B%s Draèích mincí (%d%%)	
+ITEMSHOP_SEARCH_TEXT	Seek...	
+ITEMSHOP_SEARCH_TOOLTIP_BUTTON	Seek	
+ITEMSHOP_SHOP_BUTTON	Item store	
+ITEMSHOP_SHOP_TITLE	Shop:	
+ITEMSHOP_TITLE_NAME	Item Shop	
+ITEMSHOP_TITLE_PANEL	Item Shop	
+ITEMSHOP_TOP_SELL	Best -selling objects	
+ITEMSHOP_UPDATE_COINS_TOOLTIP_BUTTON	Update coins	
+ITEMSHOP_WHEEL_BACK_ISHOP	Jít zpìt	
+ITEMSHOP_WHEEL_COIN_TEXT	 |Eishop/coin|e    Cena: 120 draèích mincí	
+ITEMSHOP_WHEEL_COIN_TEXT_INFO	Pouije se |cffF7BD48120 draèích mincí|r na zatoèení.	
+ITEMSHOP_WHEEL_NAME	Kolo štìstí
+ITEMSHOP_WHEEL_PRICE1	Cena	
+ITEMSHOP_WHEEL_PRICE2	10 Draèích mincí	
+ITEMSHOP_WHEEL_PURCHASE	|Eishop/wheel_icon|e  |cffF7BD48Fortune roulette|r	
+ITEMSHOP_WHEEL_SKIP_ANIMATION	Pøeskoèit animaci	
+ITEMSHOP_WHEEL_TICKET_TEXT	|Eishop/wheel_ticket|e Speciální kolo štìstí	
+ITEMSHOP_WHEEL_TICKET_TEXT_INFO	Pro zatoèení pouít |cffF7BD48Speciální pøedmìt|r.	
+ITEMSHOP_WHEEL_CHEQUE_TEXT_INFO	Pro zatoèení pouít 150 |cffF7BD48Wonù|r.	
+ITEMSHOP_BUY_COIN	Hlavní
+ITEMSHOP_WHEEL	Zakoupit
+ITEMSHOP_PURCHASES	Historie
+ITEMSHOP_CURRENCY_COIN	|cffF8BE47Draèích mincí|r
+ITEMSHOP_CURRENCY_JETON	|cffd6c8a9Promo mincí|r
+ITEMSHOP_CURRENCY_COINS	|cffd6c8a9Draèích mincí|r
+ITEMSHOP_CURRENCY_JETONS	|cffd6c8a9Promo mincí|r
+ITEMSHOP_PRICE_COINS	|cffd6c8a9%s|r |cffd6c8a9Draèích mincí|r
+ITEMSHOP_PRICE_JETONS	|cffd6c8a9%s|r |cffd6c8a9Promo mincí|r
+ITEMSHOP_PRICE_COINS_1	|cffd6c8a9%s|r |cffd6c8a9Draèích mincí|r
+ITEMSHOP_PRICE_JETONS_1	|cffd6c8a9%s|r |cffd6c8a9Promo mincí|r
+ITEMSHOP_PRICE_JUST_COINS	|cffd6c8a9%s|r |cffd6c8a9Draèích mincí|r
+ITEMSHOP_PRICE_JUST_JETONS	|cffd6c8a9%s|r |cffd6c8a9Promo mincí|r
+ITEMSHOP_PRICE_JUST_COINS_1	|cffd6c8a9%s|r |cffd6c8a9Draèích mincí|r
+ITEMSHOP_PRICE_JUST_JETONS_1	|cffd6c8a9%s|r |cffd6c8a9Promo mincí|r
+ITEMSHOP_PRICE_COINS_WITH_DISCOUNT	%s |cffd6c8a9Draèích mincí|r |cff38C719(%d%%)|r
+ITEMSHOP_PRICE_JETONS_WITH_DISCOUNT	%s |cffd6c8a9Promo mincí|r |cff38C719(%d%%)|r
+ITEMSHOP_BUY_TEXT_PRICE	Opravdu chceš zakoupit (x|cffF7BD48%d|r) |cffF7BD48%s|r
+ITEMSHOP_BUY_PRICE_COINS	za %s |cffF8BE47Draèích mincí|r?
+ITEMSHOP_BUY_PRICE_JETONS	za %s |cffdf6649Promo mincí|r?
+ITEMSHOP_BUY_PRICE_COINS_WITH_DISCOUNT	za %s |cffF8BE47Draèích mincí|r |cff38C719(%d%%)|r?
+ITEMSHOP_BUY_PRICE_JETONS_WITH_DISCOUNT	za %s |cffdf6649PDraèích mincí|r |cff38C719(%d%%)|r?
+ITEMSHOP_PROMOCODE_DESC	Zadej voucher kód pro získání mincí
+ITEMSHOP_PROMOCODE_PLACEHOLDER	Zadej voucher kód...
+ITEMSHOP_PROMOCODE_CONFIRM	Potvrdit
+WORLDBOSS_HEADER_TIME_STATUS	Status a èas respawnu
+WORLDBOSS_HEADER_RANKING	ebøíèek poškození
+WORLDBOSS_HEADER_BOSS_INFO	Informace o Worldbossovi
+GUILD_RAID_EASY_MODE	Lehkı
+GUILD_RAID_MEDIUM_MODE	Støední
+GUILD_RAID_HARD_MODE	Tìkı
+GUILD_GUARDIAN_BONUSES_ACTIVE	Aktivní
+GUILD_GUARDIAN_BONUSES_INACTIVE	Neaktivní
+GUILD_GUARDIAN_ON_COOLDOWN	Guardian activation is on cooldown.
+GUILD_GUARDIAN_ACTIVATED	Guardian bonuses have been activated!
+GUILD_GUARDIAN_DEACTIVATED	Guardian bonuses have been deactivated.
+GUILD_DONATE_MATERIAL	Donate Materials
+GUILD_DONATE_AVAILABLE	Available: %d
+GUILD_NO_MATERIAL_TO_DONATE	You don't have any of this material to donate.
+GUILD_INVALID_DONATE_COUNT	Invalid donation amount.
+GUILD_MATERIAL_DONATED_SUCCESS	Successfully donated %d %s to guild storage!
+GUILD_EXP_INFO_1	Experience can be increased by finishing guild raids.
+GUILD_EXP_INFO_2	Each guild raid final boss drops random amount of items,
+GUILD_EXP_INFO_3	which are used to level up guild.
+LOGIN_WINDOW_LOAD_ACCOUNT	Naèíst úèet - Pomocí klávesy - 
+SWITCHBOT_IN_PROGRESS	|cff73eb5eBonusy uvidíš pouze|r
+SWITCHBOT_IN_PROGRESS2	|cff73eb5epøi zastaveneném switchbotu.|r
+WIKI_LEVEL_TEXT_CHAMPION	Champion Level %d - Refine Range %d~%d
+WIKI_LEVEL_TEXT2_CHAMPION	Champion Level %d~%d - Refine Range %d~%d
+WIKI_INFO_RESIST_SWORD	Sword
+WIKI_INFO_RESIST_TWOHAND	Two-Hand
+WIKI_INFO_RESIST_DAGGER	Dagger
+WIKI_INFO_RESIST_BELL	Bell
+WIKI_INFO_RESIST_FAN	Fan
+WIKI_INFO_RESIST_BOW	Bow
+WIKI_INFO_RESIST_MAGIC	Magic
+WIKI_INFO_RACE_ANIMAL	Animal
+WIKI_INFO_RACE_UNDEAD	Zombie
+WIKI_INFO_RACE_DEVIL	Devil
+WIKI_INFO_RACE_HUMAN	Half-Human
+WIKI_INFO_RACE_ORC	Ork
+WIKI_INFO_RACE_MILGYO	Esoteric
+WIKI_INFO_RACE_ELEC	Lightning
+WIKI_INFO_RACE_FIRE	Fire
+WIKI_INFO_RACE_ICE	Ice
+WIKI_INFO_RACE_WIND	Wind
+WIKI_INFO_RACE_EARTH	Earth
+WIKI_INFO_RACE_DARK	Dark
+WIKI_INFO_RACE_ZODIAC	Zodiac
+WIKI_INFO_RACE_METIN	Metin Stone
+WIKI_INFO_NO_RACE	None
+WIKI_COST	Costs
+WIKI_CUBE_INFO	Item Costs of %s
+WIKI_100	Lv. 200+
+WIKI_1_75	Lv. 1-99
+WIKI_76_100	Lv. 99-200
+WIKI_RELICS	Relikvie
+WIKI_AVAIBLE_AT	Dostupné u
+WIKI_BASIC	F.A.Q
+WIKI_MINING	Tìení
+WIKI_EVENTS	Eventy
+WIKI_BASIC_DROP	Základní drop
+WIKI_BIOLOG	Rybaøení
+WIKI_BIOLOGO	Rybaøení
+WIKI_BODY_COSTUME	Kostımy
+WIKI_BOSSES	Bossové
+WIKI_BOSSES_EVENT	Eventovı boss
+WIKI_CATEGORY	Kategorie
+WIKI_CHESTS	Truhly
+WIKI_CHESTS_ALTERNATIVE	Alternativní Truhly
+WIKI_CHESTS_BOSS	Truhly bossù
+WIKI_CHESTS_DUNGEON	Truhly z dungeonù
+WIKI_CHESTS_EVENT	Eventové truhly
+WIKI_CHESTS_OTHER	Ostatní truhly
+WIKI_CONTENT_INFO	Obsah %s
+WIKI_COMPANIONS	Spoleèníci
+WIKI_COSTUMES	Kostımy
+WIKI_DROPLIST_INFO	Droplist of %s
+WIKI_EQUIPMENT	Vıbava
+WIKI_EQUIPMENT_ARMOR	Brnìní
+WIKI_EQUIPMENT_BELT	Opasky
+WIKI_EQUIPMENT_BRACELET	Náramky
+WIKI_EQUIPMENT_EARRING	Náušnice
+WIKI_EQUIPMENT_HELMET	Helmy
+WIKI_EQUIPMENT_NECKLACE	Náhrdelníky
+WIKI_EQUIPMENT_RINGS	Prsteny
+WIKI_EQUIPMENT_SHIELD	Štíty
+WIKI_EQUIPMENT_SHOES	Boty
+WIKI_EQUIPMENT_TALISMAN	Talismany
+WIKI_EQUIPMENT_WEAPONS	Zbranì
+WIKI_GAMERULES	Pravidla
+WIKI_GAME_RULES	Pravidla
+WIKI_GUIDES	Informace o Elvionu
+WIKI_HAIR_COSTUME	Kostımové úèesy
+WIKI_ITEM_NAME	Název pøedmìtu...
+WIKI_LEVEL_MOB_TEXT	Úroveò %d
+WIKI_LEVEL_TEXT	Úroveò %d - Vylepšování %d~%d
+WIKI_LEVEL_TEXT2	Úroveò %d~%d - Vylepšování %d~%d
+WIKI_METINSTONE	Balvany
+WIKI_MOB_NAME	Název pøíšery
+WIKI_MONSTER	Pøíšera
+WIKI_MOUNT	Mazlíèci a jezdecká zvíøata
+WIKI_MOUNT_ITEM	Jezdecká zvíøata
+WIKI_ORIGIN	Pùvod
+WIKI_ACHIEVEMENT_POINTS	Body úspìchù
+WIKI_PET_ITEM	Mazlíèci
+WIKI_PET_LEVEABLE_ITEM	Level Pets
+WIKI_SASH_COSTUME	Kostım na šerpu
+WIKI_SHINING	Záøe
+WIKI_STATICS_INFO	Statistiky %s
+WIKI_STATICS_INFO_DEFENSES	Obrany:
+WIKI_STATICS_INFO_DMG	Min. Dmg:%d | Max. Dmg:%d | Max ZB: %d
+WIKI_STATICS_INFO_TYPE	Rasa: %s | Druhotná rasa: %s
+WIKI_STATICS_INFO_YNG	Min. Yang:%d | Max. Yang:%d | BZK: %d
+WIKI_SYSTEM2	Základní systémy
+WIKI_TITLE	Wikipedie
+WIKI_TITLE2	[H] Wikipedie
+WIKI_UNKOWN_ITEM	Neznámı pøedmìt: %d
+WIKI_UNKOWN_MOB	Neznámá pøíšera: %d
+WIKI_UPGRADE_COSTS	Další pøedmìt
+WIKI_WEAPON_SKIN	Kostımová zbraò
+WIKI_YANG_COSTS	Yang
+WIKI_GUIDES2	Informace o Elvionu
+WIKI_FAQ2	FAQ
+WIKI_THESTART2	Zaèátek
+WIKI_TALISMAN	Talismany
+WIKI_BOOSTER	Boostery
+WIKI_TEMNITE	Dungeony
+WIKI_AKZADUR	Akzadur dungeon
+WIKI_ZODIAC	Temple of Zodiac
+INGAME_LOG_TITLE_01	Historie offline obchod
+INGAME_LOG_TITLE_02	Historie vımìn
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_0	Název pøedmìtu
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_1	Cena
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_2	Kupující
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_3	Datum transakce
+INGAME_LOG_EXCHANGE_ITEM_INFO_0	Vymìnìno s
+INGAME_LOG_EXCHANGE_ITEM_INFO_1	Další informace
+INGAME_TRADELOG_YOU	Ty
+INGAME_TRADELOG_PLAYERNAME	JménoHráèe
+INGAME_LOG_INFORMATION	Zde mùete vidìt své minulé akce. Pokud nemùete najít hledanı záznam, znovu se pøihlaste.
+SWITCHBOT_INSTANT_COUNT_TITLE	Poèet protoèení:
+SWITCHBOT_INSTANT	Okamité protoèení
+DRAGONSOUL_WRONG_ATTR_CHANGE_ITEM	|cFFff9494Tento pøedmìt nelze pouít ke zmìnì bonusù v alchymii.|r
+DRAGONSOUL_PLACE_DRAGON_SOUL_FIRST	|cFFff9494Nejprve umísti draèí kámen.|r
+DRAGONSOUL_ONLY_MYTHIC_CAN_BE_SWITCHED	|cFFff9494Zmìna bonusù je moná pouze u mıtické alchymie.|r
+PET_INFO_1	V pøípadì, e máš všechny schopnosti na P,
+PET_INFO_2	obdríš dodateènı bonus |cFFc8ff9c+30%|r ke všem schopnostem.
+PET_INFO_3	Zvolená schopnost: {}
+PET_INFO_4	Bonus navíc: |cFFc8ff9c+{}
+MOUNT_WINDOW_NEED_EXP	|cffBEB4A8|H|hPotøebné zkušenosti:|H|h |cff15bf70|H|h{} BZK|H|h
+MOUNT_WINDOW_CURRENT_EXP	|cffBEB4A8|H|hZkušenosti:|H|h |cff18f28d|H|h{} EXP|H|h
+MOUNT_WINDOW_FEED_ITEM_1	|cffc99573|H|h(Lv. 1-24)|H|h
+MOUNT_WINDOW_FEED_ITEM_2	|cffc99573|H|h(Lv. 25-49)|H|h
+MOUNT_WINDOW_FEED_ITEM_3	|cffc99573|H|h(Lv. 50-74)|H|h
+MOUNT_WINDOW_FEED_ITEM_4	|cffc99573|H|h(Lv. 75-100)|H|h
+MOUNT_TOOLTIP_MAX_HP	Max. ZB
+MOUNT_TOOLTIP_APPLY_ATTBONUS_MONSTER	Silnı proti pøíšerám
+MOUNT_TOOLTIP_APPLY_ATTBONUS_STONE	Silnı proti balvanùm
+MOUNT_TOOLTIP_APPLY_ATTBONUS_BOSS	Silnı proti bossùm
+MOUNT_TOOLTIP_MOUNT_SPEED	Rychlost jezdeckého zvíøete
+MOUNT_TOOLTIP_ATTBONUS_DUNGEON	Silnı proti bossùm (dungeon)
+MOUNT_WINDOW_LEVEL	|cffb482ff|H|hÚroveò {}
+MOUNT_WINDOW_INFO_LEVEL	Kadá úroveò ti poskytne lepší bonusy
+MOUNT_WINDOW_BONUSES	|cffbd99ff|H|h[ Aktuální bonusy ]|H|h
+MOUNT_BONUS_NONE	ádnı bonus
+BLEND_WINDOW_1	Nezvolil si ádnı elixír!
+BLEND_WINDOW_2	Nemáš ádnı ze zvolenıch elixíru v inventáøi!
+TOOLTIP_ITEM_MOUNT_LIMIT_LEVEL	|cffBEB4A8|H|hOd úrovnì jezdeckého zvíøete:|H|h |cff18f28d|H|h%d|H|h
+WORLDBOSS_GUARD_NAME	Oznámení
+ITEM_LOTTERY_TOTAL_COUNT	Przedmiotow w puli: %d
+ITEM_LOTTERY_ITEM_COUNT_WINDOW_TITLE	WprowadŸ iloœæ przedmiotów
+ITEM_LOTTERY_END_DATE	Zakoñczenie loterii: %s
+TOOLTIP_MINING_SUCCESS_CHANCE	Šance na vytìení rudy +%d%%	SA
+TOOLTIP_MINING_MORE_ORES_CHANCE	Šance na více kusù rudy +%d%%	SA
+TOOLTIP_MINING_LESS_MINE_TIME	Zkrácení èasu tìení %dsek.	SA
+TOOLTIP_MINING_MORE_POINTS	Šance na více bodù +%d%%	SA
+TOOLTIP_DOUBLE_LOOT_SUMMER	Šance na double drop ve tøpytivé lagunì +%d%%	SA
+TOOLTIP_DOUBLE_LOOT_DROP	Šance na double drop +%d%%	SA
+TOOLTIP_FISHING_INSTANT_CATCH_CHANCE	+%d%% Šance na okamitı úlovek	SA
+TOOLTIP_FISHING_BIGGER_FISH_CHANCE	Šance na vìtší rybu +%d%%	SA
+TOOLTIP_FISHING_NEXT_SECTION_CHANCE	Šance na vzácnìjší rybu +%d%%	SA
+TOOLTIP_FISHING_MORE_YANG_MULTIPLIER	Více yangù z ryby +%d%%	SA
+TOOLTIP_FISHING_MORE_POINTS_CHANCE	Šance na více bodù +%d%%	SA
+TOOLTIP_FISHING_SUCCESS_CHANCE	Šance na chycení ryby +%d%%	SA
+TOOLTIP_ATTBONUS_PVM_SKILL	PVM Poškození schopností +%d%%	SA
+TOOLTIP_ATTBONUS_ELEMENT	Silnı proti elementùm +%d%%	SA
+TOOLTIP_DEFBONUS_ELEMENT	Odolnost proti elementùm +%d%%	SA
+TOOLTIP_BONUS_CAN_BE_USE_X_TIMES	Tento bonus se pouije: %dx
+TOOLTIP_FISHINGROD_CAN_USE	Bonus se pouije ještì: %dx
+TOOLTIP_FISH_PRICE	Cena: %s
+TOOLTIP_FISHING_SKILL_BONUS_NOW	Aktuální bonusy za úroveò:
+TOOLTIP_FISHING_SKILL_BONUS_NEXT	Následující bonusy za úroveò:
+TOOLTIP_FISHING_SKILL_BONUS_BIGGER_FISH	Šance na vìtší rybu +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_RARE	Šance na vzácnìjší rybu +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_YANG	Více yangù z ryby +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_INSTANT	Šance na okamitı úlovek +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_POINTS	Šance na více bodù +%d%%
+TOOLTIP_FISHING_SKILL_MAX	Schopnost je na maximální úrovni!
+TOOLTIP_FISHING_SUCCESSFULL_COUNT	Úspìšnì vylovenıch ryb: %s
+FISHWIKI_MAIN_WINDOW	Rybáøská kolekce
+FISHWIKI_CATCHED_FISHES	Poèet vylovenıch: |cFF79fc790|h
+FISHWIKI_LONGEST_FISH	Nejdelší vylovená: |cFF79fc790 cm.|h
+FISHWIKI_MOST_EXPENSIVE_FISH	Nejdraší vylovená: |cFF79fc790 Yang|h
+FISHWIKI_SHOW_RANKING	Uka ebøíèek
+FISHWIKI_GIVE_10_FISHES	Odevzdej 10ks |cFF79fc79Duhového Pstruha|h|r s minimální délkou |cFF79fc79100 cm.|h
+FISHWIKI_GIVE_CHANCE	Šance na úspìšné odevzdání: |cFF79fc7925%|h
+FISHWIKI_REWARD_FOR_MISSION	Odmìna: |cFF79fc79Silnı proti pøíšerám +5%|h
+FISHWIKI_LENGTH_RANKING	ebøíèek nejvìtších vylovenıch ryb: |cFF79fc79|h
+FISHWIKI_ROD_LEVEL_0	Rybáøskı prut +0
+FISHWIKI_ROD_LEVEL	Rybáøskı prut +%d
+FISHWIKI_CATCHED_FISHES_COUNT	Poèet vylovenıch: |cFF79fc79%d|h
+FISHWIKI_LONGEST_FISH_CM	Nejdelší vylovená: |cFF79fc79%.2f cm.|h
+FISHWIKI_MOST_EXPENSIVE_FISH_YANG	Nejdraší vylovená: |cFF79fc79%s Yang|h
+FISHWIKI_GIVE_FISHES	Odevzdej %d ks. |cFF79fc79%s|h|r s minimální délkou |cFF79fc79%d cm.|h
+FISHWIKI_GIVE_CHANCE_SUCCESS	Šance na úspìšné odevzdání: |cFF79fc79%d%%|h
+FISHWIKI_REWARD_FOR_MISSION_FISH	Odmìna: |cFF79fc79%s|h
+FISHWIKI_PROGRESS_STATE	%d/|cFF79fc79%d|h
+FISHWIKI_LENGTH_RANKING_BEST	ebøíèek nejvìtších vylovenıch ryb: |cFF79fc79%s|h
+ACCE_ABSORB_CHANCE	Absorpce: %d%%	
+ACCE_ABSORB_CHANCE2	%d%% - %d%%	
+AFFECT_REMOVE_QUESTION	Urèitì chceš zrušit %s?	
+ALIGN_BONUS_0_1_1	Silnı proti lidem +100	
+ALIGN_BONUS_0_1_2	Silnı proti pøíšerám: +150	
+ALIGN_BONUS_0_1_3	Celkové poškození +10%	
+ALIGN_BONUS_0_1_4	Max. ZB +50.000	
+ALIGN_BONUS_0_1_5	Silnı proti elementùm +10%
+ALIGN_BONUS_0_1_6	Odolnost proti elementùm +10%
+ALIGN_BONUS_1_1_1	Silnı proti lidem +100	
+ALIGN_BONUS_1_1_2	Silnı proti pøíšerám: +125	
+ALIGN_BONUS_1_1_3	Celkové poškození +10%	
+ALIGN_BONUS_1_1_4	Max. ZB +45.000	
+ALIGN_BONUS_1_1_5	Silnı proti elementùm +5%
+ALIGN_BONUS_1_1_6	Odolnost proti elementùm +5%
+ALIGN_BONUS_1_1	Silnı proti lidem +100	
+ALIGN_BONUS_1_2	Silnı proti pøíšerám: +100	
+ALIGN_BONUS_1_3	Celkové poškození +10%	
+ALIGN_BONUS_1_4	Max. ZB +40.000	
+ALIGN_BONUS_2_1	Silnı proti lidem +75	
+ALIGN_BONUS_2_2	Silnı proti pøíšerám: +75	
+ALIGN_BONUS_2_3	Celkové poškození +5%	
+ALIGN_BONUS_2_4	Max. ZB +30.000	
+ALIGN_BONUS_3_1	Silnı proti lidem: +50	
+ALIGN_BONUS_3_2	Silnı proti pøíšerám: +50	
+ALIGN_BONUS_3_3	Celkové poškození +3%	
+ALIGN_BONUS_3_4	Max. ZB +20.000	
+ALIGN_BONUS_4_1	Silnı proti lidem: +35	
+ALIGN_BONUS_4_2	Silnı proti pøíšerám: +35	
+ALIGN_BONUS_4_3	Max. ZB +15.000	
+ALIGN_BONUS_5_1	Silnı proti lidem: +25	
+ALIGN_BONUS_5_2	Silnı proti pøíšerám: +25	
+ALIGN_BONUS_5_3	Max. ZB +10.000	
+ALIGN_BONUS_6_1	Silnı proti lidem: +15	
+ALIGN_BONUS_6_2	Silnı proti pøíšerám: +15	
+ALIGN_BONUS_6_3	Max. ZB +5.000	
+ALIGN_BONUS_7_1	Silnı proti lidem: +10	
+ALIGN_BONUS_7_2	Silnı proti pøíšerám: +10	
+ALIGN_BONUS_7_3	Max. ZB +2.500	
+ALL_CHANNEL	Všechny kanály	
+ALL_KINGDOMS	|cFF97AE99Všechna království|h|r	
+BATTLE_PASS_EXP	Dokonèeno:	
+BATTLE_PASS_QUEST_DESC_01	Zabij zadané mnoství pøíšer	
+BATTLE_PASS_QUEST_DESC_02	Odmìna: 2 body expù	
+BATTLE_PASS_QUEST_DESC_03	Odmìna: 1 body expù		
+BATTLE_PASS_QUEST_DESC_04	Odmìna: 2 body expù		
+BATTLE_PASS_QUEST_DESC_05	Napiš zadané mnoství zpráv do zavolat	
+BATTLE_PASS_QUEST_DESC_06	Vylepší zadané mnoství pøedmìtù	
+BATTLE_PASS_QUEST_NAME_01	Zabij pøíšery	
+BATTLE_PASS_QUEST_NAME_02	Zabij bosse	
+BATTLE_PASS_QUEST_NAME_03	Zniè balvany	
+BATTLE_PASS_QUEST_NAME_04	Dokonèi dungeony
+BATTLE_PASS_QUEST_NAME_05	Napiš do zavolat	
+BATTLE_PASS_QUEST_NAME_06	Vylepši pøedmìty	
+BK_ENVANTER_TEXT1	Tento inventáø funguje nezávisle na normálním inventáøi.	
+BK_ENVANTER_TEXT2	Z tohoto inventáøe nelze pøesunout pøedmìty do klasického inventáøe.	
+BK_ENVANTER_TEXT3		
+BK_ENVANTER_TEXT4	Kadı pøedmìt má svou oddìlenou kategorii.	
+BK_ENVANTER_TEXT5	Kadá kategorie má 3 strany inventáøe.	
+BK_ENVANTER_TEXT6		
+BLUE_KINGDOM	|cFF8CADDBJinno|h|r	
+BONUS_END_IN	%s	
+BONUS_EVENT	|cFFcabdabBonus Event:h|r
+BONUS_NEXT_EVENT	|Eemoji/key_rclick|e - Další event	
+BONUS_START_IN	%s	
+BUFF_AFFECT_REMOVE_QUESTION	Urèitì chceš odebrat %s?	
+CATEGORY_ALCHEMY	Alchymie	
+CATEGORY_LEGEKD	Legendární kameny duše	
+CATEGORY_MISJE	Úkoly	
+CATEGORY_OWOCE	Hodnost	
+CATEGORY_PASY	Opasky	
+CATEGORY_POMOCNIK	Pomocník	
+CATEGORY_PRZEPUSTKI	Propustky	
+CATEGORY_REKAWICE	Rukavice	
+CATEGORY_RIPER	Úlomky zubaté	
+CATEGORY_ULEP	Vylepšovací pøedmìty	
+CATEGORY_UM_PASYWNE	Pasivní schopnosti	
+CATEGORY_WOJNY	Úlomky války	
+CATEGORY_WSPOMAGACZE	Boostery	
+CATEGORY_ZWIERZAK	Mazlíèek	
+CHEQUE_ONLY_VALUE	Lze zadat pouze èísla.	
+CHEQUE_SYSTEM_UNIT_CHEQUE	Won	
+CHEST_DROP_INFO	|Eemoji/key_ctrl|e + |Eemoji/key_shift|e + |Eemoji/key_rclick|e	
+COLLECITON_SEND_TOOLTIP	- Odevzdat pøedmìt	
+COLLECTION_SEND_ALL_TOOLTIP	- Odevzdat vše	
+COLLECTION_THIS_ITEM_IS_COLLECTED	Tento pøedmìt jsi ji odevzdal.	
+COLLECTIONS_NOT_COLLECTED	Zatím nesebráno
+COLLECTIONS_COLLECTED	Odevzdáno!
+COLLECTION_MAIN_COMPLETE	Status: Odevzdáno.
+COLLECTION_MAIN_NOT_COMPLETE	Status: Neodevzdáno.
+COLLECTION_PROGRESS	Postup: {}%.
+COLLECTION_PERCENT	Bonusová šance: {}%.
+COLLECTION_PERCENT_INCREASED	Bonusová šance: {}% + {}%.
+COLLECTION_ORE_1	Bainy
+COLLECTION_ORE_2	Kováø (I)
+COLLECTION_ORE_3	Kováø (II)
+COLLECTION_ORE_4	Kováø (III)
+COLLECTION_ORE_5	Kováø (IV)
+COLLECTION_ORE_6	Kováø (V)
+DALSZE_ZAKATKI	Tajemná zákoutí
+EASTER_MAP_2025	Velikonoèní mapa
+AVERAGE_DAMAGE_DUNGEON_1	Dandn prùmka 1
+AVERAGE_DAMAGE_DUNGEON_2	Císaøova rokle
+SUMMER_DUNGEON	Solargonova Jeskynì
+SKILL_DAMAGE_DUNGEON_2	Ztracená pevnost zapomnìní
+SKILL_DAMAGE_DUNGEON_3	Hrobka Prastarého Barona
+SKILL_DAMAGE_DUNGEON_4	Dandn schopknzí 3
+SPIDER_DUNGEON	Síò královny pavoukù
+DEMON_TOWER	Svatynì démonù
+WUKONG_DUNGEON	Hory Wukonga
+SCORPION_DUNGEON	Ruiny škorpiona
+ARCTIC_DUNGEON	Ledová jeskynì
+HELL_DUNGEON	Brány pekel
+JUNGLE_DUNGEON	Starovìká dungle
+SHIP_DUNGEON_1	Loï duchù (I)
+SHIP_DUNGEON_2	Loï duchù (II)
+DETAILS_CON	Vitalita	
+DETAILS_DEX	Pohyblivost	
+DETAILS_FAINT_RES	Odolnost proti bezvìdomí	
+DETAILS_INT	Inteligence	
+DETAILS_SLOW_RES	Odolnost proti zpomalení	
+DETAILS_STR	Síla	
+DOUBLE_BOSS_LOOT_EVENT	|cFFcabdabDVOJNÁSOBNİ DROP Z BOSSÙ|h|r
+DOUBLE_METIN_LOOT_EVENT	|cFFcabdabDVOJNÁSOBNİ DROP Z KAMENÙ|h|r
+DOUBLE_ACHIEVEMENT_POINTS	|cFFcabdabDVOJNÁSOBNÉ BÚ BALVAN/BOSS|h|r
+MINING_CHEST_EVENT	|cFFcabdabŠANCE NA SPADNUTÍ TRUHLY TÌENÍ Z RUD|h|r
+DOUBLE_ORE_EVENT	|cFFcabdabDVOJNÁSOBNİ DROP RUDY|h|r
+BIGGER_STAR_CHANCE	|cFFcabdabVÌTŠÍ ŠANCE NA RYBÁØSKOU HVÌZDU|h|r
+DOUBLE_MISSION_BOOK_EVENT	Double drop z knih misí	
+DO_YOU_DROP_CHEQUE	Opravdu chceš upustit %d Won?	
+DO_YOU_WANT_TO_CLOSE_OFFLINE_SHOP	Chceš uzavøít tvùj stánek?	
+DO_YOU_WANT_TO_REMOVE_ITEM	Opravdu chceš odebrat %s z tvého stánku?	
+DROP_CHEQUE_FAILURE_1000_OVER	Mùeš upustit maximálnì 999 Won.	
+DROP_ITEM_FAILURE_OFFLINE_SHOP	Nelze vyhodit tento pøedmìt pøi otevírání stánku!
+DUNGEON_CHEST_LOOT_EVENT	|cFFcabdabBonusovı drop truhel v dungeonech (bez rukavic +1ks , s rukavicemi +2ks, s VIP +3ks)|h|r
+DUNGEON_COOLDOWN_EVENT	Sníenı cooldown u dungeonù	
+DUNGEON_INFO_COOLDOWN	Cooldown: %s	
+DUNGEON_INFO_DO_YOU_TELEPORT	Chceš se teleportovat do lokace %s?	
+DUNGEON_INFO_DURATION	Doba trvání: %s	
+DUNGEON_INFO_ELEMENT_ATK_BONUS	Platí bonus	
+DUNGEON_INFO_ELEMENT_DEF_AND_RES_BONUS	Obrany a odolnosti	
+DUNGEON_INFO_ELEMENT_UNKOWN_BONUS	Neznámı bonus
+DUNGEON_INFO_ENTRACE	Vstup z mapy: %s	
+DUNGEON_INFO_FASTEST_TIME	Nejrychlejší èas: %s	
+DUNGEON_INFO_HIGHEST_DMG	Nejvyšší poškození: %s	
+DUNGEON_INFO_LEVEL_LIMIT	Limit Lvl: %d do %d	
+DUNGEON_INFO_LOCATION	Lokace: %s	
+DUNGEON_INFO_MINIMAP_TOOL_TIP	Informace o dungeonu
+DUNGEON_INFO_NONE	None	
+DUNGEON_INFO_NOT_FOUND	No dungeons have been found.	
+DUNGEON_INFO_PARTY_LIMIT	Limit hráèù ve skupinì: od %d do %d	
+DUNGEON_INFO_STATUS_AVAILABLE	Dostupnı	
+DUNGEON_INFO_STATUS_CLOSED	Nedostupnı	
+DUNGEON_INFO_STATUS_COOLDOWN	Je nutné poèkat	
+DUNGEON_INFO_STATUS_HIGH_LEVEL	Pøíliš nízká úroveò!	
+DUNGEON_INFO_STATUS_LOW_LEVEL	Pøíliš vysoká úroveò!	
+DUNGEON_INFO_TOOL_TIP	Dungeony	
+DUNGEON_INFO_TOOL_TIP_01	In this window you can find all the available dungeons.	
+DUNGEON_INFO_TOOL_TIP_02	Each dungeon listed in the left panel shows various	
+DUNGEON_INFO_TOOL_TIP_03	information about it as well as showing which items	
+DUNGEON_INFO_TOOL_TIP_04	the finall boss drops.	
+DUNGEON_INFO_TOOL_TIP_05	You are also able to teleport to the entrance of the	
+DUNGEON_INFO_TOOL_TIP_06	dungeon if it's available.	
+DUNGEON_INFO_TOOL_TIP_07	In the right panel you can find your results as well	
+DUNGEON_INFO_TOOL_TIP_08	as the global ranking of the top 10 players.	
+DUNGEON_INFO_TOTAL_FINISHED	Dokonèeno: %d	
+DUNGEON_INFO_TYPE	Typ: %s	
+DUNGEON_INFO_TYPE_01	Globální	
+DUNGEON_INFO_TYPE_02	Skupinovı	
+DUNGEON_INFO_TYPE_03	Cechovní	
+EMPIRE_WAR_EVENT	Válka øíší (Lv %d - Lv %d)	
+ENVANTER_ILE_AC	Otevírat spoleènì s inventáøem	
+EVENT_TOOLTIP_DOESNT_HAVE_EVENT	|cFFd66d6dV tento den neprobíhají ádné eventy|h|r
+EVENT_TOOLTIP_TITLE	[%s] Aktivní eventy:	
+EXP_EVENT	|cFFcabdabZvıšenı EXP: %d%%|r
+SWITCH_RARE_EVENT	|cFFcabdabUlehèené toèení 6/7 bonusù|r
+SWITCH_AVERAGE_EVENT	|cFFcabdabŠance natoèit prùmku 63%|r
+SWITCH_AVERAGE_EVENT_TEXT	|cFFcabdabŠance na vìtší prùmìrnou škodu|r
+SWITCH_RUNE_EVENT	|cFFcabdabUlehèené toèení relkvií|r
+SWITCH_RUNE_EVENT_TEXT	|cFFcabdabVìtší šance na relikvie 3. stupnì|r
+GAME_PICK_CHEQUE	Obdrel jsi %d Won.	
+HALLOWEEN_EVENT	Halloween	
+INVENTORY_BOX_TOOLTIP	Truhly	
+INVENTORY_CICEK_TOOLTIP	Elixíry	
+INVENTORY_EFSUN_TOOLTIP	Uiteèné pøedmìty	
+INVENTORY_SKILL_BOOK_TOOLTIP	Knihy	
+INVENTORY_STONE_TOOLTIP	Kameny duše a Alchymie	
+INVENTORY_UPGRADE_ITEM_TOOLTIP	Vylepšovací pøedmìty	
+ITEMSHOP_ADDITIONAL_TIME	Doba trvání	
+ITEMSHOP_ATTRIBUTE_EXP	|cFFFFCF48(PVM)|r	
+ITEMSHOP_ATTRIBUTE_PVP	|cFFFFCF48(PvP)|r	
+ITEMSHOP_CASH_UNIT	|cFFFFCF48DM|r	
+ITEMSHOP_CATEGORY_01	Zesílení pøedmìtù	
+ITEMSHOP_CATEGORY_02	Kostımy	
+ITEMSHOP_CATEGORY_03	Úèesy	
+ITEMSHOP_CATEGORY_04	Jezdecká zvíøata	
+ITEMSHOP_CATEGORY_05	Mazlíèci	
+ITEMSHOP_CATEGORY_06	Kostımy na zbraò	
+ITEMSHOP_CATEGORY_07	Speciální pøedmìty	
+ITEMSHOP_CATEGORY_08	Alchymie	
+ITEMSHOP_CATEGORY_09	Šerpy	
+ITEMSHOP_CATEGORY_10	Kostımy na šerpu	
+ITEMSHOP_CATEGORY_11	Kupony DM	
+ITEMSHOP_CATEGORY_12	VIP	
+ITEMSHOP_CATEGORY_13	Jiné	
+ITEMSHOP_CATEGORY_14	Balíèky	
+ITEMSHOP_COUNT	Zadal jsi špatnı poèet.	
+ITEMSHOP_DETAIL_CHECK	Klikni na tlaèítko "zakoupit" pro více podrobností	
+ITEMSHOP_DISCOUNT	Slevy:	
+ITEMSHOP_DISCOUNT_END	Konec slevy	
+ITEMSHOP_DO_YOU_BUY_ITEM1	Opravdu chceš zakoupit %s za %s?	
+ITEMSHOP_DO_YOU_BUY_ITEM2	Opravdu chceš zakoupit %s %s za %s?	
+ITEMSHOP_EDITOR_ADD_ITEM	Pøidat pøedmìt	
+ITEMSHOP_EDITOR_ITEM_PREFIX	• %s	
+ITEMSHOP_INVENTORY_FULL	Nedostatek místa v inventáøi.	
+ITEMSHOP_LIMITED_COUNT	Limitovanı: |cFFf5ce42%d / %d	
+ITEMSHOP_NON_EDITOR	Nejsi editorem, toto nemùeš udìlat.	
+ITEMSHOP_NOT_ENOUGH_COINS	Nemáš dostatek draèích mincí.	
+ITEMSHOP_POPUP_ITEMS_LIMITED	Jsou dostupné nové limitované pøedmìty,	
+ITEMSHOP_POPUP_ITEMS_NEW	Pøidány nové pøedmìty do ItemShopu,	
+ITEMSHOP_POPUP_ITEMS_PROMO	V ItemShopu jsou nové slevy,	
+ITEMSHOP_POPUP_ITEM_LIMITED	|cFFc7ffb6%s|r je nyní dostupnı v ItemShopu po omezenı èas.	
+ITEMSHOP_POPUP_ITEM_NEW	|cFFc7ffb6%s|r byl pøidán do ItemShopu.	
+ITEMSHOP_POPUP_ITEM_PROMO	|cFFc7ffb6%s|r je nyní ve slevì.	
+ITEMSHOP_POPUP_SECOND_LINE	- Klikni, pro náhled.	
+ITEMSHOP_PREMIUM_AUTOLOOT	Tøetí ruka	
+ITEMSHOP_PREMIUM_EXP	Bonusovı exp	
+ITEMSHOP_PREMIUM_FISH_MIND	Vìtší šance na vzácnìjší rybu	
+ITEMSHOP_PREMIUM_GOLD	Vìtší šance na drop yangù	
+ITEMSHOP_PREMIUM_ITEM	Vìtší šance na drop	
+ITEMSHOP_PREMIUM_MARRIAGE_FAST	Sníená doba manelství	
+ITEMSHOP_PREMIUM_SAFEBOX	Vìtší sklad	
+ITEMSHOP_SELECT_ATTRIBUTE	Vyber |cffffcf48BONUSY|r pro tvùj pøedmìt
+ITEMSHOP_SELECT_ATTRIBUTE_ERROR	Musíš vybrat bonusy pro tvùj pøedmìt	
+ITEMSHOP_SELECT_BONUS	Vyber bonusy	
+ITEMSHOP_SELECT_EMPTY	ádnı	
+ITEMSHOP_SELECT_ITEM	Vyber pøedmìt	
+ITEMSHOP_SELECT_SOCKET	Vyber kámen duše	
+ITEMSHOP_TOOLTIP_DETAILS	Tento pøedmìt je prodáván ve vícero provedeních. Klikni na "zakoupit", pokud chceš zjistit více podrobností.	
+ITEMSHOP_UNKNOWN_ERROR	Neznámá chyba	
+ITEMSHOP_WARP	Musíš poèkat 10 sekund.	
+ITEMSHOP_WHEEL_CHANCE	Šance: %.02f%%	
+ITEMSHOP_WHEEL_COST	Cena za zatoèení:	
+ITEM_DROP_EVENT	|cFFcabdabZvıšenı drop: %d%%|r
+KEY_F11	F11	
+KEY_F12	F12	
+KEY_RETURN	ENTER	
+LOGIN_FAILURE_HWID	Na tomto zaøízení se nelze pøihlásit!	
+LOGIN_FAILURE_LOADING_IN_PROGRESS	Probíhá naèítání souborù hry...	
+LOGIN_FAILURE_PIN	Špatnì zadanı název, heslo nebo pin.	
+LOGIN_INPUT_PIN	Napiš svùj pin.	
+LOGIN_WRONG_VERSION	Verze hry je zastaralá! Pouij patcher.	
+MALZEME_DEPOSU	Informace:	
+MAP_75	Údolí kyklopù	
+MAP_LAS	Les duchù	
+MAP_MINE	Tìební mapa	
+MAP_NONE	Neznámá lokace	
+MAP_OGNISTA	Ohnivá zemì	
+MAP_PAJAKI	Jeskynì pavoukù	
+MAP_PUSTYNIA	Pouš Faraona	
+MAP_SOHAN	Hora Sohan	
+MAP_THREEWAY	Údolí orkù	
+MAP_ZACZAROWANY	Zaèarovanı les	
+MESSENGER_TEAM	Tım	
+MINI_GAME_RUMI_EXIT_QUESTION2	Aktuální poèet bodù bude vymìnìn za odmìny.	
+MINI_GAME_RUMI_START_QUESTION2	Chceš hrát?	
+MOONLIGHT_EVENT	|cFFcabdabDrop mìsíèních pokladnich|r	
+VALENTINE_EVENT	|cFFf263f0Drop valentınskıch èokolád|r	
+MOUNT_DOYUMHWAN_MAP_NAME	Ohnivá zemì	
+MOUNT_SOHAN_MAP_NAME	Hora Sohan	
+MOUNT_YONGBI_MAP_NAME	Pouš Yongbi	
+MOVE_ITEM_FAILURE_OFFLINE_SHOP	Nelze pøesouvat tento pøedmìt pøi otevírání stánku!	
+NEW_AFFECT_AUTO_METIN_FARM	Fronta na Balvany (VIP)	SNA
+NONE_AFFECT	ádnı bonus	
+NORMAL_EVENT_TIME	Aktivovatelné od: |cFFdbffa1%s|r do: |cFFdbffa1%s|r	
+NPC_SEARCH	Najdi NPC	
+NPC_SEARCH_TEXT	Objeví se na tìchto mapách:	
+OFFLINE_SHOP	Offline stánek	
+OFFLINE_SHOP_ADD_ITEM	Pøidat pøedmìt	
+OFFLINE_SHOP_ADD_ITEM_WINDOW	Pøidat pøedmìt do stánku	
+OFFLINE_SHOP_BANK	Vybrat yangy	
+OFFLINE_SHOP_BANK_BAD_VALUE	Zadal jsi špatnı poèet!	
+OFFLINE_SHOP_BANK_INFO	Poèet vydìlanıch yangù se obnovuje kadıch 5 sekund!	
+OFFLINE_SHOP_BANK_WAIT	Musíš poèkat 30 sekund pøed dalším vıbìrem yangù!	
+OFFLINE_SHOP_CANNOT_SELL_ITEM	Tento pøedmìt nelze prodat ve stánku!	
+OFFLINE_SHOP_DELETE_ITEM	Odebrat pøedmìt
+OFFLINE_SHOP_DELETE_ITEM_WINDOW	Odebrat pøedmìty ze stánku
+OFFLINE_SHOP_INPUT_PRICE_DIALOG_TITLE	Cena	
+OFFLINE_SHOP_IS_EMPTY	Tvùj stánek je prázdnı!	
+OFFLINE_SHOP_WARNING1	Nyní kupuješ pøedmìty pomocí pravého tlaèítka, buï opatrnı!	
+OFFLINE_SHOP_PLAYER_NAME	Offline stánek hráè - 
+ONLY_CHANNEL	Kanál: %d	
+PET_SKILL_1	Vitalita	
+PET_SKILL_2	Šílenství	
+PET_SKILL_3	Stateènost	
+PET_SKILL_4	Zaostøování	
+PET_SKILL_5	Moc	
+PET_SKILL_6	Všemohoucnost	
+PET_SKILL_7	Absorpce	
+PET_SKILL_8	Zuøivost	
+PET_SKILL_9	Obrnìnost	
+PET_SKILL_10	Prùnik	
+PET_SKILL_11	Král bossù	
+PKT_OSIAG_LOCALE_GAME	BÚ	
+PKT_OSIAG_SYSTEM_PICK_PKT_OSIAG	testtest: %d	
+POLYMORPH_AFFECT_REMOVE_QUESTION	Opravdu chceš zrušit promìnu?	
+POLYMORPH_AFFECT_TOOLTIP	Promìna	SNA
+AFFECTSHOWER_REMOVE_TEXT	|Eemoji/key_lclick|e - Klikni pro zrušení
+PREMIUM_PRIVATE_ITEM_ADD_DIFFERENCE_PRICE_WARNING	Nelze prodávat pøedmìt v rùznıch cenách.	
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_WON2	Hodnota vıdìlku + poèet prodanıch wonù nemùe pøekraèovat maximální limit.	
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_YANG2	Hodnota vıdìlku + poèet prodanıch yangù nemùe pøekraèovat maximální limit.	
+PREMIUM_PRIVATE_SALE_CUSTOMER	Hráè: %s	
+PREMIUM_PRIVATE_SALE_TIME	Data: %s	
+PREMIUM_PRIVATE_SHOP_AUTO_MARKET_PRICE_INPUT_TOOLTIP	Automaticky prodat za trní cenu.	
+PREMIUM_PRIVATE_SHOP_BUILD_RESTRICTED	Na tomto místì nelze otevøít stánek.	
+PREMIUM_PRIVATE_SHOP_HYPERLINK_HELP_TOOLTIP	Pouij CTRL + Tlaèítko myši pro pøidání pøedmìtu do stánku.	
+PREMIUM_PRIVATE_SHOP_INVALID_ITEM_CHECKIN_POSITION	Nelze pøidat více pøedmìtù do tvého stánku.	
+PREMIUM_PRIVATE_SHOP_LOCKED_SLOT_QUESTION	Chceš odemknout tento slot?	
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE	[Aktualní vıdìlek]	
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE_HINT_MSG	Upozornìní: Trní cena nezohledòuje kvalitu pøedmìtu.	
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE_NOT_AVAILABLE	Nedostupné.	
+PREMIUM_PRIVATE_SHOP_MODIFY_STATE_OPEN_FAIL_TIME	Chvíli poèkej pøed otevøením stánku.	
+PREMIUM_PRIVATE_SHOP_NOT_MODIFY_STATE	Nemùeš to udìlat, kdy tvùj stánek není spravován..	
+PREMIUM_PRIVATE_SHOP_NO_BUNDLE_ITEM	Nemùeš otevøít stánek bez mìšce.	
+PREMIUM_PRIVATE_SHOP_NO_PREMIUM_BUNDLE_ITEM	Bez Kašmíru nemùeš zmìnit vzhled tvého stánku.	
+PREMIUM_PRIVATE_SHOP_SHORT_TITLE	Prosím napiš delší název.	
+PREMIUM_PRIVATE_SHOP_TIME_EXPIRED	Premium vypršelo	
+PREMIUM_PRIVATE_SHOP_TOTAL_WORTH	Prodejní cena:	
+PREMIUM_PRIVATE_SHOP_UNLOCK_KEY_MISSING	Pro odemknutí potøebuješ magickı klíè.	
+PREMIUM_PRIVATE_SHOP_WARP_HELP_TOOLTIP	Klikni pro teleportaci ke stánku.	
+PREMIUM_PRIVATE_SHOP_WITHDRAW_QUESTIONG	Opravdu chceš vybrat yangy ze svého stánku?	
+PRIVATE_SHOP_BUY_ITEM_SELECTED_FAILURE	Nelze odebrat pøedmìt, kterı byl ji koupen nebo odstranìn.	
+PRIVATE_SHOP_BUY_ITEM_SELECTED_OVERFLOW	Mùeš vybrat maximální 10 pøedmìtù.	
+PRIVATE_SHOP_BUY_VNUM_ITEM_NOT_SELECTED	Vyber pøedmìt, kterı chceš zakoupit.	
+PRIVATE_SHOP_SEARCH_APPLY_FILTER_QUESTION	Opravdu chceš pouít '%s' filtr?	
+PRIVATE_SHOP_SEARCH_GENDER_FEMALE	ena	
+PRIVATE_SHOP_SEARCH_GENDER_MALE	Mu	
+PRIVATE_SHOP_SEARCH_LIMIT_LEVEL	Úroveò hráèe	
+PRIVATE_SHOP_SEARCH_LIMIT_REFINEMENT	Stupeò vylepšení	
+PRIVATE_SHOP_SEARCH_LIMIT_STACK	Stoh	
+PRIVATE_SHOP_SEARCH_MAX	Max.	
+PRIVATE_SHOP_SEARCH_MIN	Min.	
+PRIVATE_SHOP_SEARCH_PLAYER_NAME_NOT_SELECTED	Napiš název hráèe.	
+PRIVATE_SHOP_SEARCH_REMOVE_FILTER_QUESTION	Opravdu chceš odebrat filtr '%s'?	
+PRIVATE_SHOP_SEARCH_SELECT_ALCHEMY_CLARITY	Vyber èirost	
+PRIVATE_SHOP_SEARCH_SELECT_ALCHEMY_LEVEL	Vyber úroveò	
+PRIVATE_SHOP_SEARCH_SELECT_ATTR	Vyber atributy: %d	
+PRIVATE_SHOP_SEARCH_SELECT_GENDER	Vyber pohlaví	
+PRIVATE_SHOP_SEARCH_SELECT_JOB	Vyber zamìøení	
+PRIVATE_SHOP_SEARCH_SELECT_NONE	ádnı	
+PRIVATE_SHOP_SEARCH_SELECT_SASH_ABSORPTION	Absorpce šerpy	
+PRIVATE_SHOP_SEARCH_TITLE_ALCHEMY	Alchymie	
+PRIVATE_SHOP_SEARCH_TITLE_ATTRIBUTES	Atributy	
+PRIVATE_SHOP_SEARCH_TITLE_CLASSIFIERS	Klasifikátory	
+PRIVATE_SHOP_SEARCH_TITLE_LIMITS	Limity	
+PVP_EVENT_TIME	Zaèátek za: %s	
+PVP_LEVEL0	[Legenda Elvion]	
+PVP_LEVEL1	[Velevládce Elvion]	
+PVP_LEVEL2	[Vládce Elvion]	
+PVP_LEVEL3	[Velmistr]		
+PVP_LEVEL4	[Vládce]	
+PVP_LEVEL5	[Neporazitelnı]	
+PVP_LEVEL6	[Všemohoucí]	
+PVP_LEVEL7	[Stateènı]	
+PVP_LEVEL8	[Rekrut]	
+PVP_LEVEL9	[Neutrální]	
+PVP_LEVEL10	[Agresivní]	
+PVP_LEVEL11	[Úskoènı]	
+PVP_LEVEL12	[Zlomyslnı]	
+PVP_LEVEL13	[Krutı]
+QUEST_CATEGORY_00	Hlavní úkoly	
+QUEST_CATEGORY_01	Vedlejší úkoly	
+QUEST_CATEGORY_02	Zabíjení	
+QUEST_CATEGORY_03	Sbìratelské úkoly	
+QUEST_CATEGORY_04	Eventové úkoly	
+QUEST_CATEGORY_05	Denní úkoly	
+QUEST_CATEGORY_06	Systémy a schopnosti	
+QUEST_CATEGORY_07	Denní úkoly	
+RED_KINGDOM	|cFFFBB497Shinsoo|h|r	
+REFINE_FAILURE_CAN_NOT_ATTACH	%s nelze pøidat k pøedmìtu.
+REMOVE_ITEM_DO_YOU_REMOVE	Opravdu chceš odstranit vybrané pøedmìty?	
+RESP_AVAILABLE	Dostupnı	
+RESP_DROP_TEXT	Po kliknutí na toto tlaèítko se ti zobrazí drop z dané pøíšery.
+RESP_DROP_TITLE	Informace o pøíšeøe
+RESP_MOB_TEXT	Jakmile je tento checkbox zaškrtnutı, bude se ti po najetí na pøíšeru zobrazovat její model.
+RESP_MOB_TITLE	Zobrazit model pøíšery
+RESP_PAGE_COUNT	Strana %d / %d	
+RESP_RESP_TEXT	Jakmile je tento checkbox zaškrtnutı, bude se ti po najetí na tlaèítko "teleportovat" zobrazovat poloha pøišery na mapì.
+RESP_RESP_TITLE	Náhled mapy	
+REVIVE_AUTO_TOWN_MESSAGE	Návrat do mìsta za: {}	
+RUNE_DECK5_TOOLTIP	Runy - Dodateènı bonus (Úroveò +5)	
+RUNE_DECK9_TOOLTIP	Runy - Dodateènı bonus (Úroveò +9)	
+DOUBLE_DROP_LOOT_TOOLTIP	Šance na double drop 100%
+SHOP_NOT_ENOUGH_CHEQUE	Máš málo Wonù.	
+SHOP_NOT_ENOUGH_MONEY_CHEQUE	Nemáš dostatek wonù nebo yangù.	
+SHOP_NOT_ENOUGH_PKT_OSIAG	Nemáš dostatek bodù úspìchu.	
+SKILL_AFFECT_REMOVE_QUESTION	Opravdu chceš tuto schopnost zrušit?	
+STATUS_GUI_TXT	Poèet:	
+SWITCHBOT_CLEAR_ATTR	Odebrat bonus	
+SWITCHBOT_CLEAR_CONFIGURATION	Vyèistit	
+SWITCHBOT_CONFIGURATION_TITLE	Tvoje šablony	
+SWITCHBOT_EMPTY_ATTR	- Musíš vybrat bonus -	
+SWITCHBOT_ALTERNATIVE	Alternativní
+SWITCHBOT_LOAD_CONFIGURATION	Naèíst	
+SWITCHBOT_SAVE	Uloit	
+SWITCHBOT_SAVE_BUTTON	Úloištì
+SWITCHBOT_SELECT_ATTR	Vıbìr bonusu	
+SWITCHBOT_START	Start	
+SWITCHBOT_STOP	Stop	
+SWITCHBOT_TITLE	Switchbot	
+SYSTEM_OPTION_CPU_TILING_1	Modus CPU-Tiling mùe zvıšit rychlost slabšího poèítaèe.
+SYSTEM_OPTION_CPU_TILING_2	Pokud se vyskytují problémy s grafikou, zvol ,Nastavení systému‘ nebo ,CONFIG.exe‘
+SYSTEM_OPTION_CPU_TILING_3	a pøepni do GPU-Tiling módu
+SYSTEM_OPTION_GPU_TILING_1	Modus GPU-Tiling mùe na slabších poèítaèích bìet pomalu
+SYSTEM_OPTION_GPU_TILING_2	Pokud se vyskytují problémy s grafikou, zvol ,Nastavení systému‘ nebo ,CONFIG.exe‘
+SYSTEM_OPTION_GPU_TILING_3	a pøepni do módu CPU-Tiling
+SYSTEM_OPTION_TILING_EXIT	Na zmìnu Tiling-módu musí hra bıt restartována.
+TARGET_LEVEL_ELITKA	Elita	
+TARGET_LEVEL_LEGENDA	Legenda	
+TOOLTIP_APPLY_3	mazlíèka s bonusy PVM:	
+TOOLTIP_APPLY_33050_1	Silnı proti pøíšerám +15%	
+TOOLTIP_APPLY_33051_1	Max. ZB +2000	
+TOOLTIP_APPLY_33051_2	Silnı proti lidem +15%	
+TOOLTIP_APPLY_ATTBONUS_BOSS	Silnı proti bossùm +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_KLASY	Silnı proti všem postavám +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_LEGENDA	Silnı proti Legendám +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_STONE	Silnı proti balvanùm +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WLADCA	Silnı proti vládcùm +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MAX_HP_POLY	Max. ZB: +%d
+TOOLTIP_APPLY_ATTBONUS_MONSTER_POLY	Silnı proti pøíšerám +%d%%
+TOOLTIP_APPLY_ATTBONUS_BOSS_POLY	Silnı proti bossùm +%d%%
+TOOLTIP_APPLY_ATTBONUS_STONE_POLY	Silnı proti balvanùm +%d%%
+TOOLTIP_APPLY_ATTBONUS_HUMAN_POLY	Silnı proti lidem +%d%%
+TOOLTIP_APPLY_ATTBONUS_ENCHANT_DARK_POLY	Silnı proti temnotì +%d%%
+TOOLTIP_APPLY_ATTBONUS_WLADCA_POLY	Silnı proti vládcùm +%d%%
+TOOLTIP_ATTBONUS_ELEMENT_POLY	Silnı proti elementùm +%d%%
+TOOLTIP_APPLY_DMG_BONUS	Útok +%d%%	SA
+TOOLTIP_APPLY_FINAL_DMG_BONUS	Celkové poškození +%d%%	SA
+TOOLTIP_APPLY_RESIST_KLASY	Odolnost proti všem postavám +%d%%	SA
+TOOLTIP_APPLY_SKILE_BUFF_BOOK_BONUS	Šance na úspìšnı trénink schopnosti autobuffa zvıšena 2.5x	SNA
+TOOLTIP_APPLY_SKILE_BUFF_NO_BOOK_DELAY	V pøípadì, e se trénink schopnosti autobuffa nepovede, budeš jej moci trénovat ihned znovu.	SNA
+TOOLTIP_APPLY_SKILE_PAS_BOOK_BONUS	Šance na úspìšnı trénink pasivních schopností zvıšena 2.5x	SNA
+TOOLTIP_APPLY_SKILE_PAS_NO_BOOK_DELAY	V pøípadì, e se trénink pasivní schopnosti nepovede, budeš je moci trénovat ihned znovu.	SNA
+TOOLTIP_APPLY_SKILE_PET_BOOK_BONUS	Šance na úspìšnı trénink schopností mazlíèka zvıšena 2.5x	SNA
+TOOLTIP_APPLY_SKILE_PET_NO_BOOK_DELAY	V pøípadì, e se trénink schopnosti mazlíèka nepovede, budeš jej moci trénovat ihned znovu.	SNA
+TOOLTIP_ATTBONUS_DUNGEON	Síla v dungeonech +%d%%	SA
+TOOLTIP_BUYPRICE_TEXT	|cFF96e000[Prodejní cena]|r	
+TOOLTIP_DROP_INFO_PREFIX	• %s	
+TOOLTIP_DROP_INFO_RANGE_COUNT	Moné získat: %s - %s	
+TOOLTIP_DROP_INFO_SINGLE_COUNT	Moné získat:	
+TOOLTIP_ITEMSHOP_UNIQUE_ITEM	[Unikátní pøedmìt %d z %d]	
+TOOLTIP_MALL_ITEMBONUS_STATIC_NEW	Tato postava získává 12 truhel z finálních bosù v dungeonech.	SNA
+TOOLTIP_MALL_PICKUP	Automatické sbírání pøedmìtù.	SNA
+TOOLTIP_MALL_PREMIUM_MINE	Šance na vytìení rudy +5%, Šance na vìtší poèet rudy +5%, Šance na více bodù +20%, Zkrácení èasu tìení o 1 sekundu.	SNA
+TOOLTIP_PASYWKI_MASTER	Pasivní schopnosti - Dodateènı bonus	
+TOOLTIP_RESIST_BOSS	Odolnost proti bossùm: %d%%	SA
+TOOLTIP_RESIST_MONSTER	Odolnost proti pøíšerám: %d%%	SA
+TOOLTIP_RESIST_WLADCA	Odolnost proti vládcùm: %d%%	SA
+TOOLTIP_STAT_BONUS	Statistiky +%s	SA
+TOURNAMENT_ALL_CHARACTER	Všechna zamìøení	
+TOURNAMENT_EVENT	Turnaj PvP (%s - Lv %d - Lv %d)	
+UI_LOCATION_01	Zapsat	
+UI_LOCATION_02	Naèíst	
+UI_LOCATION_03	Odebrat	
+UI_LOCATION_04	Nezapsaná pozice	
+UI_LOCATION_05	Tato pozice je ji zabraná, pouij jinou	
+UI_LOCATION_06	Nejprve dokonèi zápis pøedchozí pozice	
+UI_LOCATION_07	Tuto pozici nelze pouít	
+UI_LOCATION_08	Maximální délka názvu je %d znakù	
+USE_ITEM_FAILURE_OFFLINE_SHOP	Nemùeš pouít tento pøedmìt pøi otevírání stánku!	
+WHELL_OF_FORTUNE_EVENT	Kolo štìstí	
+WONEXCHANGE_CONFIRM_QUESTION_1	Chceš prodat %d Won za %s Yangù.	
+WONEXCHANGE_CONFIRM_QUESTION_2	Chceš zakopit %d Won za %s Yangù.	
+WONEXCHANGE_CONFIRM_QUESTION_3	Pokraèovat?	
+YANG_DROP_EVENT	|cFFcabdabZvìtšenı drop Yangù: %d%%|r
+YELLOW_KINGDOM	|cFFFDE696Chunjo|h|r	
+BATTLEPASS_PREMIUM_QUESTION_1	Opravdu chceš aktivovat premium battlepass?
+BATTLEPASS_MISSION_MISSING	Chybìjící mise {}
+BATTLEPASS_EXPIRED	Èas Battlepassu vypršel
+CATEGORY_1	Vylepšovací pøedmìty
+CATEGORY_2	Alchymie
+CATEGORY_3	Boostery
+CATEGORY_4	Úlomky zubaté
+CATEGORY_5	Úlomky války
+CATEGORY_6	Opasky
+CATEGORY_7	Legendární kameny duše
+CATEGORY_8	Mazlíèek
+CATEGORY_9	Hodnost
+CATEGORY_10	Pasivní schopnosti
+CATEGORY_11	Propustky
+CATEGORY_12	Rukavice
+CATEGORY_13	Úkoly
+CATEGORY_14	Autobuff
+CATEGORY_15	Šerpy
+CATEGORY_16	Zesilka/Zaèarka
+CATEGORY_17	Velikonoèní pøedmìty
+CATEGORY_18	Jezdecká zvíøata
+CATEGORY_19	Relikvie a tavby
+CATEGORY_20	Ryby
+CATEGORY_21	Vımìna trofejí za truhly artefaktù
+CATEGORY_22	Vylepšovací kameny
+CATEGORY_23	Easter Items
+CATEGORY_24	Easter Costumes
+CATEGORY_25	Úlomky cechovních raidù
+SAVE_MAPS_EMPTY	|cffe7a6a6- ádná uloená data -|r
+SAVE_MAPS_BUSY	|cfffad3a5%s|r
+SAVE_MAPS_SAVE_TITLE	Zadej název lokace
+SAVE_MAPS_SAVE_DESC	Popiš co nejlépe uloenou lokaci pro lepší orientaci.
+SAVE_MAPS_OVERWRITE_DESC	Stávající data budou pøepsána!
+INTROLOGIN_NOT_SAVED	Nezapsáno.
+INTROLOGIN_ACCOUNT_DELETED	Úeet byl odstranìn.
+INTROLOGIN_NO_ACCOUNT	Pro odstranìní úètu musíš mít uloenı úèet.
+INTROLOGIN_ACCOUNT_NOT_LOADED	Nemáš uloenı ádnı úèet.
+INTROLOGIN_ACCOUNT_REQUIRED	Pro odstranìní úètu musíš mít uloenı úèet.
+INTROLOGIN_ENTER_CREDENTIALS	Pro uloení úètu zadej údaje k úetu.
+INTROLOGIN_SAVED	Úèet byl uloen.
+INTROSELECT_EMPIRE	Království {}
+WEEKLY_RANK_NO_TITLE	ádnı titul
+WEEKLY_RANK_SEASON_END	Konec sezóny: |cFFdeffb3{}d. {}h. {}min.
+WEEKLY_RANKING_TITLE	Tıdenní ebøíèek (Sezóna {}) 
+AFFECT_SHOWER_DELETE_BONUS	Ureiti chceš odebrat tento bonus?
+PRICE_FORMAT	Cena: |cFFffc700{} {} |cFFb8b8b8{} {}
+CHANCE_FORMAT	Šance: |cFF9dbbb1{}%
+TURN_IN_COMPLETE	|cFF66d678Odevzdáno
+RANKING_TOP_15	Ranking TOP 15
+BOARD_SAVE_POSITION	Nazwa zapisywanej pozycji:
+UNSAVED_POSITION	Pozycja niezapisana
+TELEPORT_BUTTON	Teleportovat
+CANCEL_TELEPORT	Nechci teleportovat
+SHOP_TIMER_FORMAT	{} dni, {} godz, {} min.
+CHANNEL_FORMAT	Kanal {0}
+TARGET_RACE_FLAG_ANIMAL	Zvíøe
+TARGET_RACE_FLAG_UNDEAD	Nemrtvı
+TARGET_RACE_FLAG_DEVIL	Ïábel
+TARGET_RACE_FLAG_HUMAN	Èlovìk
+TARGET_RACE_FLAG_ORC	Ork
+TARGET_RACE_FLAG_MILGYO	Ezoterik
+TARGET_RACE_FLAG_INSECT	Hmyz
+TARGET_RACE_FLAG_FIRE	Oheò
+TARGET_RACE_FLAG_ICE	Led
+TARGET_RACE_FLAG_DESERT	Pouštní
+TARGET_RACE_FLAG_TREE	Lesní
+TARGET_RACE_FLAG_EARTH	Zemì
+TARGET_RACE_FLAG_WIND	Vítr
+TARGET_RACE_FLAG_DARK	Temnota
+TARGET_RACE_FLAG_ELEC	Blesk
+TARGET_RACE_NON	ádnı
+TARGET_RACE_FLAG_BOSS	Boss
+TARGET_RACE_FLAG_WLADCA	Vládce
+TARGET_RACE_FLAG_STONE	Balvan
+TARGET_RACE_FLAG_DUNGEON	Dungeon
+TARGET_RACE_FLAG_LEGENDA	Legenda
+BUFF_SKILL_1	Poehnání
+BUFF_SKILL_2	Útok+
+BUFF_SKILL_3	Pomoc draka
+STATS_ADD	Pøidat
+DRAGONSOUL_RENEW_TIME	Obnovení èasu
+DRAGONSOUL_PRICE	Cena: |cFFc99f36200.000.000 {}
+DRAGONSOUL_CHANCE	Šance: |cFFf4be00{}%|r
+BUFF_INTELLIGENCE	Inteligence: {}
+SPECIAL_INVENTORY_BOOKS	Knihy
+SPECIAL_INVENTORY_REFINE	Vylepšovací pøedmìty
+SPECIAL_INVENTORY_STONES_ALCHEMY	Kameny a Alchymie
+SPECIAL_INVENTORY_CHESTS	Truhly
+SPECIAL_INVENTORY_USABLE	Uiteèné pøedmìty
+SPECIAL_INVENTORY_DEWS	Rosy
+INVENTORY_PANEL_TELEPORTATION	Mapa teleportace
+INVENTORY_PANEL_SAVE_POSITION	Zapisování lokací
+INVENTORY_PANEL_OFFLINE_SHOP	Offline stánek
+INVENTORY_PANEL_BLOCK_EXP	Antiexp
+INVENTORY_PANEL_SPECIAL_INV	Speciální inventáø
+INVENTORY_PANEL_PET_WINDOW	Mazlíèek
+INVENTORY_PANEL_WEEKLY_RANK	Tıdenní ebøíèek
+INVENTORY_PANEL_BOOSTERS	Elixíry
+INVENTORY_PANEL_BONUS_TABLE	Tabulka bonusù
+INVENTORY_PANEL_SWITCH_BOT	Switchbot
+INVENTORY_PANEL_AUTO_BUFF	Autobuff
+INVENTORY_PANEL_POLY_SHOP	Vyhledávání v obchodech
+INVENTORY_PANEL_QUICK_WARP	Eventovı kalendáø
+INVENTORY_PANEL_ARTIFACTS	Artefakty
+INVENTORY_PANEL_TRASH_BIN	Koš
+INVENTORY_PANEL_RUNES	Runy
+INVENTORY_PANEL_MOUNT	Jezdecké zvíøe
+INVENTORY_PANEL_DUNGEONS	Okno dungeonù
+INVENTORY_PANEL_QUICK_EQ	Zmìna vybavení
+INVENTORY_PANEL_SAFEBOX_ITEMSHOP	Sklad / Itemshop
+INVENTORY_PANEL_MISSIONS	Okno misí
+INVENTORY_PANEL_COLLECTIONER	Kolekce
+INVENTORY_PANEL_CHANGE_EQ	Zmìna vybavení
+INVENTORY_PANEL_USE	{} - Otevøít okno
+INVENTORY_PANEL_ACTIVATE	{} - Aktivovat
+INVENTORY_ADDITIONAL_BONUSES_1	Dodateèné bonusy
+INVENTORY_ADDITIONAL_BONUSES_2	Celé kolo run +5:
+INVENTORY_ADDITIONAL_BONUSES_3	Celkové poškození +5%
+INVENTORY_ADDITIONAL_BONUSES_4	Prùmìrná škoda +15%
+INVENTORY_ADDITIONAL_BONUSES_5	Silnı proti lidem +25%
+INVENTORY_ADDITIONAL_BONUSES_6	Ca³e Ko³o Run +9:
+INVENTORY_ADDITIONAL_BONUSES_7	Celkové poškození +10%
+INVENTORY_ADDITIONAL_BONUSES_8	Prùmìrná škoda +25%
+INVENTORY_ADDITIONAL_BONUSES_9	Silnı proti lidem +40%
+INVENTORY_STACK_ITEMS	Setøídit pøedmìty
+INVENTORY_STACK_ITEMS_IN_CATEGORY	{} - Setøídit v kategorii
+INVENTORY_STACK_ALL	{} + {} - Setøídit všude
+INVENTORY_OPEN_TOGETHER_WITH_EQUIPMENT	Otevírat spoleènì s inventáøem
+INVENTORY_DROP_TO_INVENTORY	Drop do inventáøe
+INVENTORY_DROP_TO_INVENTORY_DESC1	Vypnutí této monosti zpùsobí to, e
+INVENTORY_DROP_TO_INVENTORY_DESC2	budou pøedmìty padat do klasického inventáøe
+INVENTORY_OPENING_WHILE_MOVING	Otevøít pøi pøesouvání
+INVENTORY_OPTION_INFO_1	Zapnutí této monosti zpùsobí to, e
+INVENTORY_OPTION_INFO_2	se otevøe okno kategorie daného pøedmìtu pøi
+INVENTORY_OPTION_INFO_3	pøesouvání pøedmìtu do speciálního inventáøe.
+INVENTORY_OPTION_INFO_4	Klávesová zkratka: {} + {}
+INVENTORY_MOVE_ALL	Pøesunout vše
+INVENTORY_MOVE_ALL_DESC_1	Pøesune všechny pøedmìty z klasického
+INVENTORY_MOVE_ALL_DESC_2	inventáøe do aktuální otevøené kategorie
+INVENTORY_OPEN_WITH_INVENTORY_1	Otevírání s inventáøem - aktivováno
+INVENTORY_OPEN_WITH_INVENTORY_2	Otevírání s inventáøem - deaktivováno
+INVENTORY_OPENING_WHILE_FAST_MOVING_1	Otevírat pøi rychlém pøesunu pøedmìtù aktivováno.
+INVENTORY_OPENING_WHILE_FAST_MOVING_2	Otevírat pøi rychlém pøesunu pøedmìtù deaktivováno.
+INVENTORY_SPECIAL_INVENTORY_IS_FULL	Speciální inventáø {} je plnı.
+INVENTORY_STONES_ONLY	Vloit mùeš pouze kameny duše.
+WHEEL_OF_FORTUNE_CAT_1	Kolo štìstí (1)
+WHEEL_OF_FORTUNE_CAT_2	Kolo štìstí (2)
+ITEMSHOP_MISSING_DESCRIPTION	Chybìjící popis pøedmìtu.
+ITEMSHOP_CANNOT_BUY_MORE_THAN_20	Nemùeš koupit více jak 20 kusù.
+MINIMAP_SERVER_INFO_WITH_99 |cFFc7a374Elvion|r - Globální kanál
+MINIMAP_SERVER_INFO_REGULAR	|cFFc7a374Elvion|r, CH{}
+STONE_CRAFTING_QUICK_ADD	{} + {} - Rychlé pøidání
+STONE_CRAFTING_DESC	Kámen duše +{} - {}x  Úlomek kamene
+INVENTORY_SEPARATE_ALL	Rozdìlit vše
+REFINEWINDOW_DO_NOT_CLOSE_WINDOW	Nezavírat okno
+UPGRADE_CHANCE	Šance na vylepšení: |c{color}{percentage}%
+UPGRADE_CHANCE_EXTRA	Šance na vylepšení: |c{color}{percentage}% (+{percentageExtra}%)
+REFINEWINDOW_PRICE_1	Cena: {}
+REFINEWINDOW_FIND_IN_SHOPS	Najít pøedmìt ve stáncích
+DROP_CHANCE	|cFFc9f1c0Šance na drop: {percentage:.2f}%
+BONUS_PRESENT	Bonus: {flags}
+BONUS_NONE	Bonus: ádnı
+FAST_EXCHANGE_TITLE	Rychlá vımìna
+ACHIEVEMENT_POINTS_TITLE	Body úspìchù
+ACHIEVEMENT_POINTS_USAGE	Vyuití bodù moné u NPC Hwa-Hee
+UNIFIED_EXCHANGE_TITLE	Vımìna mìn
+UNIFIED_EXCHANGE_FORMAT	|cFFffc7001kkk {money_icon} |r= |cFFb8b8b81 {cheque_icon}
+UNIFIED_EXCHANGE_REVERSE_FORMAT	|cFFb8b8b81 {cheque_icon} |r= |cFFffc7001kkk {money_icon}
+CLICK_TO_BUY	Stiskni {click_icon}, pro koupi.
+SELL_PRICE	|cFFffc700Prodejní cena:
+ESTIMATED_SELLING_PRICE	|cFFb0a996Cena za jeden kus.
+MULTIPLE_PURCHASE	Vícenásobnı nákup: {key_shift}+{key_rclick}
+TOOLTIP_ENCHANTED	|cFFc8ff9cZesíleno
+COSTUME_HAIR	|cFFd8bb86Úèes
+COSTUME_BODY	|cFFd8bb86Kostım
+COSTUME_SASH	|cFFd8bb86Šerpa
+COSTUME_WEAPON	|cFFd8bb86Kostım na zbraò
+COSTUME_PICK_POSSIBILITY	(Monost vıbìru kostımu na zbraò)
+COSTUME_WEAPON_FOR_BUFF	|cFFd8bb86Kostım na zbraò autobuff
+COSTUME_BODY_FOR_BUFF	|cFFd8bb86Kostım autobuff
+COSTUME_HAIR_FOR_BUFF	|cFFd8bb86Úèes autobuff
+SASH_ABSORBED_ITEM	Absorbovanı pøedmìt
+FRUIT_OF_LIFE_DESC_1	|cFFcabdabPøidá {} bodù hodnosti.
+FRUIT_OF_LIFE_DESC_2	|cFFcabdabLze pouít do {} bodù hodnosti.
+FRUIT_OF_LIFE_DESC_2_1	|cFFcabdabLze pouít od {} do {} bodù hodnosti.
+DURATION	Doba trvání
+INVENTORY_PULL_OUT_ITEM	{} - Vyjmout
+INVENTORY_MOVE_TO_SPECIAL_INVENTORY	Pøesunout do speciálního inventáøe
+INVENTORY_SEPARATE_ITEMS	Rozdìlit
+INVENTORY_USE_SOME_ITEMS	Pouít {}x
+INVENTORY_SHOW_CHEST_DROP	Náhled dropu
+SEARCH_IN_SHOPS_SHORTCUT	Vyhledat v obchodech
+POLYMARBLE_STAGE	|cFFffce47Stupeò {}
+AVAILABLE	Dostupné: {}
+CHEST_FIND_ITEMS_DESC_1	Najdi truhly ukrıvající
+CHEST_FIND_ITEMS_DESC_2	tento pøedmìt.
+LEFTOVER_TIME	Zbıvající èas:
+LEFTOVER_BONUS_TIME	Zbıvající èas bonusu:
+RENDER_TARGET_PREVIEW_ITEM	Náhled modelu
+SKILL_DATA_129_DESC_1	|cFFc1c1c1Poškození +{}%
+SKILLS_MAX_LEVEL	Maximální úroveò.
+PASSIVE_SKILLS_FULLED_DESC_1	Jestlie máš všechny pasivní schopnosti
+PASSIVE_SKILLS_FULLED_DESC_2	na úrovni P získáš
+PASSIVE_SKILLS_FULLED_DESC_3	|cFFffce47+{}|r do schopnosti
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_1	Jestlie máš všechny schopnosti pomocníka
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_2	na úrovni P získáš
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_3	|cFFffce47+{}|r do schopnosti
+BUFF_IS_BONUS_ACTIVE	Bonus aktivní
+BUFF_IS_BONUS_INACTIVE	Bonus neaktivní
+BUFF_SKILL_LEVEL_DESC_1	Odolnost proti tìlesnému napadení: |cFFffce47+{}
+BUFF_SKILL_LEVEL_DESC_2	Šance na kritickı zásah: |cFFffce47+{}|r
+COLLECTIONER_CATEGORY_1	Bojovník
+COLLECTIONER_CATEGORY_2	Kováø (I)
+COLLECTIONER_CATEGORY_3	Kováø (II)
+COLLECTIONER_CATEGORY_4	Kováø (III)
+COLLECTIONER_CATEGORY_5	Kováø (IV)
+COLLECTIONER_CATEGORY_6	Kováø (V)
+DUNGEON_INFO_ACCESSIBLE	Zpøístupnìno!
+DUNGEON_INFO_COMPLETION_COUNT	Poèet dokonèení: %s
+DUNGEON_INFO_COOLDOWN	Zbıvající èas: %s
+DUNGEON_INFO_COOLDOWN_REMAINING	Zbıvající èas:
+DUNGEON_INFO_DUNGEON_TYPE	Reim: %s
+DUNGEON_INFO_FASTEST_COMPLETION	Nejrychlejší prùchod: %s
+DUNGEON_INFO_GRETEST_DAMAGE	Nejvyšší poškození: %s
+DUNGEON_INFO_LEVEL_LIMIT	Úroveò pro vstup: %s-%s
+DUNGEON_INFO_MONSTER_TYPE	Rasa monster: %s
+DUNGEON_INFO_PASS_ITEM	Potøebná propustka: %s
+DUNGEON_INFO_BUTTON_JOIN	Teleportovat
+DUNGEON_INFO_BUTTON_REJOIN	Vrátit se
+DUNGEON_INFO_DROP_CHANCE	|cFFc9f1c0Šance na drop: 
+DUNGEON_INFO_DROP_GLOVES_NORMAL	- |cFFf1e6c0Drop s rukavicemi: 13 ks.
+DUNGEON_INFO_DROP_GLOVES_VIP	- |cFFf1e6c0Drop s rukavicemi (VIP): 14 ks.
+DUNGEON_INFO_GLOVES_BONUSES	|cFFecffb7Moné bonusy (1 - 3):
+DUNGEON_INFO_DEVIL_BONUS	Silnı proti ïáblùm (+
+DUNGEON_INFO_ORC_BONUS	Silnı proti orkùm (+
+REMAINING_TIME_DAYS	Dní
+REMAINING_TIME_HOURS	Hod.
+REMAINING_TIME_MINUTES	Min.
+REMAINING_TIME_SECONDS	Sek.
+OFFLINE_SHOP_CTIME	Zbıvající èas:
+OFFLINE_SHOP_HOUR	Hodiny:
+OFFLINE_SHOP_DAY	Dny:
+OFFLINE_SHOP_NAME	Název stánku:
+OFFLINE_SHOP_EMPTY	ádné informace
+OFFLINE_SHOP_MAP	Mapa
+OFFLINE_SHOP_LOC	Lokace
+OFFLINE_SHOP_CH	Kanál
+OFFLINE_SHOP_TIMEE	Zbıvajíèí èas
+OFFLINE_SHOP_LOCALIZATION_01	%s
+OFFLINE_SHOP_LOCALIZATION_02	(%d, %d)
+OFFLINE_SHOP_LOCALIZATION_03	CH%d
+OFFLINE_SHOP_TIME	Dní: %d, Hodin: %s
+OFFLINE_SHOP_OPEN	Otevøít stánek
+OFFLINE_SHOP_CLOSE	Zavøít stánek
+OFFLINE_SHOP_BANK	Vyplatit
+OFFLINE_SHOP_ADD_ITEM	Pøidat pøedmìt
+OFFLINE_SHOP_DELETE_ITEM	Odebrat pøedmìt
+OFFLINE_SHOP_SEARCH	Vyhledávání
+OFFLINE_SHOP_ADD_ITEM_WINDOW	Pøidej pøedmìt do svého stánku
+OFFLINE_SHOP_DELETE_ITEM_WINDOW	Odeber pøedmìt do svého stánku
+OFFLINE_SHOP_IS_EMPTY	Tvùj stánek je prázdnı!
+OFFLINE_SHOP_BANK_INFO	Hodnota vydìlanıch yangù a wonù se obnovuje kadıch 5 sekund!
+OFFLINE_SHOP_BANK_WAIT	Musíš poèkat 30 sekund pøed dalším vıbìrem yangù!
+OFFLINE_SHOP_BANK_BAD_VALUE	Špatnì zapsaná hodnota!
+OFFLINE_SHOP_BANK_VALUE	Tvùj aktuální vıdìlek:
+OFFLINE_SHOP_BANK_TITLE	Vıdìlek
+OFFLINE_SHOP_BANK_EX	Napiš hodnotu, kterou chceš vybrat:
+OFFLINE_SHOP_INPUT_PRICE_DIALOG_TITLE	Cena
+DROP_ITEM_FAILURE_OFFLINE_SHOP	Nelze vyhodit pøedmìt pøi otevírání stánku!
+MOVE_ITEM_FAILURE_OFFLINE_SHOP	Nelze pøesunout tento pøedmìt pøi otevírání stánku!
+OFFLINE_SHOP_CANNOT_SELL_ITEM	Tento pøedmìt nelze prodat ve stánku!
+USE_ITEM_FAILURE_OFFLINE_SHOP	Tento pøedmìt nelze pouít pøi otevøeném stánku!
+DO_YOU_WANT_TO_REMOVE_ITEM	Opravdu chceš odebrat %s ze svého stánku?
+DO_YOU_WANT_TO_CLOSE_OFFLINE_SHOP	Opravdu chceš uzavøít svùj stánek?
+OFFLINE_SHOP	Offline stánek
+TOOLTIP_TOGGLE_ACTIVE	Aktivní
+TITLE_BONUS	Bonus
+SHOP_BUY_NOTIF_0	byl prodán.
+SHOP_BUY_NOTIF_1	yang byl pøidán do vašeho skladu.
+OFFLINESHOP_AVERAGE_PRICE_NO_INFO	Nenalezen prùmìrnı poèet!
+OFFLINESHOP_AVERAGE_PRICE_INFO	<Informace o prùmìrné cenì>
+OFFLINESHOP_AVERAGE_PRICE	Jednotková: {}
+OFFLINESHOP_AVERAGE_PRICE2	Všechny: {}
+OFFLINESHOP_SELL_WITH_AVG_PRICE	Prodej za prùmìrnou cenu
+OFFLINESHOP_SELL_WITH_AVG_PRICE2	Prodat o 10% nad prùmìr. cenou
+OFFLINESHOP_SELL_WITH_AVG_PRICE3	Prodat o 10% pod prùmìr. cenou
+OFFLINESHOP_CHANGE_ALL_PRICE	Aktualizovat všechny ceny stejného pøedmìtu
+OFFLINESHOP_EDIT_SHOPNAME_DESCRIPTION	Zjistìte novı název obchodu
+OFFLINESHOP_EDIT_SHOPNAME_DESCRIPTION2	Novı název:
+OFFLINESHOP_RESULT_PER_PAGE	Poèet vısledkù na stránku
+OFFLINESHOP_RESULT_PER_PAGE_ITEM	25 pøedmìtù na stránku
+OFFLINESHOP_RESULT_PER_PAGE_ITEM2	50 pøedmìtù na stránku
+OFFLINESHOP_RESULT_PER_PAGE_ITEM3	100 pøedmìtù na stránku
+OFFLINESHOP_FILTER_TITLE	Filtry
+OFFLINESHOP_TOTAL_YANG_AMOUNT	Celkem: {}
+OFFLINESHOP_SHOP_COLOR	Nastavit barvu názvu obchodu
+OFFLINESHOP_TITLE_NAME	Název
+OFFLINESHOP_TITLE_PRICE	Cena
+OFFLINESHOP_TITLE_OTHER	Ostatní
+CANNOT_DOING_PRIVATE_SHOP_OPEN	Dokud máš otevøen offline stánek, nemùeš dìlat nic jiného.
+OFFLINESHOP_TOOLTIP_RIGHT_CLICK_FOR_SALE	|Eemoji/key_rclick|e - Pøidat pøedmìt do obchodu
+OFFLINESHOP_TOOLTIP_RIGHT_CLICK_FOR_SALE2	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Rychlé pøidání pøedmìtu do obchodu
+OFFLINESHOP_SET_NAME	       <- Napište název svého obchodu ->
+OFFLINESHOP_SHOP_DECO_TITLE	Ozdobení obchodu
+OFFLINESHOP_SHOP_DECO_0	Normální
+OFFLINESHOP_SHOP_DECO_1	1001 nocí
+OFFLINESHOP_SHOP_DECO_2	Král BBQ
+OFFLINESHOP_SHOP_DECO_3	Lovci pokladù
+OFFLINESHOP_SHOP_DECO_4	Ohnivı prodavaè
+OFFLINESHOP_SHOP_DECO_5	Zbrojíø
+SHOP_SEARCH_TITLE	Vyhledávání v obchodech
+SHOP_SEARCH_BUY_SELECTED_ITEMS	Koupit vybrané pøedmìty
+SHOP_SEARCH_ENTER_ITEMNAME	Hledat podle jména pøedmìtu
+SHOP_SEARCH_SEARCH_BY_PLAYERNAME	Hledat podle jména hráèe
+SHOP_SEARCH_SEARCH_BY_PLAYERNAME2	Hledat podle jména hráèe
+SHOP_SEARCH_ALL	Všechny kategorie
+SHOP_SEARCH_BUY_SELECTED_ITEMS_CONFIRM	Opravdu chceš koupit tyto %d pøedmìty?
+SHOP_SEARCH_BUY_CONFIRM	Opravdu chceš koupit %s?
+SHOP_SEARCH_BUY_CONFIRM2	Chcete se teleportovat do obchodu obsahujícího %s?
+SHOP_SEARCH_WAIT	Poèkejte %d sekund, abyste mohli znovu provést tuto akci.
+PRIVATESHOPSEARCH_ABLITY_POTION	Rosa
+PRIVATESHOPSEARCH_ACCESSORY_SOCKET	Jemné plátno
+PRIVATESHOPSEARCH_ARMOR	Vıbava
+PRIVATESHOPSEARCH_ARROW	Šípy
+PRIVATESHOPSEARCH_BELL	Zvony
+PRIVATESHOPSEARCH_BELT	Opasky
+PRIVATESHOPSEARCH_BLEND	Lektvary
+PRIVATESHOPSEARCH_BLOOD_PEARL	Krvavì rudá perla
+PRIVATESHOPSEARCH_BLUE_PEARL	Modrá perla
+PRIVATESHOPSEARCH_BODY	Brnìní
+PRIVATESHOPSEARCH_BOW	Luky
+PRIVATESHOPSEARCH_BUYTIME	Pøeješ si koupit zvolenı pøedmìt?
+PRIVATESHOPSEARCH_CLAW	Drápy
+PRIVATESHOPSEARCH_CLEAR_POTION	Elixíry
+PRIVATESHOPSEARCH_COSTUME	Kostımy
+PRIVATESHOPSEARCH_COSTUMEBODY	Kostım
+PRIVATESHOPSEARCH_COSTUMEHAIR	Úèes
+PRIVATESHOPSEARCH_COSTUME_ACCE	Šerpy
+PRIVATESHOPSEARCH_COSTUME_ACCE_SKIN	Kostımy na šerpu
+PRIVATESHOPSEARCH_COSTUME_MOUNT	Jezdecká zvíøata
+PRIVATESHOPSEARCH_CRYSTAL	Køišál
+PRIVATESHOPSEARCH_DAGGER	Dıky
+PRIVATESHOPSEARCH_DEAD	Mrtvı
+PRIVATESHOPSEARCH_DETACHMENT	Pøíruèka kamenù
+PRIVATESHOPSEARCH_DIAMOND	Diamant
+PRIVATESHOPSEARCH_DS	Alchymie Draèích kamenù
+PRIVATESHOPSEARCH_DS_BLACK	Onyx
+PRIVATESHOPSEARCH_DS_BLUE	Safír
+PRIVATESHOPSEARCH_DS_GREEN	Nefrit
+PRIVATESHOPSEARCH_DS_RED	Rubín
+PRIVATESHOPSEARCH_DS_WHITE	Diamant
+PRIVATESHOPSEARCH_DS_YELLOW	Granát
+PRIVATESHOPSEARCH_EAR	Náušnice
+PRIVATESHOPSEARCH_FAN	Vìjíøe
+PRIVATESHOPSEARCH_FISH	Ryby
+PRIVATESHOPSEARCH_FOOTS	Boty
+PRIVATESHOPSEARCH_GEM	Drahokamy
+PRIVATESHOPSEARCH_GIFTBOX	Truhly
+PRIVATESHOPSEARCH_HEAD	Pøilbice
+PRIVATESHOPSEARCH_LIVE	Naivu
+PRIVATESHOPSEARCH_MATERIAL	Materiály
+PRIVATESHOPSEARCH_METIN	Kameny ducha
+PRIVATESHOPSEARCH_NECK	Náhrdelníky
+PRIVATESHOPSEARCH_NEED_ITEM_BUY	Bez správného mìšce si nemùeš koupit ádnı pøedmìt.
+PRIVATESHOPSEARCH_NEED_ITEM_FIND	Bez správného mìšce nemùeš hledat ádnı pøedmìt.
+PRIVATESHOPSEARCH_NODELAY_POTION	Pøedmìty pro ZB
+PRIVATESHOPSEARCH_ORE	Ruda
+PRIVATESHOPSEARCH_PET	Mazlíèci
+PRIVATESHOPSEARCH_PETAGG	Vejce mazlíkù
+PRIVATESHOPSEARCH_PETSKILLBOOK	Knihy schopností zvíøete
+PRIVATESHOPSEARCH_PICK	Krumpáèe
+PRIVATESHOPSEARCH_POTION	Lektvary
+PRIVATESHOPSEARCH_QUEST	Úkol
+PRIVATESHOPSEARCH_QUIVER	Toulce
+PRIVATESHOPSEARCH_RESOURCE	Vylepšovací pøedmìty
+PRIVATESHOPSEARCH_ROD	Rybáøské pruty
+PRIVATESHOPSEARCH_SELECTITEM	Vyber pøedmìt.
+PRIVATESHOPSEARCH_SHIELD	Štíty
+PRIVATESHOPSEARCH_SKILLBOOK	Knihy schopností
+PRIVATESHOPSEARCH_SKILLFORGET	Kniha zapomnìní
+PRIVATESHOPSEARCH_SPECIAL	Rùzné
+PRIVATESHOPSEARCH_STONE	Fragmenty energie
+PRIVATESHOPSEARCH_SWORD	Jednoruèní meèe
+PRIVATESHOPSEARCH_TREASUREBOX	Truhly
+PRIVATESHOPSEARCH_TUNING	Pergameny
+PRIVATESHOPSEARCH_TWOSWORD	Dvouruèní meèe
+PRIVATESHOPSEARCH_UNIQUE	Unikátní
+PRIVATESHOPSEARCH_USEITEM	Spotøební pøedmìty
+PRIVATESHOPSEARCH_USESPECIAL	Rùzné
+PRIVATESHOPSEARCH_WEAPON	Zbranì
+PRIVATESHOPSEARCH_WHITE_PEARL	Bílá perla
+PRIVATESHOPSEARCH_WRIST	Náramky
+CATEGORY_JEWELRY_ARMOR_WRIST	Náramky
+CATEGORY_JEWELRY_ARMOR_PENDANT	Talisman
+PRIVATESHOPSEARCH_GLOVE	Rukavice
+PRIVATESHOPSEARCH_OTHER_COSTUMES	Ostatní kostımy
+PRIVATESHOPSEARCH_SKIN_MOUNT	Kostım jezdce
+PRIVATESHOPSEARCH_SKIN_PET	Kostım mazlíèka
+PRIVATESHOPSEARCH_SKIN_SASH	Kostım šerpy
+PRIVATESHOPSEARCH_SKIN_AURA	Kostım aury
+PRIVATESHOPSEARCH_COSTUME_AURA	Kostım aury
+CATEGORY_COSTUMES_COSTUME_WEAPON	Kostımové zbranì
+SHOP_SEARCH_ITEM_PRICE_PER_COUNT	Cena za kus: %s
+SHOP_MONEY_NOT_ENOUGH	Nedostatek yang!
+SHOP_MONEY_NOT_ENOUGH2	Celková cena produktù, které chcete pøidat do košíku, nesmí bıt vyšší ne váš zùstatek.
+SHOP_SEARCH_ADD_ITEMS_TO_THE_CART_FIRST	Pro provedení této akce musíte nejprve vybrat pøedmìty.
+SHOP_SEARCH_CLEAR_CART_FIRST	Tuto akci mùete provést pouze tehdy, kdy nejsou vybrány ádné pøedmìty.
+SHOP_SEARCH_SHORTCUT_SEARCH	|Eemoji/key_shift|e + |Eemoji/key_j|e - Vyhledávání pøedmìtù v obchodech
+SHOP_SEARCH_MULTIBUY_ACTIVATED	Aktivoval/a jsi hromadnı nákup, nyní vyber pøedmìty.
+SHOP_SEARCH_NOT_RESULT_FOUND	Nenalezeny ádné vısledky!
+SHOP_SEARCH_ADD_TO_BASKET	Pøidat pøedmìt do košíku
+SHOP_SEARCH_REMOVE_FROM_THE_BASKET	Odstranit pøedmìt z košíku
+SHOP_SEARCH_ACCE_GRADE_FILTER_TITLE	Úroveò šerpy
+SHOP_SEARCH_ACCE_GRADE_FILTER_0	Obyèejná
+SHOP_SEARCH_ACCE_GRADE_FILTER_1	Jemná
+SHOP_SEARCH_ACCE_GRADE_FILTER_2	Noblesní
+SHOP_SEARCH_ACCE_GRADE_FILTER_3	Uiv.
+
+SHOP_SEARCH_FILTER_0_0	Min. Poèet
+SHOP_SEARCH_FILTER_0_1	Max. Poèet
+
+SHOP_SEARCH_FILTER_1_0	Min. Úroveò
+SHOP_SEARCH_FILTER_1_1	Max. Úroveò
+
+SHOP_SEARCH_FILTER_2_0	Min. Abs.
+SHOP_SEARCH_FILTER_2_1	Max. Abs.
+
+SHOP_SEARCH_FILTER_3_0	Min. Prùmìr
+
+SHOP_SEARCH_FILTER_4_0	Min. Cena
+SHOP_SEARCH_FILTER_4_1	Max. Cena
+
+SHOP_SEARCH_DS_GRADE_FILTER_TITLE	Úroveò Draèí Alchymie
+SHOP_SEARCH_DS_GRADE_FILTER_0	Diamantová
+SHOP_SEARCH_DS_GRADE_FILTER_1	Rubínová
+SHOP_SEARCH_DS_GRADE_FILTER_2	Jantárová
+SHOP_SEARCH_DS_GRADE_FILTER_3	Safírová
+SHOP_SEARCH_DS_GRADE_FILTER_4	Granátová
+SHOP_SEARCH_DS_GRADE_FILTER_5	Onyxová
+
+SHOP_SEARCH_DS_CLARITY_FILTER_TITLE	Èirost Draèí Alchymie
+SHOP_SEARCH_DS_CLARITY_FILTER_0	Matná
+SHOP_SEARCH_DS_CLARITY_FILTER_1	Prùhledná
+SHOP_SEARCH_DS_CLARITY_FILTER_2	Bezchybná
+SHOP_SEARCH_DS_CLARITY_FILTER_3	Brilantní
+SHOP_SEARCH_DS_CLARITY_FILTER_4	Excelentní
+SHOP_SEARCH_PREMIUM_NEEDED_FOR_THIS_ACTION	K této akci potøebujete prémiovı úèet.
+PREMIUM_EXTRA_SHOP_SEARCH_TOOLTIP	Premium není aktivní!\n-- Vıhody prémiového úètu --\n *Vzdálenı nákup\n *Více nákupù
+PREMIUM_EXTRA_SHOP_SEARCH_TOOLTIP2	Premium aktivní!\n-- Vıhody prémiového úètu --\n *Vzdálenı nákup\n *Více nákupù
+OFFLINESHOP_TOTAL_PRICE_OF_SHOP	Celková cena všech pøedmìtù v obchodu
+OFFLINE_SHOP_REMAINING_TIME	Zbıvající èas: 0 dní
+OFFLINE_SHOP_WITHDRAW_YANG	Vybrat
+PREMIUM_OVERIN_TOOLTIP	Pouze uivatelé s prémiovım úètem mohou tuto funkci pouívat.
+PREMIUM_OVERIN_TOOLTIP2	Mùete pouít {} k aktivaci této funkce.
+OFFSHOP_DECORATION_SET	Nastavit dekoraci obchodu
+OFFLINE_SHOP_LEFT_TIME	Zbıvající èas: %s
+OFFLINE_SHOP_EMOJI_TOOLTIP	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Odebrat pøedmìt
+OFFLINE_SHOP_EMOJI_TOOLTIP2	|Eemoji/key_rclick|e - Aktualizovat cenu/y pøedmìtu
+OFFLINE_SHOP_EMOJI_TOOLTIP3	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Vzít pøedmìt
+OFFLINE_SHOP_WARNING	Pokud zde nevidíte pøedmìt, kterı hledáte, protoe je skladištì plné, uvidíte další pøedmìty, jakmile budete sbírat pøedmìty ze skladu.
+OFFLINE_SHOP_BUY_ITEM	Chcete koupit %s %dx za %s?
+OFFLINE_SHOP_BUY_ITEM2	Chcete koupit %s za %s?
+MINING_EVENT_RENEWAL_HIT_DELAY	Nelze to udìlat tak rychle.
+PRIVATE_SHOP_CLOSE_QUESTION	Chceš zavøít soukromı stánek?
+OFFLINESHOP_NO_MONEY_TO_WITHDRAW	ádné yangy k vıbìru.
+EXCHANGE_MONEY	Èástka
+OFFLINESHOP_NO_NAME	Váš obchod nemá jméno!
+OFFLINESHOP_NOTIF_ITEM_INFO	%s x%d prodáno za %d.
+OFFLINESHOP_NOTIF_CLOSE_ALL	Zavøít všechno
+OFFLINE_SHOP_NO_ITEMS_IN_SHOP	Abyste mohli vytvoøit obchod, musíte do nìj vloit pøedmìty!
+OFFLINESHOP_INPUT_INFO	Zadej cenu za kterou chceš
+OFFLINESHOP_INPUT_INFO2	tento pøedmìt prodat
+SECURITY_SELECT_ANSWER	Napište èísla nahoøe!
+SECURITY_REMAINING_TIME	Zbıvající èas: {:.1f}
+SECURITY_FIND_THE_DIFFERENT	Kliknìte na obrázek, kterı se liší od ostatních!
+SECURITY_SORT_IMAGES	Seøaïte èísla pøetaením smìrem k {}!
+SECURITY_SORT_IMAGES2	malá po velkou
+SECURITY_SORT_IMAGES3	velká po malou
+SECURITY_ANSWER_IS_WRONG	Odpovìï je nesprávná, zkuste to znovu! Poznámka: Pøi nesprávném zvolení se èas sniuje o 5 sekund.
+SECURITY_ANSWER_SUCCESS	Ovìøení proti botùm úspìšnì dokonèeno, mùete pokraèovat v hraní.
+SECURITY_YOU_HAVE_ONE_MORE_CHANGE	Nesprávná volba, zkuste to znovu! Pøi další nesprávné volbì budete odpojeni.
+SECURITY_CONFIRM	Potvrdit
+SECURITY_CLEAR	Vymazat
+SECURITY_NUMBERS_RESET_POS	Pokud jste dostali èísla mimo okno a nemùete na nì kliknout, stisknìte toto tlaèítko!
+AUTO_SHOUT_BUTTON	Automatická zpráva (Zavolat)
+AUTO_SHOUT_INFO	Odesilání automatické zprávy aktivováno.
+AUTO_SHOUT_INFO2	Odesilání automatické zprávy deaktivováno.
+AUTO_SHOUT_INFO3	Poslední zpráva do zavolat nenalezena. Automatické odesílání zprávy do zavolat se spustí jakmile nìco napíšeš.
+
+CHAT_OPEN_LINK_DANGER	Pozor! Tento odkaz mùe bıt nebezpeènı!
+CHAT_OPEN_LINK	Chcete otevøít tento odkaz?
+
+RANKING_WINDOW_RANKING_TITLE	ebøíèek
+RANKING_WINDOW_NO_CHARACTERS	ádné postavy
+RANKING_WINDOW_NO_POSITION	ádná pozice
+RANKING_WINDOW_POSITION	Umístìní %s
+RANKING_WINDOW_CATEGORY_LEVEL	Dosaená úroveò
+RANKING_WINDOW_CATEGORY_BOSSES	Popraveno bossù
+RANKING_WINDOW_CATEGORY_STONES	Znièeno balvanù
+RANKING_WINDOW_CATEGORY_DUNGEONS	Dungeony
+RANKING_WINDOW_CATEGORY_MONSTERS	Zabité pøíšery
+RANKING_WINDOW_CATEGORY_ALCHEMY	Zušlechtìno draèích kamenù
+RANKING_WINDOW_CATEGORY_REFINE	Vylepšeno pøedmìtù
+RANKING_WINDOW_CATEGORY_DRAGON_COINS	Utraceno draèích mincí
+RANKING_WINDOW_CATEGORY_MINING	Tìení
+RANKING_WINDOW_CATEGORY_FISHING	Rybaøení
+RANKING_WINDOW_SERVER_RANKING_DO_NOT_RESET	Serverovı ebøíèek se neresetuje.
+RANKING_WINDOW_LEVEL_RANK_LIMIT	V ebøíèku úrovní se zobrazují postavy s úrovní 75+.
+RANKING_WINDOW_LOADING_IN_PROGRESS	Nelze zmìnit kategorii, pokud zrovna probíhá naèítání obsahu z jiné kategorie.
+RANKING_WINDOW_WEERKLY_RANK_UNAVAILABLE	Tıdenní ebríèek je nedostupnı.
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME	Reset ebøíèku probìhne za:|cFFF19BFF
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME_UPDATE	Reset ebøíèku probìhne za: |cFFcf9bff%s
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME_UPDATE1	Reset ebøíèku probìhne za: |cFFcf9bff0 sek.
+
+SECONDARY_LEVEL_0	ádná
+SECONDARY_LEVEL_1	Bronzová I
+SECONDARY_LEVEL_2	Bronzová II
+SECONDARY_LEVEL_3	Bronzová III
+SECONDARY_LEVEL_4	Støíbrná I
+SECONDARY_LEVEL_5	Støíbrná II
+SECONDARY_LEVEL_6	Støíbrná III
+SECONDARY_LEVEL_7	Zlatá I
+SECONDARY_LEVEL_8	Zlatá II
+SECONDARY_LEVEL_9	Zlatá III
+SECONDARY_LEVEL_10	Vševìdoucí
+SECONDARY_LEVEL_11	elezná I
+SECONDARY_LEVEL_12	elezná II
+SECONDARY_LEVEL_13	elezná III
+SECONDARY_LEVEL_14	Hvìzdná
+SECONDARY_LEVEL_15	Královská
+SECONDARY_LEVEL_16	Platinová I
+SECONDARY_LEVEL_17	Platinová II
+SECONDARY_LEVEL_18	Platinová III
+SECONDARY_LEVEL_19	Platinová IV
+SECONDARY_LEVEL_20	Platinová V
+SECONDARY_LEVEL_21	Diamantová I
+SECONDARY_LEVEL_22	Diamantová II
+SECONDARY_LEVEL_23	Diamantová III
+SECONDARY_LEVEL_24	Diamantová IV
+SECONDARY_LEVEL_25	Diamantová V
+SECONDARY_LEVEL_26	Rubínová I
+SECONDARY_LEVEL_27	Rubínová II
+SECONDARY_LEVEL_28	Rubínová III
+SECONDARY_LEVEL_29	Rubínová IV
+SECONDARY_LEVEL_30	Rubínová V
+SECONDARY_LEVEL_BONUS_NONE	ádnı bonus
+TOOLTIP_ITEM_ENLIGHT_LIMIT_LEVEL	Od úrovnì zatracení: %d
+ACCE_CLEAR_ATTR_CONFIRM	Opravdu chceš vyèistit bonusy?
+COLLECT_LOCATION_LABEL	Lokace:
+FISH_PROGRESS_INFO	11/|cFFFBA5EE20|h
+FISH_GIVE_MISSION_BTN	Odevzdat rybu
+FISH_LENGTH_DEFAULT	0.00 cm.
+RANKING_LEVEL_PREFIX	Lv. {}
+MINIMAP_FPS_INFO	Fps:{:3d}
+FISH_ROD_REQUIREMENT	od +0 do +15
+WHEEL_OF_FORTUNE_REWARDS	Odmìny:
+WHEEL_REWARD_TITLE	Kolo štìstí
+WHEEL_REWARD_TEXT	Obdrel jsi
+WHEEL_REWARD_TEXT_1	odmìnu najdeš v inventáøi
+WHEEL_GAME_TITLE	Kolo štìstí
+WHEEL_GAME_SKIP_ANIMATION	Pøeskoèit animaci
+WHEEL_GAME_ITEM_MODE	Za Letní etony
+WHEEL_GAME_CHEQUE_MODE	Za Wony
+WHEEL_GAME_CURRENT_MODE_ITEM_WHEEL	Souèasnı mód: etony do kola štìstí
+WHEEL_GAME_CURRENT_MODE_GOLD_WHEEL	Souèasnı mód: Wony
+WHEEL_GAME_ITEM_WHEEL_COST	Cena: 1x eton
+WHEEL_GAME_ITEM_GOLD_COST	1x - 300 Wonù.

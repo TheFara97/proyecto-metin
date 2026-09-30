@@ -1,0 +1,17 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+[CENTER_ALIGN;FONT_SIZE=30]Pet Guide
+
+[COLOR=0xffd700;FONT_SIZE=18]Index:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Introduction
+[X_PADDING=5;FONT_SIZE=14]* 2. Normal Pets
+[X_PADDING=5;FONT_SIZE=14]* 3. Leveable Pets
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Introduction coming soon
+

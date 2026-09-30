@@ -1,0 +1,26 @@
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+
+[IMG=d:/ymir work/ui/game/wiki/dungeons/dungeons_bg.png;x = -1;y = 0;anchor_name = section1]
+[IMG=d:/ymir work/ui/game/wiki/dungeons/find_more.png;x = 220;y = 150;anchor_name = section1;hyperlink=mvnum?2598]
+[model=2598;w = 154;h = 145;x = 400;y = 14;anchor_name = section1]
+
+[Y_PADDING = -22;X_PADDING = 275;COLOR=0xad9985;OUTLINE;FONT_SIZE=14] Drop:
+[Y_PADDING = -14;X_PADDING = 38;COLOR=0xd99259;OUTLINE] Information:
+[Y_PADDING = 16;X_PADDING = 38;COLOR=0xdac0a3] Dungeon Limit: 70
+[Y_PADDING = 16;X_PADDING = 38;COLOR=0xdac0a3] Race: Devil
+[Y_PADDING = 16;X_PADDING = 38;COLOR=0xdac0a3] Element: Darkness
+[Y_PADDING = 16;X_PADDING = 38;COLOR=0xdac0a3] Level required: 90 - 125
+
+[item=80007;count=20;anchor_name = section1;x = 197;y = 52]
+[item=80006;count=25;anchor_name = section1;x = 244;y = 52]
+[item=80005;count=30;anchor_name = section1;x = 291;y = 52]
+[item=90060;count=12;anchor_name = section1;x = 338;y = 52]
+[item=71051;anchor_name = section1;x = 197;y = 99]
+[item=90030;anchor_name = section1;x = 244;y = 99]
+[item=80020;anchor_name = section1;x = 291;y = 99]
+
+[Y_PADDING = 60;X_PADDING=135;COLOR=0xd99259;OUTLINE;FONT_SIZE=20;CENTER_ALIGN]~ Stages ~
+[Y_PADDING = 10;X_PADDING=135;COLOR=0xdac0a3;OUTLINE;FONT_SIZE=15;CENTER_ALIGN]1. Kill 70 monsters to clear the first stage
+[Y_PADDING = 10;X_PADDING=135;COLOR=0xdac0a3;OUTLINE;FONT_SIZE=15;CENTER_ALIGN]2. Open all 3 Azrael's Chests and defeat any Tartaros that appear
+[Y_PADDING = 10;X_PADDING=135;COLOR=0xdac0a3;OUTLINE;FONT_SIZE=15;CENTER_ALIGN]3. Destroy 8 Metin of Sanctum
+[Y_PADDING = 10;X_PADDING=135;COLOR=0xdac0a3;OUTLINE;FONT_SIZE=15;CENTER_ALIGN]4. Defeat Azrael

@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+[CENTER_ALIGN;FONT_SIZE=30]Basic Drop Guide
+
+[COLOR=0xffd700;FONT_SIZE=18]Index:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Common Drop Info
+[X_PADDING=5;FONT_SIZE=14]* 2. Drop Features
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Common Drop Info
+
+[CENTER_ALIGN;FONT_SIZE=14]In the world of Ameria2.to, there are a large number of pieces of equipment that 
+[CENTER_ALIGN;FONT_SIZE=14]mobs will drop on you as you go deeper into our world. These tems will be 
+[CENTER_ALIGN;FONT_SIZE=14]the weapons, armor and accessories that you will need to improve your character. 
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/drop1.tga; Y=310; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=440; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2.Drop Features
+
+[X_PADDING=15;FONT_SIZE=14]* The items you will receive will always be of the approximate level of your 
+[X_PADDING=15;FONT_SIZE=14] character.
+[X_PADDING=15;FONT_SIZE=14]* For a mob to drop you, it does not have to be 10 Lv lower or higher than you.
+[X_PADDING=15;FONT_SIZE=14]* Any mob can drop any object following the above rules.
+[X_PADDING=15;FONT_SIZE=14]* The drop obtained from this system will be the pieces of equipment from
+[X_PADDING=15;FONT_SIZE=14] level 1 to level 65.
+[X_PADDING=15;FONT_SIZE=14]*The pieces of equipment of level higher than 65 are obtained only from Bosses.
+

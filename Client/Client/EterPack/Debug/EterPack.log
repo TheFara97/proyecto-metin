@@ -1,0 +1,7 @@
+﻿  StdAfx.cpp
+  EterPack.cpp
+  EterPackCursor.cpp
+  EterPackManager.cpp
+  EterPackPolicy_CSHybridCrypt.cpp
+F:\Elvion\Elvion-core\Client\EterPack\EterPackPolicy_CSHybridCrypt.cpp(1,10): warning C4652: Parametr kompilátoru Generovat informace o prohlížeči není konzistentní s předkompilovanou hlavičkou; aktuální parametr příkazového řádku přepíše ten, který je definovaný v předkompilované hlavičce.
+  EterPack.vcxproj -> F:\Elvion\Elvion-core\Client\EterPack\Debug\EterPack.lib

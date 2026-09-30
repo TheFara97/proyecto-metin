@@ -1,0 +1,110 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. EVENTS CALENDAR [F8]
+
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13; CENTER_ALIGN]To access the calendar of events you can do so by clicking on the calendar
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13; CENTER_ALIGN]button in the taskbar or by pressing the F8 button.
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]2. EVENT TYPES
+[COLOR=0xe65454;Y_PADDING=10;CENTER_ALIGN]Check in the Calendar for active events.
+
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Beginner Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/begginer_event.tga; Y=170]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *All new characters receive a Wellcome
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Chest with Itemshop equipment for 7 days.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Moonlight Boxes Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/moonlight_event.tga; Y=240]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active your character will drop Moonlight Box. Fragm.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] This will automatically become a Moonlight Box when you get x10
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Bonus Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/bonus_event.tga; Y=320]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When you see the icon of this active event, drag the mouse
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] on the icon in the calendar to see the bonus you will receive.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] They can be Pvm bonus, pvp bonus, etc...
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Double Metin Loot
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_metin_loot_event.tga; Y=400]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character will have +50%.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] chance to drop x2 items when destroying a metin.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Double Boss Lott
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_boss_loot_event.tga; Y=480]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character will have +50%.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] of chance to drop x2 items when killing any boss on the server.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Mission Book Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_mission_book_event.tga; Y=570]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character will drop
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] chests containing Mission Books.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] You can activate up to 5 hunting missions at the same time.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Dungeon Cooldown Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/dungeon_cooldown_event.tga; Y=660]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *During the time the event is active, at the end of any of the following
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] dungeon cooldown time is reduced by half.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Therefore, if a dungeon has 1h of cooldown, it will have 30 min.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Mistery Key Drop Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/keys_event.tga; Y=740]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character will drop a chest
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] containing the keys needed to open mysterious dungeon chests.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Okey Card Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/okey_event.tga; Y=830]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character will drop cards
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] that will become a deck of cards when several cards are put together.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Clicking on the icon of the event when it is active will open
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] the card game panel.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Catch King Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/king_event.tga; Y=940]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character will drop cards
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] that will become a deck of cards when several cards are put together.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Clicking on the icon of the event when it is active will open
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] the King card game panel.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Drop Yang Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/money_drop_event.tga; Y=1030]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] you will gain more yang by killing mobs or bosses.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Experience Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/exp_event.tga; Y=1110]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] will gain more experience by killing mobs or bosses.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Item Drop Event
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/item_drop_event.tga; Y=1190]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *When the event is active, your character
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] will drop more items when killing mobs, bosses or metins.

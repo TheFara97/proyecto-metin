@@ -1,0 +1,80 @@
+{
+	"season": {
+		"endsAt": 1775516643,
+		"maxLevel": 30,
+		"pointsPerLevel": 10000,
+		"premiumItem": 80045,
+		"daily": 8,
+		"weekly": 8
+	},
+	"event": {
+		"active": true,
+		"endsAt": 1772823600,
+		"maxLevel": 32,
+		"slots": 15
+	},
+	"rewards": {
+		"free": [
+			[71051, 12],[201000, 200],[80009, 1000],[71052, 50],[80020, 40],[50645, 20],[50259, 50],[80037, 1],
+			[90029, 1],[34000, 2],[80419, 10],[80030, 50],[50259, 50],[203034, 2],[201001, 15],[90029, 1],
+			[80037, 1],[90029, 2],[10156, 1],[34000, 2],[71052, 25],[25044, 80],[10162, 1],[203003, 10],
+			[80055, 50],[28961, 1500],[71052, 50],[79016, 20],[50953, 1],[90041, 1]
+		],
+		"premium": [
+			[50953, 1],[90029, 3],[80009, 2000],[28961, 5000],[34000, 3],[203034, 4],[80037, 1],[90029, 3],
+			[201000, 500],[34000, 3],[80419, 10],[203003, 20],[80037, 1],[28961, 1000],[50259, 100],[71052, 75],
+			[72348, 15],[201001, 30],[201000, 250],[79016, 10],[80030, 100],[50259, 1000],[71052, 75],[90500, 200],
+			[71148, 1],[71202, 1],[203003, 30],[34000, 5],[79016, 40],[90054, 1]
+		],
+		"event": [
+			[50953, 1],[90029, 6],[80009, 2000],[28961, 5000],[34000, 3],[203034, 4],[80037, 1],[90029, 6],
+			[201000, 500],[34000, 3],[80419, 10],[203003, 20],[80037, 1],[28961, 1000],[50259, 100],[71052, 75],
+			[72348, 15],[201001, 30],[201000, 250],[79016, 10],[80030, 100],[50259, 1000],[71052, 75],[90500, 200],
+			[71148, 1],[71202, 1],[203003, 30],[34000, 5],[79016, 40],[90054, 1]
+		]
+	},
+	"missions": [
+		{ "name": "Vylepši jakýkoliv pøedmìt.",                                  "track": "daily",  "trigger": "refine",    "target": "any",   "goal": 20,     "pts": 2000  },
+		{ "name": "Vylepši jakýkoliv pøedmìt.",                                  "track": "weekly", "trigger": "refine",    "target": "any",   "goal": 40,     "pts": 6000  },
+		{ "name": "Zabij pøíšery.",                                              "track": "daily",  "trigger": "kill",      "target": "any",   "goal": 10000,  "pts": 2000  },
+		{ "name": "Zabij pøíšery.",                                              "track": "weekly", "trigger": "kill",      "target": "any",   "goal": 100000, "pts": 6000  },
+		{ "name": "Vytvoø pøedmìty.",                                            "track": "daily",  "trigger": "craft",     "target": "any",   "goal": 10,     "pts": 2000  },
+		{ "name": "Vytvoø pøedmìty.",                                            "track": "weekly", "trigger": "craft",     "target": "any",   "goal": 40,     "pts": 6000  },
+		{ "name": "Otevøi truhly.",                                              "track": "daily",  "trigger": "chest",     "target": "any",   "goal": 200,    "pts": 2000  },
+		{ "name": "Otevøi truhly.",                                              "track": "weekly", "trigger": "chest",     "target": "any",   "goal": 2000,   "pts": 6000  },
+		{ "name": "Zabij bosse.",                                                "track": "daily",  "trigger": "kill_boss", "target": "any",   "goal": 10,     "pts": 2000  },
+		{ "name": "Zabij bosse.",                                                "track": "weekly", "trigger": "kill_boss", "target": "any",   "goal": 50,     "pts": 6000  },
+		{ "name": "Zniè balvany.",                                           "track": "daily",  "trigger": "kill_stone","target": "any",   "goal": 200,    "pts": 2000  },
+		{ "name": "Zniè balvany.",                                           "track": "weekly", "trigger": "kill_stone","target": "any",   "goal": 1000,   "pts": 6000  },
+		{ "name": "Kombinuj šerpy.",                                  "track": "daily",  "trigger": "sash",      "target": "any",   "goal": 10,     "pts": 2000  },
+		{ "name": "Kombinuj šerpy.",                                  "track": "weekly", "trigger": "sash",      "target": "any",   "goal": 30,     "pts": 6000  },
+		{ "name": "Zmìò bonusy ve switchbotu.",                                 "track": "daily",  "trigger": "switchbot", "target": "any",   "goal": 500,    "pts": 2000  },
+		{ "name": "Zmìò bonusy ve switchbotu.",                                 "track": "weekly", "trigger": "switchbot", "target": "any",   "goal": 3000,   "pts": 6000  },
+		{ "name": "Napiš do zavolat.",                                     "track": "daily",  "trigger": "shout",     "target": "any",   "goal": 30,     "pts": 2000  },
+		{ "name": "Napiš do zavolat.",                                     "track": "weekly", "trigger": "shout",     "target": "any",   "goal": 90,     "pts": 6000  },
+		{ "name": "Zniè pøedmìty.",                                              "track": "daily",  "trigger": "destroy",   "target": "any",   "goal": 60,     "pts": 2000  },
+		{ "name": "Zniè pøedmìty.",                                              "track": "weekly", "trigger": "destroy",   "target": "any",   "goal": 180,    "pts": 6000  },
+		{ "name": "Prodej pøedmìty.",                                            "track": "daily",  "trigger": "sell",      "target": "any",   "goal": 60,     "pts": 2000  },
+		{ "name": "Prodej pøedmìty.",                                            "track": "weekly", "trigger": "sell",      "target": "any",   "goal": 180,    "pts": 6000  },
+		{ "name": "Dokonèi dungeony.",                                           "track": "daily",  "trigger": "dungeon",   "target": "any",   "goal": 20,     "pts": 2000  },
+		{ "name": "Dokonèi dungeony.",                                           "track": "weekly", "trigger": "dungeon",   "target": "any",   "goal": 60,     "pts": 6000  },
+		{ "name": "Dosáhni doby hraní.",                                         "track": "daily",  "trigger": "playtime",  "target": "any",   "goal": 90,     "pts": 2000  },
+		{ "name": "Dosáhni doby hraní.",                                         "track": "weekly", "trigger": "playtime",  "target": "any",   "goal": 600,    "pts": 6000  },
+		
+		{ "name": "[Událost] Navštiv Vánoèní údolí 5x.",                         "track": "event", "trigger": "xmas_map",    "target": "any",   "goal": 5,     "pts": 20000 },
+		{ "name": "[Událost] Zabij pøíšery.",                                    "track": "event", "trigger": "kill",        "target": "any",   "goal": 100000,"pts": 20000 },
+		{ "name": "[Událost] Vytvoø pøedmìty.",                                  "track": "event", "trigger": "craft",       "target": "any",   "goal": 100,   "pts": 20000 },
+		{ "name": "[Událost] Otevøi 700x malý dárek.",                           "track": "event", "trigger": "chest",       "target": [80116], "goal": 700,   "pts": 20000 },
+		{ "name": "[Událost] Otevøi 10x velký dárek.",                           "track": "event", "trigger": "chest",       "target": [80117], "goal": 10,    "pts": 20000 },
+		{ "name": "[Událost] Zabij bosse.",                                      "track": "event", "trigger": "kill_boss",   "target": "any",   "goal": 300,   "pts": 20000 },
+		{ "name": "[Událost] Zabij 1000x Vánoèní dárkový metinkamen.",           "track": "event", "trigger": "kill",        "target": [9897],  "goal": 1000,  "pts": 20000 },
+		{ "name": "[Událost] Kombinuj jakoukoliv šerpu.",                        "track": "event", "trigger": "sash",        "target": "any",   "goal": 50,    "pts": 20000 },
+		{ "name": "[Událost] Pøepni bonus ve switchbotu.",                       "track": "event", "trigger": "switchbot",   "target": "any",   "goal": 20000, "pts": 20000 },
+		{ "name": "[Událost] Piš do veøejného chatu.",                           "track": "event", "trigger": "shout",       "target": "any",   "goal": 200,   "pts": 20000 },
+		{ "name": "[Událost] Zniè pøedmìty.",                                    "track": "event", "trigger": "destroy",     "target": "any",   "goal": 50,    "pts": 20000 },
+		{ "name": "[Událost] Zabij 1x Vánoèní Smrtonoše.",                      "track": "event", "trigger": "kill",        "target": [9900],  "goal": 1,     "pts": 20000 },
+		{ "name": "[Událost] Vyhraj 5x Vánoèní tombolu - Vzácná cena+.",         "track": "event", "trigger": "xmas_raffle", "target": "any",   "goal": 5,     "pts": 20000 },
+		{ "name": "[Událost] Dokonèi dungeony.",                                 "track": "event", "trigger": "dungeon",     "target": "any",   "goal": 50,    "pts": 20000 },
+		{ "name": "[Událost] Dosáhni doby hraní.",                               "track": "event", "trigger": "playtime",    "target": "any",   "goal": 600,   "pts": 20000 }
+	]
+}

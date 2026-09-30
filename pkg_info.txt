@@ -1,0 +1,31 @@
+binutils-2.40_5,1              GNU binary tools
+boost-libs-1.89.0_2            Free portable C++ libraries (without Boost.Python)
+expat-2.8.0                    XML 1.0 parser written in C
+gcc10-10.5.0_1                 GNU Compiler Collection 10
+gcc9-9.5.0_2                   GNU Compiler Collection 9
+gdb-15.1_4                     GNU Project Debugger
+gettext-runtime-0.22.5         GNU gettext runtime libraries and programs
+gmake-4.4.1                    GNU version of 'make' utility
+gmp-6.3.0                      Free library for arbitrary precision arithmetic
+icu-76.1,1                     International Components for Unicode (from IBM)
+indexinfo-0.3.1                Utility to regenerate the GNU info page index
+libedit-3.1.20230828_1,1       Command line editor library
+libffi-3.4.4_1                 Foreign Function Interface
+libiconv-1.17_1                Character set conversion library
+liblz4-1.9.4_1,1               LZ4 compression library, lossless and very fast
+libxml2-2.11.7                 XML parser library for GNOME
+mariadb106-client-10.6.17      Multithreaded SQL database (client)
+mariadb106-server-10.6.17      Multithreaded SQL database (server)
+mpc-1.3.1_1                    Library of complex numbers with arbitrarily high precision
+mpdecimal-4.0.0                C/C++ arbitrary precision decimal floating point libraries
+mpfr-4.2.1,1                   Library for multiple-precision floating-point computations
+pcre2-10.43                    Perl Compatible Regular Expressions library, version 2
+pkg-2.7.4                      Package manager
+python3-3_3                    Meta-port for the Python interpreter 3.x
+python311-3.11.15_2            Interpreted object-oriented programming language
+python39-3.9.18_2              Interpreted object-oriented programming language
+readline-8.2.10                Library for editing command lines as they are typed
+source-highlight-3.1.9_14      C/C++ and Java sources to HTML converter
+unixODBC-2.3.12_1              ODBC library suite for Unix
+xxhash-0.8.3                   Extremely fast non-cryptographic hash algorithm
+zstd-1.5.6                     Fast real-time compression algorithm

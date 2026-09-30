@@ -1,0 +1,464 @@
+1	Lonca olutur
+2	Gerçekten bir lonca oluturmak istiyor musun - 1 Won?
+3	Fiyat:
+4	Evet
+5	HAYIR
+6	sim özel karakterler içermemeli ve uzunluu 3 ila 11 karakter arasnda olmaldr!
+7	Gerçekten bu isimle bir lonca oluturmak istiyor musun?[ENTER]
+8	Yeterli Yang'a sahip deilsin.
+9	Zaten bir loncadasnz.
+10	[Sistem] Lonca ad geçersiz (strlen <2 veya >11!)
+11	[Sistem] Lonca ad geçersiz (özel karakterler içeriyor!)
+12	[Sistem] Lonca oluturulmad (isim zaten alnm veya zaten bir lonca üyesisiniz)
+13	[Sistem] Lonca oluturuldu.
+14	[Sistem] Oyuncu zaten bir lonca üyesidir
+15	[Sistem] Oyuncu zaten bir lonca lideridir
+16	GM: Kstla.
+17	Kstlamak istediiniz kiinin adn girin!
+18	unun gibi oyuncu:
+19	yok!
+20	GM: Kontrol et.
+21	Loncas var:
+22	Usta:
+23	Krallk:
+24	Krallk NPC'si:
+25	Loncadan ayrl
+26	Gerçekten loncadan ayrlmak istiyor musun?
+27	Loncadan ayrldnz.
+28	Loncay dat
+29	Gerçekten loncay datmak istiyor musun?
+30	Guild datld.
+31	Bir lonca oluturamazsnz, zaten bir loncadasnz!
+32	Gerçekten bir lonca oluturmak istiyor musun - 1 Won?
+33	Bir lonca oluturmak için gerekli öeye sahip deilsiniz.
+34	Lonca kurmak için yeterli paranz yok.
+35	Yeterli bir liderlik seviyeniz yok.
+36	Baka bir öe göndermeden önce biraz daha beklemeniz gerekir.
+37	Bu öenin mükemmel kalitesi vard!
+38	Biyolog görevini tamamladnz.
+39	Bu öenin kalitesi çok düüktü!
+40	Aratrma için gerekli öeye sahip deilsiniz.
+41	Seviyeniz çok düük.
+42	Koleksiyoncu görevini tamamladnz.
+43	[Buz Maaras] 50 canavar öldürün ve ardndan mührü kullann!
+44	[Buz Maaras] Tüm kayalar yok edin!
+45	[Buz Maaras] 3 mini boss'u öldürün!
+46	[Buz Maaras] Patronu öldür!
+47	Buz Maarasna Girin (125+)
+48	Gardiyan:
+49	Merhaba!
+50	Doru anlyor muyum? Buz Maarasna girmek ister misin?
+51	Gerekli öeler olmadan
+52	ve seviye, geçmene izin vermeyeceim.
+53	Bugünkü giri says:
+54	Limit u süre içinde sfrlanacaktr:
+55	%d saat ve %d dakika.
+56	0 saat 0 dakika.
+57	htiyacnz var:
+58	Gerekli öe
+59	Devam etmek istiyor musun?
+60	Elbette!
+61	Yapmamay tercih ederim.
+62	Inlanma u anda mümkün deil!
+63	Gerekli öeye sahip deilsiniz!
+64	[Buz Maaras] Zindana ho geldiniz!
+65	[Buz Maaras] Canavarlar ortaya çkt!
+66	50 canavar öldür
+67	[Buz Maaras] Daha ileri gitmek için mührü kullann!
+68	[Buz Maaras] Baarl!
+69	[Buz Maaras] Bir sonraki hedef 5 saniye içinde görünecek!
+70	[Buz Maaras] Kayalar ortaya çkt!
+71	8 kayay yok et
+72	[Buz Maaras] Harika i!
+73	[Buz Maaras] Hala kalanlar:
+74	kayalar!
+75	3 mini patronu öldür
+76	[Buz Maaras] Mini bosslar baaryla öldürdünüz!
+77	4 kayay yok et
+78	[Buz Maaras] Patron ortaya çkt!
+79	Patronu öldür!
+80	[Buz Maaras] Patronu baaryla öldürdün!
+81	[Buz Maaras] Bir dakika içinde zindandan nlanacaksnz!
+82	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r tamamland |cFFf7dd83Buz Maaras |cFFc5ff8c(Lv. 125)|r zamannda: |cFFf7b983%s!
+83	Genel sralama
+84	Puan sralamas
+85	Baek-Go
+86	içilii
+87	Üretim - ruh talar
+88	Üretim - iksirler
+89	Üretim - otomatik güçlendirme becerileri
+90	Rütbe, evcil hayvan, binek
+91	Baar puanlar için seviyeler
+92	Baar noktas maazas
+93	Lanet seviyesi
+94	Lanetleme seviyesini arttr (test)
+95	Balkçlk koleksiyonu
+96	Maaza
+97	Balk
+98	Kalntlar ve eritme
+99	Paskalya öeleri
+100	[mparator Geçidi] 50 canavar öldür!
+101	[mparator Geçidi] mparatorun Hizmetkar ortaya çkt!
+102	[mparator Geçidi] 6 kayay yok edin!
+103	[mparator Geçidi] 4 cin öldürün!
+104	[mparator Geçidi] mparatorluk Nagas ortaya çkt!
+105	mparatorun Boaz'na girin (Lv. 160+)
+106	Doru anlyor muyum? mparatorun Geçidi'ne girmek ister misin?
+107	[Emperor's Gorge] Emperor's Gorge'a ho geldiniz!
+108	[mparator Geçidi] Canavarlar ortaya çkt!
+109	Geçitteki canavarlar öldürün.
+110	[mparator Geçidi] Bütün canavarlar öldürdün!
+111	[mparatorun Geçidi] mparatorun Hizmetkar uyanyor...
+112	[mparator Geçidi] Kalan canavarlar:
+113	Hizmetçinin HP'sini %66'nn altna düürün
+114	[mparator Geçidi] Hizmetçi kayalar çard!
+115	6 kayann hepsini yok et
+116	[mparator Geçidi] Tüm kayalar yok edildi!
+117	[mparatorun Boaz] Hizmetçiyle savamaya devam edin!
+118	Hizmetçinin HP'sini %33'ün altna düürün
+119	[mparator Geçidi] Kalan kayalar:
+120	[mparator Geçidi] Hizmetçi takviye çaryor!
+121	4 cin öldür.
+122	[Emperor's Gorge] Tüm cinleri yendin!
+123	[mparator Geçidi] mparatorun Hizmetkarn Öldürün!
+124	mparatorun Hizmetkarn Öldür
+125	[mparator Geçidi] Geriye kalan cinler:
+126	[mparator Geçidi] mparatorun Hizmetkar!
+127	[Emperor's Gorge] Ama durun... bir eyler doru deil...
+128	mparatorluk Nagasn öldürün!
+129	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r tamamland |cFFf7dd83Emperor's Gorge |cFFc5ff8c(Lv. 150)|r sürede: |cFFf7b983%s!
+130	Bu u anda yaplamaz.
+131	Hiç yetenein yok.
+132	Zindanda kullanlamaz.
+133	Ruh Ta:
+134	Bu öenin kullanlmas kaldrlacak
+135	eytan Çkarma Parömeni'nin etkisi.
+136	G seviyesinde herhangi bir yeteneiniz yok.
+137	Gelitirmek istediiniz beceriyi seçin:
+138	Ayrlmak
+139	Beceri eitimi baarl oldu.
+140	Dragon Souls - kapal sezon
+141	Ejderha Ruhlar geçici olarak kullanlamyor.
+142	Bugünün snrna zaten ulatnz.
+143	Yeni bir Dragon Soul koleksiyon sezonuna balayabilirsiniz.
+144	Ejderha Ruhlar
+145	Bugün daha fazla Ejderha Ruhu toplayamazsnz.
+146	Yeni Dragon Soul koleksiyonu sezonu balad!
+147	Ejderha Ruhlar - incelik
+148	Burada Ejderha Ruhlarnz gelitirebilirsiniz.
+149	Efsanevi Simya: Bonus deiiklii
+150	Bonus deiim penceresini gerçekten açmak istiyor musunuz?
+151	Ejderha Ruhu Maazas
+152	Dragon Soul Shop'a ho geldiniz!
+153	[eytan Tapna] 50 canavar öldürün ve mührü kullann!
+154	[eytan Tapna] Tüm kayalar yok edin!
+155	[eytan Tapna] 3 mini boss'u öldürün!
+156	[eytan Tapna] Patronu öldür!
+157	eytan Tapnana Girin (75+)
+158	Doru anlyor muyum? eytan Tapnana girmek ister misin?
+159	[eytan Tapna] Zindana ho geldiniz!
+160	[eytan Tapna] Canavarlar ortaya çkt!
+161	[eytan Tapna] Daha ileri gitmek için mührü kullann!
+162	[eytan Tapna] Kayalar ortaya çkt!
+163	[eytan Tapna] Harika i!
+164	[eytan Tapna] Hala kalanlar:
+165	[eytan Tapna] Mini bosslar baaryla öldürdünüz!
+166	[eytan Tapna] Patron ortaya çkt!
+167	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r tamamland |cFFf7dd83Demon Shrine |cFFc5ff8c(Lv. 75)|r zamannda: |cFFf7b983%s!
+168	Zindana dön
+169	Zindana dönmek istiyor musun?
+170	[Örümcek Kraliçenin ni] 50 canavar öldürün ve mührü kullann!
+171	[Örümcek Kraliçenin ni] Tüm kayalar yok et!
+172	[Örümcek Kraliçenin ni] 3 mini patronu öldür!
+173	[Örümcek Kraliçenin ni] Patronu öldür!
+174	Örümcek Kraliçenin nine Girin (50+)
+175	Doru anlyor muyum? Örümcek Kraliçenin nine girmek ister misin?
+176	[Örümcek Kraliçenin ni] Zindana ho geldiniz!
+177	[Örümcek Kraliçenin ni] Canavarlar ortaya çkt!
+178	[Örümcek Kraliçenin ni] Daha ileri gitmek için mührü kullann!
+179	[Örümcek Kraliçenin ni] Kayalar ortaya çkt!
+180	5 kayay yok et
+181	[Örümcek Kraliçenin ni] Harika i!
+182	[Örümcek Kraliçenin ni] Hala duruyor:
+183	[Örümcek Kraliçenin ni] Mini patronlar baaryla öldürdün!
+184	[Örümcek Kraliçenin ni] Patron ortaya çkt!
+185	[Örümcek Kraliçenin ni] 20 saniye içinde zindandan nlanacaksnz!
+186	|cFFf7dd83%s|r |cFFc5ff8c(Sv. %d)|r tamamland |cFFf7dd83Örümcek Kraliçenin Yuvas |cFFc5ff8c(Sv. 50)|r zamannda: |cFFf7b983%s!
+187	[Paskalya Zindan] 150 canavar öldürün ve mührü kullann!
+188	[Paskalya Zindan] Tüm kayalar yok edin!
+189	[Paskalya Zindan] 3 mini boss'u öldürün!
+190	[Paskalya Zindan] Patronu öldür!
+191	Paskalya Zindan
+192	Doru anlyor muyum? Paskalya Zindanna girmek ister misin?
+193	Gerekli eyalar olmadan geçmene izin vermeyeceim.
+194	[Paskalya Zindan] Zindana ho geldiniz!
+195	[Paskalya Zindan] Canavarlar ortaya çkt!
+196	150 canavar öldür
+197	[Paskalya Zindan] Daha ileri gitmek için mührü kullann!
+198	[Paskalya Zindan] Kayalar ortaya çkt!
+199	[Paskalya Zindan] Harika i!
+200	[Paskalya Zindan] Hala kalanlar:
+201	[Paskalya Zindan] Mini patronlar baaryla öldürdünüz!
+202	[Paskalya Zindan] Patron ortaya çkt!
+203	[Paskalya Zindan] 20 saniye içinde zindandan nlanacaksnz!
+204	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r |cFFf7dd83Paskalya Zindan |cFFc5ff8c|r zamannda tamamland: |cFFf7b983%s!
+205	Paskalya Haritas
+206	Ho geldin!
+207	Paskalya Haritasna nlanmak ister misiniz?
+208	- Haritaya 4 saatte bir girebilirsiniz
+209	- Haritada en fazla 1 saat kalabilirsiniz.
+210	Inlanma
+211	imdi deil
+212	Paskalya Haritas u anda kullanlamyor.
+213	Paskalya Haritasna u ekilde tekrar girebilirsiniz:
+214	saat(ler) ve
+215	dakika(lar).
+216	Süreniz doldu. ehre geri nlanacaksnz.
+217	Engellenen ilevler:
+218	Ticaret
+219	Lonca davetiyeleri
+220	Arkada davetiyeleri
+221	Parti davetiyeleri
+222	Parti istekleri
+223	Fsldayan
+224	[Cehennemin Kaplar] 50 canavar öldürün ve ardndan mührü kullann!
+225	[Cehennemin Kaplar] Tüm kayalar yok edin!
+226	[Cehennemin Kaplar] 3 mini boss'u öldürün!
+227	[Cehennemin Kaplar] Mini patronlar öldürün!
+228	[Cehennemin Kaplar] Patronu öldür!
+229	Cehennemin Kaplarna Girin (150+)
+230	Doru anlyor muyum? Cehennemin Kaplarna girmek ister misin?
+231	[Cehennemin Kaplar] Zindana ho geldiniz!
+232	[Cehennemin Kaplar] Canavarlar ortaya çkt!
+233	[Cehennemin Kaplar] Daha ileri gitmek için mührü kullann!
+234	[Cehennemin Kaplar] Kayalar ortaya çkt!
+235	[Cehennemin Kaplar] Harika i!
+236	[Cehennemin Kaplar] Hala kalanlar:
+237	[Cehennemin Kaplar] Mini bosslar baaryla öldürdünüz!
+238	Mini patronlar öldür
+239	[Cehennemin Kaplar] Patron ortaya çkt!
+240	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r tamamland |cFFf7dd83Cehennemin Kaplar |cFFc5ff8c(Lv. 150)|r zamannda: |cFFf7b983%s!
+241	Üretim - At Nal
+242	Cinsiyet Deitirme Büyüsü
+243	Kar cins için kostüm giyerken cinsiyet deitirilemez!
+244	En az 50. seviyede olmalsnz!
+245	Evliyken cinsiyet deitirilemez!
+246	Dönüüm srasnda cinsiyet deitirilemez!
+247	24 saat beklemeniz gerekiyor!
+248	Kalan süre:
+249	Gerçekten cinsiyetinizi deitirmek istiyor musunuz?
+250	Cinsiyet deitirildi.
+251	lemi tamamlamak için lütfen çk yapn ve tekrar giri yapn.
+252	[AP Kuponu] Bu u anda yaplamaz.
+253	[AP Kuponu] Gerekli kupona sahip deilsiniz!
+254	Baar Puanlar u kadar artrld:
+255	Seviyeniz bu haritada olamayacak kadar yüksek.
+256	Parça içilii
+257	- Deokbae:
+258	Bu kazmann çok az puan var.
+259	Gerçekten kazmay yükseltmek istiyor musun?
+260	Yükseltme baarsz oldu...
+261	imdi çok daha iyi görünüyor.
+262	Maalesef kazma yükseltmesi baarsz oldu.
+263	Kazmann artk daha düük bir seviyesi var.
+264	[mparatorluk Deiiklii] Bu u anda yaplamaz.
+265	mparatorluk Deiiklii:
+266	Bu eya ile imparatorluunuzu deitirebilirsiniz.
+267	ama bedava deil; her eyin bir bedeli var.
+268	mparatorluunuzu 3 günde bir deitirebilirsiniz.
+269	ve ayrca 1.000.000.000 Yang'a ihtiyacnz olacak.
+270	mparatorluunuzu deitirmek ister misiniz?
+271	[mparatorluk Deiimi] 1.000.000.000 Yang'nz yok.
+272	[mparatorluk Deiiklii] Öe u anda devre d.
+273	[mparatorluk Deiiklii] Önce loncanzdan ayrlmalsnz.
+274	[mparatorluk Deiimi] Önce boanmanz gerekir.
+275	Yeni bir imparatorluk seç
+276	Shinsoo
+277	jinno
+278	ptal etmek
+279	[mparatorluk Deiimi] Zaten bu imparatorluun içindesiniz.
+280	[mparatorluk Deiimi] mparatorluk deiti! Deiikliklerin etkili olmas için oturumu kapatp tekrar giri yapmalsnz.
+281	Pes etmek
+282	ptal etmek
+283	Bu araytan vazgeçtin
+284	Tüm parti üyeleri bu haritada deil!
+285	Baz parti üyeleri gerekli seviyeye sahip deil:
+286	Bu zindana girmek için yeterli seviyeniz yok!
+287	Baz oyuncular gerekli geçi iznine sahip deil:
+288	Baz oyuncular nlanamaz:
+289	Korumay soymaya m çalyordun?
+290	Giri numaras
+291	%d sn.
+292	%d dk. %d sn.
+293	%d sa. %d m.
+294	%d d. %d sa.
+295	Bu oltann yeterli puan yok!
+296	Oltanz zaten maksimum seviyede!
+297	Bu oltay gerçekten yükseltmek istiyor musun?
+298	Yükseltme baarsz oldu.
+299	Olta yükseltmesi baarl oldu!
+300	Daha sonra tekrar deneyin!
+301	[Antik Orman] 50 canavar öldürün ve ardndan mührü kullann!
+302	[Antik Orman] Tüm kayalar yok edin!
+303	[Antik Orman] 3 mini boss'u öldürün!
+304	[Antik Orman] Mini patronlar öldürün!
+305	[Antik Orman] Patronu öldür!
+306	Antik Ormana Girin (175+)
+307	Doru anlyor muyum? Antik Ormana girmek ister misin?
+308	[Antik Orman] Zindana ho geldiniz!
+309	[Antik Orman] Canavarlar ortaya çkt!
+310	[Antik Orman] Daha ileri gitmek için mührü kullann!
+311	[Antik Orman] Kayalar ortaya çkt!
+312	[Antik Orman] Harika i!
+313	[Antik Orman] Hala kalanlar:
+314	[Antik Orman] Mini bosslar baaryla öldürdünüz!
+315	[Antik Orman] Patron ortaya çkt!
+316	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r tamamland |cFFf7dd83Antik Orman |cFFc5ff8c(Lv. 175)|r zamannda: |cFFf7b983%s!
+317	Kombinasyon
+318	Kanatlar birletirmek ister misiniz?
+319	Öe emilimi
+320	Kanadn içine bir silah m sokmak istiyorsunuz?
+321	[Akrep Harabeleri] 50 canavar öldürün ve mührü kullann!
+322	[Akrep Harabeleri] Tüm kayalar yok edin!
+323	[Akrep Harabeleri] 3 mini boss'u öldürün!
+324	[Akrep Harabeleri] Patronu öldür!
+325	Akrep Harabelerine Girin (100+)
+326	Doru anlyor muyum? Akrep Harabelerine girmek ister misin?
+327	Bu zindana bir partide girilemez.
+328	[Akrep Harabeleri] Zindana ho geldiniz!
+329	[Akrep Harabeleri] Canavarlar ortaya çkt!
+330	[Akrep Harabeleri] Daha ileri gitmek için mührü kullann!
+331	[Akrep Harabeleri] Kayalar ortaya çkt!
+332	6 kayay yok et
+333	[Akrep Harabeleri] Patronu baaryla öldürdün!
+334	[Akrep Harabeleri] Bir dakika içinde zindandan nlanacaksnz!
+335	|cFFf7dd83%s|r |cFFc5ff8c(Sv. %d)|r tamamland |cFFf7dd83Akrep Harabeleri |cFFc5ff8c(Sv. 100)|r sürede: |cFFf7b983%s!
+336	Beceri eitimi
+337	Vücut
+338	zihinsel
+339	Hançerler
+340	Yay
+341	WP
+342	BM
+343	Güçlendirme
+344	ifac
+345	Becerileri seçin:
+346	Uzmanlnz seçin.
+347	Daha sonra seçin
+348	Uzmanlnz seçtiniz!
+349	Kostüm seçimi:
+350	Kostüm tipini seçin:
+351	PvP kostümü
+352	PvM kostümü
+353	Bir PvP kostümü aldnz!
+354	Bir PvP kostüm silah seçin:
+355	Seçimden sonra geri dönü yok.
+356	Bir PvM kostümü aldnz!
+357	Bir PvM kostüm silah seçin:
+358	Seçim iptal edildi.
+359	Kostüm silahn seçin:
+360	10 saniye sonra tekrar deneyin.
+361	Envanterinizde yeterli alan yok.
+362	Geçersiz öe.
+363	Beceriyi tekrar eitebilirsiniz.
+364	dakika veya eytan Çkarma Parömeni kullann.
+365	Beceriyi 8 saat içinde tekrar çaltrabilirsiniz.
+366	Beceri eitimi baarsz oldu.
+367	Beceri eitimi %100 deildir.
+368	Beceri sfrlama
+369	Ho geldin,
+370	Becerilerinizi sfrlamak istiyorsanz
+371	ve yeni bir uzmanlk seçin, bu size bir maliyete mal olacaktr.
+372	Fiyat: 1.000.000.000 Yang.
+373	Becerilerinizi sfrlamak m istiyorsunuz?
+374	Bu deiiklik geri alnamaz!
+375	[Yal Kadn] 1.000.000.000 Yang'n yok.
+376	[Yal Kadn] Bunu u anda yapamazsnz.
+377	[Yal Kadn] Hiç yetenein yok.
+378	Sevgililer günü kostümleri bedava!
+379	Merhaba!
+380	te Sevgililer Günü için ücretsiz Item Shop öeleriniz!
+381	Tam bonuslar içerirler ve 3 gün sürer.
+382	TAMAM
+383	imdi deil
+384	Depo
+385	Öe Maazas
+386	[Hayalet Gemi] Kayay yok et
+387	[Hayalet Gemi] Tüm canavarlar öldür (binek üzerinde)
+388	[Hayalet Gemi] Yerdeki kayay yok edin.
+389	[Hayalet Gemi] Tüm canavarlar öldür
+390	[Hayalet Gemi] Tüm kayalar yok edin!
+391	[Hayalet Gemi] Patronu öldür!
+392	[Hayalet Gemi] Kaptann sandn yok edin!
+393	Hayalet Gemiye Girin (Lv. 149)
+394	Doru anlyor muyum? Hayalet Gemiye girmek ister misin?
+395	- Parti (2 oyuncu)
+396	[Hayalet Gemi] Yaknnzda en az 1 oyuncu daha bulunmaldr.
+397	[Hayalet Gemi] Sen parti lideri deilsin!
+398	[Hayalet Gemi] Yeterli seviyeniz yok!
+399	[Hayalet Gemi] Seviyeniz çok yüksek!
+400	[Hayalet Gemi] Liderin yeterli geçii yok! (x2)
+401	[Hayalet Gemi] Zindana ho geldiniz!
+402	Zindan zamannda tamamlayamadn. Herkes zindandan nlanacak!
+403	[Hayalet Gemi] Bir kaya ortaya çkt!
+404	[Hayalet Gemi] Bir sandk ortaya çkt!
+405	[Hayalet Gemi] Sand yok ettin!
+406	[Hayalet Gemi] Herkes bir dakika içinde zindandan dar nlanacak!
+407	|cFFf7dd83%s|r |cFFc5ff8c(Sv. %d)|r tamamland |cFFf7dd83Hayalet Gemi (I) |cFFc5ff8c(Sv. 149)|r zamannda: |cFFf7b9
+408	Hayalet Gemiye Girin (Lv. 200)
+409	Doru anlyor muyum? Hayalet Gemiye girmek ister misin?
+410	[Hayalet Gemi] Yeterli seviyeniz yok!
+411	[Hayalet Gemi] Seviyeniz çok yüksek!
+412	[Hayalet Gemi] Liderin yeterli geçii yok! (x2)
+413	[Hayalet Gemi] Patronu baaryla öldürdün!
+414	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r tamamland |cFFf7dd83Ghost Ship (II) |cFFc5ff8c(Lv. 200)|r zamannda: |cFFf7b98
+415	[Wukong Dalar] 50 canavar öldürün ve mührü kullann!
+416	[Wukong Dalar] Tüm kayalar yok edin!
+417	[Wukong Dalar] 3 mini boss'u öldürün!
+418	Wukong Dalar'na girin (75+)
+419	Doru anlyor muyum? Wukong Dalar'na girmek ister misiniz?
+420	[Wukong Dalar] Zindana ho geldiniz!
+421	[Wukong Dalar] Canavarlar ortaya çkt!
+422	[Wukong Dalar] Daha ileri gitmek için mührü kullann!
+423	[Wukong Dalar] Kayalar ortaya çkt!
+424	[Wukong Dalar] Mini bosslar baaryla öldürdünüz!
+425	[Wukong Dalar] Patronu baaryla öldürdün!
+426	[Wukong Dalar] Bir dakika içinde zindandan nlanacaksnz!
+427	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r tamamland |cFFf7dd83Wukong Dalar |cFFc5ff8c(Lv. 75)|r zamannda: |cFFf7b983%s!
+428	içilii
+429	Üretim - Ruh Talar
+430	Üretim - ksirler
+431	Üretim - Otomatik Güçlendirme Becerileri
+432	Üretim - Rütbe, evcil hayvanlar, binekler
+433	Baar seviyeleri
+434	Maaza - Baar puanlar
+435	Balk Koleksiyonu
+436	Maaza
+437	Balklar
+438	Kalntlar ve eriyikler
+439	Kostüm seçin:
+440	Kostüm türünü seçin:
+441	PvP Kostümü
+442	PvM Kostümü
+443	Kostüm silahn seçin:
+444	Bu eylem geri döndürülemez.
+445	Kostüm silah elde ettin
+446	ptal edildi.
+447	Kostüm silahn seçin:
+448	PvP Kanatlar
+449	PvM Kanatlar
+450	Kanatlar seçin:
+451	Kanatlar, evcil hayvan ve binek elde ettiniz!
+452	10 saniye sonra tekrar deneyin.
+453	Zindanda bu yaplamaz.
+454	Envanterinizde yeterli alannz yok.
+455	Easter Valley
+456	You can enter the Easter Valley again in:
+457	(Character restriction)
+458	Do you want to teleport to the Easter Valley?
+459	 - You can enter the map once every 6 hours (CHAR + HWID)
+460	 - Cooldown starts from the moment you enter the map
+461	 - You can stay in the map for a maximum of 30 minutes
+462	The Easter Valley is currently unavailable.
+463	(HWID restriction)
+464	Easter Crafting

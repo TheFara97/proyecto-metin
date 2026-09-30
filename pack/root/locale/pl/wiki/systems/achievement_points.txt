@@ -1,0 +1,49 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Content List:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. General
+[COLOR=0x63FFB2;FONT_SIZE=14]*2. Achievement Levels
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. General
+[Y_PADDING=10;X_PADDING = 55; CENTER_ALIGN;FONT_SIZE=13]Achievement points can be obtained by killing bosses, metinstones fishing and mining ores.
+[Y_PADDING=2;X_PADDING = 55; CENTER_ALIGN;FONT_SIZE=13]Points are used for crafting, refining and increasing the achievement point levels.
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=194; CENTER_ALIGN]
+
+[COLOR=0xffd700; Y_PADDING=25; CENTER_ALIGN; FONT_SIZE=15]2. Achievement Levels
+[Y_PADDING=10;CENTER_ALIGN]*You can increase achievement levels at npc Hwa-Hee located in all kingdoms.
+[COLOR=0x83E889;Y_PADDING=10;CENTER_ALIGN]*Achievement levels provide big pvm bonuses boost.
+
+[COLOR=0xffd700; Y_PADDING=25; CENTER_ALIGN; FONT_SIZE=15]All possible levels:
+[IMG=zaris/secondary_level/level_icons/1.tga; X=185; Y=350]
+[IMG=zaris/secondary_level/level_icons/2.tga; X=215; Y=350]
+[IMG=zaris/secondary_level/level_icons/3.tga; X=245; Y=350]
+[IMG=zaris/secondary_level/level_icons/4.tga; X=275; Y=350]
+[IMG=zaris/secondary_level/level_icons/5.tga; X=305; Y=350]
+[IMG=zaris/secondary_level/level_icons/6.tga; X=335; Y=350]
+[IMG=zaris/secondary_level/level_icons/7.tga; X=185; Y=390]
+[IMG=zaris/secondary_level/level_icons/8.tga; X=215; Y=390]
+[IMG=zaris/secondary_level/level_icons/9.tga; X=245; Y=390]
+[IMG=zaris/secondary_level/level_icons/10.tga; X=275; Y=390]
+[IMG=zaris/secondary_level/level_icons/11.tga; X=305; Y=390]
+[IMG=zaris/secondary_level/level_icons/12.tga; X=335; Y=390]
+[IMG=zaris/secondary_level/level_icons/13.tga; X=185; Y=430]
+[IMG=zaris/secondary_level/level_icons/14.tga; X=215; Y=430]
+[IMG=zaris/secondary_level/level_icons/15.tga; X=245; Y=430]
+[IMG=zaris/secondary_level/level_icons/16.tga; X=275; Y=430]
+[IMG=zaris/secondary_level/level_icons/17.tga; X=305; Y=430]
+[IMG=zaris/secondary_level/level_icons/18.tga; X=335; Y=430]
+[IMG=zaris/secondary_level/level_icons/19.tga; X=185; Y=470]
+[IMG=zaris/secondary_level/level_icons/20.tga; X=215; Y=470]
+[IMG=zaris/secondary_level/level_icons/21.tga; X=245; Y=470]
+[IMG=zaris/secondary_level/level_icons/22.tga; X=275; Y=470]
+[IMG=zaris/secondary_level/level_icons/23.tga; X=305; Y=470]
+[IMG=zaris/secondary_level/level_icons/24.tga; X=335; Y=470]
+[IMG=zaris/secondary_level/level_icons/25.tga; X=185; Y=510]
+[IMG=zaris/secondary_level/level_icons/26.tga; X=215; Y=510]
+[IMG=zaris/secondary_level/level_icons/27.tga; X=245; Y=510]
+[IMG=zaris/secondary_level/level_icons/28.tga; X=275; Y=510]
+[IMG=zaris/secondary_level/level_icons/29.tga; X=305; Y=510]
+[IMG=zaris/secondary_level/level_icons/30.tga; X=335; Y=510]

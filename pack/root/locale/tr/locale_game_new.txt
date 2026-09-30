@@ -1,0 +1,1817 @@
+ITEMSHOP_WHEEL_CHEQUE_TEXT	|Eemoji/cheque_icon|e Wons Wheel
+TOOLTIP_BONUS_PET	Passive skills of pet are enchanted
+TOOLTIP_BONUS_PASSIVE_SKILLS	All passive skill at P - You received additional bonuses
+SAVE_LOCATION_REMOVE_LOCATION_QUESTION	Bu konumu gerçekten silmek istiyor musun?
+SAVE_LOCATION_ENTER_NAME	Isim girin:
+SPECIAL_ATTR_EMPTY_ATTR_SOCKET	[Empty Bonus]
+MULTI_FARM_TITLE	Multi Farm Block
+MULTI_FARM_TEXT	|Eemoji/key_lclick|e You need click for active/deactive drop for this character.
+MULTI_FARM_ACTIVE_TEXT	Do you want open this character drop?
+MULTI_FARM_DEACTIVE_TEXT	Do you want close this character drop?
+MULTI_FARM_ACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFFYou can get drop.|r 
+MULTI_FARM_DEACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFFYou cant get drop.|r 
+MULTI_FARM_PREMIUM_EFFECT	Increase multi farm account count: +%d	SA
+DUNGEON_PROGRESSBAR_CRIMSON_BLUE	Mavi:
+DUNGEON_PROGRESSBAR_CRIMSON_RED	Krmz:
+EXPANDEDTASKBAR_WIKI	Viki
+STARTER_PACKAGE_CONTAINS	çerir:
+STARTER_PACKAGE_SMALL_1	• Elvion Premium (3D)
+STARTER_PACKAGE_SMALL_2	• Hrsz Eldiveni (1 saat)
+STARTER_PACKAGE_SMALL_3	• Deneyim Yüzüü (1 saat)
+BATTLEPASS_PACKAGE_1	• Sava Bileti Premium
+BATTLEPASS_PACKAGE_2	• 7 kat Seviye Arttrma Sava Bileti
+STARTER_PACKAGE_MEDIUM_1	• Elvion Premium (14D)
+STARTER_PACKAGE_MEDIUM_2	• Küçük El (Evcil Hayvan)
+STARTER_PACKAGE_MEDIUM_3	• Hrsz Eldiveni (1 saat)
+STARTER_PACKAGE_MEDIUM_4	• Deneyim Yüzüü (1 saat)
+STARTER_PACKAGE_BIG_1	• Elvion Premium (30D)
+STARTER_PACKAGE_BIG_2	• Melek Paketi (Tam Paket)
+STARTER_PACKAGE_BIG_3	• Kostüm W. Gelitirmesi (PVM)
+STARTER_PACKAGE_BIG_4	• Melek At (Binek)
+STARTER_PACKAGE_BIG_5	• Hrsz Eldiveni (1 saat)
+STARTER_PACKAGE_BIG_6	• Deneyim Yüzüü (1 saat)
+COSTUME_BOOST_PACKAGE_1	• Evcil Hayvan Gelitirme (PVM)
+COSTUME_BOOST_PACKAGE_2	• Kostüm Gelitirme (PVM)
+COSTUME_BOOST_PACKAGE_3	• Saç Gelitirme (PVM)
+COSTUME_BOOST_PACKAGE_4	• Kostüm W. Gelitirmesi (PVM)
+COSTUME_BOOST_PACKAGE_5	• Kanat Gelitirme (PVM)
+TOOLTIP_REMAINING	Kalan: %.2f%%
+OFFLINESHOP_EXTEND_SHOP_TIME	1.000.000.000 yang'a süreyi uzatmak ister misiniz?
+OFFLINESHOP_EXTEND_TIME_NOT_POSSIBLE	u anda çevrimd alveri sürenizi uzatamazsnz.
+DUNGEON_PROGRESSBAR_EMERALD	Zümrüt Ruh
+DUNGEON_PROGRESSBAR_GORGON	Kalan Oksijen -
+INVENTORY_OPEN_VOTESHOP	Vote4buff Maazasn Aç
+INVENTORY_OPEN_WORLDBOSS	Worldboss Maazasn Aç
+AUTOBUFF_BONUS_1	Bonus: |cFF82cf36+%15,0 |r(|cFFffce47
+AUTOBUFF_BONUS_2	Bonus: |cFF82cf36+%15,0 |r(|cFFffce47
+AUTOBUFF_BONUS_3	Bonus: |cFF82cf36+120,0 |r(|cFFffce47
+AUTOBUFF_CHANCE	Kritik Vuru ans: |cFFffce47+
+AUTOBUFF_ATTACK_VALUE	Saldr Deeri: |cFFffce47+
+EVENTCALENDAR_PERSONAL_EVENTS	Aktif Etkinlikler
+WHISPER_BUTTON_OPEN	Fslt
+REFINEWINDOW_FIND_WIKI	Wikipedia'da bul
+GOLDBAR_DESC_PER	/ Çubuk
+GOLDBAR_DESC_WARNING	* Kullanmdan sonra 1 bar kalacaktr.
+AUTOSKILL_0_1	Vücudunuzun gücünü eitin
+AUTOSKILL_0_2	Vücut direncinizi gelitirin
+AUTOSKILL_1_1	Öldürmek için hançerlerinizi keskinletirin
+AUTOSKILL_1_2	Savamak için yayn kullan
+AUTOSKILL_2_1	Silahlarn seviyorum
+AUTOSKILL_2_2	Kara büyüyle oyna
+AUTOSKILL_3_1	Yardm etmek için gücünüzü kullann
+AUTOSKILL_3_2	yilemek için  kullann
+BATTLEPASS_CURRENT_STAGE	Mevcut Aama: {}
+BATTLEPASS_PREMIUM_QUESTION_1	Gerçekten premium sava geçiini etkinletirmek istiyor musunuz?
+BATTLEPASS_MISSION_MISSING	Eksik görevler {}
+BATTLEPASS_EXP_ENDED	Sona erdi
+BATTLEPASS_EXPIRED	Battlepass'n süresi doldu
+MISSIONS_BONUS_ATTBONUS_MONSTER	Canavarlara kar güçlü +%d%% SA
+MISSIONS_BONUS_ATT_GRADE_BONUS	Saldr deeri +%d SA
+MISSIONS_BONUS_ATTBONUS_RULER	Hükümdarlara kar güçlü +%d%% SA
+MISSIONS_BONUS_TOTAL_DAMAGE	Toplam hasar +%d%% SA
+MISSIONS_BONUS_ATTBONUS_DEVIL	eytanlara kar güçlü +%d%% SA
+MISSIONS_BONUS_SKILL_DAMAGE_PVM	PVM Beceri hasar +%d%% SA
+MISSIONS_BONUS_SKILL_DAMAGE_RESIST	Beceri hasar direnci +%d SA
+MISSIONS_BONUS_AVG_DAMAGE	Ortalama hasar +%d%% SA
+MISSIONS_BONUS_ATTBONUS_ORC	Orklara kar güçlü +%d%% SA
+MISSIONS_BONUS_SKILL_DAMAGE	Beceri hasar +%d%% AÇIK
+MISSIONS_BONUS_ATTBONUS_ELEMENT	Elementlere kar güçlü +%d%% SA
+MISSIONS_BONUS_ELEMENT_RESIST	Elementlere kar direnç +%d%% SA
+MISSIONS_BONUS_ATTBONUS_HUMAN	nsanlara kar güçlü +%d%% SA
+MISSIONS_BONUS_ATTBONUS_STONE	Talara kar güçlü +%d%% SA
+MISSIONS_BONUS_DUNGEON_POWER	Zindanlardaki güç +%d%% SA
+MISSIONS_BONUS_ATTBONUS_BOSS	Patronlara kar güçlü +%d%% SA
+MISSIONS_BONUS_NONE	-
+MISSIONS_REQUIRED_LEVEL	Gerekli seviye:
+COMPANION_PET_EXP_WITH_CHAR	|cffc99573|H|hKlasik deneyim|H|h
+COMPANION_PET_FEED_ITEM_1	|cffc99573|H|h(Lv. 40-70)|H|h
+COMPANION_PET_FEED_ITEM_2	|cffc99573|H|h(Lv. 70-110)|H|h
+COMPANION_PET_FEED_ITEM_3	|cffc99573|H|h(Lv. 110-150)|H|h
+TOOLTIP_ATT_GRADE_PVM	Saldr Deeri PvM +%d SA
+SKILL_PVM_LINKED_TO	|cFFcabdabunlarla eleti:|r |cFFc79e65%s|r
+SKILL_PVM_STRENGTHENED_BY	|cFFcabdab|r |cFFc79e65%s|r tarafndan desteklendi
+SKILL_PVM_LEVEL_FIXED	Beceri Seviyesi sabittir; güç, eletirilmi becerinizden gelir.
+SKILL_PVM_ATK_VALUE	|cFFcabdabAttack Deeri PvM:|r |cFFc79e65+%d|r
+SKILL_PVM_ATK_VALUE_ZERO	|cFFcabdabAttack Value PvM: +0 (önce eletirilmi becerinizi gelitirin)|r
+SKILL_PVM_NOT_AVAILABLE	Bu snf için mevcut deil.
+VIP_CONVERT_QUESTION	Kalan premium sürenizi ürüne dönütürmek ister misiniz?
+VIP_TOOLTIP	Premium SNA
+VIP_ITEM_SUBTITLE	Premium'u etkinletirir
+VIP_SECTION_BENEFITS	Faydalar:
+VIP_METIN_QUEUE	• Metin kuyruu 7 taa kadar
+VIP_AUTO_PICKUP	• Otomatik alma
+VIP_EXP_BONUS	• +%50 kazanlan deneyim
+VIP_TITLE	• Premium slotta bir unvann donatlmasna izin verir
+VIP_SAVE_LOCATION	• Kaytl konumlarda +1 ekstra sayfa
+VIP_MINING_HEADER	madencilik
+VIP_MINING_1	• +%5 cevher çkarma ans
+VIP_MINING_2	• +%5 daha fazla cevher elde etme ans
+VIP_MINING_3	• +%5 daha fazla kazma puan kazanma ans
+VIP_MINING_4	• Madencilik süresi 1 saniye azald
+VIP_FISHING_HEADER	Balk tutma
+VIP_FISHING_1	• +%10 balk yakalama ans
+VIP_FISHING_2	• +%10 annda yakalama ans
+VIP_FISHING_3	• +%10 daha büyük balk yakalama ans
+VIP_FISHING_4	balktan %+25 daha fazla yang
+VIP_FISHING_5	• Balk tutarken iki kat AP puan kazanma ans %50
+VIP_WARNING_HEADER	Uç:
+VIP_TEXT_WARNING_1	Premium, premium simgesine tklanarak kaldrlabilir
+VIP_TEXT_WARNING_2	sol üst köede. Kaldrldktan sonra primi geri alacaksnz
+VIP_TEXT_WARNING_3	kalan süre ile envanterinize ekleyin.
+DO_YOU_BUY_ITEM_NORMAL	%s karlnda %d satn almak istiyor musunuz?
+ITEM_PRICE_TITLE	Fiyat:
+ITEM_IS_FREE	Özgür
+WORLDBOSS_LESS_THAN_MINUTE	Bir dakikadan az
+DO_YOU_BUY_ITEM_AP1	%s karlnda %s satn almak istiyor musunuz?
+DO_YOU_BUY_ITEM_AP2	%s karlnda %s (%s adet) satn almak istiyor musunuz?
+VOTE4BUFF_QUESTION1	Bu bonusu gerçekten seçmek istiyor musunuz?
+VOTE4BUFF_QUESTION2	Gerçekten %s bonusunu deitirmek istiyor musunuz?
+VOTE4BUFF_TIME_LEFT	Kalan Süre: %s
+VOTE4BUFF_BONUS_SELECTION	imdi bir bonus seçebilirsiniz!
+VOTE4BUFF_VOTE_REWARDS	Oylama Ödülleri
+VOTE4BUFF_BONUS_TITLE	Bonuslar
+VOTE4BUFF_WARNING_MSG1	Bonus seçmeden önce oy vermelisiniz!
+VOTE4BUFF_WARNING_MSG2	Oy verdikten sonra oy dümesine tekrar tklayn
+VOTE4BUFF_AVAILABLE	Oy 4 Takviyesi mevcut!
+VOTE4BUFF_VOTE_INFORMATION	Oy vermek için buraya tklayn!
+VOTE4BUFF_AFFECT_TITLE	Oy4Buff
+SKILL_MINING_CHANCE	Maden çkarma ans +%d%%
+SKILL_MINING_CHANCE_MORE_ORE	Daha fazla cevher ans +%d%%
+SKILL_MINING_LESS_TIME	Madencilik süresi -%dsec azaltld.
+SKILL_MINING_RELIC_CHANCE	Kalnt çekirdei çkarma ans +%d%%
+SKILL_MINING_ORE_COUNT	Çkarlan Cevherler: %s
+SKILL_FISHES_CAUGHT	Yakalanan Balklar: %s
+WIKI_CUBE_PERCENT	%{}
+WIKI_CUBE	içilii
+WIKI_EQUIPMENT_RUNES	Rünler
+WIKI_EQUIPMENT_PET_EQ	Evcil Hayvan Ekipmanlar
+WIKI_EQUIPMENT_MOUNT_EQ	Montaj Ekipman
+EXTRA_BONUS_ITEM_TITLE	Ekstra Bonus Kilidini Açc
+EXTRA_BONUS_ITEM_DESC	Belirli öelerdeki özel bonuslarn kilidini açn ve gelitirin.
+EXTRA_BONUS_COMPATIBLE_ITEMS	Uyumlu Öeler:
+EXTRA_BONUS_SASH_INFO	Kanat
+EXTRA_BONUS_SASH_EFFECT	Emilimi %30'dan %45'e artrr
+EXTRA_BONUS_GLOVES_INFO	Güç Eldivenleri +9
+EXTRA_BONUS_GLOVES_EFFECT	Son 2 bonusu +%20 artrr
+EXTRA_BONUS_PET_INFO	Evcil Hayvan Ekipmanlar +9
+EXTRA_BONUS_PET_EFFECT	Ek bonuslarn kilidini açar
+EXTRA_BONUS_RUNE_INFO	Efsanevi Rünler
+EXTRA_BONUS_RUNE_EFFECT	Ek bonuslarn kilidini açar
+EXTRA_BONUS_REQUIREMENTS	Gereksinimler:
+EXTRA_BONUS_REQ_SASH	• Sourma > %30 olan kanat
+EXTRA_BONUS_REQ_GLOVES	• Güç Eldivenleri +9 ve 5 bonus
+EXTRA_BONUS_REQ_PET	• Evcil Hayvan Ekipman +9
+EXTRA_BONUS_REQ_RUNE	• Rünler +5
+EXTRA_BONUS_WARNING	Her öe yalnzca bir kez kullanlabilir!
+FISHWIKI_FISH_27802	Saldr Deeri +20
+FISHWIKI_FISH_27803	Güç +5
+FISHWIKI_FISH_27804	Zeka +5
+FISHWIKI_FISH_27805	Beceri +5
+FISHWIKI_FISH_27806	EXP Bonusu +%25
+FISHWIKI_FISH_27807	Kritik ans +%20
+FISHWIKI_FISH_27808	Delme ans +%20
+FISHWIKI_FISH_27809	Orklara Kar Güçlü +%20
+FISHWIKI_FISH_27810	Beceri Hasar +%5
+FISHWIKI_FISH_27811	Beceri Hasar Direnci +%5
+FISHWIKI_FISH_27812	eytanlara Kar Güçlü +%10
+FISHWIKI_FISH_27813	Hayvanlara Kar Güçlü +%10
+FISHWIKI_FISH_27814	Mistiklere Kar Güçlü +%10
+FISHWIKI_FISH_27815	Orklara Kar Güçlü +%10
+FISHWIKI_FISH_27816	Saldr Deeri +30
+FISHWIKI_FISH_27817	Saldr Deeri +50
+FISHWIKI_FISH_27818	Maksimum HP: +2000
+FISHWIKI_FISH_27819	Maksimum HP: +3000
+FISHWIKI_FISH_27820	Maksimum HP: +4000
+FISHWIKI_FISH_27821	Ortalama Hasar +%3
+FISHWIKI_FISH_27822	Efsanelere Kar Güçlü +%15
+FISHWIKI_FISH_27823	Metin Talarna Kar Güçlü +%10
+FISHWIKI_FISHINGPOLE_GRADE	Olta +0 ila +15
+FISHWIKI_NOTIFICATION	Yeni balk!
+FISHWIKI_HIDE_WINDOW	Pencereyi gizle
+FISHWIKI_NOTIFICATION_TEXT	Balkçya gidin ve koleksiyonunuzu kontrol edin!
+MISSIONS_WINDOW_BIOLOG	Biyoloji aratrmas
+MISSIONS_WINDOW_COLLECTOR	Kolektör
+MISSIONS_WINDOW_HUNTING	Avclk
+MISSIONS_WINDOW_BOSSOLOGY	Bossoloji
+MISSIONS_WINDOW_STONEOLOGY	Taoloji
+MISSIONS_WINDOW_LOCATION	|cFFf1e6c0Konum: |r
+MISSIONS_WINDOW_NOT_POSSIBLE	Bu seçenek yalnzca koleksiyoncu için geçerlidir.
+NOTIFICATION_CATEGORY_SPECIAL_ITEM_EXPIRED_DESCRIPTION	Öenin süresi doldu!
+NOTIFICATION_CATEGORY_BIOLOG_MISSION_READY_DESCRIPTION	Bir sonraki öeyi biolog'a teslim edebilirsiniz!
+NOTIFICATION_CATEGORY_ALCHEMY_EXPIRED_DESCRIPTION	Simyalarnzdan birinin süresi doldu!
+NOTIFICATION_CATEGORY_MELT_EXPIRED_DESCRIPTION	Aksesuarnzdaki erimelerden birinin süresi doldu!
+TOOLTIP_WIKI	 - Wikipedia
+TOOLTIP_SEARCH	|Eemoji/key_ctrl|e + |Eemoji/key_shift|e + |Eemoji/key_lclick|e - Maaza Arama
+RANKING_DAMAGE_BOSS_POSITION	Konum
+RANKING_DAMAGE_PLAYER_NAME	Oyuncu ad
+RANKING_DAMAGE_PLAYER_LEVEL	Oyuncu seviyesi
+RANKING_DAMAGE_PLAYER_DAMAGE_DONE	Verilen hasar
+RANKING_DAMAGE_BOSS	LK 15 hasar verenin sralamas
+EXPANDEDTASKBAR_OFFLINESHOP	Çevrimd maaza
+EXPANDEDTASKBAR_COMPANION	Sahabeler
+EXPANDEDTASKBAR_SHOPSEARCH	Maaza arama
+EXPANDEDTASKBAR_BONUSES	Bonus Penceresi
+EXPANDEDTASKBAR_SWITCHBOT	Switchbot
+EXPANDEDTASKBAR_AUTOBUFF	Otomatik güçlendirme
+EXPANDEDTASKBAR_RANKING	Sralama
+EXPANDEDTASKBAR_BIN	Öeleri yok et
+EXPANDEDTASKBAR_RUNE	Rünler
+EXPANDEDTASKBAR_ARTEFAKT	eserler
+EXPANDEDTASKBAR_CHANGEEQUIPMENT	Ekipman deitir
+EXPANDEDTASKBAR_STORAGE	Depolamak
+EXPANDEDTASKBAR_SAVELOCATION	Konumu kaydet
+EXPANDEDTASKBAR_POTIONS	ksir kullan
+ATLAS_WINDOW_NAME	|cFFc79e65Ad:|r |cFFcabdab%s|r
+ATLAS_WINDOW_COORDINATES	|cFFc79e65Koordinatlar:|r |cFFcabdab(%d, %d)|r
+ATLAS_WINDOW_RESPAWN	|cFFc79e65Yeniden doma:|r |cFFcabdab%s|r
+ATLAS_WINDOW_COOLDOWN	|cFFc79e65Bekleme Süresi:|r |cFFcabdab%s|r
+ATLAS_WINDOW_WIKI	|Emoji/alt_key|e + |Emoji/lclick_key|e - |cFFcabdabWikipedia'da Aç|r
+MINIMAP_BUTTON_DUNGEON	Zindanlar
+MINIMAP_BUTTON_WARP	Inlanma
+MINIMAP_BUTTON_MISSIONS	Görevler
+MINIMAP_BUTTON_COLLECTION	Koleksiyon
+MINIMAP_BUTTON_TITLE	Baar Unvanlar
+MINIMAP_BOSS_TOOLTIP	[Yeniden Doma Süresi: %s]
+WARP_WINDOW_MAPS_LOW	Düük haritalar
+WARP_WINDOW_MAPS_HIGH	Yüksek haritalar
+WARP_WINDOW_MAPS_SPECIAL	Özel haritalar
+WARP_WINDOW_SEARCH_MAPS	Haritalarda ara...
+WARP_WINDOW_MAP_1	Jinno Krall
+WARP_WINDOW_MAP_2	Bakr
+WARP_WINDOW_MAP_3	Shinsoo Krall
+WARP_WINDOW_MAP_4	Canm
+WARP_WINDOW_MAP_6	Da Sohan
+WARP_WINDOW_MAP_7	Ork Vadisi
+WARP_WINDOW_MAP_8	Orman
+WARP_WINDOW_MAP_9	Örümcek Maaras
+WARP_WINDOW_MAP_10	Kutsal Vadi
+WARP_WINDOW_MAP_11	Antik Çöl
+WARP_WINDOW_MAP_12	Buzlu Manzara
+WARP_WINDOW_MAP_13	Ateli Çorak Toprak
+WARP_WINDOW_MAP_14	Büyülü Orman
+WARP_WINDOW_MAP_15	Gizli Maden
+WARP_WINDOW_MAP_16	Balkç Sahili
+WARP_WINDOW_MAP_17	Guild Map
+WARP_WINDOW_MAP_18	Lanetli Vadi
+WARP_WINDOW_MAP_19	Easter Valley
+WARP_WINDOW_UNDEAD	|cff544661Ölümsüz|r
+WARP_WINDOW_DEVIL	|cffb783e6eytan|r
+WARP_WINDOW_ANIMAL	|cff8ad47fHayvan|r
+WARP_WINDOW_ORC	|cffbaa079Orc|r
+WARP_WINDOW_MYSTICS	|cffee73f0Mistik|r
+WARP_WINDOW_ICE	|cff6ccbebIce|r
+WARP_WINDOW_DARK	|cff7e07e0Karanlk|r
+WARP_WINDOW_EARTH	|cffccd977Dünya|r
+WARP_WINDOW_WIND	|cff59d961Rüzgar|r
+WARP_WINDOW_FIRE	|cffe35c44Ate|r
+DUNGEON_TRACK_DUNGEON_1	Toz Di Kamp
+DUNGEON_TRACK_DUNGEON_2	eytan Kulesi
+DUNGEON_TRACK_DUNGEON_3	Azrail Azizi
+DUNGEON_TRACK_DUNGEON_4	Hwang Tapna
+DUNGEON_TRACK_DUNGEON_5	Zümrüt Yuvas
+DUNGEON_TRACK_DUNGEON_6	Gorgon Derinlikleri
+DUNGEON_TRACK_DUNGEON_7	peksi Derinlikler
+DUNGEON_TRACK_DUNGEON_8	Hellforge Derinlikleri
+DUNGEON_TRACK_DUNGEON_9	Kzl Kale
+DUNGEON_TRACK_DUNGEON_10	Zindan 10
+DUNGEON_TRACK_DUNGEON_11	Zindan 11
+DUNGEON_TRACK_TITLE_DUNGEONS	Zindanlar
+DUNGEON_TRACK_TITLE_MAPS	Haritalar
+DUNGEON_TRACK_NOTIFICATION	%s#mevcut
+DUNGEON_TRACK_CHECKBOX	Mevcut olduunda bildirim gönder
+DUNGEON_TRACK_LEVEL_INFO	Gerekli Seviye:
+DUNGEON_TRACK_DAILY_LIMIT_INFO	Günlük limit:
+DUNGEON_TRACK_GROUP_INFO	Grup Talebi:
+DUNGEON_TRACK_COOLDOWN_INFO	Sakin ol:
+DUNGEON_TRACK_TICKET_INFO	Geçi Bileti
+DUNGEON_TRACK_SHOP_INFO	Zindan Dükkan
+DUNGEON_TRACK_TELEPORT_ENTER	Zindana nlan.
+DUNGEON_TRACK_WARP	Zindan Girii NPC'sine nlann.
+DUNGEON_TRACK_TEST	Giri Biletini ödemeden zindan bossunu öldürüp öldüremeyeceinizi test edin. Polymorph Mermer ücretsiz olarak kullanlabilir.
+DUNGEON_TRACK_PERSONAL_STATISTICS	Kiisel statistikler
+DUNGEON_TRACK_RANK_COMPLETED	Sralamalar: Tamamlanan Toplam
+DUNGEON_TRACK_RANK_FASTEST	Sralamalar: En Hzl Zaman
+DUNGEON_TRACK_RANK_DMG	Sralamalar: Boss'a Maksimum Hasar
+DUNGEON_TRACK_COMPLETED	Tamamlanm
+DUNGEON_TRACK_FASTEST	En hzl
+DUNGEON_TRACK_DMG	Zarar
+DUNGEON_TRACK_SLOW_INFO	Lütfen yava olun.
+DUNGEON_TRACK_TRUE	Doru
+DUNGEON_TRACK_FALSE	YANLI
+DUNGEON_TRACK_MOVE_UP	Yukar Ta
+DUNGEON_TRACK_MOVE_DOWN	Aa Ta
+DUNGEON_TRACK_HIDE	Saklamak
+DUNGEON_TRACK_DEACTIVE	Devre d
+DUNGEON_TRACK_ACTIVE	Mevcut
+DUNGEON_TRACK_WHISPER_MESSAGE	%s hazr.
+DUNGEON_TRACK_HIGH_LEVEL	Yüksek Seviye
+DUNGEON_TRACK_LOW_LEVEL	Düük Seviye
+DUNGEON_TRACK_BONUS	Bonus
+DUNGEON_TRACK_RANK_INDEX	Rütbe
+DUNGEON_TRACK_RANK_NAME	sim
+DUNGEON_TRACK_RANK_LEVEL	Seviye
+DUNGEON_TRACK_RANK_COMPLETED_TITLE	Toplam Tamamlanan
+DUNGEON_TRACK_RANK_FASTEST_TITLE	En Hzl Süre
+DUNGEON_TRACK_RANK_DMG_TITLE	Patrona Maksimum Hasar
+DUNGEON_TRACK_DAILY_INFO	Günlük Giriler:
+DUNGEON_TRACK_RESET_INFO	Sfrlama:
+DUNGEON_TRACK_DAILY_LIMIT_REACHED	Günlük Limit
+DUNGEON_TRACK_DAILY_LIMIT_MESSAGE	Günlük Limite Ulald
+TITLE_ACHIEVEMENT_NEED_PREMIUM	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2akinci bal kullanmak için premium'u etkinletirmi olmanz gerekir.|r
+TITLE_ACHIEVEMENT_ACTIVATED_PREMIUM_TITLE	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2akinci premium unvan etkinletirdiniz.|r
+TITLE_ACHIEVEMENT_REMOVED_FROM_FAVOURITES	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu bal favoriler bölümünden kaldrdnz.|r
+TITLE_ACHIEVEMENT_ADDED_TO_FAVOURITES	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu bal favoriler bölümüne eklediniz.|r
+TITLE_ACHIEVEMENT_TOOLTIP_ACTIVATE	|Eemoji/key_lclick|e - Etkinletir (Birincil Yuva)
+TITLE_ACHIEVEMENT_TOOLTIP_ACTIVATE_PREMIUM	|Eemoji/key_rclick|e - Etkinletir (Premium Slot)
+TITLE_ACHIEVEMENT_TOOLTIP_ADD_FAVOURITE	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Favori balklara ekle
+TITLE_ACHIEVEMENT_ACTIVATED_PRIMARY	|cff00ff00Birincil Yuvada Etkin|r
+TITLE_ACHIEVEMENT_ACTIVATED_PREMIUM	|cffffaa00Premium Slotta Aktif|r
+TITLE_ACHIEVEMENT_NOT_UNLOCKED_YET	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu baln kilidini henüz açmadnz.|r
+TITLE_ACHIEVEMENT_TITLE_ACTIVE_IN_PREMIUM	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu balk u anda premium slotta etkin.|r
+TITLE_ACHIEVEMENT_TITLE_ACTIVE_IN_PRIMARY	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu balk zaten birincil slotunuzda aktif!|r
+TITLE_ACHIEVEMENT_TITLE_CANNOT_ACTIVATE_TOGETHER_PRIMARY	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu balk ana balnzla birlikte etkinletirilemez!|r
+TITLE_ACHIEVEMENT_TITLE_CANNOT_ACTIVATE_TOGETHER	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu balk premium balnzla birlikte etkinletirilemez!|r
+TITLE_ACHIEVEMENT_SEARCH_TITLES	Balklar ara...
+TITLE_ACHIEVEMENT_UNLOCKED_STATUS	Durum: Kilitli deil
+TITLE_ACHIEVEMENT_UNLOCKED	Kilitli deil
+TITLE_ACHIEVEMENT_PROGRESS	lerleme: %s / %s
+TITLE_ACHIEVEMENT_WINDOW_TITLEBAR	Baar Unvanlar
+TITLE_ACHIEVEMENT_WINDOW_ALL_TITLES	Tüm balklar
+TITLE_ACHIEVEMENT_WINDOW_UNLOCKED_TITLES	Kilitli deil
+TITLE_ACHIEVEMENT_WINDOW_FAVOURITE_TITLES	Favori
+TITLE_ACHIEVEMENT_WINDOW_TITLES	Balklarn listesi
+TITLE_ACHIEVEMENT_1	Yok Edici I
+TITLE_ACHIEVEMENT_2	Yok Edici II
+TITLE_ACHIEVEMENT_3	Yok Edici III
+TITLE_ACHIEVEMENT_4	Avc I
+TITLE_ACHIEVEMENT_5	Avc II
+TITLE_ACHIEVEMENT_6	Avc III
+TITLE_ACHIEVEMENT_7	Macerac
+TITLE_ACHIEVEMENT_8	Switchbot Ustas
+TITLE_ACHIEVEMENT_9	Switchbot Büyük Usta
+TITLE_ACHIEVEMENT_10	Kalnt Avcs
+TITLE_ACHIEVEMENT_11	Stratejist
+TITLE_ACHIEVEMENT_12	Simyac
+TITLE_ACHIEVEMENT_13	Madenci
+TITLE_ACHIEVEMENT_14	Kdemli Madenci
+TITLE_ACHIEVEMENT_15	Usta Madenci
+TITLE_ACHIEVEMENT_16	Balkç
+TITLE_ACHIEVEMENT_17	Yetenekli Balkç
+TITLE_ACHIEVEMENT_18	Usta Balkç
+TITLE_ACHIEVEMENT_19	???
+TITLE_ACHIEVEMENT_20	???
+TITLE_ACHIEVEMENT_21	Krlmam
+TITLE_ACHIEVEMENT_22	Zindan Egemeni
+TITLE_ACHIEVEMENT_23	Hayat Vermeyen
+TITLE_ACHIEVEMENT_24	Dokunulmaz
+TITLE_ACHIEVEMENT_COMPLETE_TASK	Görevi tamamla
+TITLE_ACHIEVEMENT_INFO_BONUS_1	Talara kar güçlü +%5
+TITLE_ACHIEVEMENT_INFO_BONUS_2	Talara kar güçlü +%10
+TITLE_ACHIEVEMENT_INFO_BONUS_3	Talara kar güçlü +%20
+TITLE_ACHIEVEMENT_INFO_BONUS_4	Patronlara kar güçlü +%5
+TITLE_ACHIEVEMENT_INFO_BONUS_5	Patronlara kar güçlü +%10
+TITLE_ACHIEVEMENT_INFO_BONUS_6	Patronlara kar güçlü +%20
+TITLE_ACHIEVEMENT_INFO_BONUS_7	+5 zindan limiti
+TITLE_ACHIEVEMENT_INFO_BONUS_8	Daha yüksek 1-5 rulo
+TITLE_ACHIEVEMENT_INFO_BONUS_9	Daha yüksek ortalama/beceri hasar atlar
+TITLE_ACHIEVEMENT_INFO_BONUS_10	+%5 Enchant Relic'i koruma ans
+TITLE_ACHIEVEMENT_INFO_BONUS_11	+%5 Öeyi yükseltme ans
+TITLE_ACHIEVEMENT_INFO_BONUS_12	+%5 Simyay yükseltme ans
+TITLE_ACHIEVEMENT_INFO_BONUS_13	Baarl madencilik için +%5
+TITLE_ACHIEVEMENT_INFO_BONUS_14	Baarl madencilik için +%10
+TITLE_ACHIEVEMENT_INFO_BONUS_15	Baarl madencilik için +%15
+TITLE_ACHIEVEMENT_INFO_BONUS_16	+%5 Balk yakalama ans
+TITLE_ACHIEVEMENT_INFO_BONUS_17	+%10 Balk yakalama ans
+TITLE_ACHIEVEMENT_INFO_BONUS_18	+%15 Balk yakalama ans
+TITLE_ACHIEVEMENT_INFO_BONUS_19	"Baarszlk yalnzca iradeyi sertletirir."
+TITLE_ACHIEVEMENT_INFO_BONUS_20	"Sonunda örendin."
+TITLE_ACHIEVEMENT_INFO_BONUS_21	+%7 Öeyi yükseltme ans
+TITLE_ACHIEVEMENT_INFO_BONUS_22	Strong against emperors +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_23	"Zaman çok iyi boa gitti."
+TITLE_ACHIEVEMENT_INFO_BONUS_24	"Ac köylüler içindir."
+TITLE_ACHIEVEMENT_INFO_OBJECT_1	1.000 Metistone'u yok et
+TITLE_ACHIEVEMENT_INFO_OBJECT_2	20.000 Metistone'u yok edin
+TITLE_ACHIEVEMENT_INFO_OBJECT_3	100.000 Metistone'u yok edin
+TITLE_ACHIEVEMENT_INFO_OBJECT_4	1.000 patronu öldür
+TITLE_ACHIEVEMENT_INFO_OBJECT_5	2.000 patronu öldür
+TITLE_ACHIEVEMENT_INFO_OBJECT_6	20.000 patronu öldür
+TITLE_ACHIEVEMENT_INFO_OBJECT_7	Herhangi bir zindanda 1. kez tutun
+TITLE_ACHIEVEMENT_INFO_OBJECT_8	50.000 Büyü Öesi kullan
+TITLE_ACHIEVEMENT_INFO_OBJECT_9	500.000 Büyü Öesi kullan
+TITLE_ACHIEVEMENT_INFO_OBJECT_10	1.000 Büyü Yadigar kullan
+TITLE_ACHIEVEMENT_INFO_OBJECT_11	1.000 Öeyi ncele
+TITLE_ACHIEVEMENT_INFO_OBJECT_12	1.000 Ejderha Simyasn iyiletir
+TITLE_ACHIEVEMENT_INFO_OBJECT_13	20.000 Maden Madeni
+TITLE_ACHIEVEMENT_INFO_OBJECT_14	200.000 Maden Madeni Çkarma
+TITLE_ACHIEVEMENT_INFO_OBJECT_15	1.000.000 Maden Madeni
+TITLE_ACHIEVEMENT_INFO_OBJECT_16	1.000 Balk Yakala
+TITLE_ACHIEVEMENT_INFO_OBJECT_17	10.000 Balk yakala
+TITLE_ACHIEVEMENT_INFO_OBJECT_18	100.000 Balk yakala
+TITLE_ACHIEVEMENT_INFO_OBJECT_19	Bu gizli balk
+TITLE_ACHIEVEMENT_INFO_OBJECT_20	Bu gizli balk
+TITLE_ACHIEVEMENT_INFO_OBJECT_21	Art arda 30 yükseltmede baarsz olun
+TITLE_ACHIEVEMENT_INFO_OBJECT_22	1.000 Zindan Patronu Öldür
+TITLE_ACHIEVEMENT_INFO_OBJECT_23	2.000 saat oyna
+TITLE_ACHIEVEMENT_INFO_OBJECT_24	Hiçbir hasar almadan zindan bitir
+TITLE_ACHIEVEMENT_UNKNOWN_TITLE	Bilinmeyen balk
+TITLE_ACHIEVEMENT_UNKNOWN_TITLE_NUM	Bilinmeyen balk %d
+TOOLTIP_FISHING_SKILL_BONUS_STARFISH	Yldz düme ans +%d%%
+COMMUNITY_FRIEND_SECTION	Arkadalar
+COMMUNITY_GUILD_SECTION	Lonca
+COMMUNITY_BLOCKED_SECTION	Engellendi
+COMMUNITY_TEAM_SECTION	Takm
+COMMUNITY_FAVOURITE_SECTION	Favori
+COMMUNITY_NO_GUILD	Lonca yok
+MESSENGER_SUPPORT	Destek
+MESSENGER_TITLE	Haberci
+MESSENGER_ADD_FRIEND	Arkada Ekle
+MESSENGER_WHISPER	Fslt
+MESSENGER_DELETE_FRIEND	Arkada Sil
+MESSENGER_MOBILE	Mobil
+MESSENGER_OPEN_GUILD	Loncay Aç
+PURCHASES_ACCOUNTID	kimlik hesab
+PURCHASES_DATE	Tarih
+PURCHASES_IP	IP
+PURCHASES_ITEMBOUGHT	Satn alnan nesne
+PURCHASES_PRICE	Fiyat
+PURCHASES_PRICE_TEXT	|cfffaf8f5%s |cfffaf8f5Dragon paralar
+CATEGORY_0_NAME	Snrl Teklifler
+CATEGORY_0_SUB_0_NAME	Snrl Teklifler
+CATEGORY_0_SUB_1_NAME	Snrl Teklifler
+CATEGORY_0_SUB_2_NAME	Snrl Teklifler
+CATEGORY_1_NAME	Paketler
+CATEGORY_2_NAME	Kozmetik
+CATEGORY_2_SUB_0_NAME	Kostüm Otomatik Buff
+CATEGORY_2_SUB_1_NAME	Kostüm Zrh
+CATEGORY_2_SUB_2_NAME	Kostüm Saç Modelleri
+CATEGORY_2_SUB_3_NAME	Kostüm Becerileri
+CATEGORY_2_SUB_4_NAME	Kostüm Montaj Parçalar
+CATEGORY_2_SUB_5_NAME	Kostüm Paketleri
+CATEGORY_3_NAME	Evcil Hayvanlar ve Binekler
+CATEGORY_3_SUB_0_NAME	Balar
+CATEGORY_3_SUB_2_NAME	Evcil hayvanlar
+CATEGORY_4_NAME	Kuponlar
+CATEGORY_5_NAME	Özel
+CATEGORY_5_SUB_0_NAME	Kostüm Silahlar
+CATEGORY_5_SUB_1_NAME	Kostüm Zrh
+CATEGORY_5_SUB_2_NAME	Kostüm Saç Modelleri
+CATEGORY_5_SUB_3_NAME	Kostüm Montaj Parçalar
+CATEGORY_5_SUB_4_NAME	Kostüm Kuaklar
+CATEGORY_5_SUB_5_NAME	Efektler
+CATEGORY_6_NAME	Özel Paketler
+CATEGORY_7_NAME	Yüzükler
+CATEGORY_8_NAME	Kostüm Takviyeleri
+ITEMSHOP_3RDSHOP_COIN	AP'ler
+ITEMSHOP_3RDSHOP_COINS	%d AP
+ITEMSHOP_3RDSHOP_NAME	Dier dükkan
+ITEMSHOP_ACCEPT_CHANGE_PRICE	Tamam
+ITEMSHOP_ADD_DISCOUNT_DISCOUNT_TITLE	ndirim:
+ITEMSHOP_ADD_DISCOUNT_HOUR	H
+ITEMSHOP_ADD_DISCOUNT_MINUTE	M
+ITEMSHOP_ADD_DISCOUNT_SECOND	S
+ITEMSHOP_ADD_DISCOUNT_TITLE1	ndirimi tüm kategoriye uygula:
+ITEMSHOP_ADD_ITEM_ACCEPT_TEXT_BUTTON	KABUL ETMEK
+ITEMSHOP_ADD_ITEM_BONUS_TITLE	Bonus
+ITEMSHOP_ADD_ITEM_CATEGORY_TITLE	Kategori:
+ITEMSHOP_ADD_ITEM_PRICE_TITLE	Fiyat:
+ITEMSHOP_ADD_ITEM_RESET_TEXT_BUTTON	Sfrla
+ITEMSHOP_ADD_ITEM_STONE_TITLE	Ta
+ITEMSHOP_ADD_ITEM_VALUE_TITLE	Deer
+ITEMSHOP_ADD_ITEM_VNUM_TITLE	11:
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TEXT_BUTTON	ndirim Ekle
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TOOLTIP_BUTTON	Bir öeye Süreli ndirimler ekleyin.
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TEXT_BUTTON	Öe ekle
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TOOLTIP_BUTTON	Maazaya yeni ürünler ekleyin.
+ITEMSHOP_ADMIN_PANEL_NAME	GM Bölgesi
+ITEMSHOP_ADMIN_PANEL_RETURN_TOOLTIP_BUTTON	Geri dönmek
+ITEMSHOP_ADMIN_PANEL_TITLE	Yönetim
+ITEMSHOP_BEST_WHEEL_PRIZES	En yi Ödüller
+ITEMSHOP_BUY	Satn almak
+ITEMSHOP_BUY_BUTTON	Satn almak
+ITEMSHOP_BUY_ITEM_WITHOUT_AMOUNT_QUESTION	%s'yi %d %s'e kadar satn almak istiyor musunuz?
+ITEMSHOP_BUY_ITEM_WITH_AMOUNT_QUESTION	%sx %s'i %d %s'ye kadar satn almak istiyor musunuz?
+ITEMSHOP_BUY_TEXT	|cffF7BD48%s|r satn almak istiyor musunuz?
+ITEMSHOP_BUY_TEXT_COUNT	|cffF7BD48%sx%d|r satn almak istiyor musunuz?
+ITEMSHOP_CANCEL_CHANGE_PRICE	ptal etmek
+ITEMSHOP_CATEGORY_DISCOUNT_QUESTION	Bu %dH, %dM ve %dS kategorisinde %d%% indirim uygulamak istediinizden emin misiniz?
+ITEMSHOP_CHANGE_PRICE_QUESTION	Bu ürünün fiyatn deitirmek istediinizden emin misiniz?
+ITEMSHOP_CHANGE_PRICE_TOOLTIP_BUTTON	Fiyat deitir
+ITEMSHOP_COINS	Madeni paralar:
+ITEMSHOP_COUNT	Miktar
+ITEMSHOP_DATE	Tarih: %s
+ITEMSHOP_DELETE_ITEM_QUESTION	Bu unsuru ortadan kaldrmak istediinizden emin misiniz?
+ITEMSHOP_DELETE_ITEM_TOOLTIP_BUTTON	Öeyi ortadan kaldr
+ITEMSHOP_DISCOUNT_WEEK	Haftann indirimleri
+ITEMSHOP_DRAGONCOINT	Paralar
+ITEMSHOP_DRSSHOP_COIN	VC'ler
+ITEMSHOP_DRSSHOP_NAME	-
+ITEMSHOP_HOME_NAME	Ev
+ITEMSHOP_HOTITEMS	Teker
+ITEMSHOP_PROMOCODE	Kupon
+ITEMSHOP_PROMOCODE_TOOLTIP_TITLE	Kupon Kodlar Nasl Çalr?
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE1	Adm 1: Itemshop'ta paralarn yanndaki "Satn Al" dümesine tklayn
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE2	Adm 2: Web sitemize giri yapn ve alveri sepeti dümesine tklayn
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE3	3. Adm: elvion.mentra.gg adresine yönlendirileceksiniz - Tutar seçin
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE4	Adm 4: Satn alma ileminden sonra kupon kodunuzu Mentra'dan alacaksnz
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE5	Adm 5: Alnan kupon kodunu itemshop'a girin
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE6	Adm 6: "Kullan" dümesine tklayn, itemshop'u yeniden açn ve bu kadar!
+ITEMSHOP_HOUR	Saat
+ITEMSHOP_HOURS_MINUTES_SECONDS	%dH %dM %dS
+ITEMSHOP_ISHOP_COIN	MD'ler
+ITEMSHOP_ISHOP_NAME	Maaza
+ITEMSHOP_ITEMSEARCH_DEFAULT_TEXT	Itemshop'ta arayn...
+ITEMSHOP_ITEM_AMOUNT	Sen.
+ITEMSHOP_ITEM_DISCOUNT_QUESTION	%dH, %dM ve %dS için %s ile %s arasnda bir indirim uygulamak istediinizden emin misiniz?
+ITEMSHOP_LAST_COUNT	Kalan tutar: %d
+ITEMSHOP_LAST_DISCOUNTS	Son Tartmalar
+ITEMSHOP_LOAD	Veri yükleniyor...
+ITEMSHOP_LOGS_NAME	Günlükler
+ITEMSHOP_MAIN_BUTTON	Balangç
+ITEMSHOP_MOST_BOUGHT_ITEMS	En Çok Satn Alnan Ürünler
+ITEMSHOP_NEW_PRICE_TITLE	Yeni fiyat:
+ITEMSHOP_OFFERS	|Eishop/teklif|e TEKLFLER
+ITEMSHOP_PRICE	Fiyat
+ITEMSHOP_PRICE_NEW	%s Paralar
+ITEMSHOP_PRICE_ONLY_TEXT	%s Paralar
+ITEMSHOP_PRICE_TITLE_BOX	Fiyat: %d %s
+ITEMSHOP_PRICE_WITH_DISCOUNT	|Eemoji/itemshop/mini_coin|e |cffFF7B7B%s Coinler (%d%%)
+ITEMSHOP_SEARCH_TEXT	Aramak...
+ITEMSHOP_SEARCH_TOOLTIP_BUTTON	Aramak
+ITEMSHOP_SHOP_BUTTON	Ürün maazas
+ITEMSHOP_SHOP_TITLE	Maaza:
+ITEMSHOP_TITLE_NAME	Öe Maazas
+ITEMSHOP_TITLE_PANEL	Öe Maazas
+ITEMSHOP_TOP_SELL	En çok satan nesneler
+ITEMSHOP_UPDATE_COINS_TOOLTIP_BUTTON	Paralar güncelle
+ITEMSHOP_WHEEL_BACK_ISHOP	Itemshop'a geri dön
+ITEMSHOP_WHEEL_COIN_TEXT	|Eishop/coin|e Fiyat: 120 Coin
+ITEMSHOP_WHEEL_COIN_TEXT_INFO	Döndürmek için |cffF7BD48120 Coins|r kullanacaksnz.
+ITEMSHOP_WHEEL_NAME	Kader çark
+ITEMSHOP_WHEEL_PRICE1	Fiyat
+ITEMSHOP_WHEEL_PRICE2	10 jeton
+ITEMSHOP_WHEEL_PURCHASE	|Eishop/wheel_icon|e |cffF7BD48ans ruleti|r
+ITEMSHOP_WHEEL_SKIP_ANIMATION	Animasyonu atla
+ITEMSHOP_WHEEL_TICKET_TEXT	|Eishop/wheel_ticket|e Luck Wheel Token	
+ITEMSHOP_WHEEL_TICKET_TEXT_INFO	Your are using |cffF7BD48Luck Wheel Token|r to spin.	
+ITEMSHOP_WHEEL_CHEQUE_TEXT_INFO	You will use |cffF7BD48150 Wons|r to spin.	
+ITEMSHOP_BUY_COIN	Ev
+ITEMSHOP_WHEEL	Satn almak
+ITEMSHOP_PURCHASES	Tarih
+ITEMSHOP_CURRENCY_COIN	|cffF8BE47COIN|r
+ITEMSHOP_CURRENCY_JETON	|cffd6c8a9Promoter Paralar|r
+ITEMSHOP_CURRENCY_COINS	|cffd6c8a9Paralar|r
+ITEMSHOP_CURRENCY_JETONS	|cffd6c8a9Promoter Paralar|r
+ITEMSHOP_PRICE_COINS	|cffd6c8a9%s|r |cffd6c8a9Paralar|r
+ITEMSHOP_PRICE_JETONS	|cffd6c8a9%s|r |cffd6c8a9Promoter Paralar|r
+ITEMSHOP_PRICE_COINS_1	|cffd6c8a9%s|r |cffd6c8a9Paralar|r
+ITEMSHOP_PRICE_JETONS_1	|cffd6c8a9%s|r |cffd6c8a9Promoter Paralar|r
+ITEMSHOP_PRICE_JUST_COINS	|cffd6c8a9%s|r |cffd6c8a9Paralar|r
+ITEMSHOP_PRICE_JUST_JETONS	|cffd6c8a9%s|r |cffd6c8a9Promoter Paralar|r
+ITEMSHOP_PRICE_JUST_COINS_1	|cffd6c8a9%s|r |cffd6c8a9Paralar|r
+ITEMSHOP_PRICE_JUST_JETONS_1	|cffd6c8a9%s|r |cffd6c8a9Promoter Paralar|r
+ITEMSHOP_PRICE_COINS_WITH_DISCOUNT	%s |cffd6c8a9Paralar|r |cff38C719(%d%%)|r
+ITEMSHOP_PRICE_JETONS_WITH_DISCOUNT	%s |cffd6c8a9Promosyon Paralar|r |cff38C719(%d%%)|r
+ITEMSHOP_BUY_TEXT_PRICE	(x|cffF7BD48%d|r) |cffF7BD48%s|r satn almak istiyorsunuz
+ITEMSHOP_BUY_PRICE_COINS	%s için |cffF8BE47Coins|r?
+ITEMSHOP_BUY_PRICE_JETONS	%s için |cffdf6649PCoins|r?
+ITEMSHOP_BUY_PRICE_COINS_WITH_DISCOUNT	%s için |cffF8BE47Coins|r |cff38C719(%d%%)|r?
+ITEMSHOP_BUY_PRICE_JETONS_WITH_DISCOUNT	%s için |cffdf6649PCoins|r |cff38C719(%d%%)|r?
+ITEMSHOP_PROMOCODE_DESC	Paralar kullanmak için kupon kodunuzu aaya girin
+ITEMSHOP_PROMOCODE_PLACEHOLDER	Kupon kodunu girin...
+ITEMSHOP_PROMOCODE_CONFIRM	Kullan
+WORLDBOSS_HEADER_TIME_STATUS	Durum ve yeniden doma
+WORLDBOSS_HEADER_RANKING	Hasar Sralamas
+WORLDBOSS_HEADER_BOSS_INFO	Dünya patronu bilgileri
+GUILD_RAID_EASY_MODE	Kolay
+GUILD_RAID_MEDIUM_MODE	Orta
+GUILD_RAID_HARD_MODE	Zor
+GUILD_GUARDIAN_BONUSES_ACTIVE	Aktif
+GUILD_GUARDIAN_BONUSES_INACTIVE	Aktif deil
+GUILD_GUARDIAN_NEED_ONE_ITEM	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEn az bir koruyucu eyaya sahip olmanz gerekir.|r
+GUILD_GUARDIAN_ON_COOLDOWN	Muhafz aktivasyonu bekleme süresinde.
+GUILD_GUARDIAN_ACTIVATED	Muhafz bonuslar etkinletirildi!
+GUILD_GUARDIAN_DEACTIVATED	Muhafz bonuslar devre d brakld.
+GUILD_DONATE_MATERIAL	Malzeme Ba Yapn
+GUILD_DONATE_AVAILABLE	Mevcut: %d
+GUILD_NO_MATERIAL_TO_DONATE	Balayacak bu materyalden hiçbiriniz yok.
+GUILD_INVALID_DONATE_COUNT	Geçersiz ba miktar.
+GUILD_MATERIAL_DONATED_SUCCESS	%d %s lonca deposuna baaryla baland!
+GUILD_EXP_INFO_1	Lonca basknlar tamamlanarak deneyim artrlabilir.
+GUILD_EXP_INFO_2	Her lonca baskn son patronu rastgele miktarda eya düürür,
+GUILD_EXP_INFO_3	loncann seviyesini yükseltmek için kullanlr.
+LOGIN_WINDOW_LOAD_ACCOUNT	Hesab yükle - Anahtar kullan -
+ACCE_ABSORB_CHANCE	Emilim: %d%%
+ACCE_ABSORB_CHANCE2	%d%% - %d%%
+AFFECT_REMOVE_QUESTION	%s'i kaldrmak istediinizden emin misiniz?
+ALIGN_BONUS_1_1	nsanlara Kar Güçlü +100
+ALIGN_BONUS_1_2	Canavarlara kar güçlü: +100
+ALIGN_BONUS_1_3	Nihai Hasar +%10
+ALIGN_BONUS_1_4	Maksimum HP +40.000
+ALIGN_BONUS_2_1	nsanlara Kar Güçlü +75
+ALIGN_BONUS_2_2	Canavarlara kar güçlü: +75
+ALIGN_BONUS_2_3	Nihai Hasar +%5
+ALIGN_BONUS_2_4	Maksimum HP +30.000
+ALIGN_BONUS_3_1	nsanlara Kar Güçlü: +50
+ALIGN_BONUS_3_2	Canavarlara kar güçlü: +50
+ALIGN_BONUS_3_3	Nihai Hasar +%3
+ALIGN_BONUS_3_4	Maksimum HP +20.000
+ALIGN_BONUS_4_1	nsanlara Kar Güçlü: +35
+ALIGN_BONUS_4_2	Canavarlara kar güçlü: +35
+ALIGN_BONUS_4_3	Maksimum HP +15.000
+ALIGN_BONUS_5_1	nsanlara Kar Güçlü: +25
+ALIGN_BONUS_5_2	Canavarlara kar güçlü: +25
+ALIGN_BONUS_5_3	Maksimum HP +10.000
+ALIGN_BONUS_6_1	nsanlara Kar Güçlü: +15
+ALIGN_BONUS_6_2	Canavarlara kar güçlü: +15
+ALIGN_BONUS_6_3	Maksimum HP +5.000
+ALIGN_BONUS_7_1	nsanlara Kar Güçlü: +10
+ALIGN_BONUS_7_2	Canavarlara kar güçlü: +10
+ALIGN_BONUS_7_3	Maksimum HP +2.500
+ALL_CHANNEL	Tüm Kanallar
+ALL_KINGDOMS	|cFF97AE99Tüm Krallklar|h|r
+BATTLE_PASS_EXP	Tamamlanm:
+BATTLE_PASS_QUEST_DESC_01	Gerekli sayda canavar yen
+BATTLE_PASS_QUEST_DESC_02	Ödül: 2 EXP puan
+BATTLE_PASS_QUEST_DESC_03	Ödül: 1 EXP puan
+BATTLE_PASS_QUEST_DESC_04	Ödül: 2 EXP puan
+BATTLE_PASS_QUEST_DESC_05	Gerekli sayda mesaj bararak yazn
+BATTLE_PASS_QUEST_DESC_06	Gerekli sayda öeyi yükseltin
+BATTLE_PASS_QUEST_NAME_01	Canavarlar Yenin
+BATTLE_PASS_QUEST_NAME_02	Patronlar Yenin
+BATTLE_PASS_QUEST_NAME_03	Metin Talarn Yok Et
+BATTLE_PASS_QUEST_NAME_04	Zindanlar Tamamla
+BATTLE_PASS_QUEST_NAME_05	Shout'ta yaz
+BATTLE_PASS_QUEST_NAME_06	Öeyi Yükselt
+BK_ENVANTER_TEXT1	Bu ekipman normal ekipmandan bamsz olarak çalr.
+BK_ENVANTER_TEXT2	Bu ekipmandan bir öeyi normal ekipmana sürükleyemezsiniz.
+BK_ENVANTER_TEXT3		
+BK_ENVANTER_TEXT4	Her öenin kendi ayr kategorisi vardr.
+BK_ENVANTER_TEXT5	Her kategoride 3 adet kullanlabilir sayfa bulunmaktadr.
+BK_ENVANTER_TEXT6		
+BLUE_KINGDOM	|cFF8CADDBJinno|h|r
+BONUS_END_IN	%S
+BONUS_EVENT	Bonus Etkinlii:
+BONUS_NEXT_EVENT	|Eemoji/key_rclick|e - Sonraki Etkinlik
+BONUS_START_IN	%S
+BUFF_AFFECT_REMOVE_QUESTION	%s'i kaldrmak istediinizden emin misiniz?
+CATEGORY_ALCHEMY	Simya
+CATEGORY_LEGEKD	Efsanevi Talar
+CATEGORY_MISJE	Görevler
+CATEGORY_OWOCE	Rütbe
+CATEGORY_PASY	Kemerler
+CATEGORY_POMOCNIK	Yardmc
+CATEGORY_PRZEPUSTKI	Biletler
+CATEGORY_REKAWICE	Eldivenler
+CATEGORY_RIPER	Azrail Parçalar
+CATEGORY_ULEP	Yükselticiler
+CATEGORY_UM_PASYWNE	Pasif Beceriler
+CATEGORY_WOJNY	Sava Parças
+CATEGORY_WSPOMAGACZE	Güçlendiriciler
+CATEGORY_ZWIERZAK	Evcil Hayvan
+CHEQUE_ONLY_VALUE	Yalnzca bir say girebilirsiniz.
+CHEQUE_SYSTEM_UNIT_CHEQUE	Kazanmak
+CHEST_DROP_INFO	|Eemoji/key_ctrl|e + |Eemoji/key_shift|e + |Eemoji/key_rclick|e
+COLLECITON_SEND_TOOLTIP	- Öeyi gönder
+COLLECTION_SEND_ALL_TOOLTIP	- Hepsini gönder
+COLLECTION_THIS_ITEM_IS_COLLECTED	Bu öe zaten gönderildi.
+DALSZE_ZAKATKI	Dier Köeler
+DETAILS_CON	Canllk
+DETAILS_DEX	El becerisi
+DETAILS_FAINT_RES	Zayf Direnç
+DETAILS_INT	stihbarat
+DETAILS_SLOW_RES	Yava Direnç
+DETAILS_STR	Kuvvet
+DOUBLE_BOSS_LOOT_EVENT	|cFFcabdabDouble Boss Düüü|r
+DOUBLE_METIN_LOOT_EVENT	|cFFcabdabÇift Metin Damlas|r
+DOUBLE_MISSION_BOOK_EVENT	|cFFcabdabÇift Görev Kitab Ganimet|r
+DO_YOU_DROP_CHEQUE	%d Won'u düürmek istiyor musunuz?
+DO_YOU_WANT_TO_CLOSE_OFFLINE_SHOP	Dükkânnz kapatmak m istiyorsunuz?
+DO_YOU_WANT_TO_REMOVE_ITEM	%s'yi maazanzdan kaldrmak istiyor musunuz?
+DROP_CHEQUE_FAILURE_1000_OVER	Maksimum 999 Won düürebilirsiniz.
+DROP_ITEM_FAILURE_OFFLINE_SHOP	Maaza açkken bu eyay brakamazsnz!
+DUNGEON_CHEST_LOOT_EVENT	Arttrlm Zindan Sand Düüü
+DUNGEON_COOLDOWN_EVENT	Zindan Bekleme Süresi
+DUNGEON_INFO_COOLDOWN	Bekleme süresi: %s
+DUNGEON_INFO_DO_YOU_TELEPORT	%s'e nlanmak istiyor musunuz?
+DUNGEON_INFO_DURATION	Süre: %s
+DUNGEON_INFO_ELEMENT_ATK_BONUS	Aktif bonus
+DUNGEON_INFO_ELEMENT_DEF_AND_RES_BONUS	Savunma ve Direnç Bonusu
+DUNGEON_INFO_ELEMENT_UNKOWN_BONUS	Bilinmeyen bonus gerekli
+DUNGEON_INFO_ENTRACE	Giri: %s
+DUNGEON_INFO_FASTEST_TIME	En Hzl Süre: %s
+DUNGEON_INFO_HIGHEST_DMG	En yüksek Hasar: %s
+DUNGEON_INFO_LEVEL_LIMIT	Seviye Snr: %d ila %d
+DUNGEON_INFO_LOCATION	Konum: %s
+DUNGEON_INFO_MINIMAP_TOOL_TIP	Zindan Bilgileri
+DUNGEON_INFO_NONE	Hiçbiri
+DUNGEON_INFO_NOT_FOUND	Hiçbir zindan bulunamad.
+DUNGEON_INFO_PARTY_LIMIT	Parti Üye Snr: %d ila %d
+DUNGEON_INFO_STATUS_AVAILABLE	Mevcut
+DUNGEON_INFO_STATUS_CLOSED	Kullanlamyor
+DUNGEON_INFO_STATUS_COOLDOWN	Beklemek
+DUNGEON_INFO_STATUS_HIGH_LEVEL	Seviye çok küçük!
+DUNGEON_INFO_STATUS_LOW_LEVEL	Seviye çok yüksek!
+DUNGEON_INFO_TOOL_TIP	Zindanlar
+DUNGEON_INFO_TOOL_TIP_01	Bu pencerede mevcut tüm zindanlar bulabilirsiniz.
+DUNGEON_INFO_TOOL_TIP_02	Sol panelde listelenen her zindann çeitli özellikleri vardr.
+DUNGEON_INFO_TOOL_TIP_03	hakknda bilgi vermenin yan sra hangi öelerin
+DUNGEON_INFO_TOOL_TIP_04	son boss düer.
+DUNGEON_INFO_TOOL_TIP_05	Ayrca girie nlanabilirsiniz.
+DUNGEON_INFO_TOOL_TIP_06	varsa zindan.
+DUNGEON_INFO_TOOL_TIP_07	Sa panelde sonuçlarnz da bulabilirsiniz.
+DUNGEON_INFO_TOOL_TIP_08	en iyi 10 oyuncunun küresel sralamas.
+DUNGEON_INFO_TOTAL_FINISHED	Tamamlanmalar: %d
+DUNGEON_INFO_TYPE	Tür: %s
+DUNGEON_INFO_TYPE_01	Küresel
+DUNGEON_INFO_TYPE_02	Grup
+DUNGEON_INFO_TYPE_03	Lonca
+EMPIRE_WAR_EVENT	Krallk Sava (Sv %d - Sv %d)
+ENVANTER_ILE_AC	Ekipmanla aç
+EVENT_TOOLTIP_DOESNT_HAVE_EVENT	Bu günde etkinlik yok.
+EVENT_TOOLTIP_TITLE	[%s] Aktif Olaylar:
+EXP_EVENT	Artan EXP: %d%%
+GAME_PICK_CHEQUE	%d Won aldnz.
+HALLOWEEN_EVENT	Cadlar Bayram
+ACCE_CLEAR_ATTR_CONFIRM	Bonuslar temizlemek istediinizden emin misiniz?
+ACHIEVEMENT_POINTS_TITLE	Baar Puanlar
+ACHIEVEMENT_POINTS_USAGE	Puanlar NPC Hwa-Hee'de kullanlabilir
+AFFECTSHOWER_REMOVE_TEXT	|Eemoji/key_lclick|e - Kaldrmak için tklayn
+AFFECT_SHOWER_DELETE_BONUS	Bu bonusu kaldrmak istediinizden emin misiniz?
+ALIGN_BONUS_0_1_1	nsanlara Kar Güçlü +100
+ALIGN_BONUS_0_1_2	Canavarlara kar güçlü: +150
+ALIGN_BONUS_0_1_3	Toplam Hasar +%10
+ALIGN_BONUS_0_1_4	Maks. HP +50.000
+ALIGN_BONUS_0_1_5	Elementlere Kar Güçlü +%10
+ALIGN_BONUS_0_1_6	Elementlere Kar Direnç +%10
+ALIGN_BONUS_1_1_1	nsanlara Kar Güçlü +100
+ALIGN_BONUS_1_1_2	Canavarlara kar güçlü: +125
+ALIGN_BONUS_1_1_3	Toplam Hasar +%10
+ALIGN_BONUS_1_1_4	Maks. HP +45.000
+ALIGN_BONUS_1_1_5	Elementlere Kar Güçlü +%5
+ALIGN_BONUS_1_1_6	Elementlere Kar Direnç +%5
+ARCTIC_DUNGEON	Buz Maaras
+AUTO_SHOUT_BUTTON	Otomatik Mesaj (Bar)
+AUTO_SHOUT_INFO	Otomatik mesaj gönderimi etkinletirildi.
+AUTO_SHOUT_INFO2	Otomatik mesaj gönderimi devre d brakld.
+AUTO_SHOUT_INFO3	Son barma mesaj bulunamad. Bir ey yazdnzda otomatik gönderme balayacaktr.
+AVAILABLE	Mevcut: {}
+AVERAGE_DAMAGE_DUNGEON_1	Zindan Ortalamas 1
+AVERAGE_DAMAGE_DUNGEON_2	mparator Geçidi
+BIGGER_STAR_CHANCE	|cFFcabdabBALIKÇI YILDIZI ÇN DAHA YÜKSEK ANS|h|r
+BLEND_WINDOW_1	Herhangi bir iksir seçmediniz!
+BLEND_WINDOW_2	Seçilen iksir envanterinizde yok!
+BOARD_SAVE_POSITION	Kaydedilen konumun ad:
+BONUS_NONE	Bonus: Yok
+BONUS_PRESENT	Bonus: {flags}
+BUFF_INTELLIGENCE	stihbarat: {}
+BUFF_IS_BONUS_ACTIVE	Bonus aktif
+BUFF_IS_BONUS_INACTIVE	Bonus etkin deil
+BUFF_SKILL_1	Nimet
+BUFF_SKILL_2	Saldr+
+BUFF_SKILL_3	Ejderha Destei
+BUFF_SKILL_LEVEL_DESC_1	Fiziksel saldrlara kar direnç: |cFFffce47+{}
+BUFF_SKILL_LEVEL_DESC_2	Kritik vuru ans: |cFFffce47+{}|r
+CANCEL_TELEPORT	Inlanmak istemiyorum
+CANNOT_DOING_PRIVATE_SHOP_OPEN	Çevrimd maazanz açkken baka bir ilem yapamazsnz.
+CATEGORY_1	Öeleri Yükselt
+CATEGORY_10	Pasif Beceriler
+CATEGORY_11	Zindan biletleri
+CATEGORY_12	Eldivenler
+CATEGORY_13	Görevler
+CATEGORY_14	Otomatik güçlendirme
+CATEGORY_15	Kuaklar
+CATEGORY_16	Yükseltme / Büyü
+CATEGORY_17	Paskalya Öeleri
+CATEGORY_18	Balar
+CATEGORY_19	Kalntlar ve Erimeler
+CATEGORY_2	Simya
+CATEGORY_20	Balk
+CATEGORY_21	Kupalar Eser Sandklaryla Takas Edin
+CATEGORY_22	Talar Yükselt
+CATEGORY_23	Easter Items
+CATEGORY_24	Easter Costumes
+CATEGORY_25	Guild Raid Shards
+CATEGORY_26	Skill Costumes
+CATEGORY_27	More Stone Slots
+CATEGORY_28	Weaker itemshop items
+CATEGORY_3	Güçlendiriciler
+CATEGORY_4	Azrail Parçalar
+CATEGORY_5	Sava Parçalar
+CATEGORY_6	Kemerler
+CATEGORY_7	Efsanevi Ruh Talar
+CATEGORY_8	Evcil Hayvan
+CATEGORY_9	Rütbe
+CATEGORY_COSTUMES_COSTUME_WEAPON	Kostüm Silahlar
+CATEGORY_JEWELRY_ARMOR_PENDANT	Tlsm
+CATEGORY_JEWELRY_ARMOR_WRIST	Bilezikler
+CHANCE_FORMAT	ans: |cFF9dbbb1{}%
+CHANNEL_FORMAT	Kanal {0}
+CHAT_OPEN_LINK	Bu balanty açmak istiyor musunuz?
+CHAT_OPEN_LINK_DANGER	Uyar! Bu balant tehlikeli olabilir!
+CHEST_FIND_ITEMS_DESC_1	içeren sandklar bul
+CHEST_FIND_ITEMS_DESC_2	bu öe.
+CLICK_TO_BUY	Satn almak için {click_icon} tuuna basn.
+COLLECTIONER_CATEGORY_1	Savaç
+COLLECTIONER_CATEGORY_2	Demirci (I)
+COLLECTIONER_CATEGORY_3	Demirci (II)
+COLLECTIONER_CATEGORY_4	Demirci (III)
+COLLECTIONER_CATEGORY_5	Demirci (IV)
+COLLECTIONER_CATEGORY_6	Demirci (V)
+COLLECTIONS_COLLECTED	Gönderildi!
+COLLECTIONS_NOT_COLLECTED	Henüz toplanmad
+COLLECTION_MAIN_COMPLETE	Durum: Gönderildi.
+COLLECTION_MAIN_NOT_COMPLETE	Durum: Gönderilmedi.
+COLLECTION_ORE_1	Bataklklar
+COLLECTION_ORE_2	Demirci (I)
+COLLECTION_ORE_3	Demirci (II)
+COLLECTION_ORE_4	Demirci (III)
+COLLECTION_ORE_5	Demirci (IV)
+COLLECTION_ORE_6	Demirci (V)
+COLLECTION_PERCENT	Bonus ans: %{}.
+COLLECTION_PERCENT_INCREASED	Bonus ans: %{} + %{}.
+COLLECTION_PROGRESS	lerlemek: {}%.
+COLLECT_LOCATION_LABEL	Konum:
+COSTUME_BODY	|cFFd8bb86Kostüm
+COSTUME_BODY_FOR_BUFF	|cFFd8bb86Otomatik Destek Kostümü
+COSTUME_HAIR	|cFFd8bb86Saç modeli
+COSTUME_HAIR_FOR_BUFF	|cFFd8bb86Autobuff Saç Modeli
+COSTUME_PICK_POSSIBILITY	(Silah kostümü seçimi mevcut)
+COSTUME_SASH	|cFFd8bb86Kanat
+COSTUME_WEAPON	|cFFd8bb86Silah Kostümü
+COSTUME_WEAPON_FOR_BUFF	|cFFd8bb86Autobuff Silah Kostümü
+DEMON_TOWER	eytan Kulesi
+DOUBLE_ACHIEVEMENT_POINTS	|cFFcabdabÇift AP Talar/Bosslar|h|r
+DOUBLE_DROP_LOOT_TOOLTIP	Çift düme ans %100
+DOUBLE_ORE_EVENT	|cFFcabdabÇFT CEVHER DAMLA|sa|r
+DRAGONSOUL_CHANCE	ans: |cFFf4be00{}%|r
+DRAGONSOUL_ONLY_MYTHIC_CAN_BE_SWITCHED	|cFFff9494Yalnzca efsanevi simyann bonuslar deitirilebilir.|r
+DRAGONSOUL_PLACE_DRAGON_SOUL_FIRST	|cFFff9494Önce bir ejderha tan yerletirin.|r
+DRAGONSOUL_PRICE	Fiyat: |cFFc99f36200,000,000 {}
+DRAGONSOUL_RENEW_TIME	Zaman yenileme
+DRAGONSOUL_WRONG_ATTR_CHANGE_ITEM	|cFFff9494Bu eya simya bonuslarn deitirmek için kullanlamaz.|r
+DROP_CHANCE	|cFFc9f1c0Düme ans: %{percentage:.2f}
+DUNGEON_INFO_ACCESSIBLE	Eriilebilir!
+DUNGEON_INFO_BUTTON_JOIN	Inlanma
+DUNGEON_INFO_BUTTON_REJOIN	Geri dönmek
+DUNGEON_INFO_COMPLETION_COUNT	Tamamlanma says: %s
+DUNGEON_INFO_COOLDOWN_REMAINING	Kalan süre:
+DUNGEON_INFO_DEVIL_BONUS	eytanlara kar güçlü (+
+DUNGEON_INFO_DROP_CHANCE	|cFFc9f1c0Düme ans:
+DUNGEON_INFO_DROP_GLOVES_NORMAL	- |cFFf1e6c0Eldivenli damla: 13 adet.
+DUNGEON_INFO_DROP_GLOVES_VIP	- |cFFf1e6c0Eldivenli damla (VIP): 14 adet.
+DUNGEON_INFO_DUNGEON_TYPE	Mod: %s
+DUNGEON_INFO_FASTEST_COMPLETION	En hzl kou: %s
+DUNGEON_INFO_GLOVES_BONUSES	|cFFecffb7Olas bonuslar (1 - 3):
+DUNGEON_INFO_GRETEST_DAMAGE	En yüksek hasar: %s
+DUNGEON_INFO_MONSTER_TYPE	Canavar rk: %s
+DUNGEON_INFO_ORC_BONUS	Orklara kar güçlü (+
+DUNGEON_INFO_PASS_ITEM	Gerekli geçi: %s
+DURATION	Süre
+EASTER_MAP_2025	Paskalya Haritas
+ESTIMATED_SELLING_PRICE	|cFFb0a996Parça bana fiyat.
+EXCHANGE_MONEY	Miktar
+FAST_EXCHANGE_TITLE	Hzl Deiim
+FISHWIKI_CATCHED_FISHES	Yakaland: |cFFdbcba70|h
+FISHWIKI_CATCHED_FISHES_COUNT	Yakaland: |cFFdbcba7%d|h
+FISHWIKI_GIVE_10_FISHES	Minimum uzunlukta |cFFdbcba7100 cm.|saat ile 10x |cFFdbcba7Gökkua Alabal|saat|r çevirin
+FISHWIKI_GIVE_CHANCE	Baar ans: |cFFdbcba725%|h
+FISHWIKI_GIVE_CHANCE_SUCCESS	Baar ans: |cFFdbcba7%d%%|h
+FISHWIKI_GIVE_FISHES	%d x |cFFdbcba7%s|h|r'yi minimum uzunlukta |cFFdbcba7%d cm.|h ile döndürün
+FISHWIKI_LENGTH_RANKING	En büyük balk sralamas: |cFFdbcba7|h
+FISHWIKI_LENGTH_RANKING_BEST	En büyük balk sralamas: |cFFdbcba7%s|h
+FISHWIKI_LONGEST_FISH	En uzun yakalanan: |cFFdbcba70 cm.|h
+FISHWIKI_LONGEST_FISH_CM	En uzun yakalanan: |cFFdbcba7%.2f cm.|h
+FISHWIKI_MAIN_WINDOW	Balkçlk Koleksiyonu
+FISHWIKI_MOST_EXPENSIVE_FISH	Yakalanan en pahal: |cFFdbcba70 Yang|h
+FISHWIKI_MOST_EXPENSIVE_FISH_YANG	Yakalanan en pahal: |cFFdbcba7%s Yang|h
+FISHWIKI_PROGRESS_STATE	%d/|cFFdbcba7%d|h
+FISHWIKI_REWARD_FOR_MISSION	Ödül: |cFFdbcba7Canavarlara Kar Güçlü +%5|h
+FISHWIKI_REWARD_FOR_MISSION_FISH	Ödül: |cFFdbcba7%s|h
+FISHWIKI_ROD_LEVEL	Olta +%d
+FISHWIKI_ROD_LEVEL_0	Olta +0
+FISHWIKI_SHOW_RANKING	Sralamay göster
+FISH_GIVE_MISSION_BTN	Balklar teslim edin
+FISH_LENGTH_DEFAULT	0,00 cm.
+FISH_PROGRESS_INFO	11/|cFFFBA5EE20|h
+FISH_ROD_REQUIREMENT	+0'dan +15'e
+FRUIT_OF_LIFE_DESC_1	|cFFcabdab{} sralama puan ekler.
+FRUIT_OF_LIFE_DESC_2	|cFFcabdabEn fazla {} rütbe puanna kadar kullanlabilir.
+FRUIT_OF_LIFE_DESC_2_1	|cFFcabdab{} ila {} sralama puan arasnda kullanlabilir.
+HELL_DUNGEON	Cehennemin Kaplar
+INGAME_LOG_EXCHANGE_ITEM_INFO_0	le deitirildi
+INGAME_LOG_EXCHANGE_ITEM_INFO_1	Ek Bilgiler
+INGAME_LOG_INFORMATION	Burada geçmi eylemlerinizi görebilirsiniz. stediiniz kayd bulamazsanz lütfen yeniden oturum açn.
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_0	Öe ad
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_1	Fiyat
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_2	Alc
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_3	lem tarihi
+INGAME_LOG_TITLE_01	Çevrimd maaza geçmii
+INGAME_LOG_TITLE_02	Deiim geçmii
+INGAME_TRADELOG_PLAYERNAME	OyuncuAd
+INGAME_TRADELOG_YOU	Sen
+INTROLOGIN_ACCOUNT_DELETED	Hesap silindi.
+INTROLOGIN_ACCOUNT_NOT_LOADED	Kaytl hesabnz yok.
+INTROLOGIN_ACCOUNT_REQUIRED	Silmek için kaytl bir hesabnzn olmas gerekir.
+INTROLOGIN_ENTER_CREDENTIALS	Hesab kaydetmek için kimlik bilgilerini girin.
+INTROLOGIN_NOT_SAVED	Kaydedilmedi.
+INTROLOGIN_NO_ACCOUNT	Silmek için kaytl bir hesabnzn olmas gerekir.
+INTROLOGIN_SAVED	Hesap kaydedildi.
+INTROSELECT_EMPIRE	Krallk {}
+INVENTORY_ADDITIONAL_BONUSES_1	Ek bonuslar
+INVENTORY_ADDITIONAL_BONUSES_2	Tam Rünler +5:
+INVENTORY_ADDITIONAL_BONUSES_3	Toplam hasar +%5
+INVENTORY_ADDITIONAL_BONUSES_4	Ortalama hasar +%15
+INVENTORY_ADDITIONAL_BONUSES_5	nsanlara Kar Güçlü +%25
+INVENTORY_ADDITIONAL_BONUSES_6	Tam Rünler +9:
+INVENTORY_ADDITIONAL_BONUSES_7	Toplam hasar +%10
+INVENTORY_ADDITIONAL_BONUSES_8	Ortalama hasar +%25
+INVENTORY_ADDITIONAL_BONUSES_9	nsanlara Kar Güçlü +%40
+INVENTORY_BOX_TOOLTIP	Sandklar
+INVENTORY_CICEK_TOOLTIP	ksirler
+INVENTORY_DROP_TO_INVENTORY	Envantere brak
+INVENTORY_DROP_TO_INVENTORY_DESC1	Bu seçenein devre d braklmas,
+INVENTORY_DROP_TO_INVENTORY_DESC2	normal envantere düecek öeler
+INVENTORY_EFSUN_TOOLTIP	Yararl öeler
+INVENTORY_MOVE_ALL	Tümünü ta
+INVENTORY_MOVE_ALL_DESC_1	Tüm öeleri normalden tar
+INVENTORY_MOVE_ALL_DESC_2	u anda açk olan kategoriye ait envanter
+INVENTORY_MOVE_TO_SPECIAL_INVENTORY	Özel envantere ta
+INVENTORY_OPENING_WHILE_FAST_MOVING_1	Hzl öe aktarm srasnda aç etkinletirildi.
+INVENTORY_OPENING_WHILE_FAST_MOVING_2	Hzl öe aktarm srasnda açma devre d brakld.
+INVENTORY_OPENING_WHILE_MOVING	Hareket halindeyken aç
+INVENTORY_OPEN_TOGETHER_WITH_EQUIPMENT	Ekipmanla birlikte açn
+INVENTORY_OPEN_WITH_INVENTORY_1	Envanterle açma - etkin
+INVENTORY_OPEN_WITH_INVENTORY_2	Envanterle açma - devre d
+INVENTORY_OPTION_INFO_1	Bu seçenein etkinletirilmesi,
+INVENTORY_OPTION_INFO_2	verilen öenin kategori penceresi açlrken
+INVENTORY_OPTION_INFO_3	bir öeyi özel envantere tamak.
+INVENTORY_OPTION_INFO_4	Klavye ksayolu: {} + {}
+INVENTORY_PANEL_ACTIVATE	{} - Etkinletir
+INVENTORY_PANEL_ARTIFACTS	eserler
+INVENTORY_PANEL_AUTO_BUFF	Otomatik güçlendirme paneli
+INVENTORY_PANEL_BLOCK_EXP	Anti-exp
+INVENTORY_PANEL_BONUS_TABLE	Bonus tablosu
+INVENTORY_PANEL_BOOSTERS	ksirler
+INVENTORY_PANEL_CHANGE_EQ	Ekipman deitir
+INVENTORY_PANEL_COLLECTIONER	Koleksiyonlar
+INVENTORY_PANEL_DUNGEONS	Zindan penceresi
+INVENTORY_PANEL_MISSIONS	Görevler penceresi
+INVENTORY_PANEL_MOUNT	Montaj
+INVENTORY_PANEL_OFFLINE_SHOP	Çevrimd maaza
+INVENTORY_PANEL_PET_WINDOW	Evcil Hayvan
+INVENTORY_PANEL_POLY_SHOP	Maaza arama
+INVENTORY_PANEL_QUICK_EQ	Hzl ekipman deiimi
+INVENTORY_PANEL_QUICK_WARP	Etkinlik Takvimi
+INVENTORY_PANEL_RUNES	Rünler
+INVENTORY_PANEL_SAFEBOX_ITEMSHOP	Kasa / Itemshop
+INVENTORY_PANEL_SAVE_POSITION	Kaydedilen konumlar
+INVENTORY_PANEL_SPECIAL_INV	Özel envanter
+INVENTORY_PANEL_SWITCH_BOT	Switchbot
+INVENTORY_PANEL_TELEPORTATION	Inlanma haritas
+INVENTORY_PANEL_TRASH_BIN	Çöp kutusu
+INVENTORY_PANEL_USE	{} - Pencereyi aç
+INVENTORY_PANEL_WEEKLY_RANK	Haftalk sralama
+INVENTORY_PULL_OUT_ITEM	{} - Çkarmak
+INVENTORY_SEPARATE_ALL	Hepsini ayr
+INVENTORY_SEPARATE_ITEMS	Ayrmak
+INVENTORY_SHOW_CHEST_DROP	Göüs düüü önizlemesi
+INVENTORY_SKILL_BOOK_TOOLTIP	Kitaplar
+INVENTORY_SPECIAL_INVENTORY_IS_FULL	Özel envanter {} dolu.
+INVENTORY_STACK_ALL	{} + {} - Her yeri srala
+INVENTORY_STACK_ITEMS	Öeleri srala
+INVENTORY_STACK_ITEMS_IN_CATEGORY	{} - Kategoriye göre srala
+INVENTORY_STONES_ONLY	Yalnzca ruh talarn ekleyebilirsiniz.
+INVENTORY_STONE_TOOLTIP	Ruh talar ve Simya
+INVENTORY_UPGRADE_ITEM_TOOLTIP	Öeleri yükselt
+INVENTORY_USE_SOME_ITEMS	{}x'i kullan
+ITEMSHOP_ADDITIONAL_TIME	Süre
+ITEMSHOP_ATTRIBUTE_EXP	|cFFFFCF48(PVM)|r
+ITEMSHOP_ATTRIBUTE_PVP	|cFFFFCF48(PvP)|r
+ITEMSHOP_CANNOT_BUY_MORE_THAN_20	20 adetten fazla satn alamazsnz.
+ITEMSHOP_CASH_UNIT	|cFFFFCF48DM|r
+ITEMSHOP_CATEGORY_01	Öe Gelitirmeleri
+ITEMSHOP_CATEGORY_02	Kostümler
+ITEMSHOP_CATEGORY_03	Saç modelleri
+ITEMSHOP_CATEGORY_04	Balar
+ITEMSHOP_CATEGORY_05	Evcil hayvanlar
+ITEMSHOP_CATEGORY_06	Silah Kostümleri
+ITEMSHOP_CATEGORY_07	Özel Ürünler
+ITEMSHOP_CATEGORY_08	Simya
+ITEMSHOP_CATEGORY_09	Kuaklar
+ITEMSHOP_CATEGORY_10	Kuak Kostümleri
+ITEMSHOP_CATEGORY_11	DM Kuponlar
+ITEMSHOP_CATEGORY_12	vip
+ITEMSHOP_CATEGORY_13	Dier
+ITEMSHOP_CATEGORY_14	Paketler
+ITEMSHOP_COUNT	Geçersiz bir tutar girdiniz.
+ITEMSHOP_DETAIL_CHECK	Daha fazla ayrnt için "satn al" dümesini tklayn
+ITEMSHOP_DISCOUNT	ndirimler:
+ITEMSHOP_DISCOUNT_END	ndirim sona eriyor
+ITEMSHOP_DO_YOU_BUY_ITEM1	Gerçekten %s karlnda %s satn almak istiyor musunuz?
+ITEMSHOP_DO_YOU_BUY_ITEM2	Gerçekten %s karlnda %s %s satn almak istiyor musunuz?
+ITEMSHOP_EDITOR_ADD_ITEM	Öe ekle
+ITEMSHOP_EDITOR_ITEM_PREFIX	• %s
+ITEMSHOP_INVENTORY_FULL	Envanterde yeterli alan yok.
+ITEMSHOP_LIMITED_COUNT	Snrl: |cFFf5ce42%d / %d
+ITEMSHOP_MISSING_DESCRIPTION	Öe açklamas eksik.
+ITEMSHOP_NON_EDITOR	Sen editör deilsin, bunu yapamazsn.
+ITEMSHOP_NOT_ENOUGH_COINS	Yeterli ejderha paranz yok.
+ITEMSHOP_POPUP_ITEMS_LIMITED	Yeni snrl ürünler mevcuttur,
+ITEMSHOP_POPUP_ITEMS_NEW	ItemShop'a yeni öeler eklendi,
+ITEMSHOP_POPUP_ITEMS_PROMO	ItemShop'ta yeni indirimler mevcut,
+ITEMSHOP_POPUP_ITEM_LIMITED	|cFFc7ffb6%s|r artk snrl bir süre için ItemShop'ta mevcut.
+ITEMSHOP_POPUP_ITEM_NEW	|cFFc7ffb6%s|r, ItemShop'a eklendi.
+ITEMSHOP_POPUP_ITEM_PROMO	|cFFc7ffb6%s|r artk indirimli.
+ITEMSHOP_POPUP_SECOND_LINE	- Ön izleme için tklayn.
+ITEMSHOP_PREMIUM_AUTOLOOT	Üçüncü El
+ITEMSHOP_PREMIUM_EXP	Bonus EXP
+ITEMSHOP_PREMIUM_FISH_MIND	Daha nadir balklar için daha yüksek ans
+ITEMSHOP_PREMIUM_GOLD	Yang' düürme ans daha yüksek
+ITEMSHOP_PREMIUM_ITEM	Eya düürme ans daha yüksek
+ITEMSHOP_PREMIUM_MARRIAGE_FAST	Evlilik süresinin ksalmas
+ITEMSHOP_PREMIUM_SAFEBOX	Daha büyük kasa
+ITEMSHOP_SELECT_ATTRIBUTE	Öeniz için |cffffcf48BONUSES|r'yi seçin
+ITEMSHOP_SELECT_ATTRIBUTE_ERROR	Öeniz için bonus seçmelisiniz
+ITEMSHOP_SELECT_BONUS	Bonuslar seçin
+ITEMSHOP_SELECT_EMPTY	Hiçbiri
+ITEMSHOP_SELECT_ITEM	Öeyi seç
+ITEMSHOP_SELECT_SOCKET	Ruh tan seç
+ITEMSHOP_TOOLTIP_DETAILS	Bu ürün birden fazla varyantta satlmaktadr. Daha fazla ayrnt görmek için "satn al" tklayn.
+ITEMSHOP_UNKNOWN_ERROR	Bilinmeyen hata
+ITEMSHOP_WARP	10 saniye beklemeniz gerekmektedir.
+ITEMSHOP_WHEEL_CHANCE	ans: %.02f%%
+ITEMSHOP_WHEEL_COST	Döndürme maliyeti:
+ITEM_DROP_EVENT	|cFFcabdabArtan düü: %d%%|r
+ITEM_LOTTERY_END_DATE	Piyango biti tarihi: %s
+ITEM_LOTTERY_ITEM_COUNT_WINDOW_TITLE	Ürün miktarn girin
+ITEM_LOTTERY_TOTAL_COUNT	Havuzdaki öeler: %d
+JUNGLE_DUNGEON	Antik Orman
+KEY_F11	F11
+KEY_F12	F12
+KEY_RETURN	GRMEK
+LEFTOVER_BONUS_TIME	Kalan bonus süresi:
+LEFTOVER_TIME	Kalan süre:
+LOGIN_FAILURE_HWID	Bu cihazda oturum açamazsnz!
+LOGIN_FAILURE_LOADING_IN_PROGRESS	Oyun dosyalar yükleniyor...
+LOGIN_FAILURE_PIN	Yanl kullanc ad, ifre veya PIN.
+LOGIN_INPUT_PIN	PIN'inizi girin.
+LOGIN_WRONG_VERSION	Oyunun sürümü eski! Patcher' kullann.
+MALZEME_DEPOSU	Bilgi:
+MAP_75	Tepegöz Vadisi
+MAP_LAS	Ruhlar Orman
+MAP_MINE	Madencilik Haritas
+MAP_NONE	Bilinmeyen konum
+MAP_OGNISTA	Ate Ülkesi
+MAP_PAJAKI	Örümcek Zindan
+MAP_PUSTYNIA	Firavun Çölü
+MAP_SOHAN	Sohan Da
+MAP_THREEWAY	Ork Vadisi
+MAP_ZACZAROWANY	Büyülü Orman
+MESSENGER_TEAM	Takm
+MINIMAP_FPS_INFO	Fps:{:3d}
+MINIMAP_SERVER_INFO_REGULAR	|cFFc7a374Elvion|r, CH{}
+MINIMAP_SERVER_INFO_WITH_99	|cFFc7a374Elvion|r - Küresel Kanal
+MINING_CHEST_EVENT	|cFFcabdabCEVHERDEN BR MADEN SANDII DÜTRME ANSI|h|r
+MINING_EVENT_RENEWAL_HIT_DELAY	Bunu bu kadar hzl yapamazsnz.
+MINI_GAME_RUMI_EXIT_QUESTION2	Mevcut puanlar ödüllerle deitirilecek.
+MINI_GAME_RUMI_START_QUESTION2	Oynamak ister misin?
+MOONLIGHT_EVENT	|cFFcabdabAy I Hazine Düüü|r
+MOUNT_BONUS_NONE	Bonus yok
+MOUNT_DOYUMHWAN_MAP_NAME	Ate Ülkesi
+MOUNT_SOHAN_MAP_NAME	Sohan Da
+MOUNT_TOOLTIP_APPLY_ATTBONUS_BOSS	Patronlara kar güçlü
+MOUNT_TOOLTIP_APPLY_ATTBONUS_MONSTER	Canavarlara kar güçlü
+MOUNT_TOOLTIP_APPLY_ATTBONUS_STONE	Talara kar güçlü
+MOUNT_TOOLTIP_MOUNT_SPEED	Montaj hz
+MOUNT_TOOLTIP_MAX_HP	Maks. HP
+MOUNT_WINDOW_BONUSES	|cffbd99ff|H|h[ Mevcut bonuslar ]|H|h
+MOUNT_WINDOW_CURRENT_EXP	|cffBEB4A8|H|h Deneyim:|H|h |cff18f28d|H|h{} EXP|H|h
+MOUNT_WINDOW_FEED_ITEM_1	|cffc99573|H|h(Lv. 1-24)|H|h
+MOUNT_WINDOW_FEED_ITEM_2	|cffc99573|H|h(Lv. 25-49)|H|h
+MOUNT_WINDOW_FEED_ITEM_3	|cffc99573|H|h(Lv. 50-74)|H|h
+MOUNT_WINDOW_FEED_ITEM_4	|cffc99573|H|h(Lv. 75-100)|H|h
+MOUNT_WINDOW_INFO_LEVEL	Her seviye size daha iyi bonuslar verir
+MOUNT_WINDOW_LEVEL	|cffb482ff|H|hSeviye {}
+MOUNT_WINDOW_NEED_EXP	|cffBEB4A8|H|hGerekli deneyim:|H|h |cff15bf70|H|h{} EXP|H|h
+MOUNT_YONGBI_MAP_NAME	Yongbi Çölü
+MOVE_ITEM_FAILURE_OFFLINE_SHOP	Bir maaza açarken bu eya tanamaz!
+MULTIPLE_PURCHASE	Çoklu satn alma: {key_shift}+{key_rclick}
+NEW_AFFECT_AUTO_METIN_FARM	Metin Kuyruu (VIP) SNA
+NONE_AFFECT	Bonus yok
+NORMAL_EVENT_TIME	uradan etkinletirilebilir: |cFFdbffa1%s|r'den: |cFFdbffa1%s|r'ye
+NPC_SEARCH	NPC'yi bul
+NPC_SEARCH_TEXT	u haritalarda görünür:
+OFFLINESHOP_AVERAGE_PRICE	Birim fiyat: {}
+OFFLINESHOP_AVERAGE_PRICE2	Toplam: {}
+OFFLINESHOP_AVERAGE_PRICE_INFO	<Ortalama fiyat bilgisi>
+OFFLINESHOP_AVERAGE_PRICE_NO_INFO	Ortalama fiyat bulunamad!
+OFFLINESHOP_CHANGE_ALL_PRICE	Ayn ürünün tüm fiyatlarn güncelle
+OFFLINESHOP_EDIT_SHOPNAME_DESCRIPTION	Yeni bir maaza ad girin
+OFFLINESHOP_EDIT_SHOPNAME_DESCRIPTION2	Yeni isim:
+OFFLINESHOP_FILTER_TITLE	Filtreler
+OFFLINESHOP_INPUT_INFO	stediiniz fiyat girin
+OFFLINESHOP_INPUT_INFO2	bu ürünü satmak için
+OFFLINESHOP_NOTIF_CLOSE_ALL	Tümünü kapat
+OFFLINESHOP_NOTIF_ITEM_INFO	%s x%d, %d karlnda satld.
+OFFLINESHOP_NO_MONEY_TO_WITHDRAW	Geri çekilecek yang yok.
+OFFLINESHOP_NO_NAME	Dükkannzn ad yok!
+OFFLINESHOP_RESULT_PER_PAGE	Sayfa bana sonuçlar
+OFFLINESHOP_RESULT_PER_PAGE_ITEM	Sayfa bana 25 öe
+OFFLINESHOP_RESULT_PER_PAGE_ITEM2	Sayfa bana 50 öe
+OFFLINESHOP_RESULT_PER_PAGE_ITEM3	Sayfa bana 100 öe
+OFFLINESHOP_SELL_WITH_AVG_PRICE	Ortalama fiyata sat
+OFFLINESHOP_SELL_WITH_AVG_PRICE2	Ortalama fiyatn %10 üzerinde sat yapn
+OFFLINESHOP_SELL_WITH_AVG_PRICE3	Ortalama fiyatn %10 altnda sat yapn
+OFFLINESHOP_SET_NAME	<- Maaza adnz girin ->
+OFFLINESHOP_SHOP_COLOR	Maaza ad rengini ayarla
+OFFLINESHOP_SHOP_DECO_0	Normal
+OFFLINESHOP_SHOP_DECO_1	1001 Gece
+OFFLINESHOP_SHOP_DECO_2	Barbekü Kral
+OFFLINESHOP_SHOP_DECO_3	Hazine Avclar
+OFFLINESHOP_SHOP_DECO_4	Ate Tüccar
+OFFLINESHOP_SHOP_DECO_5	Zrhç
+OFFLINESHOP_SHOP_DECO_TITLE	Maaza Dekorasyonu
+OFFLINESHOP_TITLE_NAME	sim
+OFFLINESHOP_TITLE_OTHER	Dier
+OFFLINESHOP_TITLE_PRICE	Fiyat
+OFFLINESHOP_TOOLTIP_RIGHT_CLICK_FOR_SALE	|Eemoji/key_rclick|e - Maazaya öe ekle
+OFFLINESHOP_TOOLTIP_RIGHT_CLICK_FOR_SALE2	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Maazaya hzl öe ekleme
+OFFLINESHOP_TOTAL_PRICE_OF_SHOP	Tüm maaza öelerinin toplam fiyat
+OFFLINESHOP_TOTAL_YANG_AMOUNT	Toplam: {}
+OFFLINE_SHOP	Çevrimd Maaza
+OFFLINE_SHOP_ADD_ITEM	Öe ekle
+OFFLINE_SHOP_ADD_ITEM_WINDOW	Maazanza bir ürün ekleyin
+OFFLINE_SHOP_BANK	Geri çekilmek
+OFFLINE_SHOP_BANK_BAD_VALUE	Yanl deer girildi!
+OFFLINE_SHOP_BANK_EX	Çekmek istediiniz tutar giriniz:
+OFFLINE_SHOP_BANK_INFO	Kazanlan yang ve kazanlan deerler her 5 saniyede bir yenilenir!
+OFFLINE_SHOP_BANK_TITLE	Kazanç
+OFFLINE_SHOP_BANK_VALUE	Mevcut kazancnz:
+OFFLINE_SHOP_BANK_WAIT	Tekrar çekilmeden önce 30 saniye beklemelisiniz!
+OFFLINE_SHOP_BUY_ITEM	%s karlnda %s x%d satn almak ister misiniz?
+OFFLINE_SHOP_BUY_ITEM2	%s karlnda %s satn almak istiyor musunuz?
+OFFLINE_SHOP_CANNOT_SELL_ITEM	Bu ürün bir maazada satlamaz!
+OFFLINE_SHOP_CH	Kanal
+OFFLINE_SHOP_CLOSE	Maazay kapat
+OFFLINE_SHOP_CTIME	Kalan süre:
+OFFLINE_SHOP_DAY	Günler:
+OFFLINE_SHOP_DELETE_ITEM	Öeyi kaldr
+OFFLINE_SHOP_DELETE_ITEM_WINDOW	Maazanzdan bir ürünü kaldrn
+OFFLINE_SHOP_EMOJI_TOOLTIP	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Öeyi kaldr
+OFFLINE_SHOP_EMOJI_TOOLTIP2	|Eemoji/key_rclick|e - Ürün fiyatlarn güncelle
+OFFLINE_SHOP_EMOJI_TOOLTIP3	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Öeyi al
+OFFLINE_SHOP_EMPTY	Bilgi yok
+OFFLINE_SHOP_HOUR	Saat:
+OFFLINE_SHOP_INPUT_PRICE_DIALOG_TITLE	Fiyat
+OFFLINE_SHOP_IS_EMPTY	Dükkannz bo!
+OFFLINE_SHOP_LEFT_TIME	Kalan süre: %s
+OFFLINE_SHOP_LOC	Konum
+OFFLINE_SHOP_LOCALIZATION_01	%S
+OFFLINE_SHOP_LOCALIZATION_02	(%d, %d)
+OFFLINE_SHOP_LOCALIZATION_03	%d CH
+OFFLINE_SHOP_MAP	Harita
+OFFLINE_SHOP_NAME	Maaza ad:
+OFFLINE_SHOP_NO_ITEMS_IN_SHOP	Bir maaza oluturmak için içine öeler yerletirmelisiniz!
+OFFLINE_SHOP_OPEN	Maazay aç
+OFFLINE_SHOP_PLAYER_NAME	Çevrimd maaza oyuncusu -
+OFFLINE_SHOP_REMAINING_TIME	Kalan süre: 0 gün
+OFFLINE_SHOP_SEARCH	Aramak
+OFFLINE_SHOP_TIME	Günler: %d, Saatler: %s
+OFFLINE_SHOP_TIMEE	Kalan süre
+OFFLINE_SHOP_WARNING	Depolama alan dolu olduu için aradnz öeyi göremiyorsanz, depodan ürün topladnzda daha fazla öe göreceksiniz.
+OFFLINE_SHOP_WARNING1	Artk farenin sa tuunu kullanarak eya satn alyorsunuz, dikkatli olun!
+OFFLINE_SHOP_WITHDRAW_YANG	Geri çekilmek
+OFFSHOP_DECORATION_SET	Maaza dekorasyonunu ayarla
+ONLY_CHANNEL	Kanal: %d
+PASSIVE_SKILLS_FULLED_DESC_1	Tüm pasif becerilere sahipseniz
+PASSIVE_SKILLS_FULLED_DESC_2	P seviyesinde kazanacaksnz
+PASSIVE_SKILLS_FULLED_DESC_3	|cFFffce47+{}|r beceriye
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_1	Tüm arkadalk becerilerine sahipseniz
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_2	P seviyesinde kazanacaksnz
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_3	|cFFffce47+{}|r beceriye
+PET_INFO_1	P'de tüm becerilere sahipseniz,
+PET_INFO_2	tüm becerilere |cFFc8ff9c+30%|r ek bonus alacaksnz.
+PET_INFO_3	Seçilen beceri: {}
+PET_INFO_4	Ekstra bonus: |cFFc8ff9c+{}
+PET_SKILL_1	Canllk
+PET_SKILL_10	Penetrasyon
+PET_SKILL_11	Patron Kral
+PET_SKILL_2	Delilik
+PET_SKILL_3	Cesaret
+PET_SKILL_4	Odak
+PET_SKILL_5	Güç
+PET_SKILL_6	Her eye gücü yetme
+PET_SKILL_7	Emilim
+PET_SKILL_8	Öfke
+PET_SKILL_9	Zrh
+PKT_OSIAG_LOCALE_GAME	Eriim noktas
+PKT_OSIAG_SYSTEM_PICK_PKT_OSIAG	test testi: %d
+POLYMARBLE_STAGE	|cFFffce47Aama {}
+POLYMORPH_AFFECT_REMOVE_QUESTION	Dönüümü gerçekten iptal etmek istiyor musunuz?
+POLYMORPH_AFFECT_TOOLTIP	Dönüüm SNA's
+PREMIUM_EXTRA_SHOP_SEARCH_TOOLTIP	Premium aktif deil!\n-- Premium hesap avantajlar --\n *Uzaktan satn alma\n *Birden fazla satn alma
+PREMIUM_EXTRA_SHOP_SEARCH_TOOLTIP2	Premium aktif!\n-- Premium hesap avantajlar --\n *Uzaktan satn alma\n *Birden fazla satn alma
+PREMIUM_OVERIN_TOOLTIP	Bu özellii yalnzca premium hesap kullanclar kullanabilir.
+PREMIUM_OVERIN_TOOLTIP2	Bu özellii etkinletirmek için {} tuunu kullanabilirsiniz.
+PREMIUM_PRIVATE_ITEM_ADD_DIFFERENCE_PRICE_WARNING	Ürünü farkl fiyatlardan satamazsnz.
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_WON2	Kazanç deeri + satlan kazanlan miktar maksimum limiti aamaz.
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_YANG2	Kazanç deeri + satlan yang tutar maksimum limiti aamaz.
+PREMIUM_PRIVATE_SALE_CUSTOMER	Oyuncu: %s
+PREMIUM_PRIVATE_SALE_TIME	Tarih: %s
+PREMIUM_PRIVATE_SHOP_AUTO_MARKET_PRICE_INPUT_TOOLTIP	Otomatik olarak piyasa fiyatndan sat yapn.
+PREMIUM_PRIVATE_SHOP_BUILD_RESTRICTED	Bu yerde maaza açlamaz.
+PREMIUM_PRIVATE_SHOP_HYPERLINK_HELP_TOOLTIP	Maazaya bir öe eklemek için CTRL + fare dümesini kullann.
+PREMIUM_PRIVATE_SHOP_INVALID_ITEM_CHECKIN_POSITION	Maazanza daha fazla ürün eklenemez.
+PREMIUM_PRIVATE_SHOP_LOCKED_SLOT_QUESTION	Bu yuvann kilidini açmak istiyor musunuz?
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE	[Mevcut kazançlar]
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE_HINT_MSG	Uyar: Piyasa fiyat ürün kalitesini dikkate almaz.
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE_NOT_AVAILABLE	Müsait deil.
+PREMIUM_PRIVATE_SHOP_MODIFY_STATE_OPEN_FAIL_TIME	Maazay tekrar açmadan önce lütfen bekleyin.
+PREMIUM_PRIVATE_SHOP_NOT_MODIFY_STATE	Maazanz yönetilmiyorken bunu yapamazsnz..
+PREMIUM_PRIVATE_SHOP_NO_BUNDLE_ITEM	Kese olmadan dükkan açamazsnz.
+PREMIUM_PRIVATE_SHOP_NO_PREMIUM_BUNDLE_ITEM	Kemir olmadan maazanzn görünümünü deitiremezsiniz.
+PREMIUM_PRIVATE_SHOP_SHORT_TITLE	Lütfen daha uzun bir ad girin.
+PREMIUM_PRIVATE_SHOP_TIME_EXPIRED	Primin süresi doldu
+PREMIUM_PRIVATE_SHOP_TOTAL_WORTH	Sat fiyat:
+PREMIUM_PRIVATE_SHOP_UNLOCK_KEY_MISSING	Bunun kilidini açmak için sihirli bir anahtara ihtiyacnz var.
+PREMIUM_PRIVATE_SHOP_WARP_HELP_TOOLTIP	Maazaya nlanmak için tklayn.
+PREMIUM_PRIVATE_SHOP_WITHDRAW_QUESTIONG	Gerçekten Yang' dükkanndan çekmek istiyor musun?
+PRICE_FORMAT	Fiyat: |cFFffc700{} {} |cFFb8b8b8{} {}
+PRIVATESHOPSEARCH_ABLITY_POTION	Çi
+PRIVATESHOPSEARCH_ACCESSORY_SOCKET	nce kuma
+PRIVATESHOPSEARCH_ARMOR	Teçhizat
+PRIVATESHOPSEARCH_ARROW	Oklar
+PRIVATESHOPSEARCH_BELL	Çanlar
+PRIVATESHOPSEARCH_BELT	Kemerler
+PRIVATESHOPSEARCH_BLEND	ksirler
+PRIVATESHOPSEARCH_BLOOD_PEARL	Kan krmzs inci
+PRIVATESHOPSEARCH_BLUE_PEARL	Mavi inci
+PRIVATESHOPSEARCH_BODY	Zrh
+PRIVATESHOPSEARCH_BOW	Yaylar
+PRIVATESHOPSEARCH_BUYTIME	Seçilen ürünü satn almak istiyor musunuz?
+PRIVATESHOPSEARCH_CLAW	Pençeler
+PRIVATESHOPSEARCH_CLEAR_POTION	ksirler
+PRIVATESHOPSEARCH_COSTUME	Kostümler
+PRIVATESHOPSEARCH_COSTUMEBODY	Kostüm
+PRIVATESHOPSEARCH_COSTUMEHAIR	Saç modeli
+PRIVATESHOPSEARCH_COSTUME_ACCE	Kuaklar
+PRIVATESHOPSEARCH_COSTUME_ACCE_SKIN	Kanat kostümleri
+PRIVATESHOPSEARCH_COSTUME_AURA	aura kostümü
+PRIVATESHOPSEARCH_COSTUME_MOUNT	Balar
+PRIVATESHOPSEARCH_CRYSTAL	Kristal
+PRIVATESHOPSEARCH_DAGGER	Hançerler
+PRIVATESHOPSEARCH_DEAD	Ölü
+PRIVATESHOPSEARCH_DETACHMENT	Ta el kitab
+PRIVATESHOPSEARCH_DIAMOND	Elmas
+PRIVATESHOPSEARCH_DS	Ejderha Ta Simyas
+PRIVATESHOPSEARCH_DS_BLACK	Oniks
+PRIVATESHOPSEARCH_DS_BLUE	Safir
+PRIVATESHOPSEARCH_DS_GREEN	Yeim
+PRIVATESHOPSEARCH_DS_RED	Yakut
+PRIVATESHOPSEARCH_DS_WHITE	Elmas
+PRIVATESHOPSEARCH_DS_YELLOW	Garnet
+PRIVATESHOPSEARCH_EAR	Küpeler
+PRIVATESHOPSEARCH_FAN	Hayranlar
+PRIVATESHOPSEARCH_FISH	Balk
+PRIVATESHOPSEARCH_FOOTS	Ayakkab
+PRIVATESHOPSEARCH_GEM	Talar
+PRIVATESHOPSEARCH_GIFTBOX	Sandklar
+PRIVATESHOPSEARCH_GLOVE	Eldivenler
+PRIVATESHOPSEARCH_HEAD	Kasklar
+PRIVATESHOPSEARCH_LIVE	Canl
+PRIVATESHOPSEARCH_MATERIAL	Malzemeler
+PRIVATESHOPSEARCH_METIN	Ruh talar
+PRIVATESHOPSEARCH_NECK	Kolyeler
+PRIVATESHOPSEARCH_NEED_ITEM_BUY	Doru kese olmadan hiçbir ürünü satn alamazsnz.
+PRIVATESHOPSEARCH_NEED_ITEM_FIND	Doru kese olmadan hiçbir öeyi arayamazsnz.
+PRIVATESHOPSEARCH_NODELAY_POTION	HP öeleri
+PRIVATESHOPSEARCH_ORE	cevher
+PRIVATESHOPSEARCH_OTHER_COSTUMES	Dier kostümler
+PRIVATESHOPSEARCH_PET	Evcil hayvanlar
+PRIVATESHOPSEARCH_PETAGG	Evcil hayvan yumurtalar
+PRIVATESHOPSEARCH_PETSKILLBOOK	Evcil hayvan beceri kitaplar
+PRIVATESHOPSEARCH_PICK	Kazmalar
+PRIVATESHOPSEARCH_POTION	ksirler
+PRIVATESHOPSEARCH_QUEST	Görev
+PRIVATESHOPSEARCH_QUIVER	Sadaklar
+PRIVATESHOPSEARCH_RESOURCE	Öeleri yükselt
+PRIVATESHOPSEARCH_ROD	Oltalar
+PRIVATESHOPSEARCH_SELECTITEM	Bir öe seçin.
+PRIVATESHOPSEARCH_SHIELD	Kalkanlar
+PRIVATESHOPSEARCH_SKILLBOOK	Beceri kitaplar
+PRIVATESHOPSEARCH_SKILLFORGET	Unutmann Kitab
+PRIVATESHOPSEARCH_SKIN_AURA	aura kostümü
+PRIVATESHOPSEARCH_SKIN_MOUNT	Montaj kostümü
+PRIVATESHOPSEARCH_SKIN_PET	Evcil hayvan kostümü
+PRIVATESHOPSEARCH_SKIN_SASH	Kuak kostümü
+PRIVATESHOPSEARCH_SPECIAL	Çeitli
+PRIVATESHOPSEARCH_STONE	Enerji parçalar
+PRIVATESHOPSEARCH_SWORD	Tek elle kullanlan klçlar
+PRIVATESHOPSEARCH_TREASUREBOX	Sandklar
+PRIVATESHOPSEARCH_TUNING	Parömenler
+PRIVATESHOPSEARCH_TWOSWORD	ki elli klçlar
+PRIVATESHOPSEARCH_UNIQUE	Esiz
+PRIVATESHOPSEARCH_USEITEM	Sarf malzemeleri
+PRIVATESHOPSEARCH_USESPECIAL	Çeitli
+PRIVATESHOPSEARCH_WEAPON	Silahlar
+PRIVATESHOPSEARCH_WHITE_PEARL	Beyaz inci
+PRIVATESHOPSEARCH_WRIST	Bilezikler
+PRIVATE_SHOP_BUY_ITEM_SELECTED_FAILURE	Zaten satn alnm veya kaldrlm bir öe kaldrlamaz.
+PRIVATE_SHOP_BUY_ITEM_SELECTED_OVERFLOW	En fazla 10 öe seçebilirsiniz.
+PRIVATE_SHOP_BUY_VNUM_ITEM_NOT_SELECTED	Satn almak istediiniz ürünü seçin.
+PRIVATE_SHOP_CLOSE_QUESTION	Özel dükkan kapatmak m istiyorsun?
+PRIVATE_SHOP_SEARCH_APPLY_FILTER_QUESTION	'%s' filtresini gerçekten uygulamak istiyor musunuz?
+PRIVATE_SHOP_SEARCH_GENDER_FEMALE	Dii
+PRIVATE_SHOP_SEARCH_GENDER_MALE	Erkek
+PRIVATE_SHOP_SEARCH_LIMIT_LEVEL	Oyuncu seviyesi
+PRIVATE_SHOP_SEARCH_LIMIT_REFINEMENT	yiletirme seviyesi
+PRIVATE_SHOP_SEARCH_LIMIT_STACK	Yn
+PRIVATE_SHOP_SEARCH_MAX	Maks.
+PRIVATE_SHOP_SEARCH_MIN	Min.
+PRIVATE_SHOP_SEARCH_PLAYER_NAME_NOT_SELECTED	Oyuncu adn girin.
+PRIVATE_SHOP_SEARCH_REMOVE_FILTER_QUESTION	'%s' filtresini gerçekten kaldrmak istiyor musunuz?
+PRIVATE_SHOP_SEARCH_SELECT_ALCHEMY_CLARITY	Netlii seçin
+PRIVATE_SHOP_SEARCH_SELECT_ALCHEMY_LEVEL	Seviye seçin
+PRIVATE_SHOP_SEARCH_SELECT_ATTR	Nitelikleri seçin: %d
+PRIVATE_SHOP_SEARCH_SELECT_GENDER	Cinsiyet seçin
+PRIVATE_SHOP_SEARCH_SELECT_JOB	Snf seçin
+PRIVATE_SHOP_SEARCH_SELECT_NONE	Hiçbiri
+PRIVATE_SHOP_SEARCH_SELECT_SASH_ABSORPTION	Kanat emilimi
+PRIVATE_SHOP_SEARCH_TITLE_ALCHEMY	Simya
+PRIVATE_SHOP_SEARCH_TITLE_ATTRIBUTES	Nitelikler
+PRIVATE_SHOP_SEARCH_TITLE_CLASSIFIERS	Snflandrclar
+PRIVATE_SHOP_SEARCH_TITLE_LIMITS	Snrlar
+PVP_EVENT_TIME	Balangç tarihi: %s
+PVP_LEVEL0	[Elvyon Efsanesi]
+PVP_LEVEL1	[Elvion Derebeyi]
+PVP_LEVEL10	[Agresif]
+PVP_LEVEL11	[Kaçamak]
+PVP_LEVEL12	[Kötü niyetli]
+PVP_LEVEL13	[Acmasz]
+PVP_LEVEL2	[Elvion Hükümdar]
+PVP_LEVEL3	[Büyükusta]
+PVP_LEVEL4	[Cetvel]
+PVP_LEVEL5	[Yenilmez]
+PVP_LEVEL6	[Her eye Gücü Yeten]
+PVP_LEVEL7	[Cesur]
+PVP_LEVEL8	[yiletirmek]
+PVP_LEVEL9	[Doal]
+QUEST_CATEGORY_00	Ana görevler
+QUEST_CATEGORY_01	Yan görevler
+QUEST_CATEGORY_02	Öldürmek
+QUEST_CATEGORY_03	Koleksiyon görevleri
+QUEST_CATEGORY_04	Etkinlik görevleri
+QUEST_CATEGORY_05	Günlük görevler
+QUEST_CATEGORY_06	Sistemler ve beceriler
+QUEST_CATEGORY_07	Günlük görevler
+RANKING_LEVEL_PREFIX	Lv. {}
+RANKING_TOP_15	LK 15 Sralamas
+RANKING_WINDOW_CATEGORY_ALCHEMY	Rafine Ejderha Talar
+RANKING_WINDOW_CATEGORY_BOSSES	Patronlar malup
+RANKING_WINDOW_CATEGORY_DRAGON_COINS	Harcanan ejderha paralar
+RANKING_WINDOW_CATEGORY_DUNGEONS	Zindanlar
+RANKING_WINDOW_CATEGORY_FISHING	Balk tutma
+RANKING_WINDOW_CATEGORY_LEVEL	Ulalan seviye
+RANKING_WINDOW_CATEGORY_MINING	madencilik
+RANKING_WINDOW_CATEGORY_MONSTERS	Öldürülen canavarlar
+RANKING_WINDOW_CATEGORY_REFINE	Yükseltilmi öeler
+RANKING_WINDOW_CATEGORY_STONES	Yklan talar
+RANKING_WINDOW_LEVEL_RANK_LIMIT	Seviye sralamasnda 75+ seviyeye sahip karakterler görüntülenir.
+RANKING_WINDOW_LOADING_IN_PROGRESS	u anda baka bir kategorideki içerik yüklenirken kategori deitirilemez.
+RANKING_WINDOW_NO_CHARACTERS	Karakter yok
+RANKING_WINDOW_NO_POSITION	Pozisyon yok
+RANKING_WINDOW_POSITION	%s konumu
+RANKING_WINDOW_RANKING_TITLE	Sralama
+RANKING_WINDOW_SERVER_RANKING_DO_NOT_RESET	Sunucu sralamas sfrlanmaz.
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME	Sralama sfrlamas urada gerçekleecek:|cFFF19BFF
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME_UPDATE	Sralama sfrlamas urada gerçekleecek: |cFFcf9bff%s
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME_UPDATE1	Sralamann sfrlanmas u sürede gerçekleecek: |cFFcf9bff0 sn.
+RANKING_WINDOW_WEERKLY_RANK_UNAVAILABLE	Haftalk sralama mevcut deil.
+RED_KINGDOM	|cFFFBB497Shinsoo|h|r
+REFINEWINDOW_DO_NOT_CLOSE_WINDOW	Pencereyi kapatmayn
+REFINEWINDOW_FIND_IN_SHOPS	Maazalarda ürün bulun
+REFINEWINDOW_PRICE_1	Fiyat: {}
+REFINE_FAILURE_CAN_NOT_ATTACH	%s öeye eklenemez.
+REMAINING_TIME_DAYS	Günler
+REMAINING_TIME_HOURS	Saat.
+REMAINING_TIME_MINUTES	Min.
+REMAINING_TIME_SECONDS	saniye.
+REMOVE_ITEM_DO_YOU_REMOVE	Seçilen öeleri gerçekten kaldrmak istiyor musunuz?
+RENDER_TARGET_PREVIEW_ITEM	Model önizlemesi
+RESP_AVAILABLE	Mevcut
+RESP_DROP_TEXT	Bu dümeye tkladktan sonra seçilen canavarn düüü görüntülenecektir.
+RESP_DROP_TITLE	Canavar bilgisi
+RESP_MOB_TEXT	Bu onay kutusu iaretlendiinde, üzerine gelindiinde canavar modeli gösterilecektir.
+RESP_MOB_TITLE	Canavar modelini göster
+RESP_PAGE_COUNT	Sayfa %d / %d
+RESP_RESP_TEXT	Bu onay kutusu iaretlendiinde, "nlanma" dümesinin üzerine gelindiinde canavarn haritadaki konumu gösterilecektir.
+RESP_RESP_TITLE	Harita önizlemesi
+REVIVE_AUTO_TOWN_MESSAGE	uradaki ehre dönü: {}
+RUNE_DECK5_TOOLTIP	Rünler - Ek bonus (Seviye +5)
+RUNE_DECK9_TOOLTIP	Rünler - Ek bonus (Seviye +9)
+SASH_ABSORBED_ITEM	Emilen öe
+SAVE_MAPS_BUSY	|cfffad3a5%s|r
+SAVE_MAPS_EMPTY	|cffe7a6a6- Kaydedilmi veri yok -|r
+SAVE_MAPS_OVERWRITE_DESC	Mevcut verilerin üzerine yazlacak!
+SAVE_MAPS_SAVE_DESC	Daha iyi yönlendirme için kaydedilen konumu mümkün olduunca doru bir ekilde tanmlayn.
+SAVE_MAPS_SAVE_TITLE	Konum adn girin
+SCORPION_DUNGEON	Akrep kalntlar
+SEARCH_IN_SHOPS_SHORTCUT	Maazalarda ara
+SECONDARY_LEVEL_0	Hiçbiri
+SECONDARY_LEVEL_1	Bronz I
+SECONDARY_LEVEL_10	Her eyi bilen
+SECONDARY_LEVEL_11	Demir ben
+SECONDARY_LEVEL_12	Demir II
+SECONDARY_LEVEL_13	Demir III
+SECONDARY_LEVEL_14	Yldz
+SECONDARY_LEVEL_15	Asil
+SECONDARY_LEVEL_16	Platin I
+SECONDARY_LEVEL_17	Platin II
+SECONDARY_LEVEL_18	Platin III
+SECONDARY_LEVEL_19	Platin IV
+SECONDARY_LEVEL_2	Bronz II
+SECONDARY_LEVEL_20	Platin V
+SECONDARY_LEVEL_21	Elmas I
+SECONDARY_LEVEL_22	Elmas II
+SECONDARY_LEVEL_23	Elmas III
+SECONDARY_LEVEL_24	Elmas IV
+SECONDARY_LEVEL_25	Elmas V
+SECONDARY_LEVEL_26	Yakut ben
+SECONDARY_LEVEL_27	Yakut II
+SECONDARY_LEVEL_28	Yakut III
+SECONDARY_LEVEL_29	Yakut IV
+SECONDARY_LEVEL_3	Bronz III
+SECONDARY_LEVEL_30	Yakut V
+SECONDARY_LEVEL_4	Gümü I
+SECONDARY_LEVEL_5	Gümü II
+SECONDARY_LEVEL_6	Gümü III
+SECONDARY_LEVEL_7	Altn ben
+SECONDARY_LEVEL_8	Altn II
+SECONDARY_LEVEL_9	Altn III
+SECONDARY_LEVEL_BONUS_NONE	Bonus yok
+SECURITY_ANSWER_IS_WRONG	Cevap yanl, lütfen tekrar deneyiniz! Not: Her hatal deneme süreyi 5 saniye azaltr.
+SECURITY_ANSWER_SUCCESS	Bot dorulamas baaryla tamamland, oynamaya devam edebilirsiniz.
+SECURITY_CLEAR	Temizlemek
+SECURITY_CONFIRM	Onaylamak
+SECURITY_FIND_THE_DIFFERENT	Dierlerinden farkl olan görsele tklayn!
+SECURITY_NUMBERS_RESET_POS	Saylar pencerenin dnda görünüyorsa ve onlara tklayamyorsanz bu dümeye basn!
+SECURITY_REMAINING_TIME	Kalan süre: {:.1f}
+SECURITY_SELECT_ANSWER	Yukardaki saylar yazn!
+SECURITY_SORT_IMAGES	Saylar {} konumundan sürükleyerek sralayn!
+SECURITY_SORT_IMAGES2	küçükten büyüe
+SECURITY_SORT_IMAGES3	büyükten küçüe
+SECURITY_YOU_HAVE_ONE_MORE_CHANGE	Yanl seçim, tekrar deneyin! Bir yanl seçim daha balantnz kesecektir.
+SELL_PRICE	|cFFffc700Sat fiyat:
+SHIP_DUNGEON_1	Hayalet Gemi (I)
+SHIP_DUNGEON_2	Hayalet Gemi (II)
+SHOP_BUY_NOTIF_0	satld.
+SHOP_BUY_NOTIF_1	yang depolama alannza eklendi.
+SHOP_MONEY_NOT_ENOUGH	Yeterli deil!
+SHOP_MONEY_NOT_ENOUGH2	Sepete eklemek istediiniz ürünlerin toplam fiyat bakiyenizi amamaldr.
+SHOP_NOT_ENOUGH_CHEQUE	Yeterli Won'unuz yok.
+SHOP_NOT_ENOUGH_MONEY_CHEQUE	Yeterli won'unuz veya yang'nz yok.
+SHOP_NOT_ENOUGH_PKT_OSIAG	Yeterli baar puannz yok.
+SHOP_SEARCH_ACCE_GRADE_FILTER_0	Yaygn
+SHOP_SEARCH_ACCE_GRADE_FILTER_1	yi
+SHOP_SEARCH_ACCE_GRADE_FILTER_2	Soylu
+SHOP_SEARCH_ACCE_GRADE_FILTER_3	Gelenek
+SHOP_SEARCH_ACCE_GRADE_FILTER_TITLE	Kanat seviyesi
+SHOP_SEARCH_ADD_ITEMS_TO_THE_CART_FIRST	Bu eylemi gerçekletirmek için önce öeleri seçmelisiniz.
+SHOP_SEARCH_ADD_TO_BASKET	Ürünü sepete ekle
+SHOP_SEARCH_ALL	Tüm kategoriler
+SHOP_SEARCH_BUY_CONFIRM	Gerçekten %s satn almak istiyor musun?
+SHOP_SEARCH_BUY_CONFIRM2	%s'in bulunduu maazaya nlanmak ister misiniz?
+SHOP_SEARCH_BUY_SELECTED_ITEMS	Seçilen öeleri satn al
+SHOP_SEARCH_BUY_SELECTED_ITEMS_CONFIRM	Bu %d ürünü gerçekten satn almak istiyor musunuz?
+SHOP_SEARCH_CLEAR_CART_FIRST	Bu eylem yalnzca hiçbir öe seçilmediinde gerçekletirilebilir.
+SHOP_SEARCH_DS_CLARITY_FILTER_0	Bulutlu
+SHOP_SEARCH_DS_CLARITY_FILTER_1	Temizlemek
+SHOP_SEARCH_DS_CLARITY_FILTER_2	Kusursuz
+SHOP_SEARCH_DS_CLARITY_FILTER_3	Muhteem
+SHOP_SEARCH_DS_CLARITY_FILTER_4	Harika
+SHOP_SEARCH_DS_CLARITY_FILTER_TITLE	Ejderha Simyas Berrakl
+SHOP_SEARCH_DS_GRADE_FILTER_0	Elmas
+SHOP_SEARCH_DS_GRADE_FILTER_1	Yakut
+SHOP_SEARCH_DS_GRADE_FILTER_2	kehribar
+SHOP_SEARCH_DS_GRADE_FILTER_3	Safir
+SHOP_SEARCH_DS_GRADE_FILTER_4	Garnet
+SHOP_SEARCH_DS_GRADE_FILTER_5	Oniks
+SHOP_SEARCH_DS_GRADE_FILTER_TITLE	Ejderha Simyas Seviyesi
+SHOP_SEARCH_ENTER_ITEMNAME	Öe adna göre ara
+SHOP_SEARCH_FILTER_0_0	Min. Miktar
+SHOP_SEARCH_FILTER_0_1	Maks. Miktar
+SHOP_SEARCH_FILTER_1_0	Min. Seviye
+SHOP_SEARCH_FILTER_1_1	Maks. Seviye
+SHOP_SEARCH_FILTER_2_0	Benim. Abs.
+SHOP_SEARCH_FILTER_2_1	Maks. Abs.
+SHOP_SEARCH_FILTER_3_0	Min. Ortalama
+SHOP_SEARCH_FILTER_4_0	Min. Fiyat
+SHOP_SEARCH_FILTER_4_1	Maks. Fiyat
+SHOP_SEARCH_ITEM_PRICE_PER_COUNT	Birim bana fiyat: %s
+SHOP_SEARCH_MULTIBUY_ACTIVATED	Toplu satn almay etkinletirdiniz, imdi ürünleri seçin.
+SHOP_SEARCH_NOT_RESULT_FOUND	Sonuç bulunamad!
+SHOP_SEARCH_PREMIUM_NEEDED_FOR_THIS_ACTION	Bu ilem için premium hesap gereklidir.
+SHOP_SEARCH_REMOVE_FROM_THE_BASKET	Ürünü sepetten kaldr
+SHOP_SEARCH_SEARCH_BY_PLAYERNAME	Oyuncu adna göre ara
+SHOP_SEARCH_SEARCH_BY_PLAYERNAME2	Oyuncu adna göre ara
+SHOP_SEARCH_SHORTCUT_SEARCH	|Eemoji/key_shift|e + |Eemoji/key_j|e - Maazalardaki öeleri arayn
+SHOP_SEARCH_TITLE	Maaza arama
+SHOP_SEARCH_WAIT	Bu ilemi tekrar gerçekletirmeden önce lütfen %d saniye bekleyin.
+SHOP_TIMER_FORMAT	{} gün, {} saat, {} dk.
+SKILLS_MAX_LEVEL	Maksimum seviye.
+SKILL_AFFECT_REMOVE_QUESTION	Bu beceriyi gerçekten kaldrmak istiyor musunuz?
+SKILL_DAMAGE_DUNGEON_2	Kayp Unutulma Kalesi
+SKILL_DAMAGE_DUNGEON_3	Antik Baron'un Mezar
+SKILL_DAMAGE_DUNGEON_4	Beceri zindan 3
+SKILL_DATA_129_DESC_1	|cFFc1c1c1Hasar +%{}
+SPECIAL_INVENTORY_BOOKS	Kitaplar
+SPECIAL_INVENTORY_CHESTS	Sandklar
+SPECIAL_INVENTORY_DEWS	Çiyler
+SPECIAL_INVENTORY_REFINE	Öeleri yükselt
+SPECIAL_INVENTORY_STONES_ALCHEMY	Talar ve Simya
+SPECIAL_INVENTORY_USABLE	Kullanlabilir öeler
+SPIDER_DUNGEON	Örümcek Kraliçe Salonu
+STATS_ADD	Eklemek
+STATUS_GUI_TXT	Saymak:
+STONE_CRAFTING_DESC	Ruh Ta +{} - {}x Ta Parças
+STONE_CRAFTING_QUICK_ADD	{} + {} - Hzl ekleme
+SUMMER_DUNGEON	Solargon'un Maaras
+SWITCHBOT_ALTERNATIVE	Alternatif
+SWITCHBOT_CLEAR_ATTR	Bonusu kaldr
+SWITCHBOT_CLEAR_CONFIGURATION	Temizlemek
+SWITCHBOT_CONFIGURATION_TITLE	ablonlarnz
+SWITCHBOT_EMPTY_ATTR	- Bir bonus seçmelisiniz -
+SWITCHBOT_INSTANT	Annda geçi
+SWITCHBOT_INSTANT_COUNT_TITLE	Anahtar says:
+SWITCHBOT_IN_PROGRESS	|cff73eb5eBonuslar yalnzca görünür olacak|r
+SWITCHBOT_IN_PROGRESS2	|cff73eb5eanahtar robotu durdurulduunda.|r
+SWITCHBOT_LOAD_CONFIGURATION	Yük
+SWITCHBOT_SAVE	Kaydetmek
+SWITCHBOT_SAVE_BUTTON	Depolamak
+SWITCHBOT_SELECT_ATTR	Bonus seçimi
+SWITCHBOT_START	Balangç
+SWITCHBOT_STOP	Durmak
+SWITCHBOT_TITLE	Switchbot
+SWITCH_AVERAGE_EVENT	|cFFcabdabOrtalama hasar alma ans %63|r
+SWITCH_AVERAGE_EVENT_TEXT	|cFFcabdabOrtalama hasar için daha yüksek ans|r
+SWITCH_RARE_EVENT	|cFFcabdab6/7 bonuslarn daha kolay yuvarlanmas|r
+SWITCH_RUNE_EVENT	|cFFcabdabDaha kolay kalnt yuvarlama|r
+SWITCH_RUNE_EVENT_TEXT	|cFFcabdab3. seviye kutsal emanetler için daha yüksek ans|r
+SYSTEM_OPTION_CPU_TILING_1	CPU Döeme modu, daha zayf bilgisayarlarda performans artrabilir.
+SYSTEM_OPTION_CPU_TILING_2	Grafiksel sorunlar ortaya çkarsa 'Sistem Ayarlar'n veya 'CONFIG.exe'yi seçin
+SYSTEM_OPTION_CPU_TILING_3	ve GPU Döeme moduna geçin
+SYSTEM_OPTION_GPU_TILING_1	GPU Döeme modu daha zayf bilgisayarlarda yava çalabilir
+SYSTEM_OPTION_GPU_TILING_2	Grafiksel sorunlar ortaya çkarsa 'Sistem Ayarlar'n veya 'CONFIG.exe'yi seçin
+SYSTEM_OPTION_GPU_TILING_3	ve CPU Döeme moduna geçin
+SYSTEM_OPTION_TILING_EXIT	Döeme modunu deitirmek için oyunun yeniden balatlmas gerekir.
+TARGET_LEVEL_ELITKA	Elit
+TARGET_LEVEL_LEGENDA	Efsane
+TARGET_RACE_FLAG_ANIMAL	Hayvan
+TARGET_RACE_FLAG_BOSS	Patron
+TARGET_RACE_FLAG_DARK	Karanlk
+TARGET_RACE_FLAG_DESERT	Çöl
+TARGET_RACE_FLAG_DEVIL	eytan
+TARGET_RACE_FLAG_DUNGEON	Zindan
+TARGET_RACE_FLAG_EARTH	Toprak
+TARGET_RACE_FLAG_ELEC	Yldrm
+TARGET_RACE_FLAG_FIRE	Ate
+TARGET_RACE_FLAG_HUMAN	nsan
+TARGET_RACE_FLAG_ICE	Buz
+TARGET_RACE_FLAG_INSECT	Böcek
+TARGET_RACE_FLAG_LEGENDA	Efsane
+TARGET_RACE_FLAG_MILGYO	Mistikler
+TARGET_RACE_FLAG_ORC	Ork
+TARGET_RACE_FLAG_STONE	Ta
+TARGET_RACE_FLAG_TREE	Orman
+TARGET_RACE_FLAG_UNDEAD	ölümsüz
+TARGET_RACE_FLAG_WIND	Rüzgâr
+TARGET_RACE_FLAG_WLADCA	Cetvel
+TARGET_RACE_NON	Hiçbiri
+TELEPORT_BUTTON	Inlanma
+TITLE_BONUS	Bonus
+TITLE_WINDOW_BONUS	Ödül:
+TITLE_WINDOW_TASK	Görev:
+TITLE_WINDOW_TITLE	Balk:
+TITLE_WINDOW_TITLE_ACTIVE	Aktif
+TITLE_WINDOW_TITLE_LOCKED	Kilitli
+TITLE_WINDOW_TITLE_UNLOCKED	Kilitli deil
+TOOLTIP_APPLY_3	PVM bonuslu evcil hayvan:
+TOOLTIP_APPLY_33050_1	Canavarlara kar güçlü +%15
+TOOLTIP_APPLY_33051_1	Maks. HP +2000
+TOOLTIP_APPLY_33051_2	nsanlara kar güçlü +%15
+TOOLTIP_APPLY_ATTBONUS_BOSS	Patronlara kar güçlü +%d%% SA
+TOOLTIP_APPLY_ATTBONUS_BOSS_POLY	Patronlara kar güçlü +%d%%
+TOOLTIP_APPLY_ATTBONUS_ENCHANT_DARK_POLY	Karanla kar güçlü +%d%%
+TOOLTIP_APPLY_ATTBONUS_HUMAN_POLY	nsanlara kar güçlü +%d%%
+TOOLTIP_APPLY_ATTBONUS_KLASY	Tüm snflara kar güçlü +%d%% SA
+TOOLTIP_APPLY_ATTBONUS_LEGENDA	Efsanelere kar güçlü +%d%% SA
+TOOLTIP_APPLY_ATTBONUS_MAX_HP_POLY	Maks. HP: +%d
+TOOLTIP_APPLY_ATTBONUS_MONSTER_POLY	Canavarlara kar güçlü +%d%%
+TOOLTIP_APPLY_ATTBONUS_STONE	Talara kar güçlü +%d%% SA
+TOOLTIP_APPLY_ATTBONUS_STONE_POLY	Talara kar güçlü +%d%%
+TOOLTIP_APPLY_ATTBONUS_WLADCA	mparatorlara kar güçlü +%d%% SA
+TOOLTIP_APPLY_ATTBONUS_WLADCA_POLY	mparatorlara kar güçlü +%d%%
+TOOLTIP_APPLY_DMG_BONUS	Saldr +%d%% SA
+TOOLTIP_APPLY_FINAL_DMG_BONUS	Toplam hasar +%d%% SA
+TOOLTIP_APPLY_RESIST_KLASY	Tüm snflara kar direnç +%d%% SA
+TOOLTIP_APPLY_SKILE_BUFF_BOOK_BONUS	Baarl otomatik güçlendirme beceri eitimi ans 2,5 kat artt
+TOOLTIP_APPLY_SKILE_BUFF_NO_BOOK_DELAY	Autobuff beceri eitimi baarsz olursa hemen yeniden deneyebilirsiniz.	SNA
+TOOLTIP_APPLY_SKILE_PAS_BOOK_BONUS	Baarl pasif beceri eitimi ans 2,5 kat artt
+TOOLTIP_APPLY_SKILE_PAS_NO_BOOK_DELAY	Pasif beceri eitimi baarsz olursa hemen yeniden deneyebilirsiniz.	SNA
+TOOLTIP_APPLY_SKILE_PET_BOOK_BONUS	Baarl evcil hayvan beceri eitimi ans 2,5 kat artt
+TOOLTIP_APPLY_SKILE_PET_NO_BOOK_DELAY	Evcil hayvan beceri eitimi baarsz olursa hemen yeniden deneyebilirsiniz.	SNA
+TOOLTIP_ATTBONUS_DUNGEON	Zindan gücü +%d%% AÇIK
+TOOLTIP_ATTBONUS_ELEMENT	Elementlere kar güçlü +%d%% SA
+TOOLTIP_ATTBONUS_ELEMENT_POLY	Elementlere kar güçlü +%d%%
+TOOLTIP_ATTBONUS_PVM_SKILL	PVM Beceri Hasar +%d%% SA
+TOOLTIP_BONUS_CAN_BE_USE_X_TIMES	Bu bonus kullanlabilir: %dx
+TOOLTIP_BUYPRICE_TEXT	|cFF96e000[Sat fiyat]|r
+TOOLTIP_DEFBONUS_ELEMENT	Element direnci +%d%% SA
+TOOLTIP_DOUBLE_LOOT_DROP	Çift düme ans +%d%% SA
+TOOLTIP_DOUBLE_LOOT_SUMMER	Parldayan Lagün'de çifte düme ans +%d%% SA
+TOOLTIP_DROP_INFO_PREFIX	• %s
+TOOLTIP_DROP_INFO_RANGE_COUNT	Elde edilmesi mümkün: %s - %s
+TOOLTIP_DROP_INFO_SINGLE_COUNT	Elde edilmesi mümkün:
+TOOLTIP_ENCHANTED	|cFFc8ff9cGelimi
+TOOLTIP_FISHINGROD_CAN_USE	Bonus kullanlabilir: %dx
+TOOLTIP_FISHING_BIGGER_FISH_CHANCE	Daha büyük balk ans +%d%% SA
+TOOLTIP_FISHING_INSTANT_CATCH_CHANCE	+%d%% Annda yakalama SA ans
+TOOLTIP_FISHING_MORE_POINTS_CHANCE	Daha fazla puan kazanma ans +%d%% SA
+TOOLTIP_FISHING_MORE_YANG_MULTIPLIER	Balktan daha fazla yang +%d%% SA
+TOOLTIP_FISHING_NEXT_SECTION_CHANCE	Daha nadir balk ans +%d%% SA
+TOOLTIP_FISHING_SKILL_BONUS_BIGGER_FISH	Daha büyük balk ans +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_INSTANT	Annda yakalama ans +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_NEXT	Sonraki seviye bonuslar:
+TOOLTIP_FISHING_SKILL_BONUS_NOW	Mevcut seviye bonuslar:
+TOOLTIP_FISHING_SKILL_BONUS_POINTS	Daha fazla puan kazanma ans +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_RARE	Daha nadir balk ans +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_YANG	Balktan daha fazla yang +%d%%
+TOOLTIP_FISHING_SKILL_MAX	Beceri maksimum seviyede!
+TOOLTIP_FISHING_SUCCESSFULL_COUNT	Balk baaryla yakaland: %s
+TOOLTIP_FISHING_SUCCESS_CHANCE	Balk yakalama ans +%d%% SA
+TOOLTIP_FISH_PRICE	Fiyat: %s
+TOOLTIP_ITEMSHOP_UNIQUE_ITEM	[Benzersiz öe %d / %d]
+TOOLTIP_ITEM_ENLIGHT_LIMIT_LEVEL	Aydnlanma seviyesinden: %d
+TOOLTIP_ITEM_MOUNT_LIMIT_LEVEL	|cffBEB4A8|H|h Gerekli montaj seviyesi:|H|h |cff18f28d|H|h%d|H|h
+TOOLTIP_MALL_ITEMBONUS_STATIC_NEW	Bu karakter her son zindan bossundan 12 sandk düürür.	SNA
+TOOLTIP_MALL_PICKUP	Otomatik öe alma.	SNA
+TOOLTIP_MALL_PREMIUM_MINE	Maden çkarma ans +%5, Daha fazla cevher çkarma ans +%5, Daha fazla puan ans +%20, Madencilik süresi 1 saniye azald.	SNA
+TOOLTIP_MINING_LESS_MINE_TIME	Madencilik süresi %d saniye azald.	SA
+TOOLTIP_MINING_MORE_ORES_CHANCE	Daha fazla cevher parças ans +%d%% SA
+TOOLTIP_MINING_MORE_POINTS	Daha fazla puan kazanma ans +%d%% SA
+TOOLTIP_MINING_SUCCESS_CHANCE	Maden çkarma ans +%d%% SA
+TOOLTIP_PASYWKI_MASTER	Pasif beceriler - Ek bonus
+TOOLTIP_RESIST_BOSS	Patronlara kar direnç: %d%% SA
+TOOLTIP_RESIST_MONSTER	Canavarlara kar direnç: %d%% SA
+TOOLTIP_RESIST_WLADCA	mparatorlara kar direnç: %d%% SA
+TOOLTIP_STAT_BONUS	statistikler +%s SA
+TOOLTIP_TOGGLE_ACTIVE	Aktif
+TOURNAMENT_ALL_CHARACTER	Tüm uzmanlklar
+TOURNAMENT_EVENT	PvP Turnuvas (%s - Lv %d - Lv %d)
+TURN_IN_COMPLETE	|cFF66d678Teslim edildi
+UI_LOCATION_01	Kaydetmek
+UI_LOCATION_02	Yük
+UI_LOCATION_03	Kaldrmak
+UI_LOCATION_04	Kaytl olmayan pozisyon
+UI_LOCATION_05	Bu pozisyon zaten dolu, baka bir pozisyon kullann
+UI_LOCATION_06	Önce önceki konumu kaydetmeyi bitirin
+UI_LOCATION_07	Bu pozisyon kullanlamaz
+UI_LOCATION_08	Maksimum ad uzunluu %d karakterdir
+UNIFIED_EXCHANGE_FORMAT	|cFFffc7001kkk {money_icon} |r= |cFFb8b8b81 {cheque_icon}
+UNIFIED_EXCHANGE_REVERSE_FORMAT	|cFFb8b8b81 {cheque_icon} |r= |cFFffc7001kkk {money_icon}
+UNIFIED_EXCHANGE_TITLE	Döviz bozdurma
+UNSAVED_POSITION	Kaydedilmemi konum
+UPGRADE_CHANCE	Yükseltme ans: % |c{color}{percentage}
+UPGRADE_CHANCE_EXTRA	Yükseltme ans: |c{color}{percentage}% (+{percentageExtra}%)
+USE_ITEM_FAILURE_OFFLINE_SHOP	Bu eya maaza açkken kullanlamaz!
+VALENTINE_EVENT	|cFFf263f0Sevgililer Günü çikolata damlas|r
+WEEKLY_RANKING_TITLE	Haftalk sralama (Sezon {})
+WEEKLY_RANK_NO_TITLE	Balk yok
+WEEKLY_RANK_SEASON_END	Sezon u tarihte sona eriyor: |cFFdeffb3{}d. {}H. {}dak.
+WHEEL_GAME_CHEQUE_MODE	Kazançlar için
+WHEEL_GAME_CURRENT_MODE_GOLD_WHEEL	Mevcut mod: Kazanç
+WHEEL_GAME_CURRENT_MODE_ITEM_WHEEL	Mevcut mod: Çark Jetonlar
+
+WHEEL_GAME_ITEM_GOLD_COST	1x - 300 Won.
+WHEEL_GAME_ITEM_MODE	Yaz Jetonlar çin
+WHEEL_GAME_ITEM_WHEEL_COST	Fiyat: 1x Jeton
+WHEEL_GAME_SKIP_ANIMATION	Animasyonu atla
+WHEEL_GAME_TITLE	Çarkfelek
+WHEEL_OF_FORTUNE_CAT_1	Çarkfelek (1)
+WHEEL_OF_FORTUNE_CAT_2	Çarkfelek (2)
+WHEEL_OF_FORTUNE_REWARDS	Ödüller:
+WHEEL_REWARD_TEXT	Aldnz
+WHEEL_REWARD_TEXT_1	ödülü envanterinizde bulabilirsiniz
+WHEEL_REWARD_TITLE	Çarkfelek
+WHELL_OF_FORTUNE_EVENT	Çarkfelek
+WIKI_100	Lv. 200+
+WIKI_1_75	Lv. 1-99
+WIKI_76_100	Lv. 99-200
+WIKI_AKZADUR	Akzadur zindan
+WIKI_MINING	madencilik
+WIKI_RELICS	Kalntlar
+WIKI_AVAIBLE_AT	u tarihte mevcut:
+WIKI_BASIC	SSS
+WIKI_BASIC_DROP	Temel düü
+WIKI_BIOLOG	Balk tutma
+WIKI_BIOLOGO	Balk tutma
+WIKI_BODY_COSTUME	Kostümler
+WIKI_BOOSTER	Güçlendiriciler
+WIKI_BOSSES	Patronlar
+WIKI_BOSSES_EVENT	Etkinlik patronu
+WIKI_CATEGORY	Kategori
+WIKI_CHESTS	Sandklar
+WIKI_CHESTS_ALTERNATIVE	Alternatif Sandklar
+WIKI_CHESTS_BOSS	Patron sandklar
+WIKI_CHESTS_DUNGEON	Zindan sandklar
+WIKI_CHESTS_EVENT	Etkinlik sandklar
+WIKI_CHESTS_OTHER	Dier sandklar
+WIKI_CONTENT_INFO	%s içerii
+WIKI_COST	Maliyetler
+WIKI_COMPANIONS	Sahabeler
+WIKI_COSTUMES	Kostümler
+WIKI_CUBE_INFO	%s öe maliyeti
+WIKI_DROPLIST_INFO	%s'in brakma listesi
+WIKI_EQUIPMENT	Teçhizat
+WIKI_EQUIPMENT_ARMOR	Zrh
+WIKI_EQUIPMENT_BELT	Kemerler
+WIKI_EQUIPMENT_BRACELET	Bilezikler
+WIKI_EQUIPMENT_EARRING	Küpeler
+WIKI_EQUIPMENT_HELMET	Kasklar
+WIKI_EQUIPMENT_NECKLACE	Kolyeler
+WIKI_EQUIPMENT_RINGS	Yüzükler
+WIKI_EQUIPMENT_SHIELD	Kalkanlar
+WIKI_EQUIPMENT_SHOES	Ayakkab
+WIKI_EQUIPMENT_TALISMAN	Tlsmlar
+WIKI_EQUIPMENT_WEAPONS	Silahlar
+WIKI_EVENTS	Olaylar
+WIKI_FAQ2	SSS
+WIKI_GAMERULES	Tüzük
+WIKI_GAME_RULES	Tüzük
+WIKI_GUIDES	Elvion hakknda bilgiler
+WIKI_GUIDES2	Elvion hakknda bilgiler
+WIKI_HAIR_COSTUME	Kostüm saç modelleri
+WIKI_INFO_NO_RACE	Hiçbiri
+WIKI_INFO_RACE_ANIMAL	Hayvan
+WIKI_INFO_RACE_DARK	Karanlk
+WIKI_INFO_RACE_DEVIL	eytan
+WIKI_INFO_RACE_EARTH	Toprak
+WIKI_INFO_RACE_ELEC	Yldrm
+WIKI_INFO_RACE_FIRE	Ate
+WIKI_INFO_RACE_HUMAN	Yar nsan
+WIKI_INFO_RACE_ICE	Buz
+WIKI_INFO_RACE_METIN	Metin Stone
+WIKI_INFO_RACE_MILGYO	Mistikler
+WIKI_INFO_RACE_ORC	Ork
+WIKI_INFO_RACE_UNDEAD	Zombi
+WIKI_INFO_RACE_WIND	Rüzgâr
+WIKI_INFO_RACE_ZODIAC	Zodyak
+WIKI_INFO_RESIST_BELL	Zil
+WIKI_INFO_RESIST_BOW	Yay
+WIKI_INFO_RESIST_DAGGER	Hançer
+WIKI_INFO_RESIST_FAN	Fan
+WIKI_INFO_RESIST_MAGIC	Büyü
+WIKI_INFO_RESIST_SWORD	Klç
+WIKI_INFO_RESIST_TWOHAND	ki El
+WIKI_ITEM_NAME	Öe ad...
+WIKI_LEVEL_MOB_TEXT	Seviye %d
+WIKI_LEVEL_TEXT	Seviye %d - nceltme %d~%d
+WIKI_LEVEL_TEXT2	Seviye %d~%d - %d~%d yiletirme
+WIKI_LEVEL_TEXT2_CHAMPION	ampiyon Seviyesi %d~%d - Aral yiletirme %d~%d
+WIKI_LEVEL_TEXT_CHAMPION	ampiyon Seviyesi %d - Hassaslatrma Aral %d~%d
+WIKI_METINSTONE	Talar
+WIKI_MOB_NAME	Canavar ad
+WIKI_MONSTER	Canavar
+WIKI_MOUNT	Evcil hayvanlar ve binekler
+WIKI_MOUNT_ITEM	Balar
+WIKI_ORIGIN	Menei
+WIKI_ACHIEVEMENT_POINTS	Baar Puanlar
+WIKI_PET_ITEM	Evcil hayvanlar
+WIKI_PET_LEVEABLE_ITEM	Seviyelendirilebilir Evcil Hayvanlar
+WIKI_SASH_COSTUME	Kuak kostümü
+WIKI_SHINING	Parlyor
+WIKI_STATICS_INFO	statistikler %s
+WIKI_STATICS_INFO_DEFENSES	Savunmalar:
+WIKI_STATICS_INFO_DMG	Min. Hasar:%d | Maks. Hasar:%d | Maksimum HP: %d
+WIKI_STATICS_INFO_TYPE	Yar: %s | kincil rk: %s
+WIKI_STATICS_INFO_YNG	Min. Hangisi:%d | Maks. Hangisi:%d | Deneyim: %d
+WIKI_SYSTEM2	Temel sistemler
+WIKI_TALISMAN	Tlsmlar
+WIKI_TEMNITE	Zindanlar
+WIKI_THESTART2	Balarken
+WIKI_TITLE	Vikipedi
+WIKI_TITLE2	[H] Vikipedi
+WIKI_UNKOWN_ITEM	Bilinmeyen öe: %d
+WIKI_UNKOWN_MOB	Bilinmeyen canavar: %d
+WIKI_UPGRADE_COSTS	Ek öe
+WIKI_WEAPON_SKIN	Silah kostümü
+WIKI_YANG_COSTS	Hangi
+WIKI_ZODIAC	Zodyak Tapna
+WONEXCHANGE_CONFIRM_QUESTION_1	%d Won'u %s Yang karºiliginda satmak istiyor musunuz?
+WONEXCHANGE_CONFIRM_QUESTION_2	%d Won'u %s Yang karºiliginda satin almak ister misiniz?
+WONEXCHANGE_CONFIRM_QUESTION_3	Devam etmek?
+WORLDBOSS_GUARD_NAME	Duyuru
+WUKONG_DUNGEON	Wukong Dalar
+YANG_DROP_EVENT	|cFFcabdabYang düüünde art: %d%%|r
+YELLOW_KINGDOM	|cFFFDE696Chunjo|h|r
+GUILD_GUARDIAN_ACTIVATE_FEE_INFO	Muhafiz bonuslarini etkinleºtirmek 500.000 lonca altinina mal olur ve 24 saat sürer.

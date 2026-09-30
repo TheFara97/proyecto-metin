@@ -1,0 +1,36 @@
+﻿  StdAfx.cpp
+  EffectData.cpp
+  EffectElementBase.cpp
+  EffectElementBaseInstance.cpp
+  EffectInstance.cpp
+  EffectManager.cpp
+  EffectMesh.cpp
+  EffectMeshInstance.cpp
+  EmitterProperty.cpp
+  FrameController.cpp
+  ParticleInstance.cpp
+  ParticleProperty.cpp
+  ParticleSystemData.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/EffectMesh.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/EffectManager.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/EffectMeshInstance.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\EterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ParticleInstance.cpp' kaynak dosyası derleniyor)
+  
+  ParticleSystemInstance.cpp
+  SimpleLightData.cpp
+  SimpleLightInstance.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ParticleSystemInstance.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/EffectInstance.cpp' kaynak dosyası derleniyor)
+  
+  Type.cpp
+  EffectLib.vcxproj -> C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\EffectLib\Release\EffectLib.lib

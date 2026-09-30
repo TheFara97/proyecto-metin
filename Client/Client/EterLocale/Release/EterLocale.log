@@ -1,0 +1,6 @@
+﻿  StdAfx.cpp
+  Arabic.cpp
+  Japanese.cpp
+  StringCodec.cpp
+  StringCodec_Vietnamese.cpp
+  EterLocale.vcxproj -> C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\EterLocale\Release\EterLocale.lib

@@ -1,0 +1,210 @@
+﻿  StdAfx.cpp
+  ActorInstance.cpp
+  ActorInstanceAttach.cpp
+  ActorInstanceBattle.cpp
+  ActorInstanceBlend.cpp
+  ActorInstanceCollisionDetection.cpp
+  ActorInstanceData.cpp
+  ActorInstanceEvent.cpp
+  ActorInstanceFly.cpp
+  ActorInstanceMotion.cpp
+  ActorInstanceMotionEvent.cpp
+  ActorInstancePosition.cpp
+  ActorInstanceRender.cpp
+  ActorInstanceRotation.cpp
+  ActorInstanceSync.cpp
+  ActorInstanceWeaponTrace.cpp
+  DungeonBlock.cpp
+  PhysicsObject.cpp
+  RaceData.cpp
+  RaceDataFile.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  RaceManager.cpp
+  ('/ActorInstanceBattle.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstance.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceRender.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceAttach.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceFly.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceMotionEvent.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceMotion.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceEvent.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceBlend.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceData.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstancePosition.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceCollisionDetection.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceSync.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceRotation.cpp' kaynak dosyası derleniyor)
+  
+  RaceMotionData.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/DungeonBlock.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ActorInstanceWeaponTrace.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/RaceMotionData.cpp' kaynak dosyası derleniyor)
+  
+  WeaponTrace.cpp
+  Area.cpp
+  AreaLoaderThread.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/RaceDataFile.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/WeaponTrace.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/RaceData.cpp' kaynak dosyası derleniyor)
+  
+  AreaTerrain.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/Area.cpp' kaynak dosyası derleniyor)
+  
+  MapBase.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/AreaLoaderThread.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/RaceManager.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/AreaTerrain.cpp' kaynak dosyası derleniyor)
+  
+  MapManager.cpp
+  MapOutdoor.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\GameLib\AreaTerrain.cpp(445,18): warning C5055: '*' işleci: numaralandırmalar ile kayan nokta türleri arasında kullanım dışı
+  ('/AreaTerrain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapManager.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoor.cpp' kaynak dosyası derleniyor)
+  
+  MapOutdoorCharacterShadow.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorCharacterShadow.cpp' kaynak dosyası derleniyor)
+  
+  MapOutdoorIndexBuffer.cpp
+  MapOutdoorLoad.cpp
+  MapOutdoorQuadtree.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorLoad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorIndexBuffer.cpp' kaynak dosyası derleniyor)
+  
+  MapOutdoorRender.cpp
+  MapOutdoorRenderHTP.cpp
+  MapOutdoorRenderSTP.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorQuadtree.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorRenderHTP.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorRenderSTP.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorRender.cpp' kaynak dosyası derleniyor)
+  
+  MapOutdoorUpdate.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\GameLib\MapOutdoorRenderSTP.cpp(569,85): warning C5055: '/' işleci: numaralandırmalar ile kayan nokta türleri arasında kullanım dışı
+  ('/MapOutdoorRenderSTP.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\GameLib\MapOutdoorRenderSTP.cpp(570,85): warning C5055: '/' işleci: numaralandırmalar ile kayan nokta türleri arasında kullanım dışı
+  ('/MapOutdoorRenderSTP.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorUpdate.cpp' kaynak dosyası derleniyor)
+  
+  MapOutdoorWater.cpp
+  MapType.cpp
+  MapUtil.cpp
+  MonsterAreaInfo.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/MapOutdoorWater.cpp' kaynak dosyası derleniyor)
+  
+  Property.cpp
+  PropertyLoader.cpp
+  PropertyManager.cpp
+  SnowEnvironment.cpp
+  SnowParticle.cpp
+  TerrainDecal.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/TerrainDecal.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\EterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/SnowEnvironment.cpp' kaynak dosyası derleniyor)
+  
+  TerrainPatch.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\GameLib\MapOutdoorLoad.cpp(420,64): warning C5055: '/' işleci: numaralandırmalar ile kayan nokta türleri arasında kullanım dışı
+  ('/MapOutdoorLoad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\GameLib\MapOutdoorLoad.cpp(421,64): warning C5055: '/' işleci: numaralandırmalar ile kayan nokta türleri arasında kullanım dışı
+  ('/MapOutdoorLoad.cpp' kaynak dosyası derleniyor)
+  
+  TerrainQuadtree.cpp
+  GameEventManager.cpp
+  GameType.cpp
+  GameUtil.cpp
+  ItemData.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/GameType.cpp' kaynak dosyası derleniyor)
+  
+  ItemManager.cpp
+  FlyingData.cpp
+  FlyingInstance.cpp
+  FlyingObjectManager.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/GameEventManager.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/FlyingData.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ItemData.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/FlyingInstance.cpp' kaynak dosyası derleniyor)
+  
+  FlyTarget.cpp
+  FlyTrace.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/FlyTrace.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/FlyingObjectManager.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ItemManager.cpp' kaynak dosyası derleniyor)
+  
+  gamelib.vcxproj -> C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\GameLib\Release\gamelib.lib

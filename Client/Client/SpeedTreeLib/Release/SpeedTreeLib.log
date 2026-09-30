@@ -1,0 +1,62 @@
+﻿  StdAfx.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('StdAfx.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('StdAfx.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('StdAfx.cpp' kaynak dosyası derleniyor)
+  
+  BoundaryShapeManager.cpp
+  SpeedGrassRT.cpp
+  SpeedGrassWrapper.cpp
+  SpeedTreeForest.cpp
+  SpeedTreeWrapper.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('SpeedGrassRT.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('SpeedGrassRT.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('SpeedGrassRT.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('SpeedGrassWrapper.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('SpeedGrassWrapper.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('SpeedGrassWrapper.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('BoundaryShapeManager.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('SpeedTreeForest.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('SpeedTreeWrapper.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('BoundaryShapeManager.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('BoundaryShapeManager.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('SpeedTreeForest.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('SpeedTreeForest.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('SpeedTreeWrapper.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('SpeedTreeWrapper.cpp' kaynak dosyası derleniyor)
+  
+  CSpeedTreeDirectX.cpp
+  SpeedTreeLib.vcxproj -> C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SpeedTreeLib\Release\SpeedTreeLib.lib

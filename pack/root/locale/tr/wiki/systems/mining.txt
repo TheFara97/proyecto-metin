@@ -1,0 +1,22 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Content List:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. General
+[COLOR=0x63FFB2;FONT_SIZE=14]*2. Relic Core
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. General
+[Y_PADDING=10;X_PADDING = 55; CENTER_ALIGN;FONT_SIZE=13]At Deokbae in Hidden Mine you can buy a pickaxe.
+[Y_PADDING=2;X_PADDING = 55; CENTER_ALIGN;FONT_SIZE=13]It is possible to mine using space.
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=189; CENTER_ALIGN]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]2. Relic Core
+[Y_PADDING=10;CENTER_ALIGN]*There is a chance that during mining you will drop a Relic Core.
+[Y_PADDING=10;CENTER_ALIGN]*This item is used to craft "Add relic" and "Change relics" item.
+
+[ITEM=79015; IS_LINK=1; Y=300; X=240]
+[ITEM=79016; IS_LINK=1; Y=300; X=290]
+
+

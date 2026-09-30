@@ -1,0 +1,83 @@
+#pragma once
+
+#include "Resource.h"
+#include "FileLoaderThread.h"
+#include <set>
+#include <map>
+#include <mutex>
+#include <string>
+#include <list>
+#include "../EterGrnLib/Thing.h"
+
+class CResourceManager : public CSingleton<CResourceManager>
+{
+public:
+	CResourceManager();
+	virtual~CResourceManager();
+
+	void LoadStaticCache(const char* c_szFileName);
+	void DestroyDeletingList();
+	void Destroy();
+
+	void BeginThreadLoading();
+	void EndThreadLoading();
+
+	CResource* InsertResourcePointer(DWORD dwFileCRC, CResource* pResource);
+	CResource* FindResourcePointer(DWORD dwFileCRC);
+	CResource* GetResourcePointer(const char* c_szFileName);
+	CResource* GetTypeResourcePointer(const char* c_szFileName, int iType = -1);
+
+	bool isResourcePointerData(DWORD dwFileCRC);
+	void RegisterResourceNewFunctionPointer(const char* c_szFileExt, CResource* (*pResNewFunc)(const char* c_szFileName));
+	void RegisterResourceNewFunctionByTypePointer(int iType, CResource* (*pNewFunc) (const char* c_szFileName));
+
+	void DumpFileListToTextFile(const char* c_szFileName);
+#ifdef ENABLE_FOX_FS
+	bool IsFileExist(const char* c_szFileName, const char* func);
+#else
+	bool IsFileExist(const char* c_szFileName);
+#endif
+
+	void Update();
+	void ReserveDeletingResource(CResource* pResource);
+	bool		LoadGraphicThing(CGraphicThing* pResource, int iSize, const void* c_pvBuf, const std::string& sFileName);
+
+public:
+	void ProcessBackgroundLoading();
+	void PushBackgroundLoadingSet(std::set<std::string>& LoadingSet);
+
+protected:
+	void __DestroyDeletingResourceMap();
+	void __DestroyResourceMap();
+	void __DestroyCacheMap();
+
+	DWORD __GetFileCRC(const char* c_szFileName, const char** c_pszLowerFile = NULL);
+
+protected:
+	typedef std::map<DWORD, CResource*> TResourcePointerMap;
+	typedef std::map<std::string, CResource* (*)(const char*)> TResourceNewFunctionPointerMap;
+	typedef std::map<int, CResource* (*)(const char*)> TResourceNewFunctionByTypePointerMap;
+	typedef std::map<CResource*, DWORD> TResourceDeletingMap;
+	typedef std::map<DWORD, std::string> TResourceRequestMap;
+	typedef std::map<long, CResource*> TResourceRefDecreaseWaitingMap;
+	typedef std::map<std::string, granny_file*>								TResourceGrannyCacheMap;
+
+protected:
+	TResourcePointerMap m_pCacheMap;
+	TResourcePointerMap m_pResMap;
+	TResourceNewFunctionPointerMap m_pResNewFuncMap;
+	TResourceNewFunctionByTypePointerMap m_pResNewFuncByTypeMap;
+	TResourceDeletingMap m_ResourceDeletingMap;
+	TResourceRequestMap m_RequestMap;
+	TResourceRequestMap m_WaitingMap;
+	TResourceRefDecreaseWaitingMap m_pResRefDecreaseWaitingMap;
+	TResourceGrannyCacheMap					m_pGrannyCacheMap;
+
+	static CFileLoaderThread ms_loadingThread;
+#ifdef USE_HOT_RELOAD
+	std::list<uint32_t> m_vHotReloadList;
+	std::mutex m_mtxHotReloadList;
+#endif
+};
+
+extern int g_iLoadingDelayTime;

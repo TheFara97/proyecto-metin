@@ -1,0 +1,464 @@
+1	Vytvorit cech
+2	Opravdu chceš vytvorit cech za 1 Won?
+3	Cena: 
+4	Ano
+5	Ne
+6	Název nesmí obsahovat speciální znaky, a jeho délka muže být mezi 3 až 11 znaky!
+7	Opravdu chceš vytvorit cech s tímto názvem?[ENTER]
+8	Máš málo yangu.
+9	Již jsi v cechu.
+10	[Systém] název cechu je nesprávný (strlen <2 nebo >11!)
+11	[Systém] název cechu je nesprávný (obsahuje speciální znak!)
+12	[Systém] cech nebyl vytvoren (název cechu je již zabraný nebo již jsi clenem cechu)
+13	[Systém] Cech byl vytvoren.
+14	[Systém] Hrác již je clenem cechu
+15	[Systém] Hrác již je vudcem cechu
+16	GM: Omezit.
+17	Napiš jméno osoby, kterou chceš omezit!
+18	Hráce takového jako:
+19	není!
+20	GM: Zkontroluj.
+21	Má cech: 
+22	Je mistrem: 
+23	Království: 
+24	Království NPC: 
+25	Vystoupit z cechu
+26	Opravdu chceš vystoupit z cechu?
+27	Vystoupil jsi z cechu.
+28	Rozpustit cech
+29	Opravdu chceš rozpustit cech?
+30	Cech byl rozpušten.
+31	Nelze vytvorit cech, již v jednom jsi!
+32	Opravdu chceš vytvorit cech za 1 Won?
+33	Nemáš potrebný predmet pro vytvorení cechu.
+34	Nemáš dostatek penez na vytvorení cechu.
+35	Nemáš dostatecnou úroven vudcovství.
+36	Pred odevzdáním dalšího predmetu musíš ješte pockat.
+37	Tento predmet mel skvelou kvalitu!
+38	Dokoncil jsi misi biologa.
+39	Tento predmet mel velmi špatnou kvalitu!
+40	Nemáš predmet potrebný k výzkumu.
+41	Máš príliš nízkou úroven.
+42	Dokoncil jsi misi sberatele.
+43	[Ledová jeskyne] Zabij 50 príšer a potom použij pecet!
+44	[Ledová jeskyne] Znic všechny balvany!
+45	[Ledová jeskyne] Zabij 3 mini bossy!
+46	[Ledová jeskyne] Zabij bosse!
+47	Vstup do ledové jeskyne (125+)
+48	Strážce:
+49	Zdravícko!
+50	Rozumím tomu dobre? Chceš vstoupit do ledové jeskyne?
+51	Bez potrebných predmetu
+52	a úrovne te ale dál nepustím.
+53	Pocet vstupu dnes: 
+54	Limit bude vyresetován za:
+55	%d hodin a %d minut.
+56	0 hodin a 0 minut.
+57	Potrebuješ:
+58	Potrebný predmet
+59	Chceš pokracovat?
+60	Jasne!
+61	Radeji ne.
+62	Momentálne se nelze teleportovat!
+63	Nemáš potrebný predmet!
+64	[Ledová jeskyne] Vítej v dungeonu!
+65	[Ledová jeskyne] Objevily se príšery!
+66	Zabij 50 príšer
+67	[Ledová jeskyne] Použij pecet k postupu dále!
+68	[Ledová jeskyne] Povedlo se!
+69	[Ledová jeskyne] Za 5 sekund se objeví další zadání!
+70	[Ledová jeskyne] Objevily se balvany!
+71	Znic 8 balvanu
+72	[Ledová jeskyne] Skvelá práce!
+73	[Ledová jeskyne] Ješte zbývá: 
+74	 balvanu!
+75	Zabij 3 mini bossy
+76	[Ledová jeskyne] Podarilo se ti zabít mini bossy!
+77	Znic 4 balvany
+78	[Ledová jeskyne] Objevil se boss!
+79	Zabij bosse!
+80	[Ledová jeskyne] Podarilo se ti zabít bosse!
+81	[Ledová jeskyne] Za minutu budeš teleportován/a pryc z dungeonu!
+82	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Ledovou jeskyni |cFFc5ff8c(Lv. 125)|r v case: |cFFf7b983%s!
+83	Celkový žebrícek
+84	Žebrícek bodu
+85	Baek-Go
+86	Výroba
+87	Výroba - kameny duše
+88	Výroba - elixíry
+89	Výroba - schopnosti autobuff
+90	Hodnost, mazlícek, jezdecká zvírata
+91	Úrovne za body úspechu
+92	Obchod body úspechu
+93	Úroven zatracení
+94	Navýšit úroven zatr. (test)
+95	Rybárská kolekce
+96	Obchod
+97	Ryby
+98	Relikvie a tavby
+99	Velikonocní predmety
+100	[Císarova rokle] Zabij 50 príšer!
+101	[Císarova rokle] Objevil se služebník císare!
+102	[Císarova rokle] Znic 6 balvanu!
+103	[Císarova rokle] Zabij 4 džiny!
+104	[Císarova rokle] Objevila se Císarská Naga!
+105	Enter Císarova rokle (Lv 160+)
+106	Rozumím tomu dobre? Chceš vstoupit do císarovi rokle?
+107	[Císarova rokle] Vítej v Císarovy rokli!
+108	[Císarova rokle] Objevily se príšery!
+109	Pozabíjej príšery v rokli.
+110	[Císarova rokle] Zabil jsi všechny príšery!
+111	[Císarova rokle] Služebník císare se probouzí...
+112	[Císarova rokle] Zbývajících príšer: 
+113	Sundej životy služebníka pod 66%
+114	[Císarova rokle] Služebník privolal balvany!
+115	Destroy all 6 rocks
+116	[Císarova rokle] Všechny balvany byly zniceny!
+117	[Císarova rokle] Pokracuj v souboji se služebníkem!
+118	Sundej životy služebníka pod 33%
+119	[Císarova rokle] Zbývajících balvanu: 
+120	[Císarova rokle] Služebník privolává posily!
+121	Zabij 4 džiny.
+122	[Císarova rokle] Porazil jsi všechny džiny!
+123	[Císarova rokle] Zabij služebníka císare!
+124	Zabij Služebníka Císare
+125	[Císarova rokle] Zbývajících džinu: 
+126	[Císarova rokle] Služebník Císare!
+127	[Císarova rokle] Ale pockej... neco tu nehraje...
+128	Zabij Císarskou Nagu!
+129	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Císarovu rokli |cFFc5ff8c(Lv. 150)|r v case: |cFFf7b983%s!
+130	Toto ted nelze udelat.
+131	Nemáš žádné schopnosti.
+132	Nelze použít v dungeonu.
+133	Kámen duše:
+134	Použití toho predmetu odebere
+135	efekt z pergamenu exorcismu.
+136	Nemáš žádnou schopnost na úrovni G.
+137	Vyber schopnost, kterou chceš vytrénovat:
+138	Odejít
+139	Trénink schopnosti, byl úspešný.
+140	Drací duše - uzavrená sezóna
+141	Drací duše jsou docasne nedostupné.
+142	Dnes už jsi vycerpal svuj limit.
+143	Mužeš zacít novou sezónu sberu dracích duší.
+144	Drací duše
+145	Dnes už nemužeš sbírat více dracích duší.
+146	Nová sezóna sberu dracích duší byla zahájena!
+147	Drací duše - rafinace
+148	Zde mužeš rafinovat své drací duše.
+149	Mýtická alchymie: Zmena bonusu
+150	Opravdu chceš otevrít okno zmeny bonusu?
+151	Obchod s dracími dušemi
+152	Vítej v obchode s dracími dušemi!
+153	[Svatyne démonu] Zabij 50 príšer a potom použij pecet!
+154	[Svatyne démonu] Znic všechny balvany!
+155	[Svatyne démonu] Zabij 3 mini bossy!
+156	[Svatyne démonu] Zabij bosse!
+157	Vstup do svatyne démonu (75+)
+158	Rozumím tomu dobre? Chceš vstoupit do svatyne démonu?
+159	[Svatyne démonu] Vítej v dungeonu!
+160	[Svatyne démonu] Objevily se príšery!
+161	[Svatyne démonu] Použij pecet k postupu dále!
+162	[Svatyne démonu] Objevily se balvany!
+163	[Svatyne démonu] Skvelá práce!
+164	[Svatyne démonu] Ješte zbývá: 
+165	[Svatyne démonu] Podarilo se ti zabít mini bossy!
+166	[Svatyne démonu] Objevil se boss!
+167	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Svatyni démonu |cFFc5ff8c(Lv. 75)|r v case: |cFFf7b983%s!
+168	Návrat do dungeonu
+169	Chceš se vrátit do dungeonu?
+170	[Sín královny pavouku] Zabij 50 príšer a potom použij pecet!
+171	[Sín královny pavouku] Znic všechny balvany!
+172	[Sín královny pavouku] Zabij 3 mini bossy!
+173	[Sín královny pavouku] Zabij bosse!
+174	Vstup do Síne královny pavouku (50+)
+175	Rozumím tomu dobre? Chceš vstoupit do síne královny pavouku?
+176	[Sín královny pavouku] Vítej v dungeonu!
+177	[Sín královny pavouku] Objevily se príšery!
+178	[Sín královny pavouku] Použij pecet k postupu dále!
+179	[Sín královny pavouku] Objevily se balvany!
+180	Znic 5 balvanu
+181	[Sín královny pavouku] Skvelá práce!
+182	[Sín královny pavouku] Ješte zbývá: 
+183	[Sín královny pavouku] Podarilo se ti zabít mini bossy!
+184	[Sín královny pavouku] Objevil se boss!
+185	[Sín královny pavouku] Za 20 sekund budeš teleportován/a pryc z dungeonu!
+186	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Sín Královny Pavouku |cFFc5ff8c(Lv. 50)|r v case: |cFFf7b983%s!
+187	[Velikonocní dungeon] Zabij 150 príšer a potom použij pecet!
+188	[Velikonocní dungeon] Znic všechny balvany!
+189	[Velikonocní dungeon] Zabij 3 mini bossy!
+190	[Velikonocní dungeon] Zabij bosse!
+191	Velikonocní dungeon
+192	Rozumím tomu dobre? Chceš vstoupit do velikonocního dungeonu?
+193	Bez potrebných predmetu te ale dál nepustím.
+194	[Velikonocní dungeon] Vítej v dungeonu!
+195	[Velikonocní dungeon] Objevily se príšery!
+196	Zabij 150 príšer
+197	[Velikonocní dungeon] Použij pecet k postupu dále!
+198	[Velikonocní dungeon] Objevily se balvany!
+199	[Velikonocní dungeon] Skvelá práce!
+200	[Velikonocní dungeon] Ješte zbývá: 
+201	[Velikonocní dungeon] Podarilo se ti zabít mini bossy!
+202	[Velikonocní dungeon] Objevil se boss!
+203	[Velikonocní dungeon] Za 20 sekund budeš teleportován/a pryc z dungeonu!
+204	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Velikonocní dungeon |cFFc5ff8c|r v case: |cFFf7b983%s!
+205	Velikonocní mapa
+206	Vítej!
+207	Chceš se teleportovat do velikonocní mapy?
+208	 - Do mapy lze vstoupit 1 za 4 hodiny
+209	 - V mape mužeš být maximálne 1 hodinu.
+210	Teleportovat
+211	Ted ne
+212	Velikonocní mapa není momentálne dostupná.
+213	Do velikonocní mapy mužeš znovu za:
+214	hodinu a
+215	minut.
+216	Tvuj cas vypršel. Budeš teleportován zpet do mesta.
+217	Blokované funkce:
+218	Výmìna
+219	Pozvánky do cechu
+220	Pozvánky do prátel
+221	Pozvánky do skupin
+222	Žádosti o skupiny
+223	Šeptání
+224	[Brány pekel] Zabij 50 príšer a potom použij pecet!
+225	[Brány pekel] Znic všechny balvany!
+226	[Brány pekel] Zabij 3 mini bossy!
+227	[Brány pekel] Zabij mini bosse!
+228	[Brány pekel] Zabij bosse!
+229	Vstup do Brány pekel (150+)
+230	Rozumím tomu dobre? Chceš vstoupit do bran pekel?
+231	[Brány pekel] Vítej v dungeonu!
+232	[Brány pekel] Objevily se príšery!
+233	[Brány pekel] Použij pecet k postupu dále!
+234	[Brány pekel] Objevily se balvany!
+235	[Brány pekel] Skvelá práce!
+236	[Brány pekel] Ješte zbývá: 
+237	[Brány pekel] Podarilo se ti zabít mini bossy!
+238	Zabij mini bosse
+239	[Brány pekel] Objevil se boss!
+240	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Brány pekel |cFFc5ff8c(Lv. 150)|r v case: |cFFf7b983%s!
+241	Výroba - podkova
+242	Kouzlo zmeny
+243	Nelze zmenit pohlaví, pokud máš na sobe kostým pro jiné pohlaví!
+244	Musíš mít minimálne úroven 50!
+245	Nelze zmenit pohlaví v prípade, že jsi s nekým ve snatku!
+246	Nelze zmenit pohlaví, když jsi promenený!
+247	Musíš pockat 24 hodin!
+248	Zbývající cas:
+249	Opravdu chceš zmenit pohlaví?
+250	Pohlaví bylo zmeneno.
+251	Pro dokoncení se prosím odhlašte a znovu prihlašte.
+252	[Kupon BÚ] Toto ted nelze udelat.
+253	[Kupon BÚ] Nemáš potrebný kupon!
+254	Body Úspechu byly navýšeny o
+255	Tvá úroven je príliš vysoká na to, abys mohl být v této mape.
+256	Výroba úlomku
+257	Deokbae:
+258	Tento krumpác má málo bodu.
+259	Opravdu chceš vylepšit krumpác?
+260	Vylepšení se nepovedlo...
+261	Ted vypadá mnohem líp.
+262	Vylepšení krumpáce se bohužel nepovedlo.
+263	Krumpác má nyní nižší úroven.
+264	[Zmena ríše] Toto ted nelze provést.
+265	Zmena ríše:
+266	Díky tomuto predmetu mužeš zmenit svou ríši,
+267	ale není to zadarmo, všechno neco stojí.
+268	Ríši mužeš menit každé 3 dny,
+269	budeš také potrebovat 1.000.000.000 yangu.
+270	Chceš zmenit ríši?
+271	[Zmena ríše] Nemáš 1.000.000.000 yangu.
+272	[Zmena ríše] Predmet je nyní vypnut.
+273	[Zmena ríše] Nejprve musíš odejít z cechu.
+274	[Zmena ríše] Nejprve se musíš nechat rozvést.
+275	Vyber novou ríši
+276	Shinsoo
+277	Jinno
+278	Zrušit
+279	[Zmena ríše] V této ríši už jsi.
+280	[Zmena ríše] Zmenena ríše! Musíš se odhlásit a prihlásit, aby se projevily zmeny.
+281	Give Up
+282	Cancel
+283	you gave up on this quest
+284	Ne všichni ze skupiny jsou na této mape!
+285	Nekterí clenové skupiny nemají potrebnou úroven:
+286	Nemáš dostatecnou úroven pro vstup do tohoto dungeonu!
+287	Nekterí hráci nemají potrebnou propustku:
+288	Nekterí hráci se nemohou teleportovat:
+289	Vy jste snad chteli oškubat strážníka?...
+290	input number
+291	%d sek.
+292	%d min. %d sek.
+293	%d h. %d m.
+294	%d d. %d h.
+295	V tomto prutu není dostatek bodu!
+296	Tvuj prut je již na maximální úrovni!
+297	Opravdu chceš vylepšit tento prut?
+298	Vylepšení se nepovedlo.
+299	Vylepšení prutu bylo úspešné!
+300	Zkus to znovu pozdeji!
+301	[Staroveká džungle] Zabij 50 príšer a potom použij pecet!
+302	[Staroveká džungle] Znic všechny balvany!
+303	[Staroveká džungle] Zabij 3 mini bossy!
+304	[Staroveká džungle] Zabij mini bosse!
+305	[Staroveká džungle] Zabij bosse!
+306	Vstup do Staroveké džungle (175+)
+307	Rozumím tomu dobre? Chceš vstoupit do staroveké džungle?
+308	[Staroveká džungle] Vítej v dungeonu!
+309	[Staroveká džungle] Objevily se príšery!
+310	[Staroveká džungle] Použij pecet k postupu dále!
+311	[Staroveká džungle] Objevily se balvany!
+312	[Staroveká džungle] Skvelá práce!
+313	[Staroveká džungle] Ješte zbývá: 
+314	[Staroveká džungle] Podarilo se ti zabít mini bossy!
+315	[Staroveká džungle] Objevil se boss!
+316	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Starovekou džungli |cFFc5ff8c(Lv. 175)|r v case: |cFFf7b983%s!
+317	Kombinace
+318	Chceš kombinovat šerpy?
+319	Absorbce predmetu
+320	Chceš absorbovat zbran do šerpy?
+321	[Ruiny škorpiona] Zabij 50 príšer a potom použi pece!
+322	[Ruiny škorpiona] Znic všechny balvany!
+323	[Ruiny škorpiona] Zabij 3 mini bosse!
+324	[Ruiny škorpiona] Zabij bosse!
+325	Vstup do Ruin škorpiona (100+)
+326	Rozumím tomu dobre? Chceš vstoupit do ruin škorpiona?
+327	Tento dungeon nelze chodit ve skupine.
+328	[Ruiny škorpiona] Vítej v dungeonu!
+329	[Ruiny škorpiona] Objevily se príšery!
+330	[Ruiny škorpiona] Použi pece k postupu dále!
+331	[Ruiny škorpiona] Objevily se balvany!
+332	Pokonajcie 6 balvanu
+333	[Ruiny škorpiona] Podarilo se ti zabít bosse!
+334	[Ruiny škorpiona] Za minutu budeš teleportován/a pryc z dungeonu!
+335	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Ruiny škorpiona |cFFc5ff8c(Lv. 100)|r v case: |cFFf7b983%s!
+336	Trénink schopností
+337	Telo
+338	Mental
+339	Dýky
+340	Luk
+341	WP
+342	BM
+343	Buff
+344	Lécitel
+345	Vyber schopností:
+346	Vyber si své zamerení.
+347	Vybrat pozdeji
+348	Vybral sis své zamerení!
+349	Výber kostýmu:
+350	Vyber typ kostýmu:
+351	PvP kostým
+352	PvM kostým
+353	Obdržel jsi PvP kostým!
+354	Vyber PvP kostýmovou zbran:
+355	Po výberu není cesty zpet.
+356	Obdržel jsi PvM kostým!
+357	Vyber PvM kostýmovou zbran:
+358	Výber zrušen.
+359	Vyber kostýmovou zbran:
+360	Zkus to znovu za 10 sekund.
+361	Nemáš dostatek místa v inventári.
+362	Špatný predmet.
+363	Trénovat schopnost mužeš znovu za 
+364	min nebo použij pergamen exorcismu..
+365	Schopnost mužeš trénovat znovu za 8 hodin.
+366	Trénink schopnosti se nezdaril.
+367	Trénink schopnosti není 100%.
+368	Resetování schopností
+369	Vítej,
+370	Pokud chceš vyresetovat své schopnosti
+371	a zvolit si nové zamerení, tak te to neco bude stát.
+372	Cena: 1.000.000.000 Yangu.
+373	Chceš vyresetovat schopnosti?
+374	Tato zmena se nedá vrátit!
+375	[Starenka] Nemáš 1.000.000.000 yangu.
+376	[Starenka] Toto ted nemužeš udelat.
+377	[Starenka] Nemáš žádné schopnosti.
+378	Valentýnské kostýmy zdarma!
+379	Zdravícko!
+380	Zde jsou tvé free itemshop predmety k valentýnu!
+381	Obsahují full bonusy a jsou na 3 dny.
+382	Ok
+383	Ted ne
+384	Sklad
+385	ItemShop
+386	[Lod duchu] Znicte balvan
+387	[Lod duchu] Zabijte všechny príšery (na jezdeckém zvíreti)
+388	[Lod duchu] Znicte balvan ze zeme.
+389	[Lod duchu] Zabijte všechny príšery
+390	[Lod duchu] Znicte všechny balvany!
+391	[Lod duchu] Zabij bosse!
+392	[Lod duchu] Znicte truhlu kapitána!
+393	Vstup na Lod duchu (149 Lvl)
+394	Rozumím tomu dobre? Chceš vstoupit na Lod duchu?
+395	- Skupina (2 hráci)
+396	[Lod duchu] Musíš mít poblíž sebe aspon 1 dalšího hráce.
+397	[Lod duchu] Nejsi vudcem skupiny!
+398	[Lod duchu] Nemáš dostatecnou úroven!
+399	[Lod duchu] Tvá úroven je príliš vysoká!
+400	[Lod duchu] Vudce nemá dostatek propustek! (x2)
+401	[Lod duchu] Vítej v dungeonu!
+402	Nestihli jste dokoncit dungeon vcas. Všichni budou teleportováni pryc z dungeonu!
+403	[Lod duchu] Objevil se balvan!
+404	[Lod duchu] Objevila se truhla!
+405	[Lod duchu] Znicili jste truhlu!
+406	[Lod duchu] Za minutu budou všichni teleportováni pryc z dungeonu!
+407	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Lod duchu (I) |cFFc5ff8c(Lv. 149)|r v case: |cFFf7b9
+408	Vstup na Lod duchu (200 Lvl)
+409	Rozumím tomu dobre? Chceš vstoupit na Lod duchu?
+410	[Lod duchu] Nemáš dostatecnou úroven!
+411	[Lod duchu] Tvá úroven je príliš vysoká!
+412	[Lod duchu] Vudce nemá dostatek propustek! (x2)
+413	[Lod duchu] Podarilo se vám zabít bosse!
+414	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Lod duchu (II) |cFFc5ff8c(Lv. 200)|r v case: |cFFf7b983%s|r
+415	[Hory Wukonga] Zabij 50 príšer a potom použij pece!
+416	[Hory Wukonga] Znic všechny balvany!
+417	[Hory Wukonga] Zabij 3 mini bosse!
+418	Vstup do Hor Wukonga (75+)
+419	Rozumím tomu dobre? Chceš vstoupit do hor Wukonga?
+420	[Hory Wukonga] Vítej v dungeonu!
+421	[Hory Wukonga] Objevily se príšery!
+422	[Hory Wukonga] Použij pece k postupu dále!
+423	[Hory Wukonga] Objevily se balvany!
+424	[Hory Wukonga] Podarilo se ti zabít mini bosse!
+425	[Hory Wukonga] Podarilo se ti zabít bosse!
+426	[Hory Wukonga] Za minutu budeš teleportován/a pryc z dungeonu!
+427	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r dokoncil/a |cFFf7dd83Hory Wukonga |cFFc5ff8c(Lv. 75)|r v case: |cFFf7b983%s!
+428	Výroba
+429	Výroba - Kameny Duše
+430	Výroba - Elixíry
+431	Výroba - Autobuff
+432	Výroba - Hodnost, mazlíèci, mounti
+433	Úrovnì za body úspìchu
+434	Obchod - Body úspìchu
+435	Rybáøská Kolekce
+436	Obchod
+437	Ryby
+438	Relikvie a Tavby
+439	Výbìr kostýmu:
+440	Výbìr typ kostýmu:
+441	PvP Kostým
+442	PvM Kostým
+443	Vyber kostýmovou zbraò:
+444	Po výbìru není cesty zpìt.
+445	Obdržel jsi kostýmovou zbraò!
+446	Výbìr zrušen.
+447	Vyber kostýmovou zbraò:
+448	PvP Køídla
+449	PvM Køídla
+450	Vyber køídla:
+451	Obdržel jsi køídla, mazlíèka a jezdecké zvíøe!
+452	Zkus to znovu za 10 sekund.
+453	Toto nelze udìlat v dungeonu.
+454	Nemáš dostatek místa v inventáøi.
+455	Easter Valley
+456	You can enter the Easter Valley again in:
+457	(Character restriction)
+458	Do you want to teleport to the Easter Valley?
+459	 - You can enter the map once every 6 hours (CHAR + HWID)
+460	 - Cooldown starts from the moment you enter the map
+461	 - You can stay in the map for a maximum of 30 minutes
+462	The Easter Valley is currently unavailable.
+463	(HWID restriction)
+464	Easter Crafting

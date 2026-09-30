@@ -1,0 +1,15 @@
+﻿  StdAfx.cpp
+  PythonDebugModule.cpp
+  PythonLauncher.cpp
+  PythonMarshal.cpp
+F:\Elvion\Elvion-core\Client\scriptLib\PythonDebugModule.cpp(1,10): warning C4652: Parametr kompilátoru Generovat informace o prohlížeči není konzistentní s předkompilovanou hlavičkou; aktuální parametr příkazového řádku přepíše ten, který je definovaný v předkompilované hlavičce.
+F:\Elvion\Elvion-core\Client\scriptLib\PythonLauncher.cpp(1,10): warning C4652: Parametr kompilátoru Generovat informace o prohlížeči není konzistentní s předkompilovanou hlavičkou; aktuální parametr příkazového řádku přepíše ten, který je definovaný v předkompilované hlavičce.
+F:\Elvion\Elvion-core\Client\scriptLib\PythonMarshal.cpp(6,10): warning C4652: Parametr kompilátoru Generovat informace o prohlížeči není konzistentní s předkompilovanou hlavičkou; aktuální parametr příkazového řádku přepíše ten, který je definovaný v předkompilované hlavičce.
+  PythonUtils.cpp
+  Resource.cpp
+F:\Elvion\Elvion-core\Client\scriptLib\PythonUtils.cpp(1,10): warning C4652: Parametr kompilátoru Generovat informace o prohlížeči není konzistentní s předkompilovanou hlavičkou; aktuální parametr příkazového řádku přepíše ten, který je definovaný v předkompilované hlavičce.
+F:\Elvion\Elvion-core\Client\scriptLib\Resource.cpp(1,10): warning C4652: Parametr kompilátoru Generovat informace o prohlížeči není konzistentní s předkompilovanou hlavičkou; aktuální parametr příkazového řádku přepíše ten, který je definovaný v předkompilované hlavičce.
+F:\Elvion\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /Resource.cpp)
+  
+  scriptLib.vcxproj -> F:\Elvion\Elvion-core\Client\scriptLib\Debug\scriptLib.lib

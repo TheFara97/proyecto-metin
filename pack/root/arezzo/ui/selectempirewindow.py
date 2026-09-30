@@ -1,0 +1,77 @@
+window = {
+	"name" : "SelectEmpireWindow",
+	"x" : 0, "y" : 0,
+	"width" : SCREEN_WIDTH,	"height" : SCREEN_HEIGHT,
+	"children" : (
+		{
+			"name" : "BackGround",
+			"type" : "expanded_image",
+			"x" : 0, "y" : 0,
+			"x_scale" : float(SCREEN_WIDTH) / 1366.0,
+			"y_scale" : float(SCREEN_HEIGHT) / 768.0,
+			"image" : "d:/ymir work/arezzo/selectempirewindow/background.png",
+			"children" : (
+				{
+					"name" : "logo",
+					"type" : "image",
+					"x" : 0, "y" : 45,
+					"horizontal_align" : "center",
+					"vertical_align" : "top",
+					"image" : "d:/ymir work/arezzo/selectempirewindow/logo.png",
+				},
+				{
+					"name" : "background_a", 
+					"type" : "expanded_image",
+					"x" : -320,	"y" : -10,
+					"horizontal_align" : "center",
+					"vertical_align" : "center",
+					"image" : "d:/ymir work/arezzo/selectempirewindow/shinsoo_background.png",
+					"children" : (
+						{
+							"name" : "area_a", 
+							"type" : "expanded_image",
+							"x" : 0, "y" : 0,
+							"image" : "d:/ymir work/arezzo/selectempirewindow/shinsoo_active.png",
+						},
+					),
+				},
+				{
+					"name" : "background_c", 
+					"type" : "expanded_image",
+					"x" : 320, "y" : -10,
+					"horizontal_align" : "center",
+					"vertical_align" : "center",
+					"image" : "d:/ymir work/arezzo/selectempirewindow/jinno_background.png",
+					"children" : (
+						{
+							"name" : "area_c", 
+							"type" : "expanded_image",
+							"x" : 0, "y" : 0,
+							"image" : "d:/ymir work/arezzo/selectempirewindow/jinno_active.png",
+						},
+					),
+				},
+				{
+					"name" : "select_button",
+					"type" : "button",
+					"x" : 0, "y" : 180,
+					"horizontal_align" : "center",
+					"vertical_align" : "center",
+					"default_image" : "d:/ymir work/arezzo/selectempirewindow/select_0.png",
+					"over_image" :  "d:/ymir work/arezzo/selectempirewindow/select_1.png",
+					"down_image" : "d:/ymir work/arezzo/selectempirewindow/select_2.png",
+				},
+				{
+					"name" : "exit_button",
+					"type" : "button",
+					"x" : 77, "y" : 19,
+					"horizontal_align" : "right",
+					"vertical_align" : "top",
+					"default_image" : "d:/ymir work/arezzo/selectempirewindow/exit_0.png",
+					"over_image" :  "d:/ymir work/arezzo/selectempirewindow/exit_1.png",
+					"down_image" : "d:/ymir work/arezzo/selectempirewindow/exit_2.png",
+				},
+			),
+		},
+	),
+}

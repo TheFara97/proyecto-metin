@@ -1,0 +1,1817 @@
+ITEMSHOP_WHEEL_CHEQUE_TEXT	|Eemoji/cheque_icon|e Wons Wheel
+TOOLTIP_BONUS_PET	Passive skills of pet are enchanted
+TOOLTIP_BONUS_PASSIVE_SKILLS	All passive skill at P - You received additional bonuses
+SAVE_LOCATION_REMOVE_LOCATION_QUESTION	Chiar vrei sã ?tergi aceastã loca?ie?
+SAVE_LOCATION_ENTER_NAME	Introdu numele:
+SPECIAL_ATTR_EMPTY_ATTR_SOCKET	[Empty Bonus]
+MULTI_FARM_TITLE	Multi Farm Block
+MULTI_FARM_TEXT	|Eemoji/key_lclick|e You need click for active/deactive drop for this character.
+MULTI_FARM_ACTIVE_TEXT	Do you want open this character drop?
+MULTI_FARM_DEACTIVE_TEXT	Do you want close this character drop?
+MULTI_FARM_ACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFFYou can get drop.|r 
+MULTI_FARM_DEACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFFYou cant get drop.|r 
+MULTI_FARM_PREMIUM_EFFECT	Increase multi farm account count: +%d	SA
+DUNGEON_PROGRESSBAR_CRIMSON_BLUE	Albastru: 
+DUNGEON_PROGRESSBAR_CRIMSON_RED	Ro?u: 
+EXPANDEDTASKBAR_WIKI	Wiki
+STARTER_PACKAGE_CONTAINS	Con?ine:
+STARTER_PACKAGE_SMALL_1	• Elvion Premium (3Z)
+STARTER_PACKAGE_SMALL_2	• Mãnu?i de Ho? (1h)
+STARTER_PACKAGE_SMALL_3	• Inel Experien?ã (1h)
+BATTLEPASS_PACKAGE_1	• Battlepass Premium
+BATTLEPASS_PACKAGE_2	• 7x Levelup Battlepass
+STARTER_PACKAGE_MEDIUM_1	• Elvion Premium (14Z)
+STARTER_PACKAGE_MEDIUM_2	• Micu?ul El (Companion)
+STARTER_PACKAGE_MEDIUM_3	• Mãnu?i de Ho? (1h)
+STARTER_PACKAGE_MEDIUM_4	• Inel Experien?ã (1h)
+STARTER_PACKAGE_BIG_1	• Elvion Premium (30Z)
+STARTER_PACKAGE_BIG_2	• Pachet Înger (Bundle Complet)
+STARTER_PACKAGE_BIG_3	• Costume cu Îmbunãtã?ire (PVM)
+STARTER_PACKAGE_BIG_4	• Cal Înger (Mount)
+STARTER_PACKAGE_BIG_5	• Mãnu?i de Ho? (1h)
+STARTER_PACKAGE_BIG_6	• Inel Experien?ã (1h)
+COSTUME_BOOST_PACKAGE_1	• Îmbunãtã?ire Companion (PVM)
+COSTUME_BOOST_PACKAGE_2	• Îmbunãtã?ire Costume (PVM)
+COSTUME_BOOST_PACKAGE_3	• Îmbunãtã?ire Coafurã (PVM)
+COSTUME_BOOST_PACKAGE_4	• Costume cu Îmbunãtã?ire (PVM)
+COSTUME_BOOST_PACKAGE_5	• Îmbunãtã?ire Sli? (PVM)
+TOOLTIP_REMAINING	Rãmas: %.2f%%
+OFFLINESHOP_EXTEND_SHOP_TIME	Vrei sa extinzi timpul pentru 1.000.000.000 yang?
+OFFLINESHOP_EXTEND_TIME_NOT_POSSIBLE	În prezent nu po?i extinde timpul offlineshop-ului tau.
+DUNGEON_PROGRESSBAR_EMERALD	Suflet de Smarald
+DUNGEON_PROGRESSBAR_GORGON	Oxigen ramas -
+INVENTORY_OPEN_VOTESHOP	Deschide magazin Vote4Buff
+INVENTORY_OPEN_WORLDBOSS	Deschide magazin Worldboss
+AUTOBUFF_BONUS_1	Bonus: |cFF82cf36+15.0% |r(|cFFffce47
+AUTOBUFF_BONUS_2	Bonus: |cFF82cf36+15.0% |r(|cFFffce47
+AUTOBUFF_BONUS_3	Bonus: |cFF82cf36+120.0 |r(|cFFffce47
+AUTOBUFF_CHANCE	?ansa Lovitura Critica: |cFFffce47+
+AUTOBUFF_ATTACK_VALUE	Valoare Atac: |cFFffce47+
+EVENTCALENDAR_PERSONAL_EVENTS	Eventuri Active
+WHISPER_BUTTON_OPEN	?oapta
+REFINEWINDOW_FIND_WIKI	Cauta în Wikipedia
+GOLDBAR_DESC_PER	/ Bara
+GOLDBAR_DESC_WARNING	* 1 bara va ramâne dupa utilizare.
+AUTOSKILL_0_1	Antreneaza-?i for?a corpului
+AUTOSKILL_0_2	Antreneaza-?i rezisten?a corpului
+AUTOSKILL_1_1	Ascu?e?te-?i pumnalele pentru a ucide
+AUTOSKILL_1_2	Folose?te arcul pentru a lupta
+AUTOSKILL_2_1	Iube?te-?i armele
+AUTOSKILL_2_2	Joaca-te cu magia neagra
+AUTOSKILL_3_1	Folose?te for?a pentru a ajuta
+AUTOSKILL_3_2	Folose?te lumina pentru a vindeca
+BATTLEPASS_CURRENT_STAGE	Stadiu curent: {}
+BATTLEPASS_PREMIUM_QUESTION_1	Sigur vrei sa activezi battlepass premium?
+BATTLEPASS_MISSION_MISSING	Misiuni lipsa {}
+BATTLEPASS_EXP_ENDED	Terminat
+BATTLEPASS_EXPIRED	Battlepass-ul a expirat
+MISSIONS_BONUS_ATTBONUS_MONSTER	Puternic împotriva mon?trilor +%d%%	SA
+MISSIONS_BONUS_ATT_GRADE_BONUS	Valoare atac +%d	SA
+MISSIONS_BONUS_ATTBONUS_RULER	Puternic împotriva conducatorilor +%d%%	SA
+MISSIONS_BONUS_TOTAL_DAMAGE	Daune totale +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_DEVIL	Puternic împotriva diavolilor +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE_PVM	Daune skill PvM +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE_RESIST	Rezisten?a la daune skill +%d	SA
+MISSIONS_BONUS_AVG_DAMAGE	Daune medii +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_ORC	Puternic împotriva orcilor +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE	Daune skill +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_ELEMENT	Puternic împotriva elementelor +%d%%	SA
+MISSIONS_BONUS_ELEMENT_RESIST	Rezisten?a la elemente +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_HUMAN	Puternic împotriva oamenilor +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_STONE	Puternic împotriva pietrelor +%d%%	SA
+MISSIONS_BONUS_DUNGEON_POWER	Putere în dungeon +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_BOSS	Puternic împotriva boss-ilor +%d%%	SA
+MISSIONS_BONUS_NONE	-
+MISSIONS_REQUIRED_LEVEL	Nivel necesar:
+COMPANION_PET_EXP_WITH_CHAR	|cffc99573|H|hExp clasic|H|h
+COMPANION_PET_FEED_ITEM_1	|cffc99573|H|h(Nv. 40-70)|H|h
+COMPANION_PET_FEED_ITEM_2	|cffc99573|H|h(Nv. 70-110)|H|h
+COMPANION_PET_FEED_ITEM_3	|cffc99573|H|h(Nv. 110-150)|H|h
+TOOLTIP_ATT_GRADE_PVM	Valoare atac PvM +%d	SA
+SKILL_PVM_LINKED_TO	|cFFcabdabConectat cu:|r |cFFc79e65%s|r
+SKILL_PVM_STRENGTHENED_BY	|cFFcabdabÎmbunata?it de|r |cFFc79e65%s|r
+SKILL_PVM_LEVEL_FIXED	Nivelul skill-ului este fix - puterea vine din skill-ul asociat.
+SKILL_PVM_ATK_VALUE	|cFFcabdabValoare atac PvM:|r |cFFc79e65+%d|r
+SKILL_PVM_ATK_VALUE_ZERO	|cFFcabdabValoare atac PvM: +0 (antreneaza mai întâi skill-ul asociat)|r
+SKILL_PVM_NOT_AVAILABLE	Nu este disponibil pentru aceasta clasa.
+VIP_CONVERT_QUESTION	Vrei sa converte?ti timpul premium ramas într-un item?
+VIP_TOOLTIP	Premium	SNA
+VIP_ITEM_SUBTITLE	Activeaza premium
+VIP_SECTION_BENEFITS	Beneficii:
+VIP_METIN_QUEUE	• Coada Metin pâna la 7 pietre
+VIP_AUTO_PICKUP	• Ridicare automata
+VIP_EXP_BONUS	• +50% experien?a câ?tigata
+VIP_TITLE	• Permite echiparea unui titlu în slotul premium
+VIP_SAVE_LOCATION	• +1 pagina extra la loca?ii salvate
+VIP_MINING_HEADER	Minare
+VIP_MINING_1	• +5% ?ansa de a mina minereu
+VIP_MINING_2	• +5% ?ansa de a ob?ine mai mult minereu
+VIP_MINING_3	• +5% ?ansa de a primi mai multe puncte de târnacop
+VIP_MINING_4	• Durata minarii redusa cu 1 secunda
+VIP_FISHING_HEADER	Pescuit
+VIP_FISHING_1	• +10% ?ansa de a prinde pe?te
+VIP_FISHING_2	• +10% ?ansa de captura instant
+VIP_FISHING_3	• +10% ?ansa de a prinde pe?te mai mare
+VIP_FISHING_4	• +25% mai mult yang din pe?ti
+VIP_FISHING_5	• 50% ?ansa pentru puncte AP duble la pescuit
+VIP_WARNING_HEADER	Sfat:
+VIP_TEXT_WARNING_1	Premium poate fi eliminat facând click pe iconi?a premium
+VIP_TEXT_WARNING_2	din col?ul stânga sus. Dupa eliminare vei primi premium-ul
+VIP_TEXT_WARNING_3	înapoi în inventar cu durata ramasa.
+DO_YOU_BUY_ITEM_NORMAL	Vrei sa cumperi %s pentru %d?
+ITEM_PRICE_TITLE	Pre?:
+ITEM_IS_FREE	Gratuit
+WORLDBOSS_LESS_THAN_MINUTE	Mai pu?in de un minut
+DO_YOU_BUY_ITEM_AP1	Vrei sa cumperi %s pentru %s?
+DO_YOU_BUY_ITEM_AP2	Vrei sa cumperi %s (%s buca?i) pentru %s?
+VOTE4BUFF_QUESTION1	Sigur vrei sa selectezi acest bonus?
+VOTE4BUFF_QUESTION2	Sigur vrei sa schimbi bonusul pentru %s?
+VOTE4BUFF_TIME_LEFT	Timp ramas: %s
+VOTE4BUFF_BONUS_SELECTION	Po?i selecta un bonus acum!
+VOTE4BUFF_VOTE_REWARDS	Recompense pentru vot
+VOTE4BUFF_BONUS_TITLE	Bonusuri
+VOTE4BUFF_WARNING_MSG1	Trebuie sa votezi înainte de a selecta un bonus!
+VOTE4BUFF_WARNING_MSG2	Apasa din nou butonul de vot dupa ce votezi
+VOTE4BUFF_AVAILABLE	Vote4Buff este disponibil!
+VOTE4BUFF_VOTE_INFORMATION	Click aici pentru a vota!
+VOTE4BUFF_AFFECT_TITLE	Vote4Buff
+SKILL_MINING_CHANCE	?ansa de a mina minereu +%d%%
+SKILL_MINING_CHANCE_MORE_ORE	?ansa pentru mai mult minereu +%d%%
+SKILL_MINING_LESS_TIME	Timp de minare redus cu -%dsec.
+SKILL_MINING_RELIC_CHANCE	?ansa de a mina nucleu relicva +%d%%
+SKILL_MINING_ORE_COUNT	Minereuri minate: %s
+SKILL_FISHES_CAUGHT	Pe?ti prin?i: %s
+WIKI_CUBE_PERCENT	{}%
+WIKI_CUBE	Crafting
+WIKI_EQUIPMENT_RUNES	Rune
+WIKI_EQUIPMENT_PET_EQ	Echipament Pet
+WIKI_EQUIPMENT_MOUNT_EQ	Echipament Mount
+EXTRA_BONUS_ITEM_TITLE	Deblocator Bonus Extra
+EXTRA_BONUS_ITEM_DESC	Deblocheaza ?i îmbunata?e?te bonusuri speciale pe anumite iteme.
+EXTRA_BONUS_COMPATIBLE_ITEMS	Iteme compatibile:
+EXTRA_BONUS_SASH_INFO	E?arfa
+EXTRA_BONUS_SASH_EFFECT	Mare?te absorb?ia de la 30% la 45%
+EXTRA_BONUS_GLOVES_INFO	Manu?i Putere +9
+EXTRA_BONUS_GLOVES_EFFECT	Mare?te ultimele 2 bonusuri cu +20%
+EXTRA_BONUS_PET_INFO	Echipament Pet +9
+EXTRA_BONUS_PET_EFFECT	Deblocheaza bonusuri suplimentare
+EXTRA_BONUS_RUNE_INFO	Rune Legendare
+EXTRA_BONUS_RUNE_EFFECT	Deblocheaza bonusuri suplimentare
+EXTRA_BONUS_REQUIREMENTS	Cerin?e:
+EXTRA_BONUS_REQ_SASH	• E?arfa cu absorb?ie > 30%
+EXTRA_BONUS_REQ_GLOVES	• Manu?i Putere +9 cu 5 bonusuri
+EXTRA_BONUS_REQ_PET	• Echipament Pet +9
+EXTRA_BONUS_REQ_RUNE	• Rune +5
+EXTRA_BONUS_WARNING	Poate fi folosit o singura data pe item!
+FISHWIKI_FISH_27802	Valoare Atac +20
+FISHWIKI_FISH_27803	For?a +5
+FISHWIKI_FISH_27804	Inteligen?a +5
+FISHWIKI_FISH_27805	Dexteritate +5
+FISHWIKI_FISH_27806	Bonus EXP +25%
+FISHWIKI_FISH_27807	?ansa Critica +20%
+FISHWIKI_FISH_27808	?ansa Penetrare +20%
+FISHWIKI_FISH_27809	Puternic împotriva Orcilor +20%
+FISHWIKI_FISH_27810	Daune Skill +5%
+FISHWIKI_FISH_27811	Rezisten?a la Daune Skill +5%
+FISHWIKI_FISH_27812	Puternic împotriva Diavolilor +10%
+FISHWIKI_FISH_27813	Puternic împotriva Animalelor +10%
+FISHWIKI_FISH_27814	Puternic împotriva Misticilor +10%
+FISHWIKI_FISH_27815	Puternic împotriva Orcilor +10%
+FISHWIKI_FISH_27816	Valoare Atac +30
+FISHWIKI_FISH_27817	Valoare Atac +50
+FISHWIKI_FISH_27818	HP Maxim: +2000
+FISHWIKI_FISH_27819	HP Maxim: +3000
+FISHWIKI_FISH_27820	HP Maxim: +4000
+FISHWIKI_FISH_27821	Daune medii +3%
+FISHWIKI_FISH_27822	Puternic împotriva Legendelor +15%
+FISHWIKI_FISH_27823	Puternic împotriva Metin-urilor +10%
+FISHWIKI_FISHINGPOLE_GRADE	Undi?a +0 pâna la +15
+FISHWIKI_NOTIFICATION	Pe?te nou!
+FISHWIKI_HIDE_WINDOW	Ascunde fereastra
+FISHWIKI_NOTIFICATION_TEXT	Mergi la pescar ?i verifica colec?ia!
+MISSIONS_WINDOW_BIOLOG	Cercetare Biolog
+MISSIONS_WINDOW_COLLECTOR	Colec?ionar
+MISSIONS_WINDOW_HUNTING	Vânatoare
+MISSIONS_WINDOW_BOSSOLOGY	Bossologie
+MISSIONS_WINDOW_STONEOLOGY	Pietrologie
+MISSIONS_WINDOW_LOCATION	|cFFf1e6c0Loca?ie: |r
+MISSIONS_WINDOW_NOT_POSSIBLE	Aceasta op?iune este disponibila doar pentru colec?ionar.
+NOTIFICATION_CATEGORY_SPECIAL_ITEM_EXPIRED_DESCRIPTION	Durata item-ului a expirat!
+NOTIFICATION_CATEGORY_BIOLOG_MISSION_READY_DESCRIPTION	Po?i livra urmatorul item biologului!
+NOTIFICATION_CATEGORY_ALCHEMY_EXPIRED_DESCRIPTION	Durata unuia dintre alchimii a expirat!
+NOTIFICATION_CATEGORY_MELT_EXPIRED_DESCRIPTION	Durata unuia dintre topirile din accesoriul tau a expirat!
+TOOLTIP_WIKI	 - Wikipedia
+TOOLTIP_SEARCH	|Eemoji/key_ctrl|e + |Eemoji/key_shift|e + |Eemoji/key_lclick|e - Cautare Magazin
+RANKING_DAMAGE_BOSS_POSITION	Pozi?ie
+RANKING_DAMAGE_PLAYER_NAME	Nume jucator
+RANKING_DAMAGE_PLAYER_LEVEL	Nivel jucator
+RANKING_DAMAGE_PLAYER_DAMAGE_DONE	Daune aplicate
+RANKING_DAMAGE_BOSS	Clasament TOP 15 de daune
+EXPANDEDTASKBAR_OFFLINESHOP	Offlineshop
+EXPANDEDTASKBAR_COMPANION	Companioni
+EXPANDEDTASKBAR_SHOPSEARCH	Cautare Magazin
+EXPANDEDTASKBAR_BONUSES	Fereastra Bonus
+EXPANDEDTASKBAR_SWITCHBOT	Switchbot
+EXPANDEDTASKBAR_AUTOBUFF	Autobuff
+EXPANDEDTASKBAR_RANKING	Clasament
+EXPANDEDTASKBAR_BIN	Distruge iteme
+EXPANDEDTASKBAR_RUNE	Rune
+EXPANDEDTASKBAR_ARTEFAKT	Artefacte
+EXPANDEDTASKBAR_CHANGEEQUIPMENT	Schimba echipamentul
+EXPANDEDTASKBAR_STORAGE	Depozit
+EXPANDEDTASKBAR_SAVELOCATION	Salveaza loca?ia
+EXPANDEDTASKBAR_POTIONS	Folose?te po?iuni
+ATLAS_WINDOW_NAME	|cFFc79e65Nume:|r |cFFcabdab%s|r
+ATLAS_WINDOW_COORDINATES	|cFFc79e65Coordonate:|r |cFFcabdab(%d, %d)|r
+ATLAS_WINDOW_RESPAWN	|cFFc79e65Respawn:|r |cFFcabdab%s|r
+ATLAS_WINDOW_COOLDOWN	|cFFc79e65Cooldown:|r |cFFcabdab%s|r
+ATLAS_WINDOW_WIKI	|Eemoji/key_alt|e + |Eemoji/key_lclick|e - |cFFcabdabDeschide în Wikipedia|r
+MINIMAP_BUTTON_DUNGEON	Dungeon-uri
+MINIMAP_BUTTON_WARP	Teleport
+MINIMAP_BUTTON_MISSIONS	Misiuni
+MINIMAP_BUTTON_COLLECTION	Colec?ie
+MINIMAP_BUTTON_TITLE	Titluri realizari
+MINIMAP_BOSS_TOOLTIP	[Timp Respawn: %s]
+WARP_WINDOW_MAPS_LOW	Har?i joase
+WARP_WINDOW_MAPS_HIGH	Har?i înalte
+WARP_WINDOW_MAPS_SPECIAL	Har?i speciale
+WARP_WINDOW_SEARCH_MAPS	Cauta har?i...
+WARP_WINDOW_MAP_1	Regatul Jinno
+WARP_WINDOW_MAP_2	Bakra
+WARP_WINDOW_MAP_3	Regatul Shinsoo
+WARP_WINDOW_MAP_4	Yayang
+WARP_WINDOW_MAP_6	Muntele Sohan
+WARP_WINDOW_MAP_7	Valea Orcilor
+WARP_WINDOW_MAP_8	Padure
+WARP_WINDOW_MAP_9	Pe?tera Paianjenului
+WARP_WINDOW_MAP_10	Valea Sacra
+WARP_WINDOW_MAP_11	De?ert Antic
+WARP_WINDOW_MAP_12	Peisaj Înghe?at
+WARP_WINDOW_MAP_13	Teren Foc
+WARP_WINDOW_MAP_14	Padure Fermecata
+WARP_WINDOW_MAP_15	Mina Ascunsa
+WARP_WINDOW_MAP_16	Coasta de Pescuit
+WARP_WINDOW_MAP_17	Guild Map
+WARP_WINDOW_MAP_18	Valea Blestemata
+WARP_WINDOW_MAP_19	Easter Valley
+WARP_WINDOW_UNDEAD	|cff544661Neînsufle?it|r
+WARP_WINDOW_DEVIL	|cffb783e6Diavol|r
+WARP_WINDOW_ANIMAL	|cff8ad47fAnimal|r
+WARP_WINDOW_ORC	|cffbaa079Orc|r
+WARP_WINDOW_MYSTICS	|cffee73f0Mistic|r
+WARP_WINDOW_ICE	|cff6ccbebGhea?a|r
+WARP_WINDOW_DARK	|cff7e07e0Întuneric|r
+WARP_WINDOW_EARTH	|cffccd977Pamânt|r
+WARP_WINDOW_WIND	|cff59d961Vânt|r
+WARP_WINDOW_FIRE	|cffe35c44Foc|r
+DUNGEON_TRACK_DUNGEON_1	Cantonamentul Dustfang
+DUNGEON_TRACK_DUNGEON_2	Turnul Diavolului
+DUNGEON_TRACK_DUNGEON_3	Sanctuarul lui Azrael
+DUNGEON_TRACK_DUNGEON_4	Templul Hwang
+DUNGEON_TRACK_DUNGEON_5	Ascunzatoarea Smaraldului
+DUNGEON_TRACK_DUNGEON_6	Adâncurile Gorgon
+DUNGEON_TRACK_DUNGEON_7	Adâncurile Matasoase
+DUNGEON_TRACK_DUNGEON_8	Adâncurile Focului Infernului
+DUNGEON_TRACK_DUNGEON_9	Fortarea?a Crimson
+DUNGEON_TRACK_DUNGEON_10	Dungeon 10
+DUNGEON_TRACK_DUNGEON_11	Dungeon 11
+DUNGEON_TRACK_TITLE_DUNGEONS	Dungeon-uri
+DUNGEON_TRACK_TITLE_MAPS	Har?i
+DUNGEON_TRACK_NOTIFICATION	%s#este disponibil
+DUNGEON_TRACK_CHECKBOX	Trimite notificare când este disponibil
+DUNGEON_TRACK_LEVEL_INFO	Nivel necesar:
+DUNGEON_TRACK_DAILY_LIMIT_INFO	Limita zilnica:
+DUNGEON_TRACK_GROUP_INFO	Cerere grup:
+DUNGEON_TRACK_COOLDOWN_INFO	Cooldown:
+DUNGEON_TRACK_TICKET_INFO	Bilet de acces
+DUNGEON_TRACK_SHOP_INFO	Magazin Dungeon
+DUNGEON_TRACK_TELEPORT_ENTER	Teleporteaza-te în Dungeon.
+DUNGEON_TRACK_WARP	Teleporteaza-te la NPC-ul de intrare în Dungeon.
+DUNGEON_TRACK_TEST	Testeaza daca po?i învinge boss-ul dungeon-ului fara a plati Biletul de Intrare. Polymorph Marble este utilizabil gratuit.
+DUNGEON_TRACK_PERSONAL_STATISTICS	Statistici personale
+DUNGEON_TRACK_RANK_COMPLETED	Clasamente: Total Finalizat
+DUNGEON_TRACK_RANK_FASTEST	Clasamente: Cel mai rapid timp
+DUNGEON_TRACK_RANK_DMG	Clasamente: Daune maxime catre boss
+DUNGEON_TRACK_COMPLETED	Finalizat
+DUNGEON_TRACK_FASTEST	Cel mai rapid
+DUNGEON_TRACK_DMG	Daune
+DUNGEON_TRACK_SLOW_INFO	Te rugam sa fii încet.
+DUNGEON_TRACK_TRUE	Adevarat
+DUNGEON_TRACK_FALSE	Fals
+DUNGEON_TRACK_MOVE_UP	Mi?ca sus
+DUNGEON_TRACK_MOVE_DOWN	Mi?ca jos
+DUNGEON_TRACK_HIDE	Ascunde
+DUNGEON_TRACK_DEACTIVE	Dezactivat
+DUNGEON_TRACK_ACTIVE	Disponibil
+DUNGEON_TRACK_WHISPER_MESSAGE	%s este gata.
+DUNGEON_TRACK_HIGH_LEVEL	Nivel Înalt
+DUNGEON_TRACK_LOW_LEVEL	Nivel Scazut
+DUNGEON_TRACK_BONUS	Bonus
+DUNGEON_TRACK_RANK_INDEX	Clasament
+DUNGEON_TRACK_RANK_NAME	Nume
+DUNGEON_TRACK_RANK_LEVEL	Nivel
+DUNGEON_TRACK_RANK_COMPLETED_TITLE	Total Finalizat
+DUNGEON_TRACK_RANK_FASTEST_TITLE	Cel mai rapid timp
+DUNGEON_TRACK_RANK_DMG_TITLE	Daune maxime catre Boss
+DUNGEON_TRACK_DAILY_INFO	Intrari zilnice:
+DUNGEON_TRACK_RESET_INFO	Se reseteaza în:
+DUNGEON_TRACK_DAILY_LIMIT_REACHED	Limita zilnica
+DUNGEON_TRACK_DAILY_LIMIT_MESSAGE	Limita zilnica atinsa
+TITLE_ACHIEVEMENT_NEED_PREMIUM	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTrebuie sa activezi premium pentru a folosi al doilea titlu.|r
+TITLE_ACHIEVEMENT_ACTIVATED_PREMIUM_TITLE	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAi activat al doilea titlu premium.|r
+TITLE_ACHIEVEMENT_REMOVED_FROM_FAVOURITES	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAi eliminat acest titlu din sec?iunea favorite.|r
+TITLE_ACHIEVEMENT_ADDED_TO_FAVOURITES	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAi adaugat acest titlu în sec?iunea favorite.|r
+TITLE_ACHIEVEMENT_TOOLTIP_ACTIVATE	|Eemoji/key_lclick|e - Activeaza (Slot Primar)
+TITLE_ACHIEVEMENT_TOOLTIP_ACTIVATE_PREMIUM	|Eemoji/key_rclick|e - Activeaza (Slot Premium)
+TITLE_ACHIEVEMENT_TOOLTIP_ADD_FAVOURITE	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Adauga la titlurile favorite
+TITLE_ACHIEVEMENT_ACTIVATED_PRIMARY	|cff00ff00Activ în Slotul Primar|r
+TITLE_ACHIEVEMENT_ACTIVATED_PREMIUM	|cffffaa00Activ în Slotul Premium|r
+TITLE_ACHIEVEMENT_NOT_UNLOCKED_YET	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNu ai deblocat înca acest titlu.|r
+TITLE_ACHIEVEMENT_TITLE_ACTIVE_IN_PREMIUM	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Acest titlu este activ în prezent în slotul premium.|r
+TITLE_ACHIEVEMENT_TITLE_ACTIVE_IN_PRIMARY	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Acest titlu este deja activ în slotul tau primar!|r
+TITLE_ACHIEVEMENT_TITLE_CANNOT_ACTIVATE_TOGETHER_PRIMARY	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Acest titlu nu poate fi activat împreuna cu titlul tau primar!|r
+TITLE_ACHIEVEMENT_TITLE_CANNOT_ACTIVATE_TOGETHER	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356Sistem|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Acest titlu nu poate fi activat împreuna cu titlul tau premium!|r
+TITLE_ACHIEVEMENT_SEARCH_TITLES	Cauta titluri...
+TITLE_ACHIEVEMENT_UNLOCKED_STATUS	Status: Deblocat
+TITLE_ACHIEVEMENT_UNLOCKED	Deblocat
+TITLE_ACHIEVEMENT_PROGRESS	Progres: %s / %s
+TITLE_ACHIEVEMENT_WINDOW_TITLEBAR	Titluri realizari
+TITLE_ACHIEVEMENT_WINDOW_ALL_TITLES	Toate titlurile
+TITLE_ACHIEVEMENT_WINDOW_UNLOCKED_TITLES	Deblocate
+TITLE_ACHIEVEMENT_WINDOW_FAVOURITE_TITLES	Favorite
+TITLE_ACHIEVEMENT_WINDOW_TITLES	Lista titlurilor
+TITLE_ACHIEVEMENT_1	Distrugator I
+TITLE_ACHIEVEMENT_2	Distrugator II
+TITLE_ACHIEVEMENT_3	Distrugator III
+TITLE_ACHIEVEMENT_4	Uciga? I
+TITLE_ACHIEVEMENT_5	Uciga? II
+TITLE_ACHIEVEMENT_6	Uciga? III
+TITLE_ACHIEVEMENT_7	Aventurier
+TITLE_ACHIEVEMENT_8	Maestru Switchbot
+TITLE_ACHIEVEMENT_9	Mare Maestru Switchbot
+TITLE_ACHIEVEMENT_10	Vânator de Relicve
+TITLE_ACHIEVEMENT_11	Strateg
+TITLE_ACHIEVEMENT_12	Alchimist
+TITLE_ACHIEVEMENT_13	Miner
+TITLE_ACHIEVEMENT_14	Miner Veteran
+TITLE_ACHIEVEMENT_15	Mare Miner
+TITLE_ACHIEVEMENT_16	Pescar
+TITLE_ACHIEVEMENT_17	Pescar Priceput
+TITLE_ACHIEVEMENT_18	Mare Pescar
+TITLE_ACHIEVEMENT_19	???
+TITLE_ACHIEVEMENT_20	???
+TITLE_ACHIEVEMENT_21	Neînfrântul
+TITLE_ACHIEVEMENT_22	Suveran Dungeon
+TITLE_ACHIEVEMENT_23	Obsedat
+TITLE_ACHIEVEMENT_24	Intangibil
+TITLE_ACHIEVEMENT_COMPLETE_TASK	Finalizeaza sarcina
+TITLE_ACHIEVEMENT_INFO_BONUS_1	Puternic împotriva pietrelor +5%
+TITLE_ACHIEVEMENT_INFO_BONUS_2	Puternic împotriva pietrelor +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_3	Puternic împotriva pietrelor +20%
+TITLE_ACHIEVEMENT_INFO_BONUS_4	Puternic împotriva boss-ilor +5%
+TITLE_ACHIEVEMENT_INFO_BONUS_5	Puternic împotriva boss-ilor +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_6	Puternic împotriva boss-ilor +20%
+TITLE_ACHIEVEMENT_INFO_BONUS_7	+5 limita dungeon
+TITLE_ACHIEVEMENT_INFO_BONUS_8	Rulari mai mari 1-5
+TITLE_ACHIEVEMENT_INFO_BONUS_9	Rulari mai mari medii/daune skill
+TITLE_ACHIEVEMENT_INFO_BONUS_10	+5% ?ansa de a pastra Relicva Enchant
+TITLE_ACHIEVEMENT_INFO_BONUS_11	+5% ?ansa de a upgrada item
+TITLE_ACHIEVEMENT_INFO_BONUS_12	+5% ?ansa de a upgrada alchimia
+TITLE_ACHIEVEMENT_INFO_BONUS_13	+5% pentru minerit reu?it
+TITLE_ACHIEVEMENT_INFO_BONUS_14	+10% pentru minerit reu?it
+TITLE_ACHIEVEMENT_INFO_BONUS_15	+15% pentru minerit reu?it
+TITLE_ACHIEVEMENT_INFO_BONUS_16	+5% ?ansa de a prinde pe?te
+TITLE_ACHIEVEMENT_INFO_BONUS_17	+10% ?ansa de a prinde pe?te
+TITLE_ACHIEVEMENT_INFO_BONUS_18	+15% ?ansa de a prinde pe?te
+TITLE_ACHIEVEMENT_INFO_BONUS_19	„E?ecul întare?te voin?a.”
+TITLE_ACHIEVEMENT_INFO_BONUS_20	„Ai înva?at… în cele din urma.”
+TITLE_ACHIEVEMENT_INFO_BONUS_21	+7% ?ansa de a upgrada item
+TITLE_ACHIEVEMENT_INFO_BONUS_22	Strong against emperors +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_23	„Timp bine pierdut.”
+TITLE_ACHIEVEMENT_INFO_BONUS_24	„Durerea este pentru saraci.”
+TITLE_ACHIEVEMENT_INFO_OBJECT_1	Distruge 1.000 Metinuri
+TITLE_ACHIEVEMENT_INFO_OBJECT_2	Distruge 20.000 Metinuri
+TITLE_ACHIEVEMENT_INFO_OBJECT_3	Distruge 100.000 Metinuri
+TITLE_ACHIEVEMENT_INFO_OBJECT_4	Ucide 1.000 boss-i
+TITLE_ACHIEVEMENT_INFO_OBJECT_5	Ucide 2.000 boss-i
+TITLE_ACHIEVEMENT_INFO_OBJECT_6	Ucide 20.000 boss-i
+TITLE_ACHIEVEMENT_INFO_OBJECT_7	?ine #1 timp în orice dungeon
+TITLE_ACHIEVEMENT_INFO_OBJECT_8	Folose?te 50.000 Iteme Enchant
+TITLE_ACHIEVEMENT_INFO_OBJECT_9	Folose?te 500.000 Iteme Enchant
+TITLE_ACHIEVEMENT_INFO_OBJECT_10	Folose?te 1.000 Relicve Enchant
+TITLE_ACHIEVEMENT_INFO_OBJECT_11	Rafinare 1.000 Iteme
+TITLE_ACHIEVEMENT_INFO_OBJECT_12	Rafinare 1.000 Alchimia Dragon
+TITLE_ACHIEVEMENT_INFO_OBJECT_13	Mineaza 20.000 minereuri
+TITLE_ACHIEVEMENT_INFO_OBJECT_14	Mineaza 200.000 minereuri
+TITLE_ACHIEVEMENT_INFO_OBJECT_15	Mineaza 1.000.000 minereuri
+TITLE_ACHIEVEMENT_INFO_OBJECT_16	Prinde 1.000 Pe?ti
+TITLE_ACHIEVEMENT_INFO_OBJECT_17	Prinde 10.000 Pe?ti
+TITLE_ACHIEVEMENT_INFO_OBJECT_18	Prinde 100.000 Pe?ti
+TITLE_ACHIEVEMENT_INFO_OBJECT_19	Aceasta este titlu secret
+TITLE_ACHIEVEMENT_INFO_OBJECT_20	Aceasta este titlu secret
+TITLE_ACHIEVEMENT_INFO_OBJECT_21	E?ueaza 30 upgrade-uri la rând
+TITLE_ACHIEVEMENT_INFO_OBJECT_22	Omoarã 1.000 ?efi de dungeon
+TITLE_ACHIEVEMENT_INFO_OBJECT_23	Joc 2.000 ore
+TITLE_ACHIEVEMENT_INFO_OBJECT_24	Finalizeaza dungeon fara a primi daune
+TITLE_ACHIEVEMENT_UNKNOWN_TITLE	Titlu necunoscut
+TITLE_ACHIEVEMENT_UNKNOWN_TITLE_NUM	Titlu necunoscut %d
+TOOLTIP_FISHING_SKILL_BONUS_STARFISH	?ansa de drop a stelei de mare +%d%%
+COMMUNITY_FRIEND_SECTION	Prietenii
+COMMUNITY_GUILD_SECTION	Guilda
+COMMUNITY_BLOCKED_SECTION	Bloca?i
+COMMUNITY_TEAM_SECTION	Echipa
+COMMUNITY_FAVOURITE_SECTION	Favorite
+COMMUNITY_NO_GUILD	Fara guilda
+MESSENGER_SUPPORT	Support
+MESSENGER_TITLE	Messenger
+MESSENGER_ADD_FRIEND	Adauga prieten
+MESSENGER_WHISPER	?oapta
+MESSENGER_DELETE_FRIEND	?terge prieten
+MESSENGER_MOBILE	Mobile
+MESSENGER_OPEN_GUILD	Deschide guilda
+PURCHASES_ACCOUNTID	ID cont
+PURCHASES_DATE	Data
+PURCHASES_IP	IP
+PURCHASES_ITEMBOUGHT	Obiect achizi?ionat
+PURCHASES_PRICE	Pret
+PURCHASES_PRICE_TEXT	|cfffaf8f5%s |cfffaf8f5Dragon coins
+CATEGORY_0_NAME	Oferte limitate
+CATEGORY_0_SUB_0_NAME	Oferte limitate
+CATEGORY_0_SUB_1_NAME	Oferte limitate
+CATEGORY_0_SUB_2_NAME	Oferte limitate
+CATEGORY_1_NAME	Pachete
+CATEGORY_2_NAME	Cosmetice
+CATEGORY_2_SUB_0_NAME	Auto-buff Costum
+CATEGORY_2_SUB_1_NAME	Armuri costum
+CATEGORY_2_SUB_2_NAME	Coafuri costum
+CATEGORY_2_SUB_3_NAME	Abilita?i costum
+CATEGORY_2_SUB_4_NAME	Mounts costum
+CATEGORY_2_SUB_5_NAME	Pachete costum
+CATEGORY_3_NAME	Pets ?i Mounts
+CATEGORY_3_SUB_0_NAME	Mounts
+CATEGORY_3_SUB_2_NAME	Pets
+CATEGORY_4_NAME	Cupoane
+CATEGORY_5_NAME	Special
+CATEGORY_5_SUB_0_NAME	Arme costum
+CATEGORY_5_SUB_1_NAME	Armuri costum
+CATEGORY_5_SUB_2_NAME	Coafuri costum
+CATEGORY_5_SUB_3_NAME	Mounts costum
+CATEGORY_5_SUB_4_NAME	Curele costum
+CATEGORY_5_SUB_5_NAME	Efecte
+CATEGORY_6_NAME	Pachete speciale
+CATEGORY_7_NAME	Inele
+CATEGORY_8_NAME	Întariri costum
+ITEMSHOP_3RDSHOP_COIN	AP's
+ITEMSHOP_3RDSHOP_COINS	%d AP's
+ITEMSHOP_3RDSHOP_NAME	Alte magazine
+ITEMSHOP_ACCEPT_CHANGE_PRICE	Ok
+ITEMSHOP_ADD_DISCOUNT_DISCOUNT_TITLE	Discount:
+ITEMSHOP_ADD_DISCOUNT_HOUR	ore
+ITEMSHOP_ADD_DISCOUNT_MINUTE	min
+ITEMSHOP_ADD_DISCOUNT_SECOND	sec
+ITEMSHOP_ADD_DISCOUNT_TITLE1	Aplica discount tuturor categoriilor:
+ITEMSHOP_ADD_ITEM_ACCEPT_TEXT_BUTTON	ACCEPTA
+ITEMSHOP_ADD_ITEM_BONUS_TITLE	Bonus
+ITEMSHOP_ADD_ITEM_CATEGORY_TITLE	Categorie:
+ITEMSHOP_ADD_ITEM_PRICE_TITLE	Pre?:
+ITEMSHOP_ADD_ITEM_RESET_TEXT_BUTTON	Reseteaza
+ITEMSHOP_ADD_ITEM_STONE_TITLE	Piatra
+ITEMSHOP_ADD_ITEM_VALUE_TITLE	Valoare
+ITEMSHOP_ADD_ITEM_VNUM_TITLE	VNUM:
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TEXT_BUTTON	Adauga discounturi
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TOOLTIP_BUTTON	Adauga discounturi cu timp la un item
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TEXT_BUTTON	Adauga iteme
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TOOLTIP_BUTTON	Adauga iteme noi în magazin
+ITEMSHOP_ADMIN_PANEL_NAME	Zona GM
+ITEMSHOP_ADMIN_PANEL_RETURN_TOOLTIP_BUTTON	Înapoi
+ITEMSHOP_ADMIN_PANEL_TITLE	Administrare
+ITEMSHOP_BEST_WHEEL_PRIZES	Cele mai bune premii
+ITEMSHOP_BUY	Achizi?ioneaza
+ITEMSHOP_BUY_BUTTON	Cumpara
+ITEMSHOP_BUY_ITEM_WITHOUT_AMOUNT_QUESTION	Vrei sa cumperi %s pentru %d %s?
+ITEMSHOP_BUY_ITEM_WITH_AMOUNT_QUESTION	Vrei sa cumperi %sx %s pentru %d %s?
+ITEMSHOP_BUY_TEXT	Vrei sa cumperi |cffF7BD48%s|r ?
+ITEMSHOP_BUY_TEXT_COUNT	Vrei sa cumperi |cffF7BD48%sx%d|r ?
+ITEMSHOP_CANCEL_CHANGE_PRICE	Anuleaza
+ITEMSHOP_CATEGORY_DISCOUNT_QUESTION	Sunte?i sigur ca vre?i sa aplica?i un discount de %d%% în aceasta categorie %dH, %dM ?i %dS?
+ITEMSHOP_CHANGE_PRICE_QUESTION	Sunte?i sigur ca vre?i sa schimba?i pre?ul acestui articol?
+ITEMSHOP_CHANGE_PRICE_TOOLTIP_BUTTON	Schimba pre?ul
+ITEMSHOP_COINS	Coin-uri:
+ITEMSHOP_COUNT	Cantitate
+ITEMSHOP_DATE	Date: %s
+ITEMSHOP_DELETE_ITEM_QUESTION	Sunte?i sigur ca vre?i sa elimina?i acest element?
+ITEMSHOP_DELETE_ITEM_TOOLTIP_BUTTON	Elimina element
+ITEMSHOP_DISCOUNT_WEEK	Discounturile saptamânii
+ITEMSHOP_DRAGONCOINT	Coin-uri
+ITEMSHOP_DRSSHOP_COIN	VC's
+ITEMSHOP_DRSSHOP_NAME	-
+ITEMSHOP_HOME_NAME	acasa
+ITEMSHOP_HOTITEMS	Roata norocului
+ITEMSHOP_PROMOCODE	Voucher
+ITEMSHOP_PROMOCODE_TOOLTIP_TITLE	Cum func?ioneaza voucher-ele
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE1	Pas 1: În itemshop click pe butonul "Cumpara" lânga coin-uri
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE2	Pas 2: Conecteaza-te pe site ?i click pe co?ul de cumparaturi
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE3	Pas 3: Vei fi redirec?ionat catre elvion.mentra.gg - Selecteaza cantitatea
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE4	Pas 4: Dupa achizi?ie vei primi codul voucher de la Mentra
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE5	Pas 5: Introdu codul primit în itemshop
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE6	Pas 6: Click pe butonul "redeem", redeschide itemshop ?i gata!
+ITEMSHOP_HOUR	ore
+ITEMSHOP_HOURS_MINUTES_SECONDS	%dH %dM %dS
+ITEMSHOP_ISHOP_COIN	MD's
+ITEMSHOP_ISHOP_NAME	Magazin
+ITEMSHOP_ITEMSEARCH_DEFAULT_TEXT	Cauta în itemshop ...
+ITEMSHOP_ITEM_AMOUNT	Tu.
+ITEMSHOP_ITEM_DISCOUNT_QUESTION	Sunte?i sigur ca vre?i sa aplica?i un discount de %of %to %s pentru %dH, %dM ?i %dS?
+ITEMSHOP_LAST_COUNT	Cantitate ramasa: %d
+ITEMSHOP_LAST_DISCOUNTS	Ultimele discounturi
+ITEMSHOP_LOAD	Se încarca datele ...
+ITEMSHOP_LOGS_NAME	Loguri
+ITEMSHOP_MAIN_BUTTON	Începe
+ITEMSHOP_MOST_BOUGHT_ITEMS	Cele mai cumparate iteme
+ITEMSHOP_NEW_PRICE_TITLE	Pret nou:
+ITEMSHOP_OFFERS	|Eishop/offer|e OFERTE
+ITEMSHOP_PRICE	Pre?
+ITEMSHOP_PRICE_NEW	%s Coin-uri
+ITEMSHOP_PRICE_ONLY_TEXT	%s Coin-uri
+ITEMSHOP_PRICE_TITLE_BOX	Pre?: %d %s
+ITEMSHOP_PRICE_WITH_DISCOUNT	|Eemoji/itemshop/mini_coin|e |cffFF7B7B%s Coin-uri (%d%%)
+ITEMSHOP_SEARCH_TEXT	Cauta...
+ITEMSHOP_SEARCH_TOOLTIP_BUTTON	Cauta
+ITEMSHOP_SHOP_BUTTON	Magazin
+ITEMSHOP_SHOP_TITLE	Magazin:
+ITEMSHOP_TITLE_NAME	Item Shop
+ITEMSHOP_TITLE_PANEL	Item Shop
+ITEMSHOP_TOP_SELL	Cele mai vândute obiecte
+ITEMSHOP_UPDATE_COINS_TOOLTIP_BUTTON	Actualizeaza coin-urile
+ITEMSHOP_WHEEL_BACK_ISHOP	Înapoi în itemshop
+ITEMSHOP_WHEEL_COIN_TEXT	 |Eishop/coin|e    Pre?: 120 Coin-uri
+ITEMSHOP_WHEEL_COIN_TEXT_INFO	Vei folosi |cffF7BD48120 Coin-uri|r pentru a învârti
+ITEMSHOP_WHEEL_NAME	Roata norocului
+ITEMSHOP_WHEEL_PRICE1	Pre?
+ITEMSHOP_WHEEL_PRICE2	10 coin-uri
+ITEMSHOP_WHEEL_PURCHASE	|Eishop/wheel_icon|e  |cffF7BD48Roata norocului|r
+ITEMSHOP_WHEEL_SKIP_ANIMATION	Sari anima?ia
+ITEMSHOP_WHEEL_TICKET_TEXT	|Eishop/wheel_ticket|e Luck Wheel Token	
+ITEMSHOP_WHEEL_TICKET_TEXT_INFO	Your are using |cffF7BD48Luck Wheel Token|r to spin.	
+ITEMSHOP_WHEEL_CHEQUE_TEXT_INFO	You will use |cffF7BD48150 Wons|r to spin.	
+ITEMSHOP_BUY_COIN	Acasa
+ITEMSHOP_WHEEL	Cumpara
+ITEMSHOP_PURCHASES	Istoric
+ITEMSHOP_CURRENCY_COIN	|cffF8BE47COIN|r
+ITEMSHOP_CURRENCY_JETON	|cffd6c8a9Promoter Coins|r
+ITEMSHOP_CURRENCY_COINS	|cffd6c8a9Coin-uri|r
+ITEMSHOP_CURRENCY_JETONS	|cffd6c8a9Promoter Coins|r
+ITEMSHOP_PRICE_COINS	|cffd6c8a9%s|r |cffd6c8a9Coin-uri|r
+ITEMSHOP_PRICE_JETONS	|cffd6c8a9%s|r |cffd6c8a9Promoter Coins|r
+ITEMSHOP_PRICE_COINS_1	|cffd6c8a9%s|r |cffd6c8a9Coin-uri|r
+ITEMSHOP_PRICE_JETONS_1	|cffd6c8a9%s|r |cffd6c8a9Promoter Coins|r
+ITEMSHOP_PRICE_JUST_COINS	|cffd6c8a9%s|r |cffd6c8a9Coin-uri|r
+ITEMSHOP_PRICE_JUST_JETONS	|cffd6c8a9%s|r |cffd6c8a9Promoter Coins|r
+ITEMSHOP_PRICE_JUST_COINS_1	|cffd6c8a9%s|r |cffd6c8a9Coin-uri|r
+ITEMSHOP_PRICE_JUST_JETONS_1	|cffd6c8a9%s|r |cffd6c8a9Promoter Coins|r
+ITEMSHOP_PRICE_COINS_WITH_DISCOUNT	%s |cffd6c8a9Coin-uri|r |cff38C719(%d%%)|r
+ITEMSHOP_PRICE_JETONS_WITH_DISCOUNT	%s |cffd6c8a9Promoter Coins|r |cff38C719(%d%%)|r
+ITEMSHOP_BUY_TEXT_PRICE	Vrei sa cumperi (x|cffF7BD48%d|r) |cffF7BD48%s|r
+ITEMSHOP_BUY_PRICE_COINS	pentru %s |cffF8BE47Coin-uri|r?
+ITEMSHOP_BUY_PRICE_JETONS	pentru %s |cffdf6649Promoter Coins|r?
+ITEMSHOP_BUY_PRICE_COINS_WITH_DISCOUNT	pentru %s |cffF8BE47Coin-uri|r |cff38C719(%d%%)|r?
+ITEMSHOP_BUY_PRICE_JETONS_WITH_DISCOUNT	pentru %s |cffdf6649Promoter Coins|r |cff38C719(%d%%)|r?
+ITEMSHOP_PROMOCODE_DESC	Introduce?i codul voucherului mai jos pentru a primi coin-uri
+ITEMSHOP_PROMOCODE_PLACEHOLDER	Introduce?i codul voucherului...
+ITEMSHOP_PROMOCODE_CONFIRM	Redeem
+WORLDBOSS_HEADER_TIME_STATUS	Status ?i respawn
+WORLDBOSS_HEADER_RANKING	Clasament daune
+WORLDBOSS_HEADER_BOSS_INFO	Informa?ii Worldboss
+GUILD_RAID_EASY_MODE	U?or
+GUILD_RAID_MEDIUM_MODE	Medie
+GUILD_RAID_HARD_MODE	Greu
+GUILD_GUARDIAN_BONUSES_ACTIVE	Activ
+GUILD_GUARDIAN_BONUSES_INACTIVE	Neactiv
+GUILD_GUARDIAN_NEED_ONE_ITEM	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTrebuie sa ai cel pu?in un obiect Guardian echipat.|r
+GUILD_GUARDIAN_ON_COOLDOWN	Activarea Guardianului este în cooldown.
+GUILD_GUARDIAN_ACTIVATED	Bonusurile Guardianului au fost activate!
+GUILD_GUARDIAN_DEACTIVATED	Bonusurile Guardianului au fost dezactivate.
+GUILD_DONATE_MATERIAL	Doneaza materiale
+GUILD_DONATE_AVAILABLE	Disponibil: %d
+GUILD_NO_MATERIAL_TO_DONATE	Nu ai niciunul dintre aceste materiale pentru a dona.
+GUILD_INVALID_DONATE_COUNT	Cantitate de dona?ie invalida.
+GUILD_MATERIAL_DONATED_SUCCESS	Ai donat cu succes %d %s în depozitul guild-ului!
+GUILD_EXP_INFO_1	Experien?a poate fi crescuta prin finalizarea raid-urilor de guild.
+GUILD_EXP_INFO_2	Fiecare boss final de raid ofera cantita?i random de iteme,
+GUILD_EXP_INFO_3	care sunt folosite pentru a urca nivelul guild-ului.
+LOGIN_WINDOW_LOAD_ACCOUNT	Încarca contul - Folose?te tasta -
+ACCE_ABSORB_CHANCE	Absorb?ie: %d%%
+ACCE_ABSORB_CHANCE2	%d%% - %d%%
+AFFECT_REMOVE_QUESTION	Sunte?i sigur ca vre?i sa elimina?i %s?
+ALIGN_BONUS_1_1	Strong împotriva Oamenilor +100
+ALIGN_BONUS_1_2	Strong împotriva Mon?trilor: +100
+ALIGN_BONUS_1_3	Damage final +10%
+ALIGN_BONUS_1_4	HP maxim +40.000
+ALIGN_BONUS_2_1	Strong împotriva Oamenilor +75
+ALIGN_BONUS_2_2	Strong împotriva Mon?trilor: +75
+ALIGN_BONUS_2_3	Damage final +5%
+ALIGN_BONUS_2_4	HP maxim +30.000
+ALIGN_BONUS_3_1	Strong împotriva Oamenilor: +50
+ALIGN_BONUS_3_2	Strong împotriva Mon?trilor: +50
+ALIGN_BONUS_3_3	Damage final +3%
+ALIGN_BONUS_3_4	HP maxim +20.000
+ALIGN_BONUS_4_1	Strong împotriva Oamenilor: +35
+ALIGN_BONUS_4_2	Strong împotriva Mon?trilor: +35
+ALIGN_BONUS_4_3	HP maxim +15.000
+ALIGN_BONUS_5_1	Strong împotriva Oamenilor: +25
+ALIGN_BONUS_5_2	Strong împotriva Mon?trilor: +25
+ALIGN_BONUS_5_3	HP maxim +10.000
+ALIGN_BONUS_6_1	Strong împotriva Oamenilor: +15
+ALIGN_BONUS_6_2	Strong împotriva Mon?trilor: +15
+ALIGN_BONUS_6_3	HP maxim +5.000
+ALIGN_BONUS_7_1	Strong împotriva Oamenilor: +10
+ALIGN_BONUS_7_2	Strong împotriva Mon?trilor: +10
+ALIGN_BONUS_7_3	HP maxim +2.500
+ALL_CHANNEL	Toate canalele
+ALL_KINGDOMS	|cFF97AE99Toate Regatele|h|r
+BATTLE_PASS_EXP	Finalizat:
+BATTLE_PASS_QUEST_DESC_01	Învinge numarul necesar de mon?tri
+BATTLE_PASS_QUEST_DESC_02	Recompensa: 2 puncte EXP
+BATTLE_PASS_QUEST_DESC_03	Recompensa: 1 punct EXP
+BATTLE_PASS_QUEST_DESC_04	Recompensa: 2 puncte EXP
+BATTLE_PASS_QUEST_DESC_05	Scrie numarul necesar de mesaje în Shout
+BATTLE_PASS_QUEST_DESC_06	Ura?e?te numarul necesar de iteme
+BATTLE_PASS_QUEST_NAME_01	Învinge mon?tri
+BATTLE_PASS_QUEST_NAME_02	Învinge bossi
+BATTLE_PASS_QUEST_NAME_03	Distruge Metin Stones
+BATTLE_PASS_QUEST_NAME_04	Finalizeaza dungeons
+BATTLE_PASS_QUEST_NAME_05	Scrie în Shout
+BATTLE_PASS_QUEST_NAME_06	Upgradeaza item
+BK_ENVANTER_TEXT1	Echipamentul func?ioneaza independent de echipamentul normal.
+BK_ENVANTER_TEXT2	Nu po?i trage un item din acest echipament în echipamentul normal.
+BK_ENVANTER_TEXT3	
+BK_ENVANTER_TEXT4	Fiecare item are propria categorie separata.
+BK_ENVANTER_TEXT5	Fiecare categorie are 3 pagini utilizabile.
+BK_ENVANTER_TEXT6	
+BLUE_KINGDOM	|cFF8CADDBJinno|h|r
+BONUS_END_IN	%s
+BONUS_EVENT	Eveniment Bonus:
+BONUS_NEXT_EVENT	|Eemoji/key_rclick|e - Urmatorul Eveniment
+BONUS_START_IN	%s
+BUFF_AFFECT_REMOVE_QUESTION	Sunte?i sigur ca vre?i sa elimina?i %s?
+CATEGORY_ALCHEMY	Alchimie
+CATEGORY_LEGEKD	Pietre legendare
+CATEGORY_MISJE	Misiuni
+CATEGORY_OWOCE	Clasament
+CATEGORY_PASY	Curele
+CATEGORY_POMOCNIK	Asistent
+CATEGORY_PRZEPUSTKI	Bilete
+CATEGORY_REKAWICE	Manu?i
+CATEGORY_RIPER	Fragmente Reaper
+CATEGORY_ULEP	Îmbunata?itori
+CATEGORY_UM_PASYWNE	Abilita?i pasive
+CATEGORY_WOJNY	Fragmente Razboi
+CATEGORY_WSPOMAGACZE	Boosters
+CATEGORY_ZWIERZAK	Pet
+CHEQUE_ONLY_VALUE	Po?i introduce doar un numar.
+CHEQUE_SYSTEM_UNIT_CHEQUE	Won
+CHEST_DROP_INFO	|Eemoji/key_ctrl|e + |Eemoji/key_shift|e + |Eemoji/key_rclick|e
+COLLECITON_SEND_TOOLTIP	- Trimite item
+COLLECTION_SEND_ALL_TOOLTIP	- Trimite tot
+COLLECTION_THIS_ITEM_IS_COLLECTED	Acest item a fost deja trimis.
+DALSZE_ZAKATKI	Col?uri suplimentare
+DETAILS_CON	Vitalitate
+DETAILS_DEX	Dexteritate
+DETAILS_FAINT_RES	Rezisten?a le?in
+DETAILS_INT	Inteligen?a
+DETAILS_SLOW_RES	Rezisten?a încetinire
+DETAILS_STR	For?a
+DOUBLE_BOSS_LOOT_EVENT	|cFFcabdabDouble Drop Boss|r
+DOUBLE_METIN_LOOT_EVENT	|cFFcabdabDouble Drop Metin|r
+DOUBLE_MISSION_BOOK_EVENT	|cFFcabdabDouble Loot Carte Misiune|r
+DO_YOU_DROP_CHEQUE	Vrei sa arunci %d Won?
+DO_YOU_WANT_TO_CLOSE_OFFLINE_SHOP	Vrei sa închizi magazinul tau?
+DO_YOU_WANT_TO_REMOVE_ITEM	Vrei sa elimini %s din magazin?
+DROP_CHEQUE_FAILURE_1000_OVER	Po?i arunca maxim 999 Won.
+DROP_ITEM_FAILURE_OFFLINE_SHOP	Nu po?i arunca acest item cât timp magazinul este deschis!
+DUNGEON_CHEST_LOOT_EVENT	Crestere Drop Chest Dungeon
+DUNGEON_COOLDOWN_EVENT	Cooldown Dungeon
+DUNGEON_INFO_COOLDOWN	Cooldown: %s
+DUNGEON_INFO_DO_YOU_TELEPORT	Vrei sa te teleportezi la %s?
+DUNGEON_INFO_DURATION	Durata: %s
+DUNGEON_INFO_ELEMENT_ATK_BONUS	Bonus activ
+DUNGEON_INFO_ELEMENT_DEF_AND_RES_BONUS	Bonus aparare ?i rezisten?a
+DUNGEON_INFO_ELEMENT_UNKOWN_BONUS	Bonus necunoscut necesar
+DUNGEON_INFO_ENTRANCE	Intrare: %s
+DUNGEON_INFO_FASTEST_TIME	Cel mai rapid timp: %s
+DUNGEON_INFO_HIGHEST_DMG	Cele mai mari daune: %s
+DUNGEON_INFO_LEVEL_LIMIT	Limita nivel: %d pâna la %d
+DUNGEON_INFO_LOCATION	Loca?ie: %s
+DUNGEON_INFO_MINIMAP_TOOL_TIP	Informa?ii Dungeon
+DUNGEON_INFO_NONE	Niciunul
+DUNGEON_INFO_NOT_FOUND	Niciun dungeon gasit.
+DUNGEON_INFO_PARTY_LIMIT	Limita membri party: %d pâna la %d
+DUNGEON_INFO_STATUS_AVAILABLE	Disponibil
+DUNGEON_INFO_STATUS_CLOSED	Indisponibil
+DUNGEON_INFO_STATUS_COOLDOWN	A?teapta
+DUNGEON_INFO_STATUS_HIGH_LEVEL	Nivel prea mic!
+DUNGEON_INFO_STATUS_LOW_LEVEL	Nivel prea mare!
+DUNGEON_INFO_TOOL_TIP	Dungeons
+DUNGEON_INFO_TOOL_TIP_01	În aceasta fereastra po?i gasi toate dungeons disponibile.
+DUNGEON_INFO_TOOL_TIP_02	Fiecare dungeon listat în panoul din stânga arata diverse
+DUNGEON_INFO_TOOL_TIP_03	informa?ii despre acesta precum ?i ce iteme
+DUNGEON_INFO_TOOL_TIP_04	drop-uie?te bossul final.
+DUNGEON_INFO_TOOL_TIP_05	Po?i de asemenea sa te teleportezi la intrarea
+DUNGEON_INFO_TOOL_TIP_06	a dungeon-ului daca este disponibil.
+DUNGEON_INFO_TOOL_TIP_07	În panoul din dreapta po?i gasi rezultatele tale
+DUNGEON_INFO_TOOL_TIP_08	precum ?i clasamentul global al primilor 10 jucatori.
+DUNGEON_INFO_TOTAL_FINISHED	Finalizari: %d
+DUNGEON_INFO_TYPE	Tip: %s
+DUNGEON_INFO_TYPE_01	Global
+DUNGEON_INFO_TYPE_02	Group
+DUNGEON_INFO_TYPE_03	Guild
+EMPIRE_WAR_EVENT	Razboi Regate (Lv %d - Lv %d)
+ENVANTER_ILE_AC	Deschide cu echipamentul
+EVENT_TOOLTIP_DOESNT_HAVE_EVENT	Niciun eveniment în aceasta zi.
+EVENT_TOOLTIP_TITLE	[%s] Evenimente active:
+EXP_EVENT	EXP crescut: %d%%
+GAME_PICK_CHEQUE	Ai primit %d Won.
+HALLOWEEN_EVENT	Halloween
+ACCE_CLEAR_ATTR_CONFIRM	Sunte?i sigur ca vre?i sa ?terge?i bonusurile?
+ACHIEVEMENT_POINTS_TITLE	Puncte realizari
+ACHIEVEMENT_POINTS_USAGE	Punctele pot fi folosite la NPC Hwa-Hee
+AFFECTSHOWER_REMOVE_TEXT	|Eemoji/key_lclick|e - Click pentru a elimina
+AFFECT_SHOWER_DELETE_BONUS	Sunte?i sigur ca vre?i sa elimina?i acest bonus?
+ALIGN_BONUS_0_1_1	Strong împotriva Oamenilor +100
+ALIGN_BONUS_0_1_2	Strong împotriva Mon?trilor: +150
+ALIGN_BONUS_0_1_3	Damage total +10%
+ALIGN_BONUS_0_1_4	HP maxim +50.000
+ALIGN_BONUS_0_1_5	Strong împotriva Elementelor +10%
+ALIGN_BONUS_0_1_6	Rezisten?a împotriva Elementelor +10%
+ALIGN_BONUS_1_1_1	Strong împotriva Oamenilor +100
+ALIGN_BONUS_1_1_2	Strong împotriva Mon?trilor: +125
+ALIGN_BONUS_1_1_3	Damage total +10%
+ALIGN_BONUS_1_1_4	HP maxim +45.000
+ALIGN_BONUS_1_1_5	Strong împotriva Elementelor +5%
+ALIGN_BONUS_1_1_6	Rezisten?a împotriva Elementelor +5%
+ARCTIC_DUNGEON	Caverna de Ghea?a
+AUTO_SHOUT_BUTTON	Mesaj Automat (Shout)
+AUTO_SHOUT_INFO	Trimitere mesaj automat activata.
+AUTO_SHOUT_INFO2	Trimitere mesaj automat dezactivata.
+AUTO_SHOUT_INFO3	Ultimul mesaj shout nu a fost gasit. Trimiterea automata va începe odata ce scrii ceva.
+AVAILABLE	Disponibil: {}
+AVERAGE_DAMAGE_DUNGEON_1	Daune medii Dungeon 1
+AVERAGE_DAMAGE_DUNGEON_2	Groapa Împaratului
+BIGGER_STAR_CHANCE	|cFFcabdab?ANSA MAI MARE DE STEA LA PESCUIT|h|r
+BLEND_WINDOW_1	Nu ai selectat niciun elixir!
+BLEND_WINDOW_2	Nu ai elixirul selectat în inventar!
+BOARD_SAVE_POSITION	Numele pozi?iei salvate:
+BONUS_NONE	Bonus: Niciunul
+BONUS_PRESENT	Bonus: {flags}
+BUFF_INTELLIGENCE	Inteligen?a: {}
+BUFF_IS_BONUS_ACTIVE	Bonus activ
+BUFF_IS_BONUS_INACTIVE	Bonus inactiv
+BUFF_SKILL_1	Binecuvântare
+BUFF_SKILL_2	Atac+
+BUFF_SKILL_3	Suport Dragon
+BUFF_SKILL_LEVEL_DESC_1	Rezisten?a împotriva atacurilor fizice: |cFFffce47+{}
+BUFF_SKILL_LEVEL_DESC_2	?ansa lovitura critica: |cFFffce47+{}|r
+CANCEL_TELEPORT	Nu vreau sa ma teleportez
+CANNOT_DOING_PRIVATE_SHOP_OPEN	Cât timp magazinul tau offline este deschis, nu po?i face altceva.
+CATEGORY_1	Îmbunata?ire Iteme
+CATEGORY_10	Abilita?i pasive
+CATEGORY_11	Bilete Dungeon
+CATEGORY_12	Manu?i
+CATEGORY_13	Misiuni
+CATEGORY_14	Autobuff
+CATEGORY_15	Brau
+CATEGORY_16	Îmbunata?ire / Enchant
+CATEGORY_17	Iteme Pa?te
+CATEGORY_18	Cai
+CATEGORY_19	Relicve ?i topiri
+CATEGORY_2	Alchimie
+CATEGORY_20	Pe?te
+CATEGORY_21	Schimb Trofee pentru Cufere Artefact
+CATEGORY_22	Pietre Upgrade
+CATEGORY_23	Easter Items
+CATEGORY_24	Easter Costumes
+CATEGORY_25	Guild Raid Shards
+CATEGORY_26	Skill Costumes
+CATEGORY_27	More Stone Slots
+CATEGORY_28	Weaker itemshop items
+CATEGORY_3	Boostere
+CATEGORY_4	Fragmente Reaper
+CATEGORY_5	Fragmente Razboi
+CATEGORY_6	Curele
+CATEGORY_7	Pietre suflet legendare
+CATEGORY_8	Pet
+CATEGORY_9	Clasament
+CATEGORY_COSTUMES_COSTUME_WEAPON	Arme Costume
+CATEGORY_JEWELRY_ARMOR_PENDANT	Talisman
+CATEGORY_JEWELRY_ARMOR_WRIST	Bra?ari
+CHANCE_FORMAT	?ansa: |cFF9dbbb1{}%
+CHANNEL_FORMAT	Canal {0}
+CHAT_OPEN_LINK	Vrei sa deschizi acest link?
+CHAT_OPEN_LINK_DANGER	Aten?ie! Acest link poate fi periculos!
+CHEST_FIND_ITEMS_DESC_1	Gase?te cufere care con?in
+CHEST_FIND_ITEMS_DESC_2	acest item.
+CLICK_TO_BUY	Apasa {click_icon} pentru a cumpara.
+COLLECTIONER_CATEGORY_1	Razboinic
+COLLECTIONER_CATEGORY_2	Fierar (I)
+COLLECTIONER_CATEGORY_3	Fierar (II)
+COLLECTIONER_CATEGORY_4	Fierar (III)
+COLLECTIONER_CATEGORY_5	Fierar (IV)
+COLLECTIONER_CATEGORY_6	Fierar (V)
+COLLECTIONS_COLLECTED	Trimis!
+COLLECTIONS_NOT_COLLECTED	Înca necolectat
+COLLECTION_MAIN_COMPLETE	Status: Trimis.
+COLLECTION_MAIN_NOT_COMPLETE	Status: Netrimis.
+COLLECTION_ORE_1	Mla?tini
+COLLECTION_ORE_2	Fierar (I)
+COLLECTION_ORE_3	Fierar (II)
+COLLECTION_ORE_4	Fierar (III)
+COLLECTION_ORE_5	Fierar (IV)
+COLLECTION_ORE_6	Fierar (V)
+COLLECTION_PERCENT	?ansa bonus: {}%.
+COLLECTION_PERCENT_INCREASED	?ansa bonus: {}% + {}%.
+COLLECTION_PROGRESS	Progres: {}%.
+COLLECT_LOCATION_LABEL	Loca?ie:
+COSTUME_BODY	|cFFd8bb86Costum
+COSTUME_BODY_FOR_BUFF	|cFFd8bb86Costum Autobuff
+COSTUME_HAIR	|cFFd8bb86Coafura
+COSTUME_HAIR_FOR_BUFF	|cFFd8bb86Coafura Autobuff
+COSTUME_PICK_POSSIBILITY	(Se poate selecta costumul pentru arma)
+COSTUME_SASH	|cFFd8bb86Brau
+COSTUME_WEAPON	|cFFd8bb86Costum Arma
+COSTUME_WEAPON_FOR_BUFF	|cFFd8bb86Costum Arma Autobuff
+DEMON_TOWER	Turnul Demonului
+DOUBLE_ACHIEVEMENT_POINTS	|cFFcabdabPietre/Bossuri AP Duble|h|r
+DOUBLE_DROP_LOOT_TOOLTIP	?ansa dubla drop 100%
+DOUBLE_ORE_EVENT	|cFFcabdabDOUBLE DROP MINEREU|h|r
+DRAGONSOUL_CHANCE	?ansa: |cFFf4be00{}%|r
+DRAGONSOUL_ONLY_MYTHIC_CAN_BE_SWITCHED	|cFFff9494Doar alchimia mitica poate schimba bonusurile.|r
+DRAGONSOUL_PLACE_DRAGON_SOUL_FIRST	|cFFff9494Plaseaza mai întâi o piatra dragon.|r
+DRAGONSOUL_PRICE	Pre?: |cFFc99f36200,000,000 {}
+DRAGONSOUL_RENEW_TIME	Timp reînnoire
+DRAGONSOUL_WRONG_ATTR_CHANGE_ITEM	|cFFff9494Acest item nu poate fi folosit pentru a schimba bonusurile alchimiei.|r
+DROP_CHANCE	|cFFc9f1c0?ansa drop: {percentage:.2f}%
+DUNGEON_INFO_ACCESSIBLE	Accesibil!
+DUNGEON_INFO_BUTTON_JOIN	Teleporteaza-te
+DUNGEON_INFO_BUTTON_REJOIN	Întoarce-te
+DUNGEON_INFO_COMPLETION_COUNT	Numar finalizari: %s
+DUNGEON_INFO_COOLDOWN_REMAINING	Timp ramas:
+DUNGEON_INFO_DEVIL_BONUS	Strong împotriva Demonilor (+ 
+DUNGEON_INFO_DROP_CHANCE	|cFFc9f1c0?ansa drop:
+DUNGEON_INFO_DROP_GLOVES_NORMAL	- |cFFf1e6c0Drop cu manu?i: 13 buc.
+DUNGEON_INFO_DROP_GLOVES_VIP	- |cFFf1e6c0Drop cu manu?i (VIP): 14 buc.
+DUNGEON_INFO_DUNGEON_TYPE	Mod: %s
+DUNGEON_INFO_FASTEST_COMPLETION	Cel mai rapid run: %s
+DUNGEON_INFO_GLOVES_BONUSES	|cFFecffb7Bonusuri posibile (1 - 3):
+DUNGEON_INFO_GRETEST_DAMAGE	Cele mai mari daune: %s
+DUNGEON_INFO_MONSTER_TYPE	Rasa monstru: %s
+DUNGEON_INFO_ORC_BONUS	Strong împotriva Orci (+
+DUNGEON_INFO_PASS_ITEM	Pass necesar: %s
+DURATION	Durata
+EASTER_MAP_2025	Harta Pa?telui
+ESTIMATED_SELLING_PRICE	|cFFb0a996Pre? pe bucata.
+EXCHANGE_MONEY	Cantitate
+FAST_EXCHANGE_TITLE	Schimb Rapid
+FISHWIKI_CATCHED_FISHES	Prinse: |cFFdbcba70|h
+FISHWIKI_CATCHED_FISHES_COUNT	Prinse: |cFFdbcba7%d|h
+FISHWIKI_GIVE_10_FISHES	Predea?i 10x |cFFdbcba7Rainbow Trout|h|r cu lungime minima |cFFdbcba7100 cm.|h
+FISHWIKI_GIVE_CHANCE	?ansa de succes: |cFFdbcba725%|h
+FISHWIKI_GIVE_CHANCE_SUCCESS	?ansa de succes: |cFFdbcba7%d%%|h
+FISHWIKI_GIVE_FISHES	Predea?i %d x |cFFdbcba7%s|h|r cu lungime minima |cFFdbcba7%d cm.|h
+FISHWIKI_LENGTH_RANKING	Clasament cei mai mari pe?ti: |cFFdbcba7|h
+FISHWIKI_LENGTH_RANKING_BEST	Cel mai mare pe?te: |cFFdbcba7%s|h
+FISHWIKI_LONGEST_FISH	Cel mai lung prins: |cFFdbcba70 cm.|h
+FISHWIKI_LONGEST_FISH_CM	Cel mai lung prins: |cFFdbcba7%.2f cm.|h
+FISHWIKI_MAIN_WINDOW	Colec?ie pescuit
+FISHWIKI_MOST_EXPENSIVE_FISH	Cel mai scump prins: |cFFdbcba70 Yang|h
+FISHWIKI_MOST_EXPENSIVE_FISH_YANG	Cel mai scump prins: |cFFdbcba7%s Yang|h
+FISHWIKI_PROGRESS_STATE	%d/|cFFdbcba7%d|h
+FISHWIKI_REWARD_FOR_MISSION	Recompensa: |cFFdbcba7Strong împotriva Mon?trilor +5%|h
+FISHWIKI_REWARD_FOR_MISSION_FISH	Recompensa: |cFFdbcba7%s|h
+FISHWIKI_ROD_LEVEL	Undi?a +%d
+FISHWIKI_ROD_LEVEL_0	Undi?a +0
+FISHWIKI_SHOW_RANKING	Arata clasamentul
+FISH_GIVE_MISSION_BTN	Predea?i pe?ti
+FISH_LENGTH_DEFAULT	0.00 cm.
+FISH_PROGRESS_INFO	11/|cFFFBA5EE20|h
+FISH_ROD_REQUIREMENT	de la +0 la +15
+FRUIT_OF_LIFE_DESC_1	|cFFcabdabAdauga {} puncte clasament.
+FRUIT_OF_LIFE_DESC_2	|cFFcabdabPoate fi folosit pâna la {} puncte clasament.
+FRUIT_OF_LIFE_DESC_2_1	|cFFcabdabPoate fi folosit de la {} la {} puncte clasament.
+HELL_DUNGEON	Por?ile Iadului
+INGAME_LOG_EXCHANGE_ITEM_INFO_0	Schimbat cu
+INGAME_LOG_EXCHANGE_ITEM_INFO_1	Informa?ii suplimentare
+INGAME_LOG_INFORMATION	Aici po?i vedea ac?iunile tale anterioare. Daca nu gase?ti înregistrarea dorita, reconecteaza-te.
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_0	Numele itemului
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_1	Pre?
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_2	Cumparator
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_3	Data tranzac?iei
+INGAME_LOG_TITLE_01	Istoric magazin offline
+INGAME_LOG_TITLE_02	Istoric schimb
+INGAME_TRADELOG_PLAYERNAME	NumeJucator
+INGAME_TRADELOG_YOU	Tu
+INTROLOGIN_ACCOUNT_DELETED	Contul a fost ?ters.
+INTROLOGIN_ACCOUNT_NOT_LOADED	Nu ai niciun cont salvat.
+INTROLOGIN_ACCOUNT_REQUIRED	Trebuie sa ai un cont salvat pentru a-l ?terge.
+INTROLOGIN_ENTER_CREDENTIALS	Introdu datele pentru a salva contul.
+INTROLOGIN_NOT_SAVED	Ne-salvat.
+INTROLOGIN_NO_ACCOUNT	Trebuie sa ai un cont salvat pentru a-l ?terge.
+INTROLOGIN_SAVED	Contul a fost salvat.
+INTROSELECT_EMPIRE	Regatul {}
+INVENTORY_ADDITIONAL_BONUSES_1	Bonusuri suplimentare
+INVENTORY_ADDITIONAL_BONUSES_2	Toate Runele +5:
+INVENTORY_ADDITIONAL_BONUSES_3	Daune totale +5%
+INVENTORY_ADDITIONAL_BONUSES_4	Daune medii +15%
+INVENTORY_ADDITIONAL_BONUSES_5	Puternic împotriva Oamenilor +25%
+INVENTORY_ADDITIONAL_BONUSES_6	Toate Runele +9:
+INVENTORY_ADDITIONAL_BONUSES_7	Daune totale +10%
+INVENTORY_ADDITIONAL_BONUSES_8	Daune medii +25%
+INVENTORY_ADDITIONAL_BONUSES_9	Puternic împotriva Oamenilor +40%
+INVENTORY_BOX_TOOLTIP	Cufere
+INVENTORY_CICEK_TOOLTIP	Elixire
+INVENTORY_DROP_TO_INVENTORY	Arunca în inventar
+INVENTORY_DROP_TO_INVENTORY_DESC1	Dezactivarea acestei op?iuni va face
+INVENTORY_DROP_TO_INVENTORY_DESC2	ca itemele sa fie plasate în inventarul normal
+INVENTORY_EFSUN_TOOLTIP	Iteme utile
+INVENTORY_MOVE_ALL	Muta tot
+INVENTORY_MOVE_ALL_DESC_1	Muta toate itemele din inventarul
+INVENTORY_MOVE_ALL_DESC_2	normal catre categoria deschisa
+INVENTORY_MOVE_TO_SPECIAL_INVENTORY	Muta în inventar special
+INVENTORY_OPENING_WHILE_FAST_MOVING_1	Deschidere în timpul transferului rapid activata.
+INVENTORY_OPENING_WHILE_FAST_MOVING_2	Deschidere în timpul transferului rapid dezactivata.
+INVENTORY_OPENING_WHILE_MOVING	Deschidere în timp ce te mi?ti
+INVENTORY_OPEN_TOGETHER_WITH_EQUIPMENT	Deschidere împreuna cu echipamentul
+INVENTORY_OPEN_WITH_INVENTORY_1	Deschidere cu inventar - activat
+INVENTORY_OPEN_WITH_INVENTORY_2	Deschidere cu inventar - dezactivat
+INVENTORY_OPTION_INFO_1	Activarea acestei op?iuni va face
+INVENTORY_OPTION_INFO_2	fereastra categoriei itemului sa se deschida în timp ce
+INVENTORY_OPTION_INFO_3	mu?i un item în inventarul special.
+INVENTORY_OPTION_INFO_4	Scurtatura tastatura: {} + {}
+INVENTORY_PANEL_ACTIVATE	{} - Activeaza
+INVENTORY_PANEL_ARTIFACTS	Artefacte
+INVENTORY_PANEL_AUTO_BUFF	Autobuff
+INVENTORY_PANEL_BLOCK_EXP	Anti-exp
+INVENTORY_PANEL_BONUS_TABLE	Tabel bonusuri
+INVENTORY_PANEL_BOOSTERS	Elixire
+INVENTORY_PANEL_CHANGE_EQ	Schimba echipament
+INVENTORY_PANEL_COLLECTIONER	Colec?ii
+INVENTORY_PANEL_DUNGEONS	Fereastra Dungeon
+INVENTORY_PANEL_MISSIONS	Fereastra Misiuni
+INVENTORY_PANEL_MOUNT	Cai
+INVENTORY_PANEL_OFFLINE_SHOP	Magazin Offline
+INVENTORY_PANEL_PET_WINDOW	Pet
+INVENTORY_PANEL_POLY_SHOP	Cautare magazin
+INVENTORY_PANEL_QUICK_EQ	Schimb rapid echipament
+INVENTORY_PANEL_QUICK_WARP	Calendar Evenimente
+INVENTORY_PANEL_RUNES	Rune
+INVENTORY_PANEL_SAFEBOX_ITEMSHOP	Safe / Itemshop
+INVENTORY_PANEL_SAVE_POSITION	Loca?ii salvate
+INVENTORY_PANEL_SPECIAL_INV	Inventar special
+INVENTORY_PANEL_SWITCH_BOT	Switchbot
+INVENTORY_PANEL_TELEPORTATION	Harta teleportare
+INVENTORY_PANEL_TRASH_BIN	Co? de gunoi
+INVENTORY_PANEL_USE	{} - Deschide fereastra
+INVENTORY_PANEL_WEEKLY_RANK	Clasament saptamânal
+INVENTORY_PULL_OUT_ITEM	{} - Scoate
+INVENTORY_SEPARATE_ALL	Separa tot
+INVENTORY_SEPARATE_ITEMS	Separa
+INVENTORY_SHOW_CHEST_DROP	Previzualizare drop cufere
+INVENTORY_SKILL_BOOK_TOOLTIP	Car?i
+INVENTORY_SPECIAL_INVENTORY_IS_FULL	Inventar special {} este plin.
+INVENTORY_STACK_ALL	{} + {} - Sorteaza peste tot
+INVENTORY_STACK_ITEMS	Sorteaza iteme
+INVENTORY_STACK_ITEMS_IN_CATEGORY	{} - Sorteaza în categorie
+INVENTORY_STONES_ONLY	Po?i insera doar pietre suflet.
+INVENTORY_STONE_TOOLTIP	Pietre suflet ?i Alchimie
+INVENTORY_UPGRADE_ITEM_TOOLTIP	Iteme upgrade
+INVENTORY_USE_SOME_ITEMS	Utilizeaza {}x
+ITEMSHOP_ADDITIONAL_TIME	Durata
+ITEMSHOP_ATTRIBUTE_EXP	|cFFFFCF48(PVM)|r
+ITEMSHOP_ATTRIBUTE_PVP	|cFFFFCF48(PvP)|r
+ITEMSHOP_CANNOT_BUY_MORE_THAN_20	Nu po?i cumpara mai mult de 20 buca?i.
+ITEMSHOP_CASH_UNIT	|cFFFFCF48DM|r
+ITEMSHOP_CATEGORY_01	Îmbunata?iri Iteme
+ITEMSHOP_CATEGORY_02	Costume
+ITEMSHOP_CATEGORY_03	Coafuri
+ITEMSHOP_CATEGORY_04	Cai
+ITEMSHOP_CATEGORY_05	Pet-uri
+ITEMSHOP_CATEGORY_06	Arme Costume
+ITEMSHOP_CATEGORY_07	Iteme speciale
+ITEMSHOP_CATEGORY_08	Alchimie
+ITEMSHOP_CATEGORY_09	Brau
+ITEMSHOP_CATEGORY_10	Costume Brau
+ITEMSHOP_CATEGORY_11	Cupoane DM
+ITEMSHOP_CATEGORY_12	VIP
+ITEMSHOP_CATEGORY_13	Altele
+ITEMSHOP_CATEGORY_14	Pachete
+ITEMSHOP_COUNT	Ai introdus o cantitate invalida.
+ITEMSHOP_DETAIL_CHECK	Apasa "cumpara" pentru mai multe detalii
+ITEMSHOP_DISCOUNT	Discounturi:
+ITEMSHOP_DISCOUNT_END	Discountul se încheie
+ITEMSHOP_DO_YOU_BUY_ITEM1	Vrei cu adevarat sa cumperi %s pentru %s?
+ITEMSHOP_DO_YOU_BUY_ITEM2	Vrei cu adevarat sa cumperi %s %s pentru %s?
+ITEMSHOP_EDITOR_ADD_ITEM	Adauga item
+ITEMSHOP_EDITOR_ITEM_PREFIX	• %s
+ITEMSHOP_INVENTORY_FULL	Nu ai suficient spa?iu în inventar.
+ITEMSHOP_LIMITED_COUNT	Limited: |cFFf5ce42%d / %d
+ITEMSHOP_MISSING_DESCRIPTION	Lipsa descriere item.
+ITEMSHOP_NON_EDITOR	Nu e?ti editor, nu po?i face asta.
+ITEMSHOP_NOT_ENOUGH_COINS	Nu ai destule dragon coins.
+ITEMSHOP_POPUP_ITEMS_LIMITED	Iteme limitate noi sunt disponibile,
+ITEMSHOP_POPUP_ITEMS_NEW	Iteme noi au fost adaugate în ItemShop,
+ITEMSHOP_POPUP_ITEMS_PROMO	Discounturi noi disponibile în ItemShop,
+ITEMSHOP_POPUP_ITEM_LIMITED	|cFFc7ffb6%s|r este acum disponibil în ItemShop pentru o perioada limitata.
+ITEMSHOP_POPUP_ITEM_NEW	|cFFc7ffb6%s|r a fost adaugat în ItemShop.
+ITEMSHOP_POPUP_ITEM_PROMO	|cFFc7ffb6%s|r este acum la reducere.
+ITEMSHOP_POPUP_SECOND_LINE	- Apasa pentru previzualizare.
+ITEMSHOP_PREMIUM_AUTOLOOT	Mâna a treia
+ITEMSHOP_PREMIUM_EXP	Bonus EXP
+ITEMSHOP_PREMIUM_FISH_MIND	?ansa mai mare pentru pe?ti rari
+ITEMSHOP_PREMIUM_GOLD	?ansa mai mare pentru drop Yang
+ITEMSHOP_PREMIUM_ITEM	?ansa mai mare pentru drop iteme
+ITEMSHOP_PREMIUM_MARRIAGE_FAST	Timp de casatorie redus
+ITEMSHOP_PREMIUM_SAFEBOX	Safe mai mare
+ITEMSHOP_SELECT_ATTRIBUTE	Selecteaza |cffffcf48BONUSURI|r pentru itemul tau
+ITEMSHOP_SELECT_ATTRIBUTE_ERROR	Trebuie sa selectezi bonusuri pentru itemul tau
+ITEMSHOP_SELECT_BONUS	Selecteaza bonusuri
+ITEMSHOP_SELECT_EMPTY	Niciunul
+ITEMSHOP_SELECT_ITEM	Selecteaza item
+ITEMSHOP_SELECT_SOCKET	Selecteaza piatra suflet
+ITEMSHOP_TOOLTIP_DETAILS	Acest item se vinde în mai multe variante. Apasa "cumpara" pentru mai multe detalii.
+ITEMSHOP_UNKNOWN_ERROR	Eroare necunoscuta
+ITEMSHOP_WARP	Trebuie sa a?tep?i 10 secunde.
+ITEMSHOP_WHEEL_CHANCE	?ansa: %.02f%%
+ITEMSHOP_WHEEL_COST	Cost rotire:
+ITEM_DROP_EVENT	|cFFcabdabDrop crescut: %d%%|r
+ITEM_LOTTERY_END_DATE	Loteria se încheie: %s
+ITEM_LOTTERY_ITEM_COUNT_WINDOW_TITLE	Introdu cantitatea itemului
+ITEM_LOTTERY_TOTAL_COUNT	Iteme în pool: %d
+JUNGLE_DUNGEON	Jungla Antica
+KEY_F11	F11
+KEY_F12	F12
+KEY_RETURN	ENTER
+LEFTOVER_BONUS_TIME	Timp bonus ramas:
+LEFTOVER_TIME	Timp ramas:
+LOGIN_FAILURE_HWID	Nu te po?i loga pe acest dispozitiv!
+LOGIN_FAILURE_LOADING_IN_PROGRESS	Fi?ierele jocului se încarca...
+LOGIN_FAILURE_PIN	Username, parola sau PIN incorect.
+LOGIN_INPUT_PIN	Introdu PIN-ul tau.
+LOGIN_WRONG_VERSION	Versunea jocului este depa?ita! Folose?te patcher-ul.
+MALZEME_DEPOSU	Informa?ii:
+MAP_75	Valea Ciclopului
+MAP_LAS	Padurea Spiritelor
+MAP_MINE	Harta Mineritului
+MAP_NONE	Loca?ie necunoscuta
+MAP_OGNISTA	Terra Focului
+MAP_PAJAKI	Dungeon Paianjeni
+MAP_PUSTYNIA	De?ertul Faraonului
+MAP_SOHAN	Muntele Sohan
+MAP_THREEWAY	Valea Orcilor
+MAP_ZACZAROWANY	Padurea Fermecata
+MESSENGER_TEAM	Echipa
+MINIMAP_FPS_INFO	Fps:{:3d}
+MINIMAP_SERVER_INFO_REGULAR	|cFFc7a374Elvion|r, CH{}
+MINIMAP_SERVER_INFO_WITH_99	|cFFc7a374Elvion|r - Canal Global
+MINING_CHEST_EVENT	|cFFcabdab?ANSA DE A PRIMI CUFERE MINERIT|h|r
+MINING_EVENT_RENEWAL_HIT_DELAY	Nu po?i face asta atât de rapid.
+MINI_GAME_RUMI_EXIT_QUESTION2	Punctele curente vor fi schimbate cu recompense.
+MINI_GAME_RUMI_START_QUESTION2	Vrei sa joci?
+MOONLIGHT_EVENT	|cFFcabdabDrop Comori Lumina Lunii|r
+MOUNT_BONUS_NONE	Niciun bonus
+MOUNT_DOYUMHWAN_MAP_NAME	Terra Focului
+MOUNT_SOHAN_MAP_NAME	Muntele Sohan
+MOUNT_TOOLTIP_APPLY_ATTBONUS_BOSS	Puternic împotriva boss-ilor
+MOUNT_TOOLTIP_APPLY_ATTBONUS_MONSTER	Puternic împotriva mon?trilor
+MOUNT_TOOLTIP_APPLY_ATTBONUS_STONE	Puternic împotriva pietrelor
+MOUNT_TOOLTIP_MOUNT_SPEED	Viteza cal
+MOUNT_TOOLTIP_MAX_HP	HP Max
+MOUNT_WINDOW_BONUSES	|cffbd99ff|H|h[ Bonusuri actuale ]|H|h
+MOUNT_WINDOW_CURRENT_EXP	|cffBEB4A8|H|hExperien?a:|H|h |cff18f28d|H|h{} EXP|H|h
+MOUNT_WINDOW_FEED_ITEM_1	|cffc99573|H|h(Niv. 1-24)|H|h
+MOUNT_WINDOW_FEED_ITEM_2	|cffc99573|H|h(Niv. 25-49)|H|h
+MOUNT_WINDOW_FEED_ITEM_3	|cffc99573|H|h(Niv. 50-74)|H|h
+MOUNT_WINDOW_FEED_ITEM_4	|cffc99573|H|h(Niv. 75-100)|H|h
+MOUNT_WINDOW_INFO_LEVEL	Fiecare nivel ofera bonusuri mai bune
+MOUNT_WINDOW_LEVEL	|cffb482ff|H|hNivel {}
+MOUNT_WINDOW_NEED_EXP	|cffBEB4A8|H|hExperien?a necesara:|H|h |cff15bf70|H|h{} EXP|H|h
+MOUNT_YONGBI_MAP_NAME	De?ertul Yongbi
+MOVE_ITEM_FAILURE_OFFLINE_SHOP	Nu po?i muta acest item cât timp magazinul este deschis!
+MULTIPLE_PURCHASE	Cumparare multipla: {key_shift}+{key_rclick}
+NEW_AFFECT_AUTO_METIN_FARM	Coada Metin (VIP)
+NONE_AFFECT	Fara bonus
+NORMAL_EVENT_TIME	Activabil de la: |cFFdbffa1%s|r pâna la: |cFFdbffa1%s|r
+NPC_SEARCH	Gase?te NPC
+NPC_SEARCH_TEXT	Apare pe aceste har?i:
+OFFLINESHOP_AVERAGE_PRICE	Pre? unitar: {}
+OFFLINESHOP_AVERAGE_PRICE2	Total: {}
+OFFLINESHOP_AVERAGE_PRICE_INFO	<Informa?ii pre? mediu>
+OFFLINESHOP_AVERAGE_PRICE_NO_INFO	Pre? mediu negasit!
+OFFLINESHOP_CHANGE_ALL_PRICE	Actualizeaza toate pre?urile aceluia?i item
+OFFLINESHOP_EDIT_SHOPNAME_DESCRIPTION	Introdu un nou nume de magazin
+OFFLINESHOP_EDIT_SHOPNAME_DESCRIPTION2	Nume nou:
+OFFLINESHOP_FILTER_TITLE	Filtre
+OFFLINESHOP_INPUT_INFO	Introdu pre?ul dorit
+OFFLINESHOP_INPUT_INFO2	pentru a vinde acest item
+OFFLINESHOP_NOTIF_CLOSE_ALL	Închide tot
+OFFLINESHOP_NOTIF_ITEM_INFO	%s x%d vândut pentru %d.
+OFFLINESHOP_NO_MONEY_TO_WITHDRAW	Niciun yang de retras.
+OFFLINESHOP_NO_NAME	Magazinul tau nu are nume!
+OFFLINESHOP_RESULT_PER_PAGE	Rezultate pe pagina
+OFFLINESHOP_RESULT_PER_PAGE_ITEM	25 iteme pe pagina
+OFFLINESHOP_RESULT_PER_PAGE_ITEM2	50 iteme pe pagina
+OFFLINESHOP_RESULT_PER_PAGE_ITEM3	100 iteme pe pagina
+OFFLINESHOP_SELL_WITH_AVG_PRICE	Vinde la pre? mediu
+OFFLINESHOP_SELL_WITH_AVG_PRICE2	Vinde cu 10% peste pre?ul mediu
+OFFLINESHOP_SELL_WITH_AVG_PRICE3	Vinde cu 10% sub pre?ul mediu
+OFFLINESHOP_SET_NAME	       <- Introdu numele magazinului tau ->
+OFFLINESHOP_SHOP_COLOR	Seteaza culoarea numelui magazinului
+OFFLINESHOP_SHOP_DECO_0	Normal
+OFFLINESHOP_SHOP_DECO_1	1001 Nop?i
+OFFLINESHOP_SHOP_DECO_2	Regele BBQ
+OFFLINESHOP_SHOP_DECO_3	Vânatorii de comori
+OFFLINESHOP_SHOP_DECO_4	Negustorul de foc
+OFFLINESHOP_SHOP_DECO_5	Fierar
+OFFLINESHOP_SHOP_DECO_TITLE	Decor magazin
+OFFLINESHOP_TITLE_NAME	Nume
+OFFLINESHOP_TITLE_OTHER	Altele
+OFFLINESHOP_TITLE_PRICE	Pre?
+OFFLINESHOP_TOOLTIP_RIGHT_CLICK_FOR_SALE	|Eemoji/key_rclick|e - Adauga item în magazin
+OFFLINESHOP_TOOLTIP_RIGHT_CLICK_FOR_SALE2	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Adauga rapid item în magazin
+OFFLINESHOP_TOTAL_PRICE_OF_SHOP	Pre? total al tuturor itemelor din magazin
+OFFLINESHOP_TOTAL_YANG_AMOUNT	Total: {}
+OFFLINE_SHOP	Magazin Offline
+OFFLINE_SHOP_ADD_ITEM	Adauga item
+OFFLINE_SHOP_ADD_ITEM_WINDOW	Adauga un item în magazinul tau
+OFFLINE_SHOP_BANK	Retragere
+OFFLINE_SHOP_BANK_BAD_VALUE	Valoare introdusa incorect!
+OFFLINE_SHOP_BANK_EX	Introdu suma pe care vrei sa o retragi:
+OFFLINE_SHOP_BANK_INFO	Yang-ul câ?tigat ?i valorile won se actualizeaza la fiecare 5 secunde!
+OFFLINE_SHOP_BANK_TITLE	Câ?tiguri
+OFFLINE_SHOP_BANK_VALUE	Câ?tigurile tale actuale:
+OFFLINE_SHOP_BANK_WAIT	Trebuie sa a?tep?i 30 secunde înainte de urmatoarea retragere!
+OFFLINE_SHOP_BUY_ITEM	Vrei sa cumperi %s x%d pentru %s?
+OFFLINE_SHOP_BUY_ITEM2	Vrei sa cumperi %s pentru %s?
+OFFLINE_SHOP_CANNOT_SELL_ITEM	Acest item nu poate fi vândut în magazin!
+OFFLINE_SHOP_CH	Canal
+OFFLINE_SHOP_CLOSE	Închide magazinul
+OFFLINE_SHOP_CTIME	Timp ramas:
+OFFLINE_SHOP_DAY	Zile:
+OFFLINE_SHOP_DELETE_ITEM	?terge item
+OFFLINE_SHOP_DELETE_ITEM_WINDOW	?terge un item din magazinul tau
+OFFLINE_SHOP_EMOJI_TOOLTIP	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - ?terge item
+OFFLINE_SHOP_EMOJI_TOOLTIP2	|Eemoji/key_rclick|e - Actualizeaza pre?ul itemului
+OFFLINE_SHOP_EMOJI_TOOLTIP3	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Ia item
+OFFLINE_SHOP_EMPTY	Fara informa?ii
+OFFLINE_SHOP_HOUR	ore:
+OFFLINE_SHOP_INPUT_PRICE_DIALOG_TITLE	Pre?
+OFFLINE_SHOP_IS_EMPTY	Magazinul tau este gol!
+OFFLINE_SHOP_LEFT_TIME	Timp ramas: %s
+OFFLINE_SHOP_LOC	Loca?ie
+OFFLINE_SHOP_LOCALIZATION_01	%s
+OFFLINE_SHOP_LOCALIZATION_02	(%d, %d)
+OFFLINE_SHOP_LOCALIZATION_03	CH%d
+OFFLINE_SHOP_MAP	Harta
+OFFLINE_SHOP_NAME	Nume magazin:
+OFFLINE_SHOP_NO_ITEMS_IN_SHOP	Pentru a crea un magazin, trebuie sa plasezi iteme în el!
+OFFLINE_SHOP_OPEN	Deschide magazin
+OFFLINE_SHOP_PLAYER_NAME	Jucator magazin offline - 
+OFFLINE_SHOP_REMAINING_TIME	Timp ramas: 0 zile
+OFFLINE_SHOP_SEARCH	Cauta
+OFFLINE_SHOP_TIME	Zile: %d, Ore: %s
+OFFLINE_SHOP_TIMEE	Timp ramas
+OFFLINE_SHOP_WARNING	Daca nu vezi itemul cautat din cauza ca inventarul este plin, vei vedea mai multe iteme dupa ce colectezi din inventar.
+OFFLINE_SHOP_WARNING1	Acum cumperi iteme folosind butonul drept al mouse-ului, fii atent!
+OFFLINE_SHOP_WITHDRAW_YANG	Retragere
+OFFSHOP_DECORATION_SET	Seteaza decor magazin
+ONLY_CHANNEL	Canal: %d
+PASSIVE_SKILLS_FULLED_DESC_1	Daca ai toate skill-urile pasive
+PASSIVE_SKILLS_FULLED_DESC_2	la nivel P vei primi
+PASSIVE_SKILLS_FULLED_DESC_3	|cFFffce47+{}|r la skill
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_1	Daca ai toate skill-urile companion
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_2	la nivel P vei primi
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_3	|cFFffce47+{}|r la skill
+PET_INFO_1	Daca ai toate skill-urile la nivel P,
+PET_INFO_2	vei primi un bonus suplimentar |cFFc8ff9c+30%|r la toate skill-urile.
+PET_INFO_3	Skill selectat: {}
+PET_INFO_4	Bonus suplimentar: |cFFc8ff9c+{}
+PET_SKILL_1	Vitalitate
+PET_SKILL_10	Penetra?ie
+PET_SKILL_11	Boss King
+PET_SKILL_2	Nalucire
+PET_SKILL_3	Cura?ie
+PET_SKILL_4	Concentrare
+PET_SKILL_5	Putere
+PET_SKILL_6	Omnipoten?a
+PET_SKILL_7	Absorb?ie
+PET_SKILL_8	Furie
+PET_SKILL_9	Armura
+PKT_OSIAG_LOCALE_GAME	AP
+PKT_OSIAG_SYSTEM_PICK_PKT_OSIAG	testtest: %d
+POLYMARBLE_STAGE	|cFFffce47Nivel {}
+POLYMORPH_AFFECT_REMOVE_QUESTION	Vrei cu adevarat sa anulezi transformarea?
+POLYMORPH_AFFECT_TOOLTIP	Transformare
+PREMIUM_EXTRA_SHOP_SEARCH_TOOLTIP	Premium nu este activ!\n-- Beneficii cont Premium --\n *Cumparare de la distan?a\n *Cumparaturi multiple
+PREMIUM_EXTRA_SHOP_SEARCH_TOOLTIP2	Premium activ!\n-- Beneficii cont Premium --\n *Cumparare de la distan?a\n *Cumparaturi multiple
+PREMIUM_OVERIN_TOOLTIP	Doar utilizatorii cu cont Premium pot folosi aceasta func?ie.
+PREMIUM_OVERIN_TOOLTIP2	Po?i folosi {} pentru a activa aceasta func?ie.
+PREMIUM_PRIVATE_ITEM_ADD_DIFFERENCE_PRICE_WARNING	Nu po?i vinde itemul la pre?uri diferite.
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_WON2	Valoarea câ?tigata + suma won vânduta nu poate depa?i limita maxima.
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_YANG2	Valoarea câ?tigata + suma yang vânduta nu poate depa?i limita maxima.
+PREMIUM_PRIVATE_SALE_CUSTOMER	Jucator: %s
+PREMIUM_PRIVATE_SALE_TIME	Data: %s
+PREMIUM_PRIVATE_SHOP_AUTO_MARKET_PRICE_INPUT_TOOLTIP	Vinde automat la pre?ul pie?ei.
+PREMIUM_PRIVATE_SHOP_BUILD_RESTRICTED	Un magazin nu poate fi deschis în aceasta loca?ie.
+PREMIUM_PRIVATE_SHOP_HYPERLINK_HELP_TOOLTIP	Folose?te CTRL + click mouse pentru a adauga un item în magazin.
+PREMIUM_PRIVATE_SHOP_INVALID_ITEM_CHECKIN_POSITION	Nu po?i adauga mai multe iteme în magazinul tau.
+PREMIUM_PRIVATE_SHOP_LOCKED_SLOT_QUESTION	Vrei sa deblochezi acest slot?
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE	[Câ?tiguri actuale]
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE_HINT_MSG	Aten?ie: Pre?ul pie?ei nu ia în considerare calitatea itemului.
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE_NOT_AVAILABLE	Indisponibil.
+PREMIUM_PRIVATE_SHOP_MODIFY_STATE_OPEN_FAIL_TIME	A?teapta înainte de a deschide din nou magazinul.
+PREMIUM_PRIVATE_SHOP_NOT_MODIFY_STATE	Nu po?i face asta cât timp magazinul nu este gestionat.
+PREMIUM_PRIVATE_SHOP_NO_BUNDLE_ITEM	Nu po?i deschide un magazin fara un sacule?.
+PREMIUM_PRIVATE_SHOP_NO_PREMIUM_BUNDLE_ITEM	Fara Kashmir, nu po?i schimba aspectul magazinului.
+PREMIUM_PRIVATE_SHOP_SHORT_TITLE	Trebuie sa introduci un nume mai lung.
+PREMIUM_PRIVATE_SHOP_TIME_EXPIRED	Premium expirat
+PREMIUM_PRIVATE_SHOP_TOTAL_WORTH	Pre? vânzare:
+PREMIUM_PRIVATE_SHOP_UNLOCK_KEY_MISSING	Ai nevoie de o cheie magica pentru a debloca acest lucru.
+PREMIUM_PRIVATE_SHOP_WARP_HELP_TOOLTIP	Click pentru a te teleporta la magazin.
+PREMIUM_PRIVATE_SHOP_WITHDRAW_QUESTIONG	Vrei cu adevarat sa retragi yang din magazinul tau?
+PRICE_FORMAT	Pre?: |cFFffc700{} {} |cFFb8b8b8{} {}
+PRIVATESHOPSEARCH_ABLITY_POTION	Roua
+PRIVATESHOPSEARCH_ACCESSORY_SOCKET	Material fin
+PRIVATESHOPSEARCH_ARMOR	Echipament
+PRIVATESHOPSEARCH_ARROW	Sage?i
+PRIVATESHOPSEARCH_BELL	Clopo?ei
+PRIVATESHOPSEARCH_BELT	Curele
+PRIVATESHOPSEARCH_BLEND	Po?iuni
+PRIVATESHOPSEARCH_BLOOD_PEARL	Perla ro?ie-sângerie
+PRIVATESHOPSEARCH_BLUE_PEARL	Perla albastra
+PRIVATESHOPSEARCH_BODY	Armura
+PRIVATESHOPSEARCH_BOW	Arcuri
+PRIVATESHOPSEARCH_BUYTIME	Vrei sa cumperi itemul selectat?
+PRIVATESHOPSEARCH_CLAW	Gheare
+PRIVATESHOPSEARCH_CLEAR_POTION	Elixire
+PRIVATESHOPSEARCH_COSTUME	Costume
+PRIVATESHOPSEARCH_COSTUMEBODY	Costum
+PRIVATESHOPSEARCH_COSTUMEHAIR	Coafura
+PRIVATESHOPSEARCH_COSTUME_ACCE	Brau
+PRIVATESHOPSEARCH_COSTUME_ACCE_SKIN	Costume brau
+PRIVATESHOPSEARCH_COSTUME_AURA	Costum Aura
+PRIVATESHOPSEARCH_COSTUME_MOUNT	Cai
+PRIVATESHOPSEARCH_CRYSTAL	Cristal
+PRIVATESHOPSEARCH_DAGGER	Pungi
+PRIVATESHOPSEARCH_DEAD	Mort
+PRIVATESHOPSEARCH_DETACHMENT	Manual pietre
+PRIVATESHOPSEARCH_DIAMOND	Diamant
+PRIVATESHOPSEARCH_DS	Alchimie pietre dragon
+PRIVATESHOPSEARCH_DS_BLACK	Onix
+PRIVATESHOPSEARCH_DS_BLUE	Safir
+PRIVATESHOPSEARCH_DS_GREEN	Jad
+PRIVATESHOPSEARCH_DS_RED	Rubin
+PRIVATESHOPSEARCH_DS_WHITE	Diamant
+PRIVATESHOPSEARCH_DS_YELLOW	Granat
+PRIVATESHOPSEARCH_EAR	Cercei
+PRIVATESHOPSEARCH_FAN	Evantaie
+PRIVATESHOPSEARCH_FISH	Pe?ti
+PRIVATESHOPSEARCH_FOOTS	Încal?aminte
+PRIVATESHOPSEARCH_GEM	Gemuri
+PRIVATESHOPSEARCH_GIFTBOX	Cufere
+PRIVATESHOPSEARCH_GLOVE	Manu?i
+PRIVATESHOPSEARCH_HEAD	Ca?ti
+PRIVATESHOPSEARCH_LIVE	Viu
+PRIVATESHOPSEARCH_MATERIAL	Materiale
+PRIVATESHOPSEARCH_METIN	Pietre spirit
+PRIVATESHOPSEARCH_NECK	Coliere
+PRIVATESHOPSEARCH_NEED_ITEM_BUY	Fara sacule?ul corect, nu po?i cumpara niciun item.
+PRIVATESHOPSEARCH_NEED_ITEM_FIND	Fara sacule?ul corect, nu po?i cauta niciun item.
+PRIVATESHOPSEARCH_NODELAY_POTION	Iteme HP
+PRIVATESHOPSEARCH_ORE	Minereu
+PRIVATESHOPSEARCH_OTHER_COSTUMES	Alte costume
+PRIVATESHOPSEARCH_PET	Pet-uri
+PRIVATESHOPSEARCH_PETAGG	Oua de pet
+PRIVATESHOPSEARCH_PETSKILLBOOK	Car?i skill pet
+PRIVATESHOPSEARCH_PICK	Co?uri
+PRIVATESHOPSEARCH_POTION	Po?iuni
+PRIVATESHOPSEARCH_QUEST	Misiune
+PRIVATESHOPSEARCH_QUIVER	Carni?e
+PRIVATESHOPSEARCH_RESOURCE	Iteme upgrade
+PRIVATESHOPSEARCH_ROD	Lansete
+PRIVATESHOPSEARCH_SELECTITEM	Selecteaza un item.
+PRIVATESHOPSEARCH_SHIELD	Scuturi
+PRIVATESHOPSEARCH_SKILLBOOK	Car?i skill
+PRIVATESHOPSEARCH_SKILLFORGET	Carte Uitare
+PRIVATESHOPSEARCH_SKIN_AURA	Costum Aura
+PRIVATESHOPSEARCH_SKIN_MOUNT	Costum cal
+PRIVATESHOPSEARCH_SKIN_PET	Costum pet
+PRIVATESHOPSEARCH_SKIN_SASH	Costum brau
+PRIVATESHOPSEARCH_SPECIAL	Altele
+PRIVATESHOPSEARCH_STONE	Fragmente energie
+PRIVATESHOPSEARCH_SWORD	Sabii cu o mâna
+PRIVATESHOPSEARCH_TREASUREBOX	Cufere
+PRIVATESHOPSEARCH_TUNING	Scroll-uri
+PRIVATESHOPSEARCH_TWOSWORD	Sabii cu doua mâini
+PRIVATESHOPSEARCH_UNIQUE	Unic
+PRIVATESHOPSEARCH_USEITEM	Consumabile
+PRIVATESHOPSEARCH_USESPECIAL	Altele
+PRIVATESHOPSEARCH_WEAPON	Arme
+PRIVATESHOPSEARCH_WHITE_PEARL	Perla alba
+PRIVATESHOPSEARCH_WRIST	Bra?ari
+PRIVATE_SHOP_BUY_ITEM_SELECTED_FAILURE	Nu po?i elimina un item deja cumparat sau eliminat.
+PRIVATE_SHOP_BUY_ITEM_SELECTED_OVERFLOW	Po?i selecta maximum 10 iteme.
+PRIVATE_SHOP_BUY_VNUM_ITEM_NOT_SELECTED	Selecteaza itemul pe care vrei sa îl cumperi.
+PRIVATE_SHOP_CLOSE_QUESTION	Vrei sa închizi magazinul privat?
+PRIVATE_SHOP_SEARCH_APPLY_FILTER_QUESTION	Vrei cu adevarat sa aplici filtrul '%s'?
+PRIVATE_SHOP_SEARCH_GENDER_FEMALE	Feminin
+PRIVATE_SHOP_SEARCH_GENDER_MALE	Masculin
+PRIVATE_SHOP_SEARCH_LIMIT_LEVEL	Nivel jucator
+PRIVATE_SHOP_SEARCH_LIMIT_REFINEMENT	Nivel de rafinare
+PRIVATE_SHOP_SEARCH_LIMIT_STACK	Stack
+PRIVATE_SHOP_SEARCH_MAX	Max.
+PRIVATE_SHOP_SEARCH_MIN	Min.
+PRIVATE_SHOP_SEARCH_PLAYER_NAME_NOT_SELECTED	Introdu numele jucatorului.
+PRIVATE_SHOP_SEARCH_REMOVE_FILTER_QUESTION	Vrei cu adevarat sa elimini filtrul '%s'?
+PRIVATE_SHOP_SEARCH_SELECT_ALCHEMY_CLARITY	Selecteaza claritatea
+PRIVATE_SHOP_SEARCH_SELECT_ALCHEMY_LEVEL	Selecteaza nivelul
+PRIVATE_SHOP_SEARCH_SELECT_ATTR	Selecteaza atributele: %d
+PRIVATE_SHOP_SEARCH_SELECT_GENDER	Selecteaza genul
+PRIVATE_SHOP_SEARCH_SELECT_JOB	Selecteaza clasa
+PRIVATE_SHOP_SEARCH_SELECT_NONE	Niciunul
+PRIVATE_SHOP_SEARCH_SELECT_SASH_ABSORPTION	Absorb?ia braului
+PRIVATE_SHOP_SEARCH_TITLE_ALCHEMY	Alchimie
+PRIVATE_SHOP_SEARCH_TITLE_ATTRIBUTES	Atribute
+PRIVATE_SHOP_SEARCH_TITLE_CLASSIFIERS	Clasificatori
+PRIVATE_SHOP_SEARCH_TITLE_LIMITS	Limite
+PVP_EVENT_TIME	Începe în: %s
+PVP_LEVEL0	[Elvion Legend]
+PVP_LEVEL1	[Elvion Overlord]
+PVP_LEVEL10	[Aggressive]
+PVP_LEVEL11	[Evasive]
+PVP_LEVEL12	[Malicious]
+PVP_LEVEL13	[Cruel]
+PVP_LEVEL2	[Elvion Ruler]
+PVP_LEVEL3	[Grandmaster]
+PVP_LEVEL4	[Ruler]
+PVP_LEVEL5	[Invincible]
+PVP_LEVEL6	[Omnipotent]
+PVP_LEVEL7	[Brave]
+PVP_LEVEL8	[Recruit]
+PVP_LEVEL9	[Neutral]
+QUEST_CATEGORY_00	Misiuni principale
+QUEST_CATEGORY_01	Misiuni secundare
+QUEST_CATEGORY_02	Ucidere
+QUEST_CATEGORY_03	Misiuni de colectare
+QUEST_CATEGORY_04	Misiuni de eveniment
+QUEST_CATEGORY_05	Misiuni zilnice
+QUEST_CATEGORY_06	Sisteme ?i abilita?i
+QUEST_CATEGORY_07	Misiuni zilnice
+RANKING_LEVEL_PREFIX	Lv. {}
+RANKING_TOP_15	Clasament TOP 15
+RANKING_WINDOW_CATEGORY_ALCHEMY	Pietre dragon rafinate
+RANKING_WINDOW_CATEGORY_BOSSES	Boss-uri învinse
+RANKING_WINDOW_CATEGORY_DRAGON_COINS	Dragon coins cheltui?i
+RANKING_WINDOW_CATEGORY_DUNGEONS	Dungeon-uri
+RANKING_WINDOW_CATEGORY_FISHING	Pescuit
+RANKING_WINDOW_CATEGORY_LEVEL	Nivel atins
+RANKING_WINDOW_CATEGORY_MINING	Minare
+RANKING_WINDOW_CATEGORY_MONSTERS	Mon?tri uci?i
+RANKING_WINDOW_CATEGORY_REFINE	Iteme îmbunata?ite
+RANKING_WINDOW_CATEGORY_STONES	Pietre distruse
+RANKING_WINDOW_LEVEL_RANK_LIMIT	În clasamentul pe nivel sunt afi?ate doar caracterele de nivel 75+
+RANKING_WINDOW_LOADING_IN_PROGRESS	Nu po?i schimba categoria cât timp con?inutul dintr-o alta categorie se încarca.
+RANKING_WINDOW_NO_CHARACTERS	Niciun caracter
+RANKING_WINDOW_NO_POSITION	Fara pozi?ie
+RANKING_WINDOW_POSITION	Pozi?ia %s
+RANKING_WINDOW_RANKING_TITLE	Clasament
+RANKING_WINDOW_SERVER_RANKING_DO_NOT_RESET	Clasamentul serverului nu se reseteaza.
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME	Resetarea saptamânala va avea loc în:|cFFF19BFF
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME_UPDATE	Resetarea saptamânala va avea loc în: |cFFcf9bff%s
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME_UPDATE1	Resetarea saptamânala va avea loc în: |cFFcf9bff0 sec.
+RANKING_WINDOW_WEERKLY_RANK_UNAVAILABLE	Clasamentul saptamânal nu este disponibil.
+RED_KINGDOM	|cFFFBB497Shinsoo|h|r
+REFINEWINDOW_DO_NOT_CLOSE_WINDOW	Nu închide fereastra
+REFINEWINDOW_FIND_IN_SHOPS	Gase?te itemul în magazine
+REFINEWINDOW_PRICE_1	Pre?: {}
+REFINE_FAILURE_CAN_NOT_ATTACH	%s nu poate fi ata?at itemului.
+REMAINING_TIME_DAYS	Zile
+REMAINING_TIME_HOURS	Ore
+REMAINING_TIME_MINUTES	Min.
+REMAINING_TIME_SECONDS	Sec.
+REMOVE_ITEM_DO_YOU_REMOVE	Vrei cu adevarat sa ?tergi itemele selectate?
+RENDER_TARGET_PREVIEW_ITEM	Previzualizare model
+RESP_AVAILABLE	Disponibil
+RESP_DROP_TEXT	Dupa ce ape?i acest buton, va fi afi?at drop-ul de la mon?trii selecta?i.
+RESP_DROP_TITLE	Informa?ii mon?tri
+RESP_MOB_TEXT	Când aceasta caseta este bifata, modelul mon?trilor va fi afi?at la hover.
+RESP_MOB_TITLE	Afi?eaza modelul mon?trilor
+RESP_PAGE_COUNT	Pagina %d / %d
+RESP_RESP_TEXT	Când aceasta caseta este bifata, trecând cu mouse-ul peste butonul "teleport" va afi?a loca?ia mon?trilor pe harta.
+RESP_RESP_TITLE	Previzualizare harta
+REVIVE_AUTO_TOWN_MESSAGE	Întoarcere în ora? în: {}
+RUNE_DECK5_TOOLTIP	Runes - Bonus suplimentar (Nivel +5)
+RUNE_DECK9_TOOLTIP	Runes - Bonus suplimentar (Nivel +9)
+SASH_ABSORBED_ITEM	Item absorbit
+SAVE_MAPS_BUSY	|cfffad3a5%s|r
+SAVE_MAPS_EMPTY	|cffe7a6a6- Fara date salvate -|r
+SAVE_MAPS_OVERWRITE_DESC	Datele existente vor fi suprascrise!
+SAVE_MAPS_SAVE_DESC	Descrie loca?ia salvata cât mai precis pentru o mai buna orientare.
+SAVE_MAPS_SAVE_TITLE	Introdu numele loca?iei
+SCORPION_DUNGEON	Ruinele Scorpionului
+SEARCH_IN_SHOPS_SHORTCUT	Cauta în magazine
+SECONDARY_LEVEL_0	Niciunul
+SECONDARY_LEVEL_1	Bronz I
+SECONDARY_LEVEL_10	Omniscient
+SECONDARY_LEVEL_11	Fier I
+SECONDARY_LEVEL_12	Fier II
+SECONDARY_LEVEL_13	Fier III
+SECONDARY_LEVEL_14	Stelar
+SECONDARY_LEVEL_15	Regal
+SECONDARY_LEVEL_16	Platina I
+SECONDARY_LEVEL_17	Platina II
+SECONDARY_LEVEL_18	Platina III
+SECONDARY_LEVEL_19	Platina IV
+SECONDARY_LEVEL_2	Bronz II
+SECONDARY_LEVEL_20	Platina V
+SECONDARY_LEVEL_21	Diamant I
+SECONDARY_LEVEL_22	Diamant II
+SECONDARY_LEVEL_23	Diamant III
+SECONDARY_LEVEL_24	Diamant IV
+SECONDARY_LEVEL_25	Diamant V
+SECONDARY_LEVEL_26	Rubiniu I
+SECONDARY_LEVEL_27	Rubiniu II
+SECONDARY_LEVEL_28	Rubiniu III
+SECONDARY_LEVEL_29	Rubiniu IV
+SECONDARY_LEVEL_3	Bronz III
+SECONDARY_LEVEL_30	Rubiniu V
+SECONDARY_LEVEL_4	Argint I
+SECONDARY_LEVEL_5	Argint II
+SECONDARY_LEVEL_6	Argint III
+SECONDARY_LEVEL_7	Auriu I
+SECONDARY_LEVEL_8	Auriu II
+SECONDARY_LEVEL_9	Auriu III
+SECONDARY_LEVEL_BONUS_NONE	Fara bonus
+SECURITY_ANSWER_IS_WRONG	Raspunsul este incorect, încearca din nou! Aten?ie: Fiecare încercare gre?ita scade timpul cu 5 secunde.
+SECURITY_ANSWER_SUCCESS	Verificare bot realizata cu succes, po?i continua jocul.
+SECURITY_CLEAR	?terge
+SECURITY_CONFIRM	Confirma
+SECURITY_FIND_THE_DIFFERENT	Fa click pe imaginea diferita de celelalte!
+SECURITY_NUMBERS_RESET_POS	Daca numerele apar în afara ferestrei ?i nu po?i da click pe ele, apasa acest buton!
+SECURITY_REMAINING_TIME	Timp ramas: {:.1f}
+SECURITY_SELECT_ANSWER	Tasteaza numerele de mai sus!
+SECURITY_SORT_IMAGES	Aranjeaza numerele tragându-le de la {}!
+SECURITY_SORT_IMAGES2	mic la mare
+SECURITY_SORT_IMAGES3	mare la mic
+SECURITY_YOU_HAVE_ONE_MORE_CHANGE	Alegere incorecta, încearca din nou! O alegere gre?ita suplimentara te va deconecta.
+SELL_PRICE	|cFFffc700Pre? de vânzare:
+SHIP_DUNGEON_1	Nava Fantoma (I)
+SHIP_DUNGEON_2	Nava Fantoma (II)
+SHOP_BUY_NOTIF_0	a fost vândut.
+SHOP_BUY_NOTIF_1	yang a fost adaugat în depozit.
+SHOP_MONEY_NOT_ENOUGH	Yang insuficient!
+SHOP_MONEY_NOT_ENOUGH2	Pre?ul total al produselor din co? nu trebuie sa depa?easca balan?a ta.
+SHOP_NOT_ENOUGH_CHEQUE	Nu ai suficiente Wons.
+SHOP_NOT_ENOUGH_MONEY_CHEQUE	Nu ai suficiente wons sau yang.
+SHOP_NOT_ENOUGH_PKT_OSIAG	Nu ai suficiente puncte de realizare.
+SHOP_SEARCH_ACCE_GRADE_FILTER_0	Comun
+SHOP_SEARCH_ACCE_GRADE_FILTER_1	Fin
+SHOP_SEARCH_ACCE_GRADE_FILTER_2	Nobil
+SHOP_SEARCH_ACCE_GRADE_FILTER_3	Personalizat
+SHOP_SEARCH_ACCE_GRADE_FILTER_TITLE	Nivel brau
+SHOP_SEARCH_ADD_ITEMS_TO_THE_CART_FIRST	Pentru a efectua aceasta ac?iune, trebuie sa selectezi mai întâi iteme.
+SHOP_SEARCH_ADD_TO_BASKET	Adauga item în co?
+SHOP_SEARCH_ALL	Toate categoriile
+SHOP_SEARCH_BUY_CONFIRM	Vrei cu adevarat sa cumperi %s?
+SHOP_SEARCH_BUY_CONFIRM2	Vrei sa te teleportezi la magazinul care con?ine %s?
+SHOP_SEARCH_BUY_SELECTED_ITEMS	Cumpara itemele selectate
+SHOP_SEARCH_BUY_SELECTED_ITEMS_CONFIRM	Vrei cu adevarat sa cumperi aceste %d iteme?
+SHOP_SEARCH_CLEAR_CART_FIRST	Aceasta ac?iune poate fi efectuata doar daca nu exista iteme selectate.
+SHOP_SEARCH_DS_CLARITY_FILTER_0	Ce?os
+SHOP_SEARCH_DS_CLARITY_FILTER_1	Clar
+SHOP_SEARCH_DS_CLARITY_FILTER_2	Fara defecte
+SHOP_SEARCH_DS_CLARITY_FILTER_3	Stralucitor
+SHOP_SEARCH_DS_CLARITY_FILTER_4	Excelent
+SHOP_SEARCH_DS_CLARITY_FILTER_TITLE	Claritate Alchimie Dragon
+SHOP_SEARCH_DS_GRADE_FILTER_0	Diamant
+SHOP_SEARCH_DS_GRADE_FILTER_1	Rubiniu
+SHOP_SEARCH_DS_GRADE_FILTER_2	Chihlimbar
+SHOP_SEARCH_DS_GRADE_FILTER_3	Safir
+SHOP_SEARCH_DS_GRADE_FILTER_4	Granat
+SHOP_SEARCH_DS_GRADE_FILTER_5	Onix
+SHOP_SEARCH_DS_GRADE_FILTER_TITLE	Nivel Alchimie Dragon
+SHOP_SEARCH_ENTER_ITEMNAME	Cauta dupa numele itemului
+SHOP_SEARCH_FILTER_0_0	Cantitate min.
+SHOP_SEARCH_FILTER_0_1	Cantitate max.
+SHOP_SEARCH_FILTER_1_0	Nivel min.
+SHOP_SEARCH_FILTER_1_1	Nivel max.
+SHOP_SEARCH_FILTER_2_0	Abs. min.
+SHOP_SEARCH_FILTER_2_1	Abs. max.
+SHOP_SEARCH_FILTER_3_0	Medie min.
+SHOP_SEARCH_FILTER_4_0	Pre? min.
+SHOP_SEARCH_FILTER_4_1	Pre? max.
+SHOP_SEARCH_ITEM_PRICE_PER_COUNT	Pre? per unitate: %s
+SHOP_SEARCH_MULTIBUY_ACTIVATED	Ai activat cumpararea în bloc, acum selecteaza iteme.
+SHOP_SEARCH_NOT_RESULT_FOUND	Niciun rezultat gasit!
+SHOP_SEARCH_PREMIUM_NEEDED_FOR_THIS_ACTION	Este necesar un cont premium pentru aceasta ac?iune.
+SHOP_SEARCH_REMOVE_FROM_THE_BASKET	Elimina item din co?
+SHOP_SEARCH_SEARCH_BY_PLAYERNAME	Cauta dupa numele jucatorului
+SHOP_SEARCH_SEARCH_BY_PLAYERNAME2	Cauta dupa numele jucatorului
+SHOP_SEARCH_SHORTCUT_SEARCH	|Eemoji/key_shift|e + |Eemoji/key_j|e - Cauta iteme în magazine
+SHOP_SEARCH_TITLE	Cautare magazin
+SHOP_SEARCH_WAIT	A?teapta %d secunde înainte de a efectua din nou aceasta ac?iune.
+SHOP_TIMER_FORMAT	{} zile, {} ore, {} min.
+SKILLS_MAX_LEVEL	Nivel maxim.
+SKILL_AFFECT_REMOVE_QUESTION	Vrei cu adevarat sa elimini acest skill?
+SKILL_DAMAGE_DUNGEON_2	Fortarea?a Pierduta a Oblivionului
+SKILL_DAMAGE_DUNGEON_3	Mormântul Baronului Antic
+SKILL_DAMAGE_DUNGEON_4	Dungeon skill 3
+SKILL_DATA_129_DESC_1	|cFFc1c1c1Damage +{}%
+SPECIAL_INVENTORY_BOOKS	Car?i
+SPECIAL_INVENTORY_CHESTS	Cufere
+SPECIAL_INVENTORY_DEWS	Roua
+SPECIAL_INVENTORY_REFINE	Iteme de upgrade
+SPECIAL_INVENTORY_STONES_ALCHEMY	Pietre ?i Alchimie
+SPECIAL_INVENTORY_USABLE	Iteme utilizabile
+SPIDER_DUNGEON	Sala Reginei Paianjen
+STATS_ADD	Adauga
+STATUS_GUI_TXT	Numar:
+STONE_CRAFTING_DESC	Soul Stone +{} - {}x Fragment de piatra
+STONE_CRAFTING_QUICK_ADD	{} + {} - Adauga rapid
+SUMMER_DUNGEON	Pe?tera lui Solargon
+SWITCHBOT_ALTERNATIVE	Alternativ
+SWITCHBOT_CLEAR_ATTR	Îndeparteaza bonus
+SWITCHBOT_CLEAR_CONFIGURATION	Cura?a
+SWITCHBOT_CONFIGURATION_TITLE	Template-urile tale
+SWITCHBOT_EMPTY_ATTR	- Trebuie sa selectezi un bonus -
+SWITCHBOT_INSTANT	Schimb instant
+SWITCHBOT_INSTANT_COUNT_TITLE	Numar de schimburi:
+SWITCHBOT_IN_PROGRESS	|cff73eb5eBonusurile vor fi vizibile doar|r
+SWITCHBOT_IN_PROGRESS2	|cff73eb5ela oprirea switchbot-ului.|r
+SWITCHBOT_LOAD_CONFIGURATION	Încarcare
+SWITCHBOT_SAVE	Salveaza
+SWITCHBOT_SAVE_BUTTON	Stocare
+SWITCHBOT_SELECT_ATTR	Selectare bonus
+SWITCHBOT_START	Start
+SWITCHBOT_STOP	Stop
+SWITCHBOT_TITLE	Switchbot
+SWITCH_AVERAGE_EVENT	|cFFcabdab?ansa de damage mediu 63%|r
+SWITCH_AVERAGE_EVENT_TEXT	|cFFcabdab?ansa mai mare pentru damage mediu|r
+SWITCH_RARE_EVENT	|cFFcabdab?ansa mai mare pentru 6/7 bonusuri|r
+SWITCH_RUNE_EVENT	|cFFcabdab?ansa mai mare pentru relicve|r
+SWITCH_RUNE_EVENT_TEXT	|cFFcabdab?ansa mai mare pentru relicve nivel 3|r
+SYSTEM_OPTION_CPU_TILING_1	Modul CPU-Tiling poate cre?te performan?a pe calculatoare slabe.
+SYSTEM_OPTION_CPU_TILING_2	Daca apar probleme grafice, selecteaza ‘System Settings’ sau ‘CONFIG.exe’
+SYSTEM_OPTION_CPU_TILING_3	?i treci la modul GPU-Tiling
+SYSTEM_OPTION_GPU_TILING_1	Modul GPU-Tiling poate fi lent pe calculatoare slabe
+SYSTEM_OPTION_GPU_TILING_2	Daca apar probleme grafice, selecteaza ‘System Settings’ sau ‘CONFIG.exe’
+SYSTEM_OPTION_GPU_TILING_3	?i treci la modul CPU-Tiling
+SYSTEM_OPTION_TILING_EXIT	Trebuie sa reporne?ti jocul pentru a schimba modul Tiling.
+TARGET_LEVEL_ELITKA	Elita
+TARGET_LEVEL_LEGENDA	Legenda
+TARGET_RACE_FLAG_ANIMAL	Animal
+TARGET_RACE_FLAG_BOSS	Boss
+TARGET_RACE_FLAG_DARK	Întuneric
+TARGET_RACE_FLAG_DESERT	De?ert
+TARGET_RACE_FLAG_DEVIL	Diavol
+TARGET_RACE_FLAG_DUNGEON	Dungeon
+TARGET_RACE_FLAG_EARTH	Pamânt
+TARGET_RACE_FLAG_ELEC	Fulger
+TARGET_RACE_FLAG_FIRE	Foc
+TARGET_RACE_FLAG_HUMAN	Omenesc
+TARGET_RACE_FLAG_ICE	Ghea?a
+TARGET_RACE_FLAG_INSECT	Insecta
+TARGET_RACE_FLAG_LEGENDA	Legenda
+TARGET_RACE_FLAG_MILGYO	Mistici
+TARGET_RACE_FLAG_ORC	Orc
+TARGET_RACE_FLAG_STONE	Piatra
+TARGET_RACE_FLAG_TREE	Padure
+TARGET_RACE_FLAG_UNDEAD	Nemuritor / Zombie
+TARGET_RACE_FLAG_WIND	Vânt
+TARGET_RACE_FLAG_WLADCA	Conducator
+TARGET_RACE_NON	Niciunul
+TELEPORT_BUTTON	Teleport
+TITLE_BONUS	Bonus
+TITLE_WINDOW_BONUS	Recompensa: 
+TITLE_WINDOW_TASK	Misiune: 
+TITLE_WINDOW_TITLE	Titlu: 
+TITLE_WINDOW_TITLE_ACTIVE	 Activ
+TITLE_WINDOW_TITLE_LOCKED	Blocat
+TITLE_WINDOW_TITLE_UNLOCKED	Deblocat
+TOOLTIP_APPLY_3	pet cu bonusuri PVM:	
+TOOLTIP_APPLY_33050_1	Puternic împotriva mon?trilor +15%	
+TOOLTIP_APPLY_33051_1	HP maxim +2000	
+TOOLTIP_APPLY_33051_2	Puternic împotriva oamenilor +15%	
+TOOLTIP_APPLY_ATTBONUS_BOSS	Puternic împotriva boss-urilor +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BOSS_POLY	Puternic împotriva boss-urilor +%d%%
+TOOLTIP_APPLY_ATTBONUS_ENCHANT_DARK_POLY	Puternic împotriva întunericului +%d%%
+TOOLTIP_APPLY_ATTBONUS_HUMAN_POLY	Puternic împotriva oamenilor +%d%%
+TOOLTIP_APPLY_ATTBONUS_KLASY	Puternic împotriva tuturor claselor +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_LEGENDA	Puternic împotriva Legendelor +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MAX_HP_POLY	HP maxim: +%d
+TOOLTIP_APPLY_ATTBONUS_MONSTER_POLY	Puternic împotriva mon?trilor +%d%%
+TOOLTIP_APPLY_ATTBONUS_STONE	Puternic împotriva pietrelor +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_STONE_POLY	Puternic împotriva pietrelor +%d%%
+TOOLTIP_APPLY_ATTBONUS_WLADCA	Puternic împotriva împara?ilor +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WLADCA_POLY	Puternic împotriva împara?ilor +%d%%
+TOOLTIP_APPLY_DMG_BONUS	Atac +%d%%	SA
+TOOLTIP_APPLY_FINAL_DMG_BONUS	Damage total +%d%%	SA
+TOOLTIP_APPLY_RESIST_KLASY	Rezisten?a împotriva tuturor claselor +%d%%	SA
+TOOLTIP_APPLY_SKILE_BUFF_BOOK_BONUS	?ansa crescuta de antrenare autobuff 2.5x	SNA
+TOOLTIP_APPLY_SKILE_BUFF_NO_BOOK_DELAY	Daca antrenarea autobuff e?ueaza, po?i încerca imediat.	SNA
+TOOLTIP_APPLY_SKILE_PAS_BOOK_BONUS	?ansa crescuta de antrenare skill pasiv 2.5x	SNA
+TOOLTIP_APPLY_SKILE_PAS_NO_BOOK_DELAY	Daca antrenarea skill-ului pasiv e?ueaza, po?i încerca imediat.	SNA
+TOOLTIP_APPLY_SKILE_PET_BOOK_BONUS	?ansa crescuta de antrenare skill pet 2.5x	SNA
+TOOLTIP_APPLY_SKILE_PET_NO_BOOK_DELAY	Daca antrenarea skill-ului pet e?ueaza, po?i încerca imediat.	SNA
+TOOLTIP_ATTBONUS_DUNGEON	Putere în dungeon +%d%%	SA
+TOOLTIP_ATTBONUS_ELEMENT	Puternic împotriva elementelor +%d%%	SA
+TOOLTIP_ATTBONUS_ELEMENT_POLY	Puternic împotriva elementelor +%d%%
+TOOLTIP_ATTBONUS_PVM_SKILL	Damage PVM Skill +%d%%	SA
+TOOLTIP_BONUS_CAN_BE_USE_X_TIMES	Aceasta bonus poate fi folosit: %dx
+TOOLTIP_BUYPRICE_TEXT	|cFF96e000[Pre? vânzare]|r
+TOOLTIP_DEFBONUS_ELEMENT	Rezisten?a elementara +%d%%	SA
+TOOLTIP_DOUBLE_LOOT_DROP	?ansa dubla drop +%d%%	SA
+TOOLTIP_DOUBLE_LOOT_SUMMER	?ansa dubla drop în Laguna Stralucitoare +%d%%	SA
+TOOLTIP_DROP_INFO_PREFIX	• %s
+TOOLTIP_DROP_INFO_RANGE_COUNT	Po?i ob?ine: %s - %s
+TOOLTIP_DROP_INFO_SINGLE_COUNT	Po?i ob?ine:
+TOOLTIP_ENCHANTED	|cFFc8ff9cÎmbunata?it
+TOOLTIP_FISHINGROD_CAN_USE	Bonus poate fi folosit: %dx
+TOOLTIP_FISHING_BIGGER_FISH_CHANCE	?ansa pentru pe?ti mai mari +%d%%	SA
+TOOLTIP_FISHING_INSTANT_CATCH_CHANCE	+%d%% ?ansa prindere instant	SA
+TOOLTIP_FISHING_MORE_POINTS_CHANCE	?ansa pentru mai multe puncte +%d%%	SA
+TOOLTIP_FISHING_MORE_YANG_MULTIPLIER	Yang suplimentar de la pe?te +%d%%	SA
+TOOLTIP_FISHING_NEXT_SECTION_CHANCE	?ansa pentru pe?ti mai rari +%d%%	SA
+TOOLTIP_FISHING_SKILL_BONUS_BIGGER_FISH	?ansa pentru pe?ti mai mari +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_INSTANT	?ansa prindere instant +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_NEXT	Bonusuri nivel urmator:
+TOOLTIP_FISHING_SKILL_BONUS_NOW	Bonusuri nivel curent:
+TOOLTIP_FISHING_SKILL_BONUS_POINTS	?ansa pentru mai multe puncte +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_RARE	?ansa pentru pe?ti rari +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_YANG	Yang suplimentar de la pe?te +%d%%
+TOOLTIP_FISHING_SKILL_MAX	Skill-ul este la nivel maxim!
+TOOLTIP_FISHING_SUCCESSFULL_COUNT	Pe?ti prin?i cu succes: %s
+TOOLTIP_FISHING_SUCCESS_CHANCE	?ansa de prins pe?te +%d%%	SA
+TOOLTIP_FISH_PRICE	Pre?: %s
+TOOLTIP_ITEMSHOP_UNIQUE_ITEM	[Item unic %d din %d]
+TOOLTIP_ITEM_ENLIGHT_LIMIT_LEVEL	De la nivelul Enlightenment: %d
+TOOLTIP_ITEM_MOUNT_LIMIT_LEVEL	|cffBEB4A8|H|hNivel necesar pentru Mount:|H|h |cff18f28d|H|h%d|H|h
+TOOLTIP_MALL_ITEMBONUS_STATIC_NEW	Acest caracter dropeaza 12 cufere de la fiecare boss final dungeon.	SNA
+TOOLTIP_MALL_PICKUP	Pickup automat iteme.	SNA
+TOOLTIP_MALL_PREMIUM_MINE	?ansa minereu +5%, ?ansa minereu mai mult +5%, ?ansa puncte +20%, Timp minare redus cu 1 sec.	SNA
+TOOLTIP_MINING_LESS_MINE_TIME	Timp minare redus cu %d sec.	SA
+TOOLTIP_MINING_MORE_ORES_CHANCE	?ansa mai multe buca?i minereu +%d%%	SA
+TOOLTIP_MINING_MORE_POINTS	?ansa puncte mai multe +%d%%	SA
+TOOLTIP_MINING_SUCCESS_CHANCE	?ansa minare minereu +%d%%	SA
+TOOLTIP_PASYWKI_MASTER	Skill-uri pasive - Bonus suplimentar
+TOOLTIP_RESIST_BOSS	Rezisten?a împotriva boss-urilor: %d%%	SA
+TOOLTIP_RESIST_MONSTER	Rezisten?a împotriva mon?trilor: %d%%	SA
+TOOLTIP_RESIST_WLADCA	Rezisten?a împotriva împara?ilor: %d%%	SA
+TOOLTIP_STAT_BONUS	Statistici +%s	SA
+TOOLTIP_TOGGLE_ACTIVE	Activ
+TOURNAMENT_ALL_CHARACTER	Toate specializarile
+TOURNAMENT_EVENT	Turneu PvP (%s - Lv %d - Lv %d)
+TURN_IN_COMPLETE	|cFF66d678Predat
+UI_LOCATION_01	Salveaza
+UI_LOCATION_02	Încarca
+UI_LOCATION_03	?terge
+UI_LOCATION_04	Pozi?ie neregistrata
+UI_LOCATION_05	Aceasta pozi?ie este deja ocupata, folose?te alta
+UI_LOCATION_06	Finalizeaza mai întâi salvarea pozi?iei precedente
+UI_LOCATION_07	Aceasta pozi?ie nu poate fi folosita
+UI_LOCATION_08	Lungimea maxima a numelui este %d caractere
+UNIFIED_EXCHANGE_FORMAT	|cFFffc7001kkk {money_icon} |r= |cFFb8b8b81 {cheque_icon}
+UNIFIED_EXCHANGE_REVERSE_FORMAT	|cFFb8b8b81 {cheque_icon} |r= |cFFffc7001kkk {money_icon}
+UNIFIED_EXCHANGE_TITLE	Schimb valutar
+UNSAVED_POSITION	Pozi?ie nesalvata
+UPGRADE_CHANCE	?ansa upgrade: |c{color}{percentage}%
+UPGRADE_CHANCE_EXTRA	?ansa upgrade: |c{color}{percentage}% (+{percentageExtra}%)
+USE_ITEM_FAILURE_OFFLINE_SHOP	Acest item nu poate fi folosit cât timp magazinul este deschis!
+VALENTINE_EVENT	|cFFf263f0Drop ciocolata de Valentine|r
+WEEKLY_RANKING_TITLE	Clasament saptamânal (Sezon {})
+WEEKLY_RANK_NO_TITLE	Fara titlu
+WEEKLY_RANK_SEASON_END	Sezonul se încheie în: |cFFdeffb3{}d. {}h. {}min.
+WHEEL_GAME_CHEQUE_MODE	Pentru Wons
+WHEEL_GAME_CURRENT_MODE_GOLD_WHEEL	Mod curent: Wons
+WHEEL_GAME_CURRENT_MODE_ITEM_WHEEL	Mod curent: Jetoane roata
+
+WHEEL_GAME_ITEM_GOLD_COST	1x - 300 Wons.
+WHEEL_GAME_ITEM_MODE	Pentru Jetoane de Vara
+WHEEL_GAME_ITEM_WHEEL_COST	Pre?: 1x Jeton
+WHEEL_GAME_SKIP_ANIMATION	Sari peste anima?ie
+WHEEL_GAME_TITLE	Roata Norocului
+WHEEL_OF_FORTUNE_CAT_1	Roata Norocului (1)
+WHEEL_OF_FORTUNE_CAT_2	Roata Norocului (2)
+WHEEL_OF_FORTUNE_REWARDS	Recompense:
+WHEEL_REWARD_TEXT	Ai primit
+WHEEL_REWARD_TEXT_1	po?i gasi recompensa în inventarul tau
+WHEEL_REWARD_TITLE	Roata Norocului
+WHELL_OF_FORTUNE_EVENT	Roata Norocului
+WIKI_100	Lv. 200+
+WIKI_1_75	Lv. 1-99
+WIKI_76_100	Lv. 99-200
+WIKI_AKZADUR	Dungeon Akzadur
+WIKI_MINING	Minare
+WIKI_RELICS	Relicve
+WIKI_AVAIBLE_AT	Disponibil la
+WIKI_BASIC	F.A.Q
+WIKI_BASIC_DROP	Drop de baza
+WIKI_BIOLOG	Pescuit
+WIKI_BIOLOGO	Pescuit
+WIKI_BODY_COSTUME	Costume
+WIKI_BOOSTER	Boostere
+WIKI_BOSSES	Boss-uri
+WIKI_BOSSES_EVENT	Boss de eveniment
+WIKI_CATEGORY	Categorie
+WIKI_CHESTS	Cufere
+WIKI_CHESTS_ALTERNATIVE	Cufere alternative
+WIKI_CHESTS_BOSS	Cufere boss
+WIKI_CHESTS_DUNGEON	Cufere dungeon
+WIKI_CHESTS_EVENT	Cufere de eveniment
+WIKI_CHESTS_OTHER	Alte cufere
+WIKI_CONTENT_INFO	Con?inutul %s
+WIKI_COST	Costuri
+WIKI_COMPANIONS	Companioni
+WIKI_COSTUMES	Costume
+WIKI_CUBE_INFO	Cost item %s
+WIKI_DROPLIST_INFO	Droplist %s
+WIKI_EQUIPMENT	Echipament
+WIKI_EQUIPMENT_ARMOR	Armura
+WIKI_EQUIPMENT_BELT	Brau
+WIKI_EQUIPMENT_BRACELET	Bra?ari
+WIKI_EQUIPMENT_EARRING	Cercei
+WIKI_EQUIPMENT_HELMET	Ca?ti
+WIKI_EQUIPMENT_NECKLACE	Lan?i?oare
+WIKI_EQUIPMENT_RINGS	Inel
+WIKI_EQUIPMENT_SHIELD	Scuturi
+WIKI_EQUIPMENT_SHOES	Încal?aminte
+WIKI_EQUIPMENT_TALISMAN	Talisman
+WIKI_EQUIPMENT_WEAPONS	Arme
+WIKI_EVENTS	Evenimente
+WIKI_FAQ2	FAQ
+WIKI_GAMERULES	Reguli
+WIKI_GAME_RULES	Reguli
+WIKI_GUIDES	Informa?ii despre Elvion
+WIKI_GUIDES2	Informa?ii despre Elvion
+WIKI_HAIR_COSTUME	Coafuri pentru costume
+WIKI_INFO_NO_RACE	Niciunul
+WIKI_INFO_RACE_ANIMAL	Animal
+WIKI_INFO_RACE_DARK	Întuneric
+WIKI_INFO_RACE_DEVIL	Diavol
+WIKI_INFO_RACE_EARTH	Pamânt
+WIKI_INFO_RACE_ELEC	Fulger
+WIKI_INFO_RACE_FIRE	Foc
+WIKI_INFO_RACE_HUMAN	Jumatate-om
+WIKI_INFO_RACE_ICE	Ghea?a
+WIKI_INFO_RACE_METIN	Piatra Metin
+WIKI_INFO_RACE_MILGYO	Mistici
+WIKI_INFO_RACE_ORC	Orc
+WIKI_INFO_RACE_UNDEAD	Zombie
+WIKI_INFO_RACE_WIND	Vânt
+WIKI_INFO_RACE_ZODIAC	Zodiac
+WIKI_INFO_RESIST_BELL	Clopot
+WIKI_INFO_RESIST_BOW	Arc
+WIKI_INFO_RESIST_DAGGER	Pumnal
+WIKI_INFO_RESIST_FAN	Evantai
+WIKI_INFO_RESIST_MAGIC	Magic
+WIKI_INFO_RESIST_SWORD	Sabie
+WIKI_INFO_RESIST_TWOHAND	Doua mâini
+WIKI_ITEM_NAME	Nume item...
+WIKI_LEVEL_MOB_TEXT	Nivel %d
+WIKI_LEVEL_TEXT	Nivel %d - Refine %d~%d
+WIKI_LEVEL_TEXT2	Nivel %d~%d - Refine %d~%d
+WIKI_LEVEL_TEXT2_CHAMPION	Nivel Champion %d~%d - Interval Refine %d~%d
+WIKI_LEVEL_TEXT_CHAMPION	Nivel Champion %d - Interval Refine %d~%d
+WIKI_METINSTONE	Pietre
+WIKI_MOB_NAME	Nume monstru
+WIKI_MONSTER	Monstru
+WIKI_MOUNT	Pets ?i mount-uri
+WIKI_MOUNT_ITEM	Mount-uri
+WIKI_ORIGIN	Origine
+WIKI_ACHIEVEMENT_POINTS	Puncte de realizari
+WIKI_PET_ITEM	Pets
+WIKI_PET_LEVEABLE_ITEM	Pets care pot fi nivelate
+WIKI_SASH_COSTUME	Costum de Sash
+WIKI_SHINING	Sclipire
+WIKI_STATICS_INFO	Statistici %s
+WIKI_STATICS_INFO_DEFENSES	Aparari:
+WIKI_STATICS_INFO_DMG	Dmg Min:%d | Dmg Max:%d | HP Max: %d
+WIKI_STATICS_INFO_TYPE	Rasa: %s | Rasa secundara: %s
+WIKI_STATICS_INFO_YNG	Yang Min:%d | Yang Max:%d | EXP: %d
+WIKI_SYSTEM2	Sisteme de baza
+WIKI_TALISMAN	Talisman
+WIKI_TEMNITE	Dungeon-uri
+WIKI_THESTART2	Pentru început
+WIKI_TITLE	Wikipedia
+WIKI_TITLE2	[H] Wikipedia
+WIKI_UNKOWN_ITEM	Item necunoscut: %d
+WIKI_UNKOWN_MOB	Monstru necunoscut: %d
+WIKI_UPGRADE_COSTS	Item suplimentar
+WIKI_WEAPON_SKIN	Costum pentru arma
+WIKI_YANG_COSTS	Yang
+WIKI_ZODIAC	Templul Zodiacului
+WONEXCHANGE_CONFIRM_QUESTION_1	Vrei sa vinzi %d Won pentru %s Yang?
+WONEXCHANGE_CONFIRM_QUESTION_2	Vrei sa cumperi %d Won pentru %s Yang?
+WONEXCHANGE_CONFIRM_QUESTION_3	Continuam?
+WORLDBOSS_GUARD_NAME	Anun?
+WUKONG_DUNGEON	Mun?ii Wukong
+YANG_DROP_EVENT	|cFFcabdabDrop Yang crescut: %d%%|r
+YELLOW_KINGDOM	|cFFFDE696Chunjo|h|r
+GUILD_GUARDIAN_ACTIVATE_FEE_INFO	Activarea bonusurilor gardianului costã 500.000 aur de breaslã ?i dureazã 24 de ore.

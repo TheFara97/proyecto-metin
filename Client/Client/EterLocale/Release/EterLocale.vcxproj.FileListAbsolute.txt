@@ -1,0 +1,3 @@
+D:\Zaris2\zariscore\Client\EterLocale\Release\EterLocale.lib
+F:\Elvion\Elvion-core\Client\EterLocale\Release\EterLocale.lib
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\EterLocale\Release\EterLocale.lib

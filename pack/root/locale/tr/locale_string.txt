@@ -1,0 +1,2234 @@
+1	Yaknda herkes ehre nlanacak.
+2	Bu öe mevcut deil.
+3	Göüs aniden patlad! Salk Puan (HP) kaybettiniz.
+4	[Lonca] Lonca bölgesinin sat baarsz oldu.
+5	[Lonca] Lonca hazinesinde yeterli Yang bulunmadndan lonca bölgesinin sat tamamlanamyor.
+6	[Lonca] Oylama aktifken loncadan ayrlamazsnz.
+7	[Lonca] Oyuncu çevrimd veya baka bir haritada.
+8	[Lonca] Lonca savatayken savaçlara oy veremezsiniz.
+9	[Lonca] Devam eden bir oylama varken baka bir oylamaya balayamazsnz.
+10	[Lonca] Bu eylem sava srasnda mümkün deildir.
+11	[Lonca] Lonca hazinesi doluyken yükseltme yaplamaz.
+12	[Klan] Oylama aktifken lonca deposunu kullanamazsnz.
+13	Göüsten çkan yeil duman soluduunuzda zehir vücudunuza yaylr!
+14	[Lonca] Lonca deposu açkken bu eylemi gerçekletiremezsiniz.
+15	[Lonca] Sava srasnda lonca liderini deitiremezsiniz.
+16	[Lonca] %s, %s'i kulland.
+17	[Lonca] Lonca becerilerini kullanma izniniz yok.
+18	[Lonca] Yeniden canlanma snrn zaten tükettiiniz için gözlemci modundasnz.
+19	[Lonca] Lütfen üyeleri ve komutanlar dorulayn.
+20	[Lonca] Lütfen düman üyelerini ve komutanlarn dorulayn.
+21	[Lonca] Baz üyeler çevrimd veya baka bir haritada.
+22	[Lonca] Baz dümanlar çevrimd veya baka bir haritada.
+23	[Lonca] Çevrimiçi ortamda yeterli katlmc yok.
+24	%s, %d adet aldnz
+25	[Lonca] Bu eylemi sava srasnda gerçekletiremezsiniz.
+26	[Klan] 10 saniyede kullanlabilir.
+27	[Lonca] Komutan olabilmek için karakterinizin en az 40. seviyede olmas gerekir.
+28	[Lonca] %s kazand.
+29	[Klan] Çekili
+30	[Lonca] Sava srasnda kimseyi loncadan çkaramazsnz.
+31	[Lonca] Lonca liderini görevden almak için oylama balatamazsnz.
+32	[Lonca] Kendinizi loncadan çkarmak için oylama balatamazsnz.
+33	[Lonca] Loncay transfer etmek için Veraset Yüzüüne ihtiyacnz var.
+34	[Lonca] Lonca hazinesinde yeterli yer yok.
+35	Göüste %s var.
+36	[Klan] Lonca deposunu kullandktan sonra loncadan ayrlmadan önce en az 12 saat beklemelisiniz.
+37	Lonca [%s]! Nihai hedef ortaya çkt. Bu sava kazanmak için tüm hedefleri yok edin!
+38	[Lonca] Sava 5 dakika içinde bitiyor.
+39	[Lonca] Sava 1 dakika içinde bitiyor.
+40	[Lonca] Reklam olan bir lonca yok.
+41	[Lonca] Henüz hiçbir lonca ejderhay yenemedi.
+42	[Lonca] Sralama güncellemesi.
+43	[Lonca] Ejderha Kraliçesi Meley'e kar sava balyor.
+44	[Lonca] Meley'in ininin kaplar açk. Labirentteki zaman snr bir saattir.
+45	[Lonca] Ejderha Kraliçesi Meley'i yendiniz!
+46	Görünüe göre anahtar kilide uymuyor.
+47	[Klan] Gerekli süre: %d dk. %d sn.
+48	[Lonca] Kendi güvenliiniz için 10 dakika içinde yuvann dna nlanacaksnz.
+49	[Lonca] Süre doldu.
+50	[Lonca] Meley'in ininin kaplar tekrar kapatld.
+51	[Lonca] Kendi güvenliiniz için 1 dakika içinde yuvann dna nlanacaksnz.
+52	[Klan] Snak %d dakika içinde kapanacak.
+53	[Lonca] Meley'in inindeki kavgay yarda kestin.
+54	[Lonca] Ejderha maarasnda savarken sava ilan edemezsiniz.
+55	[Lonca] Düman loncas u anda ejderha maarasnda savayor.
+56	Hiçbir ey almadn.
+57	[Klan] Meley'in inine baarl kayt.
+58	[Lonca] Ejderha maarasna girmek için ejderha koruyucusu Dolnarr' ziyaret edin.
+59	Yaz Etkinlii balad. ehirde Yaz' ziyaret edin. Sana lezzetli içecekler verecek.
+60	Yaz Etkinlii yaknda sona erecek. Yaz, ehre 7 gün daha lezzetli içecekler sunacak.
+61	Efekt zaten aktif.
+62	[Lonca] Her 10 saniyede bir ilem yapabilirsiniz.
+63	[Lonca] Lonca hazinesi baka bir üye tarafndan kullanlyor.
+64	[Lonca] Lonca [%s], loncaya [%s] kar sava kaybetti.
+65	Hesap snrna ulald. Bu sand açamazsnz.
+66	[Lonca] Loncanzn hesabnda yeterli Yang yok. Lütfen daha fazla Yang yatrn ve tekrar deneyin.
+67	Bu öeyi yükseltmek için yeterli Yang'nz yok.
+68	[Klan] Nesne baaryla tand.
+69	[Lonca] Bu lonca amblemini kullanamazsnz. Lütfen tekrar deneyin.
+70	[Dönütürme] Dönütürülen öeyi kar cinsiyete ait olduu için kullanamazsnz.
+71	[Dönütürme] Dönütürülen öeyi farkl bir karakter türü için olduundan kullanamazsnz.
+72	[Canavar Kart] Görev seviyesi: %d. Canavar yendin: %s.
+73	[Canavar Kart] Görevi tamamladnz. imdi Canavar Kartn toplayn.
+74	[Canavar Kart] Yeterli envanter alannz yok.
+75	[Canavar Kart] [%s] Seviye yükseltme tamamland.
+76	[Canavar Kart] Artk canavarn hareket animasyonlarn görüntüleyebilirsiniz.
+77	[Canavar Kart] Artk bu canavara dönüebilirsiniz.
+78	Beceri seviyenizi düürdünüz.
+79	[Canavar Kart] Artk canavarn bulunduu yere nlanabilirsiniz.
+80	[Lonca] Bir katlmc olarak kendi loncanzn savan gözlemleyemezsiniz.
+81	[Lonca] Lonca, bavuranlar için minimum seviye gereksinimi belirlemitir (min. seviye: %d).
+82	[Lonca] Her 10 saniyede bir ilem yapabilirsiniz.
+83	[Lonca] %s Loncas satn alnan bölge.
+84	[Lonca] Ejderha Tapna sava baka bir kanalda gerçekleiyor.
+85	[Guild] Günlük sunucusu u anda bakmda.
+86	[Guild] Günlük sunucusu u anda bakmda.
+87	[Lonca] Arazi baka bir oyuncuya ait.
+88	Beceri seviyenizi azaltamazsnz.
+89	Sava bölgesine girebilmek için en az %d. seviyede olmanz gerekir.
+90	Bu haritadan sava alanna giremezsiniz.
+91	Sava alanna girmeden veya ayrlmadan önce tüm pencereleri kapatmalsnz.
+92	Ölüyken sava alann terk edemezsiniz.
+93	Sava alanna giriliyor. Lütfen bekleyin.
+94	Sava alann terk etmek. Lütfen bekleyin.
+95	Sonraki giri %d dakika içinde kullanlabilir.
+96	Sonraki giri %d saniye içinde kullanlabilir.
+97	Bu öeyi burada kullanamazsnz.
+98	Bu öeyi burada kullanamazsnz.
+99	Efekt zaten aktif.
+100	Annda canlanma için bir Reenkarnasyon öesine ihtiyacnz var.
+101	Sava alan artk açk.
+102	Sava bölgesi artk kapal.
+103	Sava bölgesi %d dakika içinde açlacak.
+104	Sava bölgesi %d dakika içinde kapanacak.
+105	Bir etkinlik aktif olduundan çift puan alacaksnz.
+106	Sava bölgesi etkinlii sona erdi.
+107	Sava bölgesinden kaçnz bildirdiniz ve %d dakika içinde oradan ayrlabilirsiniz.
+108	Bir oyuncu kaçtn bildirdi. Daha fazla puan kazanmak için onlar öldürün.
+109	Kaç raporunuz iptal edildi.
+110	Envanteriniz dolu olduundan ödülü alamazsnz.
+111	Bu öe yalnzca internet kafede kullanlabilir.
+112	Kaç raporunuz aktif.
+113	u anda sava alanna giremezsiniz.
+114	Aferin! Sava bölgesi sralamasnda %d. sraya ulatnzda özel bir madalya alacaksnz.
+115	u anda %d puannz var. Toplam puannz %d.
+116	Bu eyay sava alanndan kaçarken kullanamazsnz.
+117	Sava bölgesinde sava ilan edemezsiniz.
+118	Bu ilem bu haritada mümkün deildir.
+119	Kalan tutar: %d
+120	[Lonca] Lonca hazinesi maksimum seviyede.
+121	[Lonca] Hiçbir Yang' geri çekemezsiniz çünkü 2 trilyondan fazla Yang'nz var.
+122	Bu snr ayor.
+123	[Lonca] Baka bir pencere açkken Yang' geri çekemezsiniz.
+124	Lonca sava ilan 3 dakika içinde sona erecek.
+125	%d saniye içinde sava alanna gireceksiniz.
+126	%d saniye içinde sava alann terk edeceksiniz.
+127	%d puan kaybettiniz. Kalan puanlar: %d.
+128	Maalesef envanterinizde yeterli alan yok.
+129	Bu oyuncu için herhangi bir puan kazanmayacaksnz.
+130	Sava bölgesinden ayrldnz bildirdiniz ve %d saniye içinde oradan ayrlabilirsiniz.
+131	Etkinlik balad!
+132	Ay çörei veya tohum kullanlr.
+133	Devam etmek için %s'yi arkada listenizden çkarn.
+134	%s artk engellendi.
+135	%s artk engellenmiyor.
+136	%s zaten engellendi.
+137	Einizi engelleyemezsiniz.
+138	Devam etmek için %s engellemesini kaldrn.
+139	%s seni engelledi.
+140	Mevcut olaydan bir canavar ortaya çkt.
+141	Yeterli Yldönümü Bayranz yok.
+142	Yldönümü Etkinlii balad!
+143	Evli deilseniz alyans takamazsnz.
+144	Yldönümü Etkinlii %d dakika içinde sona eriyor.
+145	Bu eyay baka bir kostüm giyerken kullanamazsnz.
+146	Bu eyay düün kyafeti veya smokin giyerken kullanamazsnz.
+147	Öe kullanlrken bunu yapamazsnz.
+148	[Lonca] Baka bir pencere açkken Yang' lonca hazinesine yatramaz veya çekemezsiniz.
+149	[Klan] Yang' lonca hazinesine yatrrken veya çekerken bu eylemi gerçekletiremezsiniz.
+150	[Lonca] Yang yatrma/çekme penceresi zaten açk.
+151	[Klan] Çarlm bir evcil hayvannz varken, Yang' lonca hazinesine yatramaz veya çekemezsiniz.
+152	%s burada görünecek: %s
+153	Seungryong Vadisi
+154	Olay Dedektörünü bu konumdan kullanamazsnz.
+155	Sohan Da
+156	Yongbi Çölü
+157	Doyyumhwan
+158	Ramazan Etkinlii balad!
+159	Ramazan Etkinlii sona erdi.
+160	Kanallar deitiremezsiniz.
+161	Lütfen bekleyin. Kanal deitiriliyor...
+162	Bu öe absorbe edilemez.
+163	Bu öe dönütürülemez.
+164	Büyü Öesi bu öe üzerinde kullanlamaz.
+165	Olay Dedektörü sihirli bir ltyla ortadan kayboldu.
+166	Gelitirme Öesi bu öede kullanlamaz.
+167	Bu eya yalnzca ayn haritada takas edilebilir.
+168	u anda bu kanala balanlamyor. Lütfen daha sonra tekrar deneyin.
+169	[Parti] Parti eletirme etkinken bunu yapamazsnz.
+170	[Gaya] Yeterli Parldayan Tan yok.
+171	[Gaya] Parldayan Talar kesmeye yetecek kadar Yang'n yok.
+172	[Gaya] Zaten maksimum miktarda Gaya'ya sahipsiniz.
+173	[Gaya] Kesim baarl oldu.
+174	[Gaya] Kesme baarsz oldu.
+175	[Gaya] Eya listesi yenilendi.
+176	Olay Dedektörü kayboldu.
+177	[Gaya] Yeterli Gaya'nz yok.
+178	[Gaya] Bu eyay satn alamazsn.
+179	[Gaya] Envanterde yer kalmad.
+180	[Gaya] Gaya Pazarn yenilemek için yeterli öeniz yok.
+181	[Gaya] Önce Gaya Pazarn açn.
+182	[Gaya] Gaya Pazarnda baka bir slotun kilidini açamazsnz.
+183	[Gaya] Yeterli %s'iniz yok. Baka bir yuvann kilidini açmak için %d taneye daha ihtiyacnz var.
+184	[Gaya] Gaya Pazar u anda kullanlamyor.
+185	[Gaya] Gaya Pazar zaten açk.
+186	[Gaya] Gaya Market'i ancak dier tüm pencereleri kapatrsanz açabilirsiniz.
+187	Metin Ta Pusulas yeraltnda çalmaz.
+188	[Parti] Sava balad.
+189	[Parti] Labirenti tamamlamak için 1 saatiniz var.
+190	[Parti] Görevinizi onurla tamamladnz!
+191	[Parti] Inlanmaya kalan süre: %d dk. %d sn.
+192	[Parti] 10 dakika içinde labirentten nlanacaksnz.
+193	[Parti] Meley'in snana kaydoldunuz.
+194	[Grup] Girmek için uygun NPC ile konuun.
+195	[Parti] tiraf ettin.
+196	[Parti] 1 dakika içinde ehre nlanacaksnz.
+197	%s'i ziyaret edin ve ödüllerinizi toplayn!
+198	Metin Ta Pusula sihirli bir ltyla ortadan kayboldu.
+199	[Parti] Meley'in snandaki grup sralamalar artk yeniden hesaplanyor.
+200	[Parti] u anda labirentten ayrlamazsnz.
+201	[Grup] Labirentteki süreniz doldu.
+202	[Grup] Labirentten çktnz.
+203	[Grup] Labirent %d dakika içinde kapanacak.
+204	unu alacaksnz: %s - %d
+205	Taa dönümüken dükkan açamazsnz.
+206	Taa dönümü haldeki eyalar kullanamazsnz.
+207	Bu komut yalnzca Zodyak Tapnanda kullanlabilir.
+208	Yeterli niannz yok.
+209	Metin Ta pusulas kayboldu.
+210	Henüz tüm görevleri tamamlamadnz.
+211	Ödülü almak için daha fazla Aventurin ve Aureolin hazinesine ihtiyacnz var.
+212	%s aldnz.
+213	%s tarafndan yeniden canlandrldnz.
+214	Yeniden canlandrlacak yeterli öeniz yok.
+215	Yeniden dirildin.
+216	Bunu burada kullanamazsnz.
+217	Bunu u anda kullanamazsnz.
+218	%s yeniden canlandrld.
+219	Birinci seviye tamamland. Kei Milbon'a dön.
+220	%s öeyi kazandnz.
+221	Kabuun içinde sadece bir ta parças buluyorsun.
+222	Tüm grup üyeleri taa çevrildi. Görev baarsz oldu.
+223	Tüm seviyeler tamamland. Artk bonus seviyesine aktarlacaksnz.
+224	Görev tamamland. Grup lideri dümeye tkladnda dorudan %d. seviyeye aktarlacaksnz.
+225	Görev baaryla tamamlanamad.
+226	Çkmak! Bir dakika içinde kimse canlandrlmazsa labirentteki maceranz biter.
+227	Süre doldu.
+228	Bu tapnan kaplar ertesi gün açlacak.
+229	Giri yapabilmek için tüm grup üyelerinin ayn haritada olmas gerekir.
+230	Sen grubun lideri deilsin.
+231	Bölgede %d Zodyak Tapna var. Bunlardan birine aktarlacak ilgili komutu girin (1-%d).
+232	Kabuun içinde hiçbir ey yoktu.
+233	Bu haritada Zodyak Tapna yok.
+234	Metin Talarn yok edin.
+235	Bonus seviyesi: Metin Talarn yok edin.
+236	Metin Talarn yok edin.
+237	Metin Talarn yok edin.
+238	5 Zodiac patronunu yen.
+239	Bonus seviyesi: Ticaret yapmak ve malzeme satn almak için 5 dakikanz var.
+240	Metin Talarn yok edin.
+241	Metin Talarn yok edin.
+242	Tüm Metin Talarn yok edin.
+243	Kabuun içinde Beyaz nci bulunmaktadr.
+244	Tüm Metin Talarn yok edin ve Zodiac boss'unu malup edin.
+245	Tüm Metin Talarn yok edin.
+246	Tüm canavarlar yen.
+247	Tüm canavarlar yen.
+248	Canavarlar yen.
+249	Canavarlar yen.
+250	Tüm canavarlar yen.
+251	Az önce bonus seviyesini kaybettin.
+252	Tüm Zodiac patronlarn yen.
+253	Kabuun içinde Mavi nci bulunmaktadr.
+254	Zodiac patronunu yen.
+255	Zodiac patronunu yen.
+256	Zodiac patronunu ölmeden yen.
+257	Ölmeden tüm canavarlar yen.
+258	Süre doldu. Bir sonraki denemenizde iyi anslar.
+259	Zodiac patronunu yen.
+260	Zodiac patronunu yen.
+261	Bonus seviyesi: Metin Talarn yok edin.
+262	Metin Talarn yok edin. Baarl olursanz, bir bonus buff alacaksnz.
+263	PvP turnuvasna kaydolmak için %d dakika kald!
+264	Kabuun içinde Kan Krmz nci bulunmaktadr.
+265	PvP turnuva alanna giremezsiniz.
+266	Bir PvP turnuvas srasnda dönüüm yapamazsnz.
+267	Savan balamasna %d kald!
+268	Sava balad.
+269	Kazanan: %s / Kaybeden: %s
+270	%s arenay terk etti. %s kazand.
+271	PvP turnuva kaytlar tamamland.
+272	PvP turnuvas %d dakika içinde balyor.
+273	Final
+274	Bu kitab anlamak kolay deil.
+275	Yar final
+276	Yuvarlak %lu
+277	Kazanan yok
+278	PvP turnuvas sona erdi.
+279	%s turnuvann galibi!
+280	Katlmclar: %s
+281	Kalan katlmclar: %lu
+282	Mevcut katlmclar: %lu
+283	PvP turnuvasna kaydoldunuz.
+284	Bu kitabn size faydas olmayacak.
+285	PvP turnuvasna kaytl deilsiniz.
+286	Bu komut yalnzca PvP turnuva haritasnda kullanlabilir.
+287	Yutnori henüz balamad!
+288	Hu aac dallarn toplayn, Yutnori için bir tahta hazrlayn ve heyecan verici bir mini oyun oynayn.
+289	Harika ödüller sizi bekliyor!
+290	Yutnori'nin sonu geldi!
+291	Yutnori masasna gidin ve ödülünüzü seçin.
+292	Yutnori oynamak için yeterli öeye sahip deilsiniz.
+293	[Ruh Sistemi] Efekti almak için %s'yi kullann.
+294	[Ruh Sistemi] %s zaten en yüksek seviyede.
+295	Bu kitab anlamak için en az 30. seviyede olmanz gerekir.
+296	[Ruh Sistemi] Ruh aktif.
+297	Yükseltme sistemini kullanrken evcil hayvannz besleyemezsiniz.
+298	[Canavar Öldürme Eylemi] %s haritas, %s'in görüldüünü bildirdi.
+299	Yayang lçesi
+300	Bokjung lçesi
+301	Bakra lçesi
+302	Hwang Tapna
+303	Kuahlo Dong (Örümcek Zindan)
+304	Örümcek Labirenti 2
+305	Bu kitab anlamak için en az 50. seviyede olmanz gerekir.
+306	Gautama Kayal
+307	Yeim Körfezi
+308	Frtnal Dalar
+309	Lanetli Orman
+310	Sürgün Maaras
+311	Sürgün Maaras 2
+312	Sürü srasnda giremezsiniz!
+313	Bu, u anda donatlm öelerde kullanlamaz!
+314	Kzl Orman
+315	Ylan Tarlas
+316	Daha fazla kombo çaltramazsnz.
+317	Hala %d %s'e ihtiyacnz var.
+318	Etkinlik sona erdi. Artk bu öeyi kullanamazsnz.
+319	Maksimum seviyeye ulald.
+320	Baar! Etki %s, %d seviyesine yükseltildi.
+321	Arza! %s efektini %d seviyesine yükseltme giriimi baarsz oldu.
+322	Baar! %s efekti artk aktif.
+323	Arza! %s efektini deitirme giriimi baarsz oldu.
+324	Baar! %s efekti artk aktif.
+325	Arza! %s efekti etkinletirilmedi.
+326	Çiçek Gücü etkinlii balad!
+327	%s loncas %s lonca bayran ele geçirdi!
+328	Zaten bu dili akc bir ekilde konuuyorsunuz.
+329	Çiçek Gücü etkinlii sona erdi.
+330	Posta kutusunu yeniden açmadan önce bir süre beklemeniz gerekir.
+331	Posta kutusunu açmadan önce dier pencereleri kapatmalsnz.
+332	Posta kutunuz dolu.
+333	Yenilerini almak için posta kutusundaki mesajlar silin.
+334	Bunu u anda kullanamazsnz.
+335	[Lonca] Lonca sava srasnda lonca yeteneklerini kullanamazsnz.
+336	[Lonca] Bu yalnzca lonca sava srasnda kullanlabilir.
+337	%d Won aldnz.
+338	[Klan] Kaydedildi: %d Yang
+339	Artk bu yetenei yükseltemezsiniz.
+340	[Lonca] Zaten lonca bölgesine sahip olduunuz için satn alma ilemi iptal edildi.
+341	[Lonca] Loncanz zaten lonca bölgesine sahip olduundan satn alma ilemi iptal edildi.
+342	[Kral Yakala] Ödül için iyi bir puannz yok.
+343	[Kral Yakala] imdi Kral Yakala'y oynayn!
+344	[Okey Etkinlii] Canavarlar öldürün, kartlar toplayn ve Okey oynayn.
+345	[Okey Etkinlii] nanlmaz ödüller sizi bekliyor!
+346	[Kral Yakala] Kral Yakala oyunu sona erdi!
+348	[Kral Yakala] Kraliyet Koleksiyonuna veya yeterli Yang'a sahip deilsin.
+349	[Kral Yakala] %s, Kral Yakala'da %d puan kazand!
+350	Bu kitab anlamak için seviye atlamalsnz.
+351	Aratrmac ksiri'ni zaten kullandnz!
+352	Labirent 'Gemi Savunmas' hazr. Balkç artk gemiye binmenize izin verecek.
+353	Deniz canavarlar bize saldryor! Savaa hazrlann!
+354	Yine saldrdlar! Silahlarnz hazrlayn!
+355	Ufukta inin! Direi baaryla savundunuz ve uzun bir yolculuun ardndan yeni bir ktaya ulatnz. Portala doru ilerleyin.
+356	Direiniz yok edildi. Cesurca savatn ama sava kaybedildi.
+357	%d saniye içinde gemiyi terk etmelisiniz.
+358	%d dakika içinde gemiyi terk etmelisiniz.
+359	Deniz sava %d saniye içinde balyor.
+360	Bu kitab örenmek çok zor.
+361	Acele etmek! Portaldan ktaya geçmek için %d dakikanz var.
+362	Deniz savan balatmadnz için imdi gemiyi terk etmelisiniz.
+363	1 dakika içerisinde deniz savan balatmazsanz gemiyi terk etmek zorunda kalacaksnz.
+364	%s HP: %d%%
+365	S.O.S! Direiniz ykld ve gemi batyor. Artk Dragon Fire Bay'e transfer edileceksiniz.
+366	%d dalgas: %d saniye boyunca %s'yi tüm gücünüzle korumalsnz.
+367	%d dalgas: %s'yi korurken %s'i yen.
+368	Direi baaryla savundunuz. Devam etmek! Bir sonraki dalgaya hazrlann.
+369	Bir sonraki dalga %d saniye içinde gelecek.
+370	%S
+371	Bu kitapla daha fazla eitim alamazsnz.
+372	%d saniye içinde savatan ayrlabilirsiniz.
+373	Bu ilemi u anda gerçekletiremezsiniz.
+374	Posta kutusunu açtktan sonra kanal deitirmeden veya nlanmadan önce %d saniye beklemelisiniz.
+375	Vergiler %d%% olarak ayarland.
+376	Binicilik eitimi almak için en az 50. seviyeye ihtiyacnz var.
+377	eytan çkarma parömenini kullanarak kötü ruhun lanetinden kurtuldunuz.
+378	Daha fazla binicilik rehberi okuyamazsnz.
+379	Binicilik klavuzunu okuduktan sonra binicilik puanlar aldnz.
+380	Bu noktay sürü becerilerinizi gelitirmek için kullanabilirsiniz.
+381	%s lonca bayra %s oyuncusu tarafndan çalnd.
+382	Binicilik rehberini anlamadn.
+383	Zihniniz açk. Artk iyi odaklanabilirsiniz.
+384	Sralamanz %d puan artt.
+385	Mevcut saç stilinizi boyayamazsnz veya boyayamazsnz.
+386	Saç stilinizi tekrar boyamak için %d. seviyeye ulamalsnz.
+387	Bu öe yalnzca kar cinsiyet tarafndan açlabilir.
+388	Bunu bu konumdan kullanamazsnz.
+389	Inlanmaya hazr olduunuz için Konum Parömeni'ni kullanamazsnz.
+390	Balangç noktasna geri transfer edildiniz.
+391	%s%s zindanda kullanlamaz.
+392	[Görev] Ödülü zaten aldnz.
+393	ile
+394	ile
+395	Kaldrlacak ta parças yok.
+396	Bu öenin yükseltmelerini deitiremezsiniz.
+397	Deitirilebilecek yükseltmeniz yok.
+398	Bunu yalnzca yükseltmeden %d dakika sonra yapabilirsiniz. (%d dakika kald)
+399	Yükseltmeyi deitirdiniz.
+400	Yükseltme baaryla eklendi.
+401	Öe yükseltmesi eklenmedi.
+402	Baka bir bonus eklemek için Mermer Bereketini kullanmalsnz.
+403	Bunu bu arenada kullanamazsnz.
+404	Bu öe artk yükseltilemez. Maksimum bonus saysna ulald.
+405	Öenin zaten 4 bonusu varsa, onu yalnzca Mermer Bereketi'ni kullanarak yükseltebilirsiniz.
+406	Soket baaryla eklendi.
+407	Soket eklenmedi.
+408	Bu öeye daha fazla yuva eklenemez.
+409	Bu öede daha fazla yuva bulunamaz.
+410	Büyü baarl.
+411	Büyü baarsz oldu.
+412	lk önce bir soket eklemelisiniz. Bunun için bir elmas kullann.
+413	Burada mücevher yuvas yok.
+414	Bunu yalnzca duygu maskesi takarken yapabilirsiniz.
+415	Elmas kullanmak için yuva eklemelisiniz.
+416	Bu öeye daha fazla mücevher eklenemez.
+417	Bu öeler birlikte kullanlamaz.
+418	Balk tutarken yemi deitiremezsiniz.
+419	Mevcut yeminizi %s ile deitirdiniz.
+420	Yem olarak %s'yi kancaya baladnz.
+421	ksiri hazrlamak için gereken tüm malzemelere sahip deilsiniz.
+422	Yeterli malzemeniz (%s) yok.
+423	Yeterli bo ieniz yok.
+424	ksir kartrma baarsz oldu.
+425	Bunu yalnzca kadnlar yapabilir.
+426	Ayn türden daha fazla ta ekleyemezsiniz.
+427	Bu ruh ta bu tür eyalara eklenemez.
+428	Bu ruh ta bir silaha eklenemez.
+429	Ruh ta baaryla eklendi.
+430	Ruh ta eklenirken krld.
+431	Ücretsiz priz yok.
+432	u anda bu ilev burada mevcut deildir.
+433	Bir krallk sava srasnda Konum Parömeni kullanamazsnz.
+434	Depoyu açtktan %d saniye sonra Konum Kaydrma özelliini kullanamazsnz.
+435	Baka bir pencere açkken Konum Kaydrma özelliini kullanamazsnz.
+436	Bu kii mevcut deil.
+437	lemden sonra %d saniye boyunca kaydrmay kullanamazsnz.
+438	Depoyu açtktan %d saniye sonra Konum Kaydrma özelliini kullanamazsnz.
+439	Mesafe çok küçük olduundan Konum Kaydrma özelliini kullanamazsnz.
+440	Ticaretten sonra %d saniye boyunca Konum Parömeni kullanamazsnz.
+441	Baka bir pencere zaten açksa depoyu açamazsnz.
+442	Bu öeyi brakamazsnz.
+443	Braklan öe 5 dakika içinde kaybolacaktr.
+444	%s alnd.
+445	Envanterinizde çok fazla öe var.
+446	%s, %s'yi ald.
+447	Ksa süre içinde herkes ehre nlanacak.
+448	Çok yaknsn.
+449	Eya ticareti: %s, %s
+450	Dönüümünüz srasnda kuanlan eyalar deitiremezsiniz.
+451	Bu eyay donatmak için hala orada olmalsnz.
+452	Maymun otlar canl atlar beslemek için tasarlanmamtr. Ölü atlar diriltmek için kullanlrlar.
+453	Ölü bir at besleyemezsin.
+454	At otlarn besledin.
+455	At besledin.
+456	Seviyeniz bu saç stilini giymek için çok düük.
+457	Bu saç stiline zaten sahipsiniz.
+458	Sen zaten dönütün.
+459	Çok uzaktasn.
+460	Bu dönüüm için yanl öedir.
+461	Kendi seviyenizden daha yüksek bir canavara dönüemezsiniz.
+462	Seviyeniz bu eyay giymek için çok düük.
+463	Bu eyay giyecek kadar güçlü deilsin.
+464	Bu eyay giyecek kadar zekanz yok.
+465	Bu eyay giymek için yeterli beceriye sahip deilsiniz.
+466	Bu eyay giymek için yeterli canlla sahip deilsiniz.
+467	Evli olmadnz için bu eyay kullanamazsnz.
+468	Bu ürünü iki kez giyemezsiniz.
+469	Soketin %s'den kaldrlmasna kalan süre: %d
+470	Bunu ancak kar cins yapabilir.
+471	%s içine gömülü mücevher kayboldu.
+472	[Lonca] Lonca ad geçersiz.
+473	[Lonca] Bu lonca ad zaten alnm.
+474	[Lonca] Bir lonca oluturamazsnz.
+475	%s loncas %s loncasna sava ilan etti!
+476	[Guild] %s lonca savan kabul etmedi.
+477	%s ve %s arasndaki lonca sava birkaç saniye içinde balayacak!
+478	%s ve %s arasnda sava balad!
+479	%s ve %s arasndaki sava berabere sonuçland.
+480	%s loncas, %s loncasna kar sava kazand.
+481	Bunun için takm arkadanzn iznine ihtiyacnz var.
+482	[Lonca] Lonca sava iptal edildi.
+483	%s loncas ile %s loncas arasndaki sava iptal edildi.
+484	Kapal
+485	ptal edildi. Savaa girdiniz.
+486	Birisi hesabnza giri yapt. Balantnz kesilecek.
+487	Aaçtan gizemli bir k geliyor.
+488	Hesabnza %d oyun süresi eklendi. (Ödeme numaras %d)
+489	Lonca savana seyirci olarak katlabilirsiniz.
+490	Karakter seçimi srasnda bir simge görünecektir.
+491	Düman yok.
+492	%s ile sava balad!
+493	Düman bulunamazsa lonca sava otomatik olarak sona erecektir.
+494	Lonca sava erken sona erdii için berabere saylacak.
+495	Enerji imparatorun kutsamasyla yanstlr.
+496	%d saniye içinde imparatorun kutsamasn kullanabilirsiniz.
+497	Yetersiz vergi geliri: %d.
+498	[TEST_ONLY]Vergi: %d
+499	Dönüüm srasnda hata.
+500	Dönüümü tamamen örendiniz.
+501	Lütfen önce atnz çarn.
+502	Atn geri gönderdin.
+503	%s seni düelloya davet etti!
+504	Atnzdan inmelisiniz.
+505	Atnz sürerken besleyemezsiniz!
+506	Ata %s%s verdin.
+507	%s'e ihtiyacnz var.
+508	Kapanmaya %d saniye kald.
+509	Oyun %d saniye içinde bitecek.
+510	Kapanmaya %d saniye kald.
+511	Oturum kapatma ileminiz iptal edildi.
+512	Oturum açma penceresine geri dönülüyor. Lütfen bekleyin.
+513	Sunucuyla balantnz kesildi. Lütfen bekleyin.
+514	%s'i düelloya davet ettiniz.
+515	Karakterini deitirdin. Lütfen bekleyin.
+516	Yeni bir balangç u anda mümkün deil. %d saniye bekleyin.
+517	Yeniden balatma mümkün deil. %d saniye daha bekleyin.
+518	Yeniden balatma mümkün deil. %d saniye daha bekleyin.
+519	ehirde yeniden balatmak hala mümkün deil. %d saniye daha bekleyin.
+520	Yeniden canlanma ansn kaybettin. ehre döneceksin.
+521	Dönüümünüz srasnda durumunuzu deitiremezsiniz.
+522	Oyuncu u anda savata.
+523	[Lonca] Bu loncaya ait deil.
+524	[Lonca] Lonca beceri seviyesini deitirme yetkiniz yok.
+525	Seçim yanl.
+526	[Depo] Yanl ifreyi girdiniz.
+527	[Depo] Depo zaten açk.
+528	[Depo] Depoyu yeniden açmak için 10 saniye beklemeniz gerekir.
+529	[Depo] Depoyu açamayacak kadar uzaktasnz.
+530	[Grup] Sunucusu grup isteini ileyemiyor.
+531	[Grup] Burada gruptan ayrlamazsnz.
+532	[Grup] Gruptan ayrldnz.
+533	[Lonca] Loncanz zaten baka bir savata.
+534	[Lonca] Lonca savana uygun deil.
+535	[Lonca] Bu isimde bir lonca mevcut deil.
+536	Burada zaten bir adaylk var.
+537	[Lonca] Bu lonca zaten bir savaa katlyor.
+538	[Lonca] Lonca savana katlmak için yeterli Yang yok.
+539	[Lonca] Loncada, lonca savana katlmaya yetecek kadar Yang yok.
+540	[Lonca] Bu lonca zaten baka bir lonca savana kaytl.
+541	[Lonca] Bu lonca zaten baka bir savaa katlyor.
+542	[Lonca] Lonca seviyesi, lonca savana katlmak için çok düük.
+543	[Lonca] Lonca savana en az %d oyuncunun kaydolmas gerekir.
+544	[Lonca] Loncann savaa katlmak için yeterli puan yok.
+545	[Lonca] Loncann savaa katlmaya yetecek kadar üyesi yok.
+546	Cep telefonu numaranz kaydedebilmeniz için seviyenizin 20'den yüksek olmas gerekmektedir.
+547	mparator olma yeteneine sahip deilsin.
+548	%s daveti reddetti.
+549	Zaten bir grupta olduunuz için daveti kabul edemezsiniz.
+550	Bunu yalnzca imparator kullanabilir.
+551	Bekleme süresi yaklak %d saniye.
+552	Yetersiz vergiler. Mevcut sermaye: %u eksik sermaye: %u
+553	Komut: warpto <karakter ad>
+554	Bilinmeyen bir oyuncuya nlanamazsnz.
+555	%d oyuncusu kanala ekleniyor. (Mevcut Kanal %d)
+556	%s'e ulam.
+557	Bilinmeyen oyuncular arayamazsnz.
+558	[Lonca] Avclk için elde edilen deneyim puanlar, lonca sava srasnda saylmaz.
+559	mparatorun kutsamasn kullanrsanz %s HP ve MP yeniden yenilenecektir.
+560	mparatorun bilgileri var
+561	[%sRuler] : %s Yang'n sahibi %lld
+562	[%sCetvel] : %s
+563	mparator bilgileri
+564	Bunu yalnzca imparator kullanabilir
+565	1 ile 50 arasnda bir say seçin.
+566	Vergiler %d %% olarak ayarland.
+567	Canavar çarlamaz. Mob numarasn kontrol edin.
+568	Salk puan +%d
+569	Mana puan +%d
+570	mparatorun kutsamas aktiftir.
+571	Dayankllk +%d
+572	Zeka +%d
+573	Güç +%d
+574	Beceri +%d
+575	Saldr hz +%d
+576	Hareket hz %d
+577	Bekleme süresi -%d
+578	Salk yenilenmesi +%d
+579	Mana yenilenmesi +%d
+580	Zehirli saldr %d
+581	Hazrlanyor. %d'den sonra kullanlabilir.
+582	Yldz +%d
+583	Yava azaltma +%d
+584	Kritik saldr ans %d%%
+585	Delici saldr ans %d%%
+586	Oyuncunun canavarlara kar saldr gücü +%d%%
+587	Atn canavarlara kar saldr gücü +%d%%
+588	Wonggui'ye kar saldr art + %d%%
+589	Milgyo'ya kar saldr art + %d%%
+590	Zombilere kar saldr art + %d%%
+591	eytanlara kar saldr art + %d%%
+592	Oyuncu, mparator Sa-Za-Hu'dan 3 dakika boyunca %%10 daha fazla saldr gücüyle %s ald.
+593	Saldrda can emilimi %d%%.
+594	Saldrda Mana (MP) emilimi %%d.
+595	Dümandan MP çalma ans %d%%.
+596	MP emilim ans %d%%
+597	Yakn dövü saldrsn engelleme ans %d%%.
+598	Menzilli saldry engelleme ans %d%%.
+599	Tek elle kullanlan klçlara kar savunma %d%%
+600	ki elli klçlara kar savunma %d%%
+601	ki elli klçlara kar savunma %d%%
+602	Zile kar savunma %d%%
+603	mparator Geum-Gang-Gwon'dan oyuncu 3 dakika boyunca %%10 daha fazla zrha sahip %s alr.
+604	%d%% hayrana kar savunma
+605	Menzilli saldrya kar direnç %d%%
+606	Yangna dayankllk %d%%
+607	Yldrma dayankllk %d%%
+608	Büyüye kar direnç %d%%
+609	Rüzgara kar direnç %d%%
+610	Dorudan isabetin yansmas: %d%%
+611	Lanetin yansmas: %d%%
+612	Zehir direnci %d%%
+613	Kazanrsanz MP (MB) %d%%'ye artrlacak.
+614	Etkinlik zaten devam ediyor (Bayrak: %d)
+615	Dümana kar kazanrsanz deneyim %d%%'ye artrlacak.
+616	Dümana kar kazanrsanz Yang' %d%% artrn.
+617	Dümana kar kazanrsanz yama öelerini %d%% artrn.
+618	ksiri içtikten sonra gücü %d%% artrn.
+619	Kazanrsanz %d%% salk puan doldurma ans.
+620	Ba dönmesi yok %d%%
+621	%d%% yavalama yok
+622	%d%% düme yok
+623	Saldr gücü +%d
+624	Zrh + %d
+625	OX Quiz komut dosyas yüklenemiyor.
+626	Büyü saldrs + %d
+627	Büyü savunmas + %d
+628	Maksimum dayankllk + %d
+629	Savaçlara Kar Güç + %d%%
+630	Ninjalara kar güç + %d%%
+631	Surelere Kar Güç + %d%%
+632	amanlara Kar Güç + %d%%
+633	Canavarlara kar güç + %d%%
+634	Saldr + %d%%
+635	Savunma + %d%%
+636	OX Quiz betii yüklendi.
+637	%d%% deneyimini yaayn
+638	Bir eya bulma ans %. 1f
+639	Yang' bulma ans %. 1f
+640	Maksimum HP limiti +%d%%
+641	Maksimum HP limiti +%d%%
+642	Beceri hasar %d%%
+643	Vuru hasar %d%%
+644	Beceri hasarna kar direnç %d%%
+645	Vuru hasarna kar direnç %d%%
+646	Savaç saldrsna kar %d%% direnç
+647	Metin2'ye ho geldiniz.
+648	Ninja saldrsna kar %d%% direnç
+649	Sure saldrsna kar %d%% direnç
+650	aman saldrsna kar %d%% direnç
+651	(Prosedür: %d r- %d m - %d d)
+652	Sohbetiniz engellendi.
+653	Çarmak için daha yüksek bir seviyeye ihtiyacnz var.
+654	Çarmak için en az %d seviyeye ihtiyacnz var.
+655	Bu grupta deilsiniz.
+656	Bu loncaya katlmadnz.
+657	Oyuncu arkada listenize eklenmeyi reddetti.
+658	OX yarmas balad.
+659	[Arkada listesi] GM'yi arkada listenize ekleyemezsiniz.
+660	%s oyunda deil.
+661	Ticareti bitirdikten sonra %d saniye içinde tezgahnz açabilirsiniz.
+662	%d saniye içinde tekrar ilem yapabilirsiniz.
+663	2 Trilyon Yang'dan fazlasna sahipsiniz. Ticaret yapamazsnz.
+664	Baka bir pencere açkken özel bir durak açamazsnz.
+665	Oyuncunun 2 Trilyon Yang'dan fazlas var. Onlarla ticaret yapamazsnz.
+666	[Depo] Transfer mümkün deil.
+667	[Depo] Öe depolanamyor.
+668	[Grup] Davet eden oyuncu çevrimiçi deil.
+669	Sunucu çevrimiçi olmad için lonca sava balayamyor.
+670	Uriel'in izniyle girebilirsiniz.
+671	[Grup] Bunu yalnzca grup lideri deitirebilir.
+672	[Grup] Hedef, grubunuzun bir üyesi deil.
+673	[Grup] Burada bir oyuncuyu gruptan atamazsnz.
+674	[Grup] Burada bir oyuncuyu gruptan atamazsnz.
+675	[Grup] Gruptan atldnz.
+676	[Grup] Burada gruptan ayrlamazsnz.
+677	[Grup] Grup üyelerini atamazsnz.
+678	[Lonca] Bir loncay sildikten sonra %d gün boyunca yeni bir lonca oluturamazsnz.
+679	[Lonca] Bir loncadan ayrldktan sonra %d gün boyunca yeni bir lonca oluturamazsnz.
+680	Lonca ad geçersiz.
+681	Birçok oyuncunun katlmn talep ediyoruz.
+682	[Lonca] [%s] loncas oluturuldu.
+683	[Lonca] Lonca oluturma ilemi baarsz oldu.
+684	[Grup] Yalnzca grup lideri grup becerilerini kullanabilir.
+685	[Grup] Hedef bulunamad.
+686	[Klan] Yanl miktarda Yang.
+687	[Lonca] Yeterli Yang'nz yok.
+688	[Lonca] Aranan kii bulunamyor.
+689	[Lonca] Bu kii ayn loncada deil.
+690	[Lonca] Lonca üyelerini tekmeleyemezsiniz.
+691	[Lonca] Lonca üyesi %s loncadan atld.
+692	OX yarmas henüz bitmedi, hatalar olutu. (bayrak: %d)
+693	[Lonca] Bir lonca üyesini tekmeledin.
+694	[Lonca] Rütbe adnz deitiremezsiniz.
+695	[Klan] Lonca liderinin haklar deitirilemez.
+696	[Lonca] Rütbe ad geçersiz.
+697	[Lonca] Konumunuzu deitiremezsiniz.
+698	[Klan] Lonca liderinin haklar deitirilemez.
+699	[Lonca] %u deneyim kullanld.
+700	[Lonca] Deneyimin kullanlmas baarsz oldu.
+701	[Lonca] Lonca hazinesinde yeterli Yang yok!
+702	[Lonca] Ejderha ruhu yenilenmedi.
+703	OX yarmas ksa süre sonra yeniden balayacak.
+704	[Lonca] Bir beyanda bulunamazsnz.
+705	[Lonca] Konumu deitiremezsiniz.
+706	[Lonca] Lonca lideri rütbesi deitirilemez.
+707	[Lonca] Kendinizi lonca lideri yapamazsnz.
+708	[Lonca] Bir lonca lideri seçemezsiniz.
+709	[Lonca] Birden fazla lider seçemezsiniz.
+710	Bu eyann ticaretini yapamazsnz.
+711	Yasad yazlm algland. Oyun sonlandrlacaktr.
+712	2 Trilyon Yang'dan fazlasna sahipsiniz. Ticaret yapamazsnz.
+713	Geçersiz Yang.
+714	Mevcut etkinlik yalnzca bir alanla snrldr.
+715	Öe ruletini balatn.
+716	Ruleti balatn.
+717	Oyuncu çevrimiçi. Sohbet etmek için fslty kullann.
+718	Cep telefonu numaras kaytl deil.
+719	Ksa mesaj gönderebilmek için en az 20. seviyede olmanz gerekir.
+720	Ksa mesaj göndermek için 2000 DT'ye ihtiyacnz var.
+721	Ksa mesajnz gönderildi.
+722	%s loncasnn %s'si %d%%'ye yükseldi!
+723	%s loncasnn %s'si normale döndü.
+724	%s: %s %d%% artt!
+725	OX rekabeti sona erecek.
+726	%s'in %s'si normale döndü.
+727	Madencilik puanlarnz maksimuma çkt. (%D).
+728	Madencilik puanlarnz en yüksek seviyeye çkt.
+729	Oduncu Deokbae'nin yardmyla kazmanz yükseltebilirsiniz.
+730	Madencilik puanlarnz artt! (%d/%d)
+731	Kazma olmadan kazamazsnz.
+732	Burada kazlacak hiçbir ey yok.
+733	Kazma baarl oldu.
+734	Kazma baarsz oldu.
+735	[Arkada listesi] %s'yi arkada olarak eklediniz.
+736	Oyuncu ksa süre içinde ehre nakledilecek.
+737	[Arkada listesi] %s'yi listeden kaldrdnz.
+738	Kritik sunucu hatas. Sunucu otomatik olarak yeniden balatlacaktr.
+739	10 saniye içinde balantnz kesilecektir.
+740	5 dakika sonra tekrar balanabilirsiniz.
+741	(%s) Lonca oluturuldu. [Geçici]
+742	Lonca savata.
+743	%s: Bu lonca mevcut deil.
+744	Bu isim veya numaraya sahip lonca mevcut deil.
+745	Bu bina mevcut deil.
+746	Bu tür bir bina yalnzca bir kez ina edilebilir.
+747	Önce OX rekabet sekmesini kapatn. (Bayrak: %d)
+748	Önce temel bir binann ina edilmesi gerekiyor.
+749	Yanl bina maliyeti nedeniyle inaat baarsz oldu.
+750	Loncanzda bu binay ina etmeye yetecek kadar Yang yok.
+751	Bu bina için yeterli kaynanz yok.
+752	Bu yere bina ina edemezsiniz.
+753	Bu karakter mevcut deil.
+754	Düello iptal edilmedi.
+755	Düello baaryla iptal edildi.
+756	Düello baaryla balad.
+757	Düello balatlrken hata olutu.
+758	Hiçbir hata olumad.
+759	Burada savaç yok.
+760	Kalan vücut istatistik puan yok.
+761	Kalan vücut istatistik puan çok az.
+762	Geçersiz bir deer girdiniz.
+763	Komutann itaati geçersizdir.
+764	%d oyuncusu ile %d oyuncusu arasndaki sözleme iptal edildi.
+765	%d Yang için ruleti döndürün.
+766	Öe kayd sistem günlüüne kaydedildi.
+767	Krallk için bilgiler
+768	Kutsal Topraklar %d giriinin %d %d %d harita bilgisini seçin
+769	Bir hata olutu.
+770	%s %d canavar öldürdü %d boss %d Kutsal Toprak saysn %d öldürdü
+771	Krallk sava durum bilgisi
+772	Talebiniz ileniyor. Lütfen bekleyin.
+773	Baka bir pencere açkken Depoyu açamazsnz.
+774	[Depo] Depo ifresi deitirildi.
+775	[Depo] Yanl ifreyi girdiniz.
+776	Oyun süreniz %d dakika içinde sona erecek.
+777	Doru oy verildi.
+778	Zaten oy verildi.
+779	Oyuncu %s zaten oylamada.
+780	Bu loncaya sava ilan ettin.
+781	OX yarmas sona erdi, herhangi bir hata olumad. (Bayrak: %d)
+782	Seçilemez.
+783	%s'de hala %u Yang var.
+784	%s hala %d Yang'a sahip
+785	Yeterli Yang'nz yok.
+786	%s imparator aday olmaktan çkarld.
+787	%s imparator aday deil.
+788	%s imparatorlua aday gösterildi.
+789	%s imparatorlua aday gösterilemez.
+790	mparator %s snr d edildi.
+791	mparator %s snr d edilemez.
+792	OX etkinliklerinde daha fazla katlmc bulunamaz.
+793	Shinsoo Krall
+794	Chunjo Krall
+795	Jinno Krall
+796	Balk tutma puanlarnz artt! (%d/%d)
+797	Maksimum balk tutma noktas saysna ulatnz.
+798	Balkçnn yardmyla oltanz yükseltin.
+799	Yemini kaybettin.
+800	Bir balk yakaladn! (%S)
+801	Yakalanan baln boyu %.2fcm'dir.
+802	Balk tutma etkinlii 'En yi Balkç'
+803	OX Etkinliin dier katlmclar listelenir.
+804	Balk tutma etkinlii 'Sabr gül getirir'.
+805	%s: %d
+806	%d kiiden %d'unu yakaladnz.
+807	Balk sonsuz derinliklerde kayboldu...
+808	Baln içinde bir kabuk bulunur.
+809	Baln içinde bir solucan var.
+810	%s'yi atete kzartyorsun.
+811	2 Trilyon Yang'dan fazlasn tadnz için ticaret yapamazsnz.
+812	Deponuzu geçersiz bir adla adlandramazsnz.
+813	Aksesuar maazasndan aldnz bir ürünü özel bir tezgahta satamazsnz.
+814	OX Etkinliin dier katlmclar listelenmemitir.
+815	Kazma tamamland.
+816	Kazmay al.
+817	Oltanz seçin.
+818	Önce yemi kancaya takn.
+819	Olta olmadan bala çkamazsnz.
+820	[Grup] Grup lideri çevrimiçi olmad için istekte bulunamazsnz.
+821	[Grup] Dier krallklardan oyuncularn yer ald bir grup oluturamazsnz.
+822	[Grup] Burada gruba oyuncu davet edemezsiniz.
+823	[Grup] Gözlemci modundayken oyuncu davet edemezsiniz.
+824	[Grup] Sadece -30 ile +30 aras seviye fark olan oyuncular davet edilebilir.
+825	Ek katlmc says: %d
+826	[Grup] Bu oyuncuyu davet edemezsiniz; onlarn seviyesi çok düük.
+827	[Grup] Bu oyuncuyu davet edemezsiniz; onlarn seviyesi çok yüksek.
+828	[Grup] Grubunuza daha fazla oyuncu davet edemezsiniz.
+829	%s oyuncusunun grubuna katlmak ister misiniz?
+830	Bu oyuncu bu grupta deil.
+831	[Grup] Bu gruba katlamazsnz; zaten dolu.
+832	[Grup] Birini davet etme hakknz yok.
+833	[Grup] %s grubunuza yaplan daveti reddetti.
+834	[Grup] %s zaten bir grupta.
+835	[Grup] Burada bir daveti kabul edemezsiniz.
+836	OX yarmas sona erdi.
+837	[Grup] Daveti kabul edemezsiniz.
+838	[Grup] %s davetinizi reddetti.
+839	[Grup] %s grubunuza katld.
+840	[Grup] %s grubunuza katld.
+841	Artk özel bir durak kullanamazsnz.
+842	Bu oyuncu zaten birisiyle ticaret yapyor.
+843	Metin2 onay numaras: %s
+844	Onay numaranz yanl. Lütfen tekrar deneyin.
+845	Cep telefonu numaras kaytldr.
+846	Oyuncuya nlanamazsnz.
+847	OX yarma ödülü verildi. Kimlik: %d Adet: %d
+848	Oyuncu çevrimiçi deil.
+849	Oyuncu %d kanalnda. (%d kanalndasnz.)
+850	Depoyu açtktan sonra %d saniye boyunca hiçbir yere hareket edemezsiniz.
+851	Ticaretten hemen sonra hareket edemezsiniz.
+852	lemden sonra %d saniye boyunca hiçbir yere hareket edemezsiniz.
+853	Düello sona erdi; Dövüçünüz ortadan kayboldu.
+854	ksirlerde snr yok.
+855	En fazla %d iksir kullanabilirsiniz.
+856	Düello 10 saniye içinde balayacak.
+857	Düello balad.
+858	DORU
+859	Düello arena sorunu nedeniyle sona erdi.
+860	Düello sona erdi, süre doldu.
+861	10 saniye içinde ehre tanacaksnz.
+862	Düello arena sorunu nedeniyle sona erdi.
+863	Rakibinizin sorunlar var. Düello sona eriyor.
+864	Düello rakibin sorunlar nedeniyle sona erdi.
+865	%s düelloyu kazand.
+866	%s kazand.
+867	10 saniye içinde ehre tanacaksnz.
+868	Bir sonraki tur 10 saniye içinde balayacak.
+869	YANLI
+870	Rakibin balants kesildi. Düello sona erdi.
+871	Düme ans u anda +%d%%
+872	Yang brakma kotas u anda +%d%%
+873	Yang'n düme ihtimali %d%% daha yüksek.
+874	Deneyim bonusu u anda ek %d%% tutarndadr.
+875	Oyun istemcisi sürümü yanl. Lütfen en son yamay yükleyin.
+876	Baka bir pencere açkken ilem yapamazsnz.
+877	Satn almak için maazadan çok uzaktasnz.
+878	Sat yapmak için maazadan çok uzaktasnz.
+879	2 Trilyon Yang'dan fazlasn tadnz için ticaret yapamazsnz.
+880	Toplam snav says: %d
+881	Sat vergisi: %d%%.
+882	Dönüümünüz srasnda ata binemezsiniz.
+883	Gelinlik veya smokin giyerek ata binemezsiniz.
+884	Senin bir atn yok.
+885	Atnz öldü.
+886	Atnzn dayankll çok düük.
+887	At çarmak baarsz oldu.
+888	At
+889	Düün yaknda bitecek.
+890	Otomatik olarak braklacaktr.
+891	Sava çoktan sona erdi.
+892	Sonuç 10 saniye içinde belli olacak.
+893	Gözlem yaparken ticaret yapamazsnz.
+894	Bir pencere açksa bakalaryla ticaret yapamazsnz.
+895	Dier kii u anda megul olduundan u anda onunla ilem yapamazsnz.
+896	Dier kii ticareti iptal etti.
+897	Yetersiz Yang veya envanter alan.
+898	Dier kiinin yeterli Yang' veya envanter alan yok.
+899	Dier kiinin yeterli envanter alan yok.
+900	%s ile ticaret baarl oldu.
+901	Ejderha Tanrsnn lütfu sayesinde hiçbir deneyim kaybetmedin.
+902	Güncel puan: Shinsoo: %d, Chunjo: %d, Jinno: %d
+903	Doru cevap:
+904	%s ölü say %d mparatorluk %d killcount %d(Amaç %d) killmobcount %d, RegenFlag %d
+905	Kutsal yerin eytan: [ENTER][ENTER]
+906	, burada olmaya hakkn yok. Buras kutsal bir yer. Ayrlmak! Krallnzn üyeleri 10 saniye içinde kutsal mekan terk edecek.
+907	%s Krall yenildi ve krallk savandan ayrld.
+908	Krallk Savandaki canavarlarn says:
+909	Kutsal mekann koruyucusunu yenerseniz, onun sahibi olursunuz.
+910	Ejderha Tanrsnn korumas sayesinde hiçbir eyanz kaybetmediniz.
+911	Ekstra delici silah hasar %d
+912	%s blok! (%D%%)
+913	%s kaçn! (%D%%)
+914	Evet (O)
+915	%s[%d]s Saldr konumu: %d %d
+916	Lütfen komutu tam olarak girin.
+917	Ata binerken bunu yapamazsnz.
+918	Bunu yerde yatarken yapamazsnz.
+919	Rüyalarmda m? Ne?
+920	Önce ayaa kalkn.
+921	Bu komut mevcut deil.
+922	[Grup] Grup dald.
+923	[Grup] Hedefi çaramazsnz.
+924	[Grup] Grup üyelerini mevcut konumunuza çaramazsnz.
+925	Hayr (X)
+926	Grup iyi ibirlii yapyor ve yaknlardaki üyeler deneyim bonusu alyor.
+927	Lider
+928	Üye
+929	[Lonca] Salanan deneyim, kalan deneyimi ayor.
+930	[Lonca] Mesaj silinemez.
+931	[Klan] Yeterli Ejderha Ruhu yok. (%d, %d)
+932	[Lonca] Henüz lonca becerisini kullanamazsnz.
+933	[Lonca] %u üzerinde %d beceri kullanld (%d, %d).
+934	[Lonca] Oyuncu %d kanalnda. (Mevcut kanal: %d)
+935	[Lonca] Oyuncu çevrimiçi deil.
+936	5 saniye içinde yanl cevap verenler elenecektir.
+937	[Lonca] Bu lonca becerisi yalnzca sava srasnda kullanlabilir.
+938	[Lonca] %u Ejderha Ruhu puan yenilendi.
+939	[Lonca] Yalnzca lonca lideri Yang' seçebilir.
+940	[Lonca] Oyuncu lonca davetini reddetti.
+941	[Lonca] Loncaya kimseyi kabul edemezsiniz.
+942	[Lonca] Baka bir krallktan bir oyuncuyu loncaya kabul edemezsiniz.
+943	[Lonca] Bu oyuncu %d gün sonra yeniden davet edilebilir.
+944	[Lonca] Yeniden yaplanmann ardndan %d gün içinde yeniden üye kabul edebilirsiniz.
+945	[Lonca] Bu kii zaten baka bir loncann üyesi.
+946	[Lonca] Lonca kapasitesi maksimum seviyeye ulat.
+947	Bir sonraki soruya hazr msnz?
+948	Bu beceriyi gelitiremezsiniz.
+949	Bu beceriyi büyük usta seviyesine kadar gelitiremezsiniz.
+950	Sen zaten bu becerinin ustassn. Onu daha fazla eitemezsiniz.
+951	Beceri seviyeniz büyükusta olmaya yetecek kadar yüksek deil.
+952	Maalesef bu ie yaramad. Kahretsin!
+953	Eitim baarsz oldu. Lütfen daha sonra tekrar deneyin.
+954	Vücudum güçle dolu!
+955	Eitim ie yaryor gibi görünüyor...
+956	Kitapla ilgili eitiminizi baaryla tamamladnz.
+957	Bunu okuyamazsnz; çok az deneyiminiz var.
+958	Soru.
+959	Bu beceriyi artk kitapla gelitiremezsiniz.
+960	Bu beceri kitapla eitilecek kadar yüksek deildir.
+961	yileiyor ama hâlâ her eyi anlayamyorum.
+962	Talimatlar anlamak zordur. Daha çok çalmalym.
+963	Bu bölümü anlyorum. Ama çok çalmam gerekiyordu.
+964	Kitapla ilgili eitiminizi baaryla tamamladnz.
+965	Inlanma baarsz oldu.
+966	Burada at yok. Hizmetçiye sor.
+967	Bir at çarmak için bir eya kullann.
+968	%s SB Tüketimi: %d
+969	Doruysa O'ya gidin. Yanlsa X'e gidin.
+970	çim yanyor ama bedenimi sakinletiriyor. Chi'm stabil hale gelmeli.
+971	Yavaça... ama yine de... durmadan!
+972	Evet, harika hissediyorum. Vücudum Chi ile dolu.
+973	Okudum! imdi Chi vücudumdan akyor.
+974	Eitim tamamland.
+975	Kitabn son sayfasndaym! Eitim neredeyse bitti!
+976	Neredeyse bitti! Biraz daha!
+977	Ben aydnlandm! Neredeyse hepsini okudum!
+978	Sadece birkaç sayfa kald, hepsini okumu olacam.
+979	Kendimi yenilenmi hissediyorum.
+980	Doru!
+981	imdi anlyorum!
+982	Güzel, odaklanmaya devam etmeliyim.
+983	Ayn satr defalarca okuyorum.
+984	Baka bir ey örenmek istemiyorum.
+985	Düündüümden daha karmak.
+986	Düzgün odaklanamyorum. Biraz ara vermeliyim.
+987	Spam nedeniyle sohbetiniz geçici olarak engellendi.
+988	Sohbet blounuz kaldrld.
+989	Üretim penceresi zaten açk.
+990	Baka bir maaza/depo penceresi açksa üretim yapamazsnz.
+991	Daha fazla iyiletirme mümkün deil.
+992	Üretim penceresi açk deil.
+993	Doru malzemeye sahip deilsiniz.
+994	[Lonca] Lütfen daha sonra tekrar deneyin.
+995	Bu beceriyi gelitirmek için %d kitap daha okumalsnz.
+996	[Lonca] Lütfen daha sonra tekrar deneyin.
+997	Bu fonksiyon sadece kalede kullanlabilir.
+998	TEST: Altn külçeler krallnzn kasasna iade edildi.
+999	TEST: Krallnzn kasas unlar içeriyor: %d
+1000	TEST: Altn külçelerini krallnzn kasasna geri ödeyemezsiniz.
+1001	[Lonca] %d puan elde edildi.
+1002	Bu öe yükseltilemez.
+1003	Ücretsiz silah yükseltmeleri yalnzca 20. seviyeye kadar olan silahlara uygulanabilir.
+1004	Yeterli yeterlilie sahip olmadnz için bu öeyi kullanamazsnz.
+1005	Doru cinsiyette olmadnz için bu öeyi kullanamazsnz.
+1006	Kullanm: <isim> aktar
+1007	Bu ilev yalnzca imparator tarafndan kullanlabilir.
+1008	Baka bir krallktan oyuncu alamazsnz.
+1009	Oyuncu %s u anda %d kanalnda. (Kanalnz: %d)
+1010	%s oyuncuyu ie aldnz.
+1011	Bu isimde bir kullanc mevcut deil.
+1012	Kendinizi ie alamazsnz.
+1013	Seviyeniz çok düük; bu öeyi kullanamazsnz.
+1014	Baka bir pencere açkken hiçbir eyi yükseltemezsiniz.
+1015	mparator %s, %s olarak deitirildi.
+1016	%s'de sinyal ateini yakmak için bir sava var.
+1017	%s baaryla savundu.
+1018	30 dakika içinde, %s oyuncusu sinyal ateini yok ettii için bir ödül alabilir.
+1020	Sava uyarmak için %s'de sinyal ateleri yakld.
+1021	%s sinyal ateini yok etti.
+1022	%s sava kaybetti. Kaleyi savunamadlar.
+1023	%s tüm sinyal yangnlarn yok etti.
+1024	Yükseltme için yeterli Yang yok.
+1025	Bir tezgah ancak soyunmanz durumunda açabilirsiniz.
+1026	Ata binerken bunu kullanamazsnz.
+1027	Bu eylem için ihtiyacnz olan: %s.
+1028	Sohbet blounuzda %d saat, %d dakika ve %d saniye kald.
+1029	Sohbet blounuzda %d saat %d saniye kald.
+1030	Sohbet blounuzda %d dakika ve %d saniye kald.
+1031	Düme oran
+1032	Kaldrlabilecek ta mevcut deil.
+1033	Kullanlamaz.
+1034	Test sunucusunda ayrlan süre doldu.
+1035	Bu öeyi oluturmak için doru malzemeye sahip deilsiniz.
+1036	Sralama puanlar artk artrlamaz.
+1037	Tüm krallklar
+1038	Eya düme oran
+1039	Düme oran
+1040	Deneyim puan oran yüzdesi
+1041	Dönütürülmü haldeyken bir kitab okuyamazsnz.
+1042	Sohbet blounun bitmesine %d saniye kald.
+1043	Ata binerken duygularnz ifade edemezsiniz.
+1044	Ata binen bir oyuncuya duygularnz ifade edemezsiniz.
+1045	War Scroll +4 ve üzeri eyalarda çalmaz.
+1046	%s zar att. Sonuç: %d (%d-%d).
+1047	Zar attn. %d (%d-%d) aldnz.
+1048	[Klan] Düman lonca lideri çevrimd.
+1049	Yerde yatarken ata binemezsiniz :)
+1050	[Lonca] Bu lonca u anda bir savaa katlyor.
+1051	Burada balk tutamazsnz.
+1052	[Lonca] Loncanz maksimum seviyeye ulat.
+1053	Sürü srasnda dönüemezsiniz.
+1054	Zaten biniyorsun. Önce inin.
+1055	Karnzda duran bir oyuncuyu arkada listenize ekleyemezsiniz.
+1056	Bu kaydrma ile yükseltme yapamazsnz.
+1057	Öe %d dakika içinde kaybolacak.
+1058	[Lonca] Karnzda duran oyuncu davet edilemez.
+1059	Kullandnz bir ürünü satamazsnz.
+1060	Kullanlan ürünler stantlarda satlamaz.
+1061	[Depo] Bu öeyi depoya tayamazsnz.
+1062	Henüz altn düüremezsiniz.
+1063	Envanteriniz dolu. Öe alnamyor.
+1064	Eyann seviyesi çok yüksek.
+1065	Yalnzca silah veya zrh üzerinde kullanlabilir.
+1066	Bu Ejderha Ta yeniden arj edilemez.
+1067	eytan Kulesi görevi için yalnzca bir kez ödüllendirilebilirsiniz.
+1068	Ejderha Ta kaldrld.
+1069	Bir öeyi ayrntlandrma penceresinde tayamazsnz.
+1070	Öe yükseltme baarsz oldu.
+1071	Bu haritada Metin ta bulunmamaktadr.
+1072	Kalan Ejderha Ta süresi kaldrld.
+1073	Kalan süre kaldrlamad.
+1074	Ejderha Ta kaldrlamad. Ancak unlar aldnz: %s
+1075	Ejderha Ta kaldrlamad.
+1076	Bu öe saflk yükseltmesi için gerekli deildir.
+1077	Bu öe bu ekilde yükseltilemez.
+1078	Saflk yükseltmesi baarl oldu.
+1079	Bir düzeye kadar ayrntlandrma baarsz oldu.
+1080	Bu öenin ayrntlandrlmas için gerekli deildir.
+1081	Ejderha Ta artma için kullanlamaz.
+1082	Bir seviyeye kadar ayrntlandrma baarl oldu.
+1083	Saflk yükseltmesi baarsz oldu.
+1084	Ejderha Tan yükseltmek için gereken tüm malzemelere sahip deilsiniz.
+1085	Ejderha Ta yükseltme için kullanlamaz.
+1086	Ayn yükseltme kaydrmalarn birletiremezsiniz.
+1087	Gelitirme baarl oldu.
+1088	Gelitirme baarsz oldu.
+1089	Ejderha Ta etkinletirilmedi.
+1090	Zaten bu türden bir Ejderha Ta takyorsunuz.
+1091	Ejderha Ta kaldrlamaz.
+1092	Envanterinizde bu tür Ejderha Ta zaten var.
+1093	%d saniye eklendi.
+1094	Cor Draconis'i açmadan önce Dragon Stone görevini tamamlamal ve Dragon Stone Alchemy'yi etkinletirmelisiniz.
+1095	Bir kemeri ancak içinde hiçbir eya bulunmuyorsa çkarabilirsiniz.
+1096	Magic Stone ve Blessed Scroll'u birletirebilirsiniz.
+1097	Bu öeyi kemerinize ekleyemezsiniz.
+1098	Bu labirentte bisiklet süremezsiniz.
+1099	Ayn anda en fazla 200 malzeme kullanabilirsiniz.
+1100	Ruha bal eyalar tezgahta satlamaz.
+1101	Ruha bal eyalarn özellikleri deitirilemez.
+1102	Ruha bal bir eyay kullanamazsnz.
+1103	Ruha bal bir eyay brakamazsnz.
+1104	Ruha bal bir eyay hediye edemezsiniz.
+1105	Bu sunucuda bir eyay ruha balayamazsnz.
+1106	Bu eyay ruhunuza balayamazsnz.
+1107	%d Yang'a yatrm yaptnz.
+1108	Alnabilecek ta mevcut deil.
+1109	Bu öe zaten ruha bal.
+1110	Bu eyann ruh ba kaldrlyor.
+1111	Bu öe ruha bal deildir.
+1112	Ruha bal bir öeyi yükseltemezsiniz.
+1113	Ruha bal bir eyay satamazsnz.
+1114	Bu sand açamazsnz; yetersiz envanter alan.
+1115	Bakalaryla ticaret yaparken özel tezgah açamazsnz.
+1116	Bu öeyi ticaret srasnda kullanamazsnz.
+1117	Sherpa penceresi açkken Konum Kaydrma özelliini kullanamazsnz.
+1118	Baka bir pencere açkken ilem yapamazsnz.
+1119	Bu konumu kaydedemezsiniz.
+1120	erpalar silah ve zrh gibi kullanabilirsiniz.
+1121	Öeleri pencereye sürükleyin.
+1122	Bu zaten özelletirilmitir.
+1123	Sherpa daha fazla bonus alamayacak.
+1124	Yalnzca erpalar kullanabilirsiniz.
+1125	Bu erpalar birletirilemez.
+1126	Arzal!
+1127	Baarl!
+1128	Birletirme için yeterli paranz yok.
+1129	Birletirme ve emilim pencereleri açksa bu öeyi kullanamazsnz.
+1130	Yeterli envanter alan yok.
+1131	%s baarl oldu! Yeni %s'de emilim oran %d%%. Tebrikler!
+1132	Ruha bal eyalar kullanamazsnz.
+1133	u anda kullandnz eyalar özel bir tezgahta satamazsnz.
+1134	Bu keseyi sürü srasnda kullanamazsnz.
+1135	Süre doldu. lk tur sona erdi.
+1136	Süre doldu. kinci tur sona erdi.
+1137	lk turun sonuna kalan süre: %d dakika.
+1138	kinci turun bitimine kalan süre: %d dakika.
+1139	Güvenli bölge henüz devre d brakld.
+1140	Güvenli bölgenin devre d braklmasna kalan süre: %d dakika.
+1141	Baka bir krallktaki güvenli bir konuma nlanamazsnz.
+1142	Cevap 20 saniye içinde görüntülenecektir.
+1143	15 saniye içinde yanl cevap verenler elenecektir.
+1144	Seviyeniz evcil hayvan çarmak için çok düük.
+1145	
+1146	unu çardnz: %s.
+1147	Reddettiniz: %s.
+1148	%s, %d. seviyeye ulat!
+1149	%s u anda uykulu.
+1150	%s yumurtadan yeni çkt!
+1151	Evcil hayvannz protein barna büyük bir cokuyla saldrd.
+1152	Yeterli kan basnc yok.
+1153	%s uyand ve lezzetli yemekler yemeye balad.
+1154	%s artk tama kutusunda.
+1155	%s tama kutusundan atlad.
+1156	%s, %s olarak deitirildi! Harika!
+1157	%s hiçbir ey yemeyi reddetti!
+1158	Etkinlik sona erdi ve krallktan kimse katlmad.
+1159	Bonuslar baaryla aktardnz.
+1160	Benimle ticaret yapacak kadar Yang'n yok.
+1161	Lütfen farkl bir ad girin.
+1162	Kullanmak için yeterli Büyü Puannz (MB) yok.
+1163	Partnerinizin Kuluçka Merkezi açkken ticaret yapamazsnz.
+1164	Ticaret veya depolama/özel durak penceresi açksa Kuluçka Makinesini açamazsnz.
+1165	Bir evcil hayvan çarldnda özel bir durak açamazsnz.
+1166	Bir evcil hayvan çarrken ticaret yapamazsnz.
+1167	Partneriniz bir evcil hayvan çarrken takas yapamazsnz.
+1168	Evcil hayvannz yeterince deneyim kazand. Artk bir sonraki evrim aamasna ulamak için bir eyaya ihtiyac var.
+1169	Evcil hayvannz evrime hazr. Gelitirme için Hayvan Kitaplarn kullann.
+1170	Evcil hayvannz zaten en yüksek evrim aamasna ulat.
+1171	Girilen ad çok ksa.
+1172	Yürütmeden %d saniye sonra hedefe ulaacaksnz.
+1173	Yeterli Yang'nz yok.
+1174	Evcil hayvannz iyi eittiniz! Yeni yetenekleri çok çabuk örenir!
+1175	Deneyim %d puana yükseltildi.
+1176	Evcil hayvannz bu beceriyi zaten örendi ve tekrar örenmeyi reddediyor.
+1177	%s yetenei etkinletirildi. Kan basnc %d artt.
+1178	Evcil hayvannz kahramanca eitime göndermek için Cesur Hayvan Kitab edinmelisiniz.
+1179	Evcil hayvannzn eitilmesi ve bir sonraki evrim aamasna evrimlemesi için %d seviyesinde olmas gerekir.
+1180	Evcil hayvannzn eitim ve bir sonraki evrim aamasna evrimi için %d günlük olmas gerekir.
+1181	Evcil hayvannzn bir sonraki evrim aamasna kadar eitim ve evrimi için %100 deneyime sahip olmas gerekir.
+1182	Etki %s etkinletirildi.
+1183	Seviyeniz bu öeyi kullanmak için çok düük.
+1184	%s efekti etkinletirilmedi.
+1185	%s yetenei etkinletirildi. Artk hasara kar baksnz.
+1186	%s yetenei etkinletirildi. Yavalatma, zehir ve kanama etkileri kaldrld.
+1187	Bonus alyorsunuz.
+1188	Pencere zaten açk.
+1189	Büyü nüfuzu %d%%.
+1190	%s bitkinlik durumunda yenilenir.
+1191	Bu öeyi burada kullanamazsnz.
+1192	Ticaret srasnda evcil hayvan çaramazsnz.
+1193	Özel tezgah açamazsnz.
+1194	Mooncake'i yalnzca 5 saniyede bir kullanabilirsiniz.
+1195	Yeterli %s'iniz yok. Bir sonraki evrim aamas için %d'ye ihtiyacnz var.
+1196	Evcil hayvan seviyesi oyuncu seviyesini geçemez.
+1197	Seviye: Genç
+1198	Seviye: Vahi
+1199	Seviye: Cesur
+1200	Seviye: Kahramanca
+1201	@*** Bu öe için frlatma: %s ***
+1202	@*** ->%*s - puan: %4d ***
+1203	$*** Ürün %s'in kazanan: %s ***
+1204	Yeni emilim oran: %d
+1205	Bu eyay sava srasnda kullanamazsnz.
+1206	Maksimum emilim oranna ulald.
+1207	Bu beceriyi zaten örendiniz.
+1208	Arama kriterlerine uygun öe bulunamad.
+1209	Yeterli balkaba feneri topland.
+1210	Bir ödülü hak edip etmediinizi Balkaba Sam'e sorun.
+1211	Cadlar Bayram etkinlii balad!
+1212	Git Balkaba Sam'le konu!
+1213	Cadlar Bayram etkinlii sona erdi. Ödüllerinizi toplamay unutmayn!
+1214	Balkaba fenerleri teslim edildi: %d
+1215	Toplam balkaba fenerleri: %d
+1216	%d Yang kazandnz.
+1217	Burada enlik atei yakamazsnz.
+1218	Bu oyuncu u anda baka biriyle ticaret yapyor.
+1219	lk önce bir silah donatmanz gerekir.
+1220	Bu kostüm bu silahla kullanlamaz.
+1221	Silahlar deitirmek istiyorsanz öncelikle Silah Görünümünü kaldrmalsnz.
+1222	Okey oyununa balamak için yeterli Yang'nz yok.
+1223	Okey oyununa balamak için %s hesabnz yok.
+1224	Okey oyununuz balad!
+1225	Daha fazla kart datamazsnz.
+1226	Bazlar iaretliyken kartlar atamazsnz.
+1227	Bazlar iaretliyken daha fazla kart datamazsnz.
+1228	Su altnda enlik atei yakamazsnz... bu mantksz olur.
+1229	Envanteriniz dolu.
+1230	Ödülü ancak envanterinizde yer açarsanz alacaksnz.
+1231	Okey'de %s %d puan ald.
+1232	lem yaparken Okey oyununa balayamazsnz.
+1233	Okey etkinlii balad!
+1234	Okey etkinlii sona erdi!
+1235	[Okey Etkinlii] En üst sraya ulamay baarrsanz ödülü almak için 7 gününüz var.
+1236	Okey oynarken bunu yapamazsnz.
+1237	Kapal. Gidip anahtar bulmalsn.
+1238	Ritüel Ta yalnzca 80. seviyenin üzerindeki eyalarda kullanlabilir.
+1239	%d Won'luk maksimum limit ald için ilem yapamazsnz.
+1240	Yeterli Yang'nz yok.
+1241	Yeterli Won'unuz yok.
+1242	Maksimum Won limiti alaca için ileme devam edemezsiniz.
+1243	Maksimum Yang limiti alaca için ticarete devam edemezsiniz.
+1244	Maksimum %d Won'u aabilecei için özel bir durak açamazsnz.
+1245	Ticaret srasnda envanteri geniletemezsiniz.
+1246	Okey etkinlii balad!
+1247	Okey etkinlii sona erdi!
+1248	Bu öe anahtarla açlamaz.
+1249	Seungryong Vadisi, Sohan Da, Doyyumhwan ve Yongbi Çölü'nde canavarlar ortaya çkt!
+1250	Bölgelere gidin ve onlar öldürün. sabetleri toplayn ve bunlar sandklarla deitirin.
+1251	Boss Reaper etkinlii %d dakika içinde sona eriyor.
+1252	Bay B ve patronlar %d dakika içinde ortadan kaybolacak.
+1253	Günlük hedefinizi tamamladnz; ödülünüzü seçin.
+1254	Gelinlik veya smokin giyerken silah görünümünü kullanamazsnz.
+1255	Dier kii u anda megul olduundan u anda onunla ilem yapamazsnz.
+1256	Silah görünümü kullanyorsanz gelinlik veya smokin giyemezsiniz.
+1257	%d. tur balyor.
+1258	Bu doru anahtardr.
+1259	[Lonca] Zaten maksimum miktarda BZK baladnz.
+1260	[Lonca] Lonca reklam balad.
+1261	[Lonca] Lonca reklam uzatld.
+1262	[Klan] Listesi güncelleniyor. Daha sonra tekrar deneyin.
+1263	[Klan] Lonca bulunamad.
+1264	[Lonca] Bu loncaya zaten bir istek gönderdiniz.
+1265	[Lonca] Talebiniz kaydedildi.
+1266	[Lonca] Oyuncu %s loncaya katlma talebinde bulundu.
+1267	[Klan] Listesi güncelleniyor. Daha sonra tekrar deneyin.
+1268	[Lonca] Lonca ilan mevcut deil.
+1269	%d Yang aldnz.
+1270	[Lonca] stek yok.
+1271	[Lonca] Lonca reklam %s için yaynlanacak.
+1272	[Lonca] Lonca reklam yaknda sona erecek.
+1273	[Lonca] %d Yang ald.
+1274	[Klan] %d%% vergiden sonra %d Yang alacaksnz.
+1275	[Lonca] Oylama aktifken sava ilan edemezsiniz.
+1276	[Lonca] Oylama aktifken loncay kapatamazsnz.
+1277	[Lonca] Oylama aktifken loncaya birini davet edemezsiniz.
+1278	[Lonca] Yalnzca bir lonca deposu ina edebilirsiniz.
+1279	Bu sandktan gizemli bir parlt geliyor.
+1280	[Lonca] Lütfen 10 saniye sonra tekrar deneyin.
+1281	[Lonca] Bu baka bir üye tarafndan kullanlyor.
+1282	[Klan] Lonca deposunda hâlâ eyalar bulunmaktadr.
+1283	[Lonca] Kar oy verdiniz.
+1284	[Lonca] Siz oy verdiniz.
+1285	[Lonca] Üyesi u anda çevrimd.
+1286	[Lonca] Devam eden oylama yok.
+1287	[Lonca] 'Lideri Deitir' oylamas balyor.
+1288	[Lonca] 'Üyeyi Çkar' oylamas balyor.
+1289	[Lonca] 'Lonca Bölgesini Sat' oylamas balyor.
+1290	%d deneyim puan aldnz.
+1291	[Lonca] 'Lonca Bölgesinden Ayrl' oylamas balyor.
+1292	[Lonca] 'Lideri Deitir' oylamas devam ediyor.
+1293	[Lonca] 'Üyeyi Çkar' oylamas devam ediyor.
+1294	[Lonca] 'Lonca Bölgesini Sat' oylamas devam ediyor.
+1295	[Lonca] 'Lonca Bölgesinden Ayrl' oylamas devam ediyor.
+1296	[Lonca] Lonca deposu u anda kullanmda.
+1297	[Lonca] Lonca deposunu yeniden açmadan önce 10 saniye beklemeniz gerekir.
+1298	[Lonca] Loncanzn deposu yok.
+1299	Bakn sandktan ne dütü!
+1300	[Lonca] Bu oyuncuya oylama baarsz oldu. %d ay, %d gün, %d saat ve %d dakika sonra tekrar deneyin.
+1301	[Lonca] Üye, hareketsizlik nedeniyle loncadan çkarld.
+1302	[Lonca] Mevcut oylamaya katldnz.
+1303	[Lonca] Kendi karakteriniz için oylama balatamazsnz.
+1304	[Lonca] Sava srasnda oylamaya balayamazsnz.
+1305	[Lonca] Lonca bölgesini kendinize satamazsnz.
+1306	[Lonca] Bu lonca mevcut deil.
+1307	[Lonca] Sava srasnda oylamaya balayamazsnz.
+1308	[Lonca] Lonca seviyesi çok düük.
+1309	[Lonca] Lonca üyesi son oyu reddetti. %d ay, %d gün, %d saat ve %d dakika sonra tekrar deneyin.
+1310	Göüsten çkan krmz duman içinize çekerseniz daha hzl hareket edersiniz!
+1311	[Lonca] Sava srasnda oylamaya balayamazsnz.
+1312	[Lonca] Lonca üyesi son oyu reddetti. %d ay, %d gün, %d saat ve %d dakika sonra tekrar deneyin.
+1313	[Lonca] Lonca bölgesini satmadan önce oy vermelisiniz.
+1314	[Lonca] Bu lonca, lonca oylamasndaki lonca deil.
+1315	[Lonca] Lonca üyesi sat için yaplan son oyu reddetti. Tekrar deneyin.
+1316	[Lonca] Lonca bölgesini kendinize satamazsnz.
+1317	[Klan] Lonca lideri çevrimd veya baka bir haritada.
+1318	[Lonca] Lonca zaten bölgenin sahibi.
+1319	[Lonca] Lonca bölgesi bulunamad.
+1320	[Klan] Lonca bölgesi sat tamamland.
+1321	Bu öe yalnzca mevcut etkinlik srasnda kullanlabilir.
+1322	Bir hata olutu. Bonuslar deitirilemedi.
+1323	u anda hayvannz çaramazsnz.
+1330	Bonus Sherpa'y hedef olarak kullanamazsnz.
+1331	Bonus olmayan bir Sherpa'y kaynak olarak kullanamazsnz.
+1332	erpalarn farkl emilim oranlar olduundan bonusu aktaramazsnz.
+1333	erpalarn seviyeleri farkl olduundan bonusu aktaramazsnz.
+1334	Arza! Emilim oran %1 azald.
+1335	Ksmi baar! Emilim oran %1 azald.
+1336	Baar! Bonus baaryla aktarld.
+1337	Bonus transferi srasnda eyalar atamazsnz.
+1338	Bonus transferi srasnda eyalar tayamazsnz.
+1339	Bonus transferi srasnda eya satamazsnz.
+1340	Bonus transferi srasnda mümkün deildir.
+1341	Dier oyuncu bonuslar aktard için bu mümkün deildir.
+1342	Evcil hayvanlarn kaderini belirlemek için bir Pet Fate Stone'a ihtiyacnz var.
+1343	Önce evcil hayvan etkinletirmelisiniz.
+1344	Evcil hayvan özelliklerini deitirirken takas edemez, eya satamaz veya depolamay kullanamazsnz.
+1345	Evcil hayvan niteliklerini deitirirken öeleri kullanamazsnz.
+1346	Evcil hayvan niteliklerini deitirirken öeleri brakamazsnz.
+1347	Evcil hayvan niteliklerini deitirirken öeleri tayamazsnz.
+1348	Partneriniz pet özelliklerini deitirirken takas yapamazsnz.
+1349	Pet niteliklerini deitirirken NPC'lerle konuamazsnz.
+1350	Evcil hayvannzn özellikleri deitirildi.
+1351	Evcil hayvan özellii deitirme menüsünü kapattktan 3 saniye sonra bunu açabilirsiniz.
+1352	Tüm pozisyonlar dolu.
+1399	Oyuncu u anda davetinizi kabul edemiyor.
+1400	Krallk Tentürünü kullandktan sonra artk bu krallktan gelen davetleri kabul edemezsiniz.
+1401	Pet yetenekleri etkinletirildi. %S. %s Yumuak Adm Atmay kullanyor.
+1403	Bu ad zaten kullanlyor.
+1404	Lütfen bu eyay kullanmadan önce Ejderha Tan çkarn.
+1405	Burada lonca sava ilan edemezsiniz.
+1406	Ödül
+1407	%d sralamas için ödüller
+1408	Patron malup oldu! Yaknda Zodyak Tapnana geri nlanacaksnz.
+1409	Maalesef kyameti durdurmay baaramadnz. Yaknda Zodyak Tapnana geri nlanacaksnz.
+1410	%s labirentine %d zorlukla girdiniz. Sava %d saniye içinde balyor.
+1411	ansl Sandk açkken NPC'lerle konuamazsnz.
+1412	ansl Sandk açkken eyalar kullanamazsnz.
+1413	ansl Sandk açkken eyalar atamazsnz.
+1414	ansl Sandk açkken eyalar tayamazsnz.
+1415	ansl Sandk açkken ticaret yapamazsnz.
+1416	Partnerinizin ansl Sand açksa takas yapamazsnz.
+1417	%s labirentine girdiniz. Sava %d saniye içinde balyor.
+1418	Zodiac Apocalypse u anda aktif deil.
+1419	Zodyak Kyameti çoktan balad.
+1420	Ejderha Ta bonusunuz deitirildi.
+1421	[Kral Yakala] Canavarlar öldür ve Kraliyet Kartlarn topla. Kraliyet Koleksiyonu için toplam 25 karta ihtiyacnz var.
+1422	[Kral Yakala] Pek çok ödül seni bekliyor!
+1423	[Kral Yakala] Eer yüksek bir sralamaya ularsanz oyun masasndan büyük bir ödül alacaksnz.
+1426	%d%% BZK tutarnda depo bonusu aldnz.
+1427	%d savunma tutarnda depo bonusu aldnz.
+1428	%d%% HP tutarnda depo bonusu aldnz.
+1429	%d%% canavar hasar tutarnda depo bonusu aldnz.
+1430	Balk tutmadan önce yeterli envanter alanna sahip olduunuzdan emin olun.
+1431	Bonus deiim penceresi açkken eyalar tayamazsnz.
+1432	Kusura bakmayn baln içinde hazine yoktu.
+1433	Bir evcil hayvan yumurtadan çkarmaya çalrken balk tutamazsnz.
+1434	Çarlm bir evcil hayvannz varken balk tutamazsnz.
+1435	Bonus deiim penceresi açkken balk tutamazsnz.
+1436	Sherpa birletirme veya emme penceresi açkken bu eylemi gerçekletiremezsiniz.
+1437	Sherpa bonus transfer penceresi açkken bu ilemi gerçekletiremezsiniz.
+1438	Bonus transfer penceresi açkken bu ilemi gerçekletiremezsiniz.
+1439	Dier pencereler açkken balk tutamazsnz.
+1440	Balk tutarken bu eylemi gerçekletiremezsiniz.
+1441	Kalan süre: %.2f | Balk zorluu: %lu | Zorluk azaltma: %d
+1442	Tüm Sava Bölgesi sralamalar sfrland.
+1443	Kullanmdaki silah görünümünü salayn.
+1444	Envanteriniz dolu.
+1450	%s gelitirmesi baarsz oldu.
+1451	%s gelitirmesi baarl oldu.
+1452	Bir Kan Suna ortaya çkt.
+1453	Bir ruhu ele geçirdin.
+1454	[Kan Ritüeli] Ne yazk ki envanterinizde yeterli alan yok.
+1455	[Kan Ritüeli] Maalesef yeterli ruhunuz yok.
+1456	[Kan Ritüeli] Ne yazk ki yeterli Yang'nz yok.
+1457	Kan Ritüeli balad. Daha iyi ödüller için özel ürünler satn aln.
+1458	Kan Ritüeli sona erdi. Baka bir zaman tekrar deneyin.
+1459	Deiiklik gelitirme baarsz oldu.
+1460	Bu eya yalnzca Meley's Den'de mevcuttur.
+1461	Pusula kullanld ama Muhafz bulunamad.
+1462	Baka bir eylem gerçekletirirken bunu yapamazsnz.
+1463	Baka bir eylem gerçekletirirken bunu yapamazsnz.
+1464	Çarlan bir evcil hayvana sahipken bir silah gelitiremezsiniz.
+1465	Sand açmak için %d envanter yuvasna ihtiyacnz var.
+1466	Üzgünüz, yeterli envanter alannz yok.
+1467	[Depolama] u anda kullanmda olan bir öe saklanamyor.
+1468	[Aura] Ruha bal bir eya üzerinde çalmaz.
+1469	[Aura] Halihazrda bir öe aktarlm olan Aura Kostümü ile çalmaz.
+1470	[Aura] Aura Kostümü maksimum seviyeye ulat.
+1471	[Aura] Bir Aura Kostümünü gelitirmeden gelitiremezsiniz.
+1472	[Aura] Yalnzca Aura Kostümüne uygulanabilir.
+1473	[Aura] Yalnzca aural bir kostüm, kolye, küpe veya bilezik taklabilir.
+1474	[Aura] Gelitirilemez.
+1475	[Aura] Yalnzca Aura Kostümü taklysa ilerlenebilir.
+1476	[Aura] Eklenen malzemelerin miktar gerekli miktara ulaacak ekilde ayarland.
+1477	[Aura] Evrimleemez.
+1478	[Aura] Bir Aura Kostümünü gelitirmeden gelitiremezsiniz.
+1479	[Aura] Öeleri eklemelisiniz!
+1480	[Aura] Yükseltme baarl oldu. Evrim artk mümkün.
+1481	[Aura] Yükseltme baarl oldu!
+1482	[Aura] Aura Kostümünü gelitirmek için yeterli para yok.
+1483	[Aura] Evrim baarl oldu!
+1484	[Aura] Baar!
+1485	[Lonca] %d BZK baland.
+1486	Gelitirme penceresi açkken bir evcil hayvan besleyemezsiniz.
+1487	Be Altar sava balad! %d gün sürecek.
+1488	Be Altar sava sona erdi. Bir sonraki sava %d saat içinde balayacak.
+1489	Binei sürerken arayüz açlamaz.
+1490	Etkinlik u anda aktif deil.
+1491	Bir binek çarrken eyalar takas edemez, tayamaz veya brakamazsnz.
+1492	Öngörülemeyen koullar nedeniyle sava sonlandrld.
+1493	Be Altar sava %d dakika içinde bitiyor.
+1494	%s x %d taneye daha ihtiyacnz var.
+1495	Ejderha Portal seviyesi %d açld. Labirente saldr!!
+1496	Artk %d Dragon Portal seviyesine girebilirsiniz.
+1497	Patronu yendik!
+1498	[Klan] %d BZK ald!
+1499	Dragon Portal'a girme süresi doldu!
+1500	%d dakika içinde girmezseniz labirent kapanacaktr.
+1501	Sava balamad. Labirent kapatld.
+1502	%s %s'i igal etti!
+1503	Çarlan bir evcil hayvana sahipken ba yapamazsnz.
+1504	Bu karakter dövü için uygun deil.
+1505	%d hediyeden %d tanesini açabilirsiniz.
+1506	Bir sonraki hediyeyi %d dakika içinde açabilirsiniz.
+1507	%s, %s'e saldryor!
+1508	%s, %d kiisel puana ulat!
+1509	Kan Ritüeli ödülü
+1510	Envanter dolu. Ödül posta kutunuza gönderilecektir.
+1511	Parti üyesi öeyi alamayacak kadar uzakta.
+1512	Lonca maksimum seviyeye ulat. Artk ba mümkün deil.
+1513	[Falc Sava] Falc Sava balad!
+1514	[Falc Sava] Mini oyun için bir görev alacaksnz.
+1515	[Falc Sava] Zengin ödüller sizi bekliyor!
+1516	[Falc Sava] Falc Sava sona erdi.
+1517	[Falc Sava] Sralamanz kontrol edin ve ödüllerinizi seçin.
+1518	[Falc Sava] Yeterli Falc Paranz yok.
+1519	[FT] Yerletirme ödülü
+1520	[Falc Sava] Ba saynz 1 artrdnz.
+1521	Bu eyay ruha bal bir eya üzerinde kullanamazsnz!
+1522	Kraliyet Savalarna katlamazsnz.
+1524	Önce partinizden ayrlmalsnz.
+1525	Geri saym balad için giremezsiniz.
+1527	Bu Kraliyet Savann galibi: %s
+1528	%s, %s'yi öldürdü.
+1529	Geri saym balad. Kraliyet Sava %d saniye içinde balyor.
+1530	Yetersiz katlmc nedeniyle Kraliyet Sava balayamyor.
+1531	Kraliyet Sava balad. lk bölge %d saniye içinde görüntülenecektir.
+1532	Sava Bölgesi güncellendi. %d saniye içinde kapanacak.
+1533	Sava Bölgesi %d saniye içinde kapanacak.
+1534	Elektrik alan çalmay durdurdu. Bir sonraki Sava Bölgesi %d saniye içinde görünecek.
+1535	Kraliyet Sava %d saniye içinde bitiyor.
+1536	Bunu Kraliyet Sava srasnda yapamazsnz.
+1537	Bu haritaya kayt olamazsnz.
+1538	Bunun için Royal Battle sunucusuna kayt olamazsnz.
+1540	Bunu Royal Battle sunucusunda iptal edemezsiniz.
+1541	Kraliyet Sava balad!!!
+1542	Kraliyet Sava sona erdi!!!
+1543	Artk Sava Bölgeleri yok. Tüm alan %d saniye içinde kapanacak.
+1544	u anda hiçbir negatif buff'nz yok.
+1545	Girmek için Royal Battle Pass'a ihtiyacnz var.
+1546	Bir yere özel bir malzeme paketi yerletirildi.
+1547	[Yadigar Bonusu] Zaten bir Ruh Yadigâr tayorsun.
+1548	Bunu burada kullanamazsnz.
+1549	Primordial Plateau'ya nlanma baarsz oldu.
+1550	Artk bunu kullanamazsnz.
+1551	Yeterli Gaya'nz yok.
+1552	Kraliyet Sava katlmclarnn durumu: (%u/%u)
+1553	Royal Battle'a kayt sona erdi.
+1554	Lütfen daha sonra tekrar deneyin.
+1555	Baka bir eylem gerçekletirirken bunu yapamazsnz.
+1556	PvP turnuvas
+1557	Tur galibiyet ödülleri
+1558	Turnuva kazanma ödülleri
+1559	Falc Sava ödülleri
+1560	Envanteriniz dolu. Ödülünüz posta yoluyla teslim edilecektir.
+1561	Falc Sava ödülü, envanteriniz dolu olduundan posta yoluyla gönderilecektir.
+1562	ampiyon seviyesi için %lu BZK aldnz.
+1574	Lütfen daha sonra tekrar deneyin.
+1575	Kraliyet Sava
+1576	Kraliyet Sava sezonu ödülü. Yerleim: %d
+1577	Kraliyet Sava için genel ödül.
+1578	Kraliyet Sava için oyun ödülü. Yerleim: %d
+1579	Kraliyet Sava için sava ödülü. %d'dan fazla rakip öldürüldü
+1580	Baary u anda talep edemezsiniz.
+1581	Artk hiçbir ifadeyi kullanamazsnz.
+1582	Yanm
+1583	Lonca %s, %s alannda %d,%d konumunda %d Kazanlan bölgeyi satn ald.
+1584	Lonca lideriniz %s bölgesindeki %d,%d konumunda bölge müzayedesine kaydoldu.
+1585	Teklifinizi zaten gönderdiniz.
+1586	Teklif edilen Wonlarnz geri çekebilirsiniz.
+1587	Toplanacak bir ey yok.
+1588	Zaten maksimum Won miktarna ulald.
+1589	Teklif ettiiniz %d Won'u geri çektiniz.
+1590	Kiray yalnzca lonca lideri veya hazine eriimine sahip bir üye ödeyebilir.
+1591	Kira ödenmesine gerek yoktur.
+1592	Loncann yeterli Yang' yok.
+1593	[Lonca Bölgesi] Muhafza gidin ve lonca bölgesi kiras için %d Yang ödeyin.
+1594	Lonca bölgesi kiras için %lu Yang'a ödeme yaptnz.
+1595	Devam eden bir lonca bölgesi müzayedesi srasnda bunu yapamazsnz.
+1596	Herhangi bir lonca bölgesi müzayedesine kaytl deilsiniz.
+1597	Hiçbir loncaya ait deilsiniz.
+1598	Zaten bir lonca bölgesi müzayedesine kaytlsnz.
+1599	Açk artrmaya yalnzca lonca lideri kaydolabilir.
+1600	Yalnzca seviye %d veya üzeri loncalar kaydolabilir.
+1601	Loncanzn zaten bir lonca bölgesi var.
+1602	u anda hiçbir lonca bölgesi açk artrmas yürütülmüyor.
+1603	Maksimum miktar %d Won'dur.
+1604	Yeterli Won'unuz yok.
+1605	Loncanz müzayedeye kaytl deil.
+1606	Yalnzca 24 saatten uzun süredir lonca üyesiyseniz teklif verebilirsiniz.
+1607	Lonca bölgesi kiras ödenmedi. Lonca bölgesi terk edildi.
+1608	Lonca bölgesi açk artrmasna kaytl lonca yok.
+1609	%d Won teklif ettiniz.
+1610	Bu lonca mevcut deil.
+1611	Dong Gwang Ovalar
+1612	Teklif ettiiniz Won'lar köy koruyucusundan alabilirsiniz.
+1613	Mükemmel! Baaryla bir Ruh Ta eklediniz ve artk deerlere iki kat bonus alyorsunuz.
+1614	Joan
+1615	Pyungmoo
+1616	Jungrang
+1617	Waryong
+1618	Imha
+1619	Meryem
+1620	Songpa
+1621	Daeyami
+1622	[Dünya Patronu] Etkinlii balad
+1623	[Dünya Bossu] Etkinlii tamamland
+1624	[Dünya Patronu] %d kanalnda %s, %s bölgesinde terör estirirken görüldü. Hadi avlanalm!
+1625	[Dünya Patronu] %d kanalndaki dünya patronu saldrya urad. Ava katln!
+1626	[Dünya Patronu] Mükemmel: %s yenildi ve bar saland... imdilik.
+1627	[Dünya Patronu] Dünya patronu kaçt! Bir dahaki sefere iyi anslar.
+1628	[Dünya Patronu] Artk bir ödül talep edemezsin.
+1629	[Dünya Patronu] Harika! te ödülünüz. Bir dahaki sefere siz de katln!
+1630	[Dünya Patronu] Yeterli envanter alannz olmad için ödül talep edemezsiniz.
+1631	[Dünya Bossu] Sralama için Seviye I yama ödülü: %d
+1632	[Dünya Patronu] Sralama için Seviye II Yama ödülü: %d
+1633	[Dünya Patronu] Sralama için Seviye III Yama ödülü: %d
+1634	[Dünya Bossu] Sralama için Seviye IV yama ödülü: %d
+1635	[Çiçek Gücü] Yeterli filiziniz yok.
+1636	[Çiçek Gücü] Yeterli envanter alannz yok.
+1637	[Çiçek Gücü] Çiçek Tohumlar elde ettiniz.
+1638	[Çiçek Gücü] Yeterli Çiçek Tohumunuz yok.
+1639	[Çiçek Gücü] Bir Kasmpat filizi aldn.
+1640	[Çiçek Gücü] Vadideki Zambak filizini aldnz.
+1641	[Çiçek Gücü] Bir Nergis filizi aldnz.
+1642	[Çiçek Gücü] Bir Zambak filizi aldn.
+1643	[Çiçek Gücü] Bir Ayçiçei filizi aldnz.
+1644	[Dünya Patronu] Dikkat: Dünya patronu yaknda ortaya çkacak!
+1645	[Çiçek Gücü] Bu eya artk kullanlamaz.
+1646	u anda dönüemezsiniz.
+1647	Süre içinde tüm canavarlar öldürün!
+1648	Yan odaya açlan portal açk.
+1649	Tüm saldrlardan kaçn!
+1650	Bir sonraki seviyeye giden portal açk.
+1651	%s, Sung Mahi Kulesi'nde %u seviyesini tamamlad!
+1652	Sung Mahi Kulesi'nden ganimet posta kutunuza gönderildi.
+1653	Sung Mahi Kulesi: Seviye %d
+1654	Sung Mahi Kulesi'ni tamamlama karlnda ganimet
+1655	Sava %d saniye içinde balyor.
+1656	%d. seviyedesiniz.
+1657	Uyumsuz canavar çiftlerini öldürün!
+1658	Yanl canavara saldrdn. Bütün canavarlar öldür!
+1659	Süre içinde tüm canavarlar öldürün!
+1660	Yanl Metin tan yok ettin. Tüm canavarlar yen.
+1661	Doru Metin tan yok edin!
+1662	Kaçmak için doru anahtar bulun!
+1663	Mührü krmak için Mühür Ta'n bulun!
+1664	[Sung Mahi Kulesi] Süre snr içinde tüm canavarlar öldürün!
+1665	[Sung Mahi Tower] Mevcut sralama döngüsü sona erdi.
+1666	[Sung Mahi Tower] Yeni sralama döngüsü balad.
+1667	Sung Mahi Kulesi seviyesi %d'de 1. olana sezon ödülü.
+1668	Sung Mahi Kulesi sezon ödülü
+1669	Sen lanetli deilsin.
+1670	Lanetiniz kalkt.
+1671	Süre doldu. Darya nlanacaksnz.
+1672	[Sung Mahi Kulesi] eytan Tan Yok Edin!
+1673	[Sung Mahi Kulesi] Anahtar uymuyor. Baka bir tane bulun ve tekrar deneyin.
+1674	[Sung Mahi Kulesi] Sung Mahi Mühür Tan kullanarak mührü krn!
+1675	[Sung Mahi Kulesi] lk önce ilk mührü krmalsn!
+1676	Artk eldivenleri donatabilirsiniz.
+1677	Henüz eldiven takamazsnz.
+1678	Yasad yazlm algland için bu özellik kullanlamyor.
+1679	[Sung Mahi Tower] Bu seviyeyi %d saniyede tamamladnz.
+1680	Loncann oluturulduu gün lonca bölgesi müzayedesine katlamazsnz.
+1681	%s %s'in Ejderha kapsnda ustalatnz.
+1683	Dragon kaps sfrlama öeniz yok.
+1684	%d Dragon kaps puan aldnz.
+1685	Çözücüyü çözmede baarsz oldunuz.
+1686	Sung Mahi Kulesi'nde bir sonraki seviyeye yükselin!
+1687	[Kiisel Premium Maaza] Bunu kullanamazsnz. Köydeki Maaza Müdürüne gidin.
+1688	Sung Mahi etkisi altndaki bölgeye girdiniz ve lanetin etkilerini hissediyorsunuz.
+1689	%s hala %d baza sahip. (%d/%d)
+1690	%s tüm üsleri ina etti ve Sung Mahi kontrol kontrolü %d dakika içinde balayacak.
+1691	Sung Mahi üsleri ina edildi.
+1692	Sung Mahi üsleri yok edildi.
+1693	%s'deki tüm üsler yok edildi ve bölge artk Sung Mahi'nin kontrolü altnda deil.
+1694	Seo Gwang Çorak Topraklar
+1695	Nam Gwang Uçurumu
+1696	Gelitirme baarl oldu!
+1697	Üzgünüz, gelitirme baarsz oldu.
+1698	Dokunulmazlk kutsamas sayesinde Sung Mahi'nin varlndan etkilenmezsiniz.
+1699	Dokunulmazlnz sona erdi ve yine Sung Mahi'nin varlndan ve lanetinden etkileniyorsunuz.
+1700	Bir kullanc yasa d yazlm kullanyorsa bunu yapamazsnz.
+1701	Gelitirmek için yeterli malzemeniz yok. (Ruha bal eyalar kullanlamaz)
+1702	Lonca bölgeniz %d saat içinde otomatik olarak iptal edilecek. Lonca deposundaki tüm eyalar yok edilecek.
+1703	[Lonca] Lonca liderini tekmeleyemezsiniz.
+1704	[Lonca] Kendini tekmeleyemezsin.
+1705	[Lonca] Kendinizi lonca lideri yapamazsnz.
+1706	[Lonca] Bu yalnzca lonca liderine açktr (eer lonca bölgesi iptal edilmise).
+1707	[Lonca] Lonca sava srasnda lonca bölgesini terk edemezsiniz.
+1708	Bunu takas edemezsin.
+1709	Kule etkinlii etkinletirildi.
+1710	Bunu ancak ampiyon seviyesine ulatktan sonra örenebilirsiniz.
+1711	[Kiisel Premium Maaza] Hala toplayacak paranz olduundan bunu açamazsnz.
+1712	[Kiisel Premium Maaza] Hala toplanacak öeleriniz olduundan bunu açamazsnz.
+1713	[Kiisel Premium Maaza] Kiisel Premium Maazanz zaten açtnz.
+1714	[Kiisel Premium Maaza] Maaza u anda hazrlanyor.
+1715	[Kiisel Premium Maaza] Yeterli envanter alannz yok.
+1716	[Kiisel Premium Dükkân] Kiisel Premium Dükkânnzdan öeler toplayabilirsiniz.
+1717	[Kiisel Premium Maaza] Kiisel Premium Maazanzdan para toplayabilirsiniz.
+1718	[Kiisel Premium Maaza] Satld: %s Lütfen paranz imdi toplayn.
+1719	[Kiisel Premium Maaza] Maazay kapattktan %d saniye sonra yeniden açamazsnz.
+1720	Labirent olutururken bunu yapamazsnz.
+1721	Artk yeniden canlanamazsnz. Labirentten nlanacaksnz.
+1722	Ödülü zaten aldnz. Tekrar denemek istersen daha sonra gel. Kalan süre: %d sa %d dk
+1723	Hala %dx'i yeniden canlandrabilirsiniz.
+1724	Artk Ylan Tapnana girebilirsiniz. Bunun için Ylan Heykelini kullann.
+1725	Yklan Metin tepkisizdir. Tüm Metinler yeniden dodu.
+1726	Yklan Metin tepkisizdir. Tüm Metinler yeniden dodu.
+1727	%d Metin'i yok ettin. imdi Metin %d'yi yok edin.
+1728	Süre doldu. Labirentten nlanacaksnz.
+1729	Bu, %d dakika içinde kullanlabilir.
+1730	Artk labirent süresini uzatamazsnz.
+1731	Labirent süresi 1 dakika uzatld.
+1732	Bütün canavarlar öldürdün. %d. seviyeye tanacaksnz. Kalan süre: %d saniye.
+1733	Bütün Metinleri yok ettin. %d. seviyeye tanacaksnz. Kalan süre: %d saniye.
+1734	Ylann bana bir parça eklendi. Ama hiçbir ey olmad.
+1735	Tüm Ylan Odalarnn kilidi açld. %d saniyede %d seviye.
+1736	Özel bir Ylan Tapna Demircisi ortaya çkt!
+1737	Ylan Tapna Demircisi ortaya çkt!
+1738	Tüm canavarlar öldürdünüz ve boss seviyesine ilerleyebilirsiniz.
+1739	Ylan Tapnan tamamladnz. %d saniye içinde labirentten nlanacaksnz.
+1740	Metin talarn doru srayla yok edin.
+1741	Bütün canavarlar öldür.
+1742	Ylan Sütunu'nun kilidini açmak için anahtar canavarlardan almalsnz.
+1743	Ylan Bana bir parça eklediniz.
+1744	Patronu öldür.
+1745	Baaryla açld!
+1746	Önce baka bir sütunun kilidini açmalsnz.
+1747	Hapishanenin kilidi açld. Demirci sana gülümsüyor.
+1748	Bu hapishane anahtar açlmad ve demirciyi kurtarmad.
+1749	Bu parça Ylan Bana uymuyor.
+1750	999.999 Dragon kaps noktasndan fazlasn kullanamazsnz.
+1751	Dragon kaps puanlarnz limiti at için sfrlayamazsnz.
+1752	ampiyon seviyesine ulamak için 120. seviyede en az 1 Mermer BZK doldurmalsnz.
+1753	Öncelikle 'Gemi Savunmas' labirentini tamamlamalsnz.
+1754	Zaten ampiyon seviyesine ulatnz.
+1755	[Kiisel Premium Maaza] Kiisel Premium Maazanz açarken bu öeyi kullanamazsnz.
+1756	[Kiisel Premium Maaza] Öeleri yönetirken bunu yapamazsnz.
+1757	[Kiisel Premium Dükkân] Baka bir pencere açkken Kiisel Premium Dükkânnz kullanamazsnz.
+1758	[Kiisel Premium Maaza] Öeleri yönetirken bunu yapamazsnz.
+1759	%d Dragon kaps puan kullandnz.
+1760	[Yadigar Bonusu] Bu eylem Soul Relic penceresi açkken mümkün deildir.
+1761	%s parti üyesi sava terk etti.
+1762	Kalan süre: %d dakika.
+1763	[Kiisel Premium Dükkân] Burada savaamazsnz.
+1764	[Kiisel Premium Maaza] Toplanabilen para, öe yönetimi srasnda güncellenmez.
+1765	En yüksek Ylan Tapna patronu ortaya çkt.
+1766	[Kiisel Premium Maaza] Maaza burada zaten açlmt. Maazanz açmak için baka bir yer bulun.
+1767	Gelimekte olan bir evcil hayvan çarrken bunu gelitiremezsiniz.
+1768	<Kuzey Rüzgar Derinlikleri> Kalan süre: %d dakika.
+1769	<Kuzey Rüzgar Derinlikleri> Eer sava 3 dakika içinde balatmazsanz, örnek sona erecektir.
+1770	<Kuzey Rüzgar Derinlikleri> Süre doldu. Labirentten nlanacaksnz.
+1771	Dragon kaps örenme görevini tamamladktan sonra kullanlabilir.
+1772	<Northwind Depths> Northwind Shelter için bir örnek oluturuldu.
+1773	HP
+1774	Savunma
+1775	Lider
+1776	Tugyi
+1777	EXP
+1778	Direnç (Yangn)
+1779	Direnç (Buz)
+1780	Direnç (Elektrik)
+1781	Direnç (Rüzgar)
+1782	Direnç (Toprak)
+1783	Direnç(Karanlk)
+1784	STR
+1785	Güç (Ate)
+1786	Güç (Buz)
+1787	Güç (Elektrik)
+1788	Güç (Rüzgar)
+1789	Güç (Toprak)
+1790	Güç(Karanlk)
+1791	aret
+1792	Sung Ma(STR)
+1793	Sung ma (Direnç)
+1794	Sung Ma(VIT)
+1795	Sung Ma(INT)
+1796	<Kuzey Rüzgar Derinlikleri> Alastor'u yendin! 20 saniye içinde labirentten nlanacaksnz.
+1797	<Kuzey Rüzgar Derinlikleri> Alastor yaknda buzlu gazabn serbest brakacak!
+1798	<Kuzey Rüzgar Derinlikleri> Alastor buzlu gazabn %d. seviyede serbest brakacak!
+1799	<Kuzey Rüzgar Derinlikleri> Alastor'un buzlu gazabn baaryla savuturdunuz.
+1800	<Kuzey Rüzgar Derinlikleri> Beyaz Ejderha Yumurtasn %d saniye içinde yok etmezseniz, Alastor'un ölümcül donu sna vuracak!
+1801	Bu burada mevcut deil.
+1802	Bu, sava baladktan sonra geçerli olacak.
+1803	<Kuzey Rüzgar Derinlikleri> Süre snr içinde savaa balamadnz için örnek sona erdi.
+1804	Dragon kaps açkken kullanlamaz.
+1807	Dragon kaps sistemini kullanamazsnz.
+1808	%d ampiyon düzeyinde deneyim puan kazandnz.
+1809	%d deneyim puan kazandnz.
+1810	%d deneyim puan kaybettiniz.
+1811	%d ampiyon düzeyinde deneyim puan kaybettiniz.
+1812	Ticaret srasnda bunu yapamazsnz.
+1813	Metin Atei etkinlii balad!
+1814	Görev listesini tamamlayn, Metin talarn yok edin ve ödüllerinizi aln.
+1815	Metin Atei etkinlii u anda aktif deil.
+1816	[Dragon Temple] Bir Dragon Temple örnei oluturdunuz.
+1817	[Dragon Temple] Eer 3 dakika içinde savaa balamazsanz, örnek sona erecektir.
+1818	[Ejderha Tapna] Beran-Setaou yenildi. %d saniye içinde labirentten nlanacaksnz.
+1819	[Ejderha Tapna] Kalan süre: %d dakika.
+1820	[Ejderha Tapna] Sava balamad için örnek sona erdi.
+1821	[Ejderha Tapna] Zaman doldu. Tüm oyuncular labirentten nlanacak.
+1822	[Dragon Temple] Bir Dragon Temple örnei oluturdunuz.
+1823	[Dragon Temple] Eer 3 dakika içinde savaa balamazsanz, örnek sona erecektir.
+1824	[Dragon Temple] Örnek balad.
+1825	[Dragon Temple] Vazgeçtin ve örnek sona erdi.
+1829	[Ejderha Tapna] %d saniye içinde kimse girmezse labirent kapanacak.
+1830	[Ejderha Tapna] Gerekli sürede kimse girmedii için labirent kapand.
+1838	Kendinizi engelleyemezsiniz.
+1839	Kendinizi ekleyemezsiniz.
+1840	%s eylemi etkinletirildi.
+1844	At beslediniz: %d yem. %d deneyim kazandk.
+1845	Yeterli Stil veya Yang yok.
+1846	Bu binicilik becerisini örenemezsiniz.
+1847	[Enigma Tapna] Bu parömeni yalnzca parti lideri kullanabilir.
+1848	[Enigma Tapna] Bu parömeni yalnzca parti lideri kullanabilir.
+1849	[Enigma Tapna] %s menzil dnda.
+1850	[Enigma Tapna] Bu parömeni kendi seviyenizde kullanamazsnz.
+1851	[Enigma Tapna] %s'e girmek için daha yüksek bir seviye gerekiyor.
+1852	[Enigma Tapna] %s girmeyi reddetti.
+1853	[Enigma Tapna] Eer savaa balamazsanz labirent 1 dakika içinde kapanacak.
+1854	[Enigma Tapna] Enigma Tapna'na giden portal oluturuldu.
+1855	[Enigma Tapna] Gerçek Metin Tan yok edin.
+1856	[Enigma Tapna] Bu sahte bir Metin Tadr. Gerçek Metin Tan bulun!
+1857	[Enigma Tapna] Metin Ta'ndan bir hazine sand elde ettiniz.
+1858	[Enigma Tapna] Hala gerçek Metin Tan bulmanz gerekiyor. Portal kullann ve tekrar deneyin.
+1859	[Enigma Tapna] Görevi tamamland. Gizli oday bulun.
+1860	[Enigma Tapna] Gerçek canavar bulun ve onu malup edin! llüzyonlara aldanmayn.
+1861	[Enigma Tapna] Gerçek canavar bulamadn. Portal kullann ve tekrar deneyin.
+1862	[Enigma Tapna] Hazine sandn kontrol edin.
+1863	[Enigma Tapna] Gizli odaya ho geldiniz.
+1864	[Enigma Tapna] Zamannz doldu! Herkes labirentin dna nlanacak.
+1865	[Enigma Tapna] Ödül olarak Enigma Tapna Kutsamasn aldnz.
+1866	[Enigma Tapna] Bir ödül almadn. Bir sonraki ödüle kalan süre: %d saat ve %d dakika
+1867	Enigma Tapna Ödülü
+1868	[Enigma Tapna] Enigma Tapna, süre dolduu için ortadan kayboldu.
+1869	[Enigma Tapna] Enigma Portaln kullanarak savaa balamak için 4 dakikanz var.
+1870	[Enigma Tapna] Enigma Tapnann Kutsamas size baka bir hazine sand garanti ediyor.
+1871	[Enigma Tapna] Enigma Ödülünü aldnz. Almak için posta kutunuzu kontrol edin.
+1872	%s kaldrld.
+1873	%s becerisini edindin. Beceri sekmesinden kontrol edebilirsiniz.
+1874	Yeterli deil Gaya
+1876	Daha sonra tekrar deneyin.
+1878	Süre doldu. Yaknda ehre transfer edileceksiniz.
+1879	Artk yeniden canlanamazsnz.
+1880	Görevi baaryla tamamladnz ve %d dakika içinde nlanacaksnz.
+1881	Tüm habercileri yendin. Lanete girmek için Hae-Tae Muhafzna gidin.
+1882	Maksimum öe saysndan fazlasn kullanamazsnz.
+1883	Baka Bir Dünyaya Yolculuk sona erdi ve artk Ölüm Alevlerini bulamyorsunuz.
+1884	Baka Bir Dünyaya Yolculuk balad. Canavarlar öldürerek Ölüm Alevlerini bulacaksnz.
+1885	Baka Bir Dünyaya Yolculuk sona erdi.
+1886	Baka Bir Dünyaya Yolculuk balad. Artk Dragon Fire Bay'deki Baka Bir Dünya'ya giden portal kullanabilirsiniz.
+1887	%dx Hayat Suyu kullandnz. %dx Hayat Suyunuz kald.
+1888	%d Ölüm Alevi alacaksnz.
+1895	Dünya Habercisi'ni yendin.
+1896	Gece Habercisi'ni yendin.
+1897	Storm Messenger' yendin.
+1898	Air Messenger' yendin.
+1899	Labirent %d dakika içinde kapanacak.
+1900	Daha fazla Ölüm Alevi için yeterli alannz yok.
+1901	Tekrar denemeden önce beklemelisiniz. Kalan süre: %d saat ve %d dakika
+1902	Ejderha Tapnana girdikten sonra artk partiyi deitiremezsiniz.
+1903	Daha fazla paral askeriniz olamaz.
+1904	Dayankllk ald
+1905	[Enigma Tapna] Bir sonraki seviyeye ilerlemek için Enigma Metin'i yok edin.
+1916	Bu beceriyi zaten örendiniz.
+1917	Atnz 31. seviyeye ulaana kadar bu beceriyi örenemezsiniz.
+1918	Artk bu beceriyi kazanamazsnz.
+1919	Atnz 21. seviyeye ulaana kadar bu beceriyi örenemezsiniz.
+1921	<Gizli Zindan> Zindana giremezsiniz. Seviye gereksinimi karlanmad.
+2200	%.2f saniye bekleyin.
+2201	Buff'nz çarm olmalsnz.
+2202	Buff için önce ekipmannz çkarn.
+2203	Bu öeyi yükseltmek için yeterli WON'unuz yok.
+2204	Bu öeyi yükseltmek için yeterli AP'niz yok.
+2205	VIP zaten aktif.
+2206	Bekleme (VIP) eklendi.
+2207	Bu eylemi gerçekletirmeden önce bekleyin!
+2208	Tüm pencereleri kapatn!
+2209	Bu bala zaten sahipsiniz.
+2210	Balk, balk penceresine eklendi!
+2211	Bu balk aslnda kullanlamaz.
+2212	Öe anahtarn zaten etkinletirdiniz.
+2213	%d Baar Puan aldnz.
+2214	%d Ejderha Paras aldnz.
+2215	Bu öeyi kullanmak için çarlm bir evcil hayvannzn olmas gerekir!
+2216	Bu iksir yalnzca 40. seviyeden 70. seviyeye kadar kullanlabilir.
+2217	Bu iksir yalnzca 70. seviyeden 110. seviyeye kadar kullanlabilir.
+2218	amannz etkinletirildi.
+2219	aman çarld.
+2220	VIP zaten aktif.
+2221	VIP etkinletirildi. Lütfen tekrar giri yapn.
+2222	SYS: VIP kutu süresi veri tabannda ayarlanmam.
+2223	VIP zaten aktif.
+2224	VIP etkinletirildi. Lütfen tekrar giri yapn.
+2225	SYS: VIP kutu süresi veri tabannda ayarlanmam.
+2226	VIP zaten aktif.
+2227	VIP etkinletirildi. Lütfen tekrar giri yapn.
+2228	SYS: VIP kutu süresi veri tabannda ayarlanmam.
+2229	Yenisini açmadan önce mevcut kiisel maazanz kapatn.
+2230	Bu harita alan özel maaza açlmasna izin vermemektedir.
+2231	Gelitirmek istediiniz beceriyi seçin.
+2232	Beceri eitimleri baaryla tamamland.
+2233	Beceri eitimi baarsz oldu.
+2234	Seviyeniz çok düük!
+2235	Bu beceride zaten uzmanlatnz.
+2236	Bu kitab anlamak kolay deil...
+2237	Artk bu kitab çalamazsnz.
+2238	Bu evcil hayvan için maksimum beceri seviyesine ulatnz!
+2239	Bu evcil hayvann beceri düzeyi eitim kitabnn düzeyiyle elemiyor.
+2240	Beceri eitimi baarl oldu!
+2241	Beceri eitimi için %d kitabnz kald.
+2242	Beceri eitimi baarsz oldu.
+2243	Gelitirmek istediiniz beceriyi seçin.
+2244	Artk rütbenizi yükseltemezsiniz.
+2245	Sralama puanlar %d artt.
+2246	Önce bu öeye 5 temel bonus ekleyin!
+2247	Öe maksimum katkya ulat!
+2248	Bonus eklenemedi!
+2249	Bonus ekleme ilemi baarl oldu!
+2250	Öenin deitirilebilecek bonuslar yoktur.
+2251	Bonus ekleme ilemi baarl oldu!
+2252	Bonus eklenemedi!
+2253	Öe maksimum sayda bonusa sahip!
+2254	Bonuslarn deitirilmesi baarl oldu!
+2255	Deitirilebilecek bonusunuz yok.
+2256	Eldiven yükseltilirse bonuslar deitirilemez.
+2261	Sherpa yükseltildi!
+2262	Sherpa zaten yükseltildi!
+2263	Sherpa'nn emilim seviyesi çok düük. Gerekli: %30
+2264	Eldivenler yükseltildi!
+2265	Eldivenler zaten yükseltildi!
+2266	Eldivenlerin 5 bonusu olmal!
+2267	Yalnzca +5 eldivenle kullanlabilir.
+2268	Öe yükseltildi!
+2269	Öe zaten yükseltildi!
+2270	Yalnzca +9 öelerde kullanlabilir.
+2271	Rune yükseltildi!
+2272	Rune zaten yükseltildi!
+2273	Yalnzca +5 rünlerde kullanlabilir.
+2274	Kiisel maaza vitrininiz açkken öeleri tayamazsnz.
+2275	Bu öe uygun deil.
+2276	amannz çarlmad.
+2277	Bu eya amanlara yönelik deildir.
+2278	Bu ürün bu cinsiyete uygun deil.
+2279	Bu öe kaldrlamaz.
+2280	Bu bala sahip deilsiniz.
+2281	Bu balk zaten aktif.
+2282	Çark dönerken bunu yapamazsnz.
+2283	Aksesuar penceresi zaten açk.
+2284	Öncelikle aksesuar emilim penceresini kapatmalsnz.
+2285	Öncelikle aksesuar kombinasyonu penceresini kapatmalsnz.
+2286	Kilitli öeleri ekleyemezsiniz.
+2287	Bu aksesuarn zaten maksimum emilim ans var.
+2288	Bonuslar yalnzca silahlardan alnabilir.
+2289	Yeterli deil Yang.
+2290	Yeterli kontrol yok.
+2291	Gerekli öelere sahip deilsiniz.
+2292	%d saniye bekleyin.
+2293	Çarktan "%s" x%d aldnz.
+2294	%d'de kanal deitiriliyor.
+2295	Kanal deiiklii iptal edildi.
+2296	Evcil hayvannzn adn deitirmek için %s'ye ihtiyacnz var.
+2297	Yeterli kontrol yok.
+2298	Yang miktar limiti at için devam edemezsiniz.
+2299	Deiim baarl oldu.
+2300	Deiimi sürdürmek için yeterli Yang yok.
+2301	Kontrol says limiti aacandan devam edemezsiniz.
+2302	Girilen kod zaten etkin deil.
+2303	Girilen promosyon kodu %d karakter seviyesinden itibaren kullanlabilir.
+2304	Girilen promosyon kodu %d karakter seviyesine kadar kullanlabilir.
+2305	Girilen promosyon kodu unlar içeriyordu: %d miktarnda %s.
+2306	Bu, izin verilen Yang miktarn aacaktr.
+2307	%d Yang aldnz.
+2308	%d Ejderha Paras aldnz.
+2309	%d seviye aldnz.
+2310	Deneyim kazanm yalnzca 30. seviyenin üzerinde mümkündür.
+2311	Yeterli Yang veya çek yok.
+2312	Simya süresi uzatld.
+2313	Deneyim kazanm etkinletirildi.
+2314	Deneyim kazanm devre d brakld.
+2315	Öenin envantere dorudan kabulü: izin verilir.
+2316	Öenin envantere dorudan kabulü: yasak.
+2317	Öe koleksiyona eklendi.
+2318	Bu türdeki tüm öeler zaten eklenmi.
+2319	Bu öeye sahip deilsiniz.
+2320	Bu görevi zaten tamamladnz.
+2321	Baarl: %d, Baarsz: %d.
+2322	Ürün kalitesizdi.
+2323	Eer lonca engellenmise, loncaya deneyim balayamazsnz.
+2324	[BattlePass] Görevi: %s tamamland.
+2325	[BattlePass] Ödülü aldnz.
+2326	Premium sava geçiini etkinletirecek bir öeniz yok.
+2327	Gönderme ans zaten maksimumdur.
+2328	Öenin gönderilmesi için bekleme süresi ksaltld.
+2329	Gönderim için bekleme süresi neredeyse sfrdr.
+2330	Öeyi gönderme ans %25 artrld.
+2331	Mevcut ans: %d
+2332	Zindanda deilsin!
+2333	Parti liderinin envanterde yeterli geçii yok.
+2334	Grubunuzdaki bir oyuncunun ayn haritada olmas gerekir.
+2335	Geçi izniniz yok!
+2336	Zindan henüz tamamlamadnz!
+2337	Bu kod bu hesapta zaten kullanlm!
+2338	Girilen kod mevcut deil!
+2339	Özel envanter dolu!
+2340	Cildi uygulamak için gerekli donanma sahip Sherpa'ya sahip olmalsnz!
+2341	Evcil hayvannz maksimum seviyeye ulat! Bu eyayla daha fazla deneyim kazanamazsnz.
+2342	Öedeki bonuslarn deitirilmesi durduruldu. Yeterince büyülü eyanz yok.
+2343	Öedeki bonuslarn deitirilmesi durduruldu. Yeterli yang'nz yok.
+2344	ans çarkn döndürmek için yeterli paranz yok.
+2345	%s adnda bir yardmcy baaryla oluturdunuz.
+2346	Zaten zindandasn.
+2347	Seviyeniz çok düük.
+2348	Gerekli geçi iznine sahip deilsiniz.
+2349	Sen parti lideri deilsin.
+2350	Partide yeterli oyuncu yok.
+2351	Bir parti üyesinin bu zindann bekleme süresi hâlâ vardr.
+2352	Zindann bekleme süresini azaltmak için gerekli öeye sahip deilsiniz.
+2353	Zindann bekleme süresi baaryla kaldrld.
+2354	Bu zindanda bekleme süreniz yoktur.
+2355	Zindandaki konum kaydedilemiyor.
+2356	Bir süre beklemeniz gerekiyor.
+2357	%d saniye beklemeniz gerekir.
+2358	Çok yakn olduu için bu konuma nlanamyor.
+2359	Kutudan gizemli bir k çkt.
+2360	%d deneyim puan aldnz.
+2361	Kutudan bir canavar çkt!
+2362	Kutunun içinden zehirli bir bulut çkt ve sizi yavalatt.
+2363	Kutu açld! Birkaç can puan kaybettiniz.
+2364	Kutu açld! Kutudaki zehirden zehirlendin.
+2365	Göüs bo gibi görünüyor.
+2366	Baka bir çekirdek açmadan önce simya penceresindeki alan düzenleyin.
+2367	Bir sonraki nlanmadan önce %d saniye beklemeniz gerekir.
+2368	Bu haritada nlanmaya izin verilmiyor.
+2369	Olta u anda kullanlamyor.
+2370	Çevrimd mesaj gönderildi.
+2371	%d saniye beklemeniz gerekir.
+2372	Bu dönüüm görünümünün kilidi zaten açld.
+2373	Dönüüm görünümünün kilidi baaryla açld.
+2374	Dönütürülürken d görünüm deitirilemez.
+2375	Bu görünüm zaten aktif.
+2376	Kilidini açmadnz bir görünümle deitirilemez.
+2377	lk önce dönüüm maazasnn kilidini açmalsnz.
+2378	Bu ilem u anda gerçekletirilemiyor.
+2379	Gerekli öelere sahip deilsiniz.
+2380	lk ehirlerin dnda maaza açamazsnz.
+2381	Bu haritadaki maksimum maaza saysna ulald.
+2382	Fiyat negatif bir deerdir.
+2383	Bir parti üyesi çevrimd maaza açamaz.
+2384	Zaten açk bir çevrimd maazanz var.
+2385	Çevrimd maazadan öelerin iadesi.
+2386	Bu süre boyunca çevrimd bir maaza açmak için %s (x%d)'ye ihtiyacnz var!
+2387	Bu süre boyunca çevrimd bir maaza açmak için %lld yang'a ihtiyacnz var!
+2388	Maazay açarken bir hata olutu.
+2389	Çevrimd maaza ad çok ksa.
+2390	Maaza ad yasak kelimeler içeriyor.
+2391	Bu öe çevrimd bir maazaya tanamaz.
+2392	Bu öe tanamaz.
+2393	Zaman
+2394	Çevrimd maazanzn süresi doldu.
+2395	Bu ilem u anda gerçekletirilemiyor.
+2396	Aramada çok fazla öe var.
+2397	Önce tüm pencereleri kapatn.
+2398	Kendi maazanzdan ürün satn alamazsnz.
+2399	Bir parti üyesi çevrimd maazalardan ürün satn alamaz.
+2400	Bu eylemi gerçekletirmeden önce beklemeniz gerekir.
+2401	Çevrimd maaza bo.
+2402	%d kanalndaki çevrimd maaza kapatld.
+2403	%s öesi çevrimd maazadan baaryla kaldrld.
+2404	Bu özellik u anda kullanlamyor.
+2405	Bu kanalda çevrimd maaza oluturulamaz.
+2406	Giydiiniz bir ürünü maazaya tayamazsnz.
+2407	Dükkandan çok uzaktasnz.
+2408	Fiyat çok yüksek.
+2409	Ürün %d maazada bulundu.
+2410	Üretim için yeterli yang'nz yok.
+2411	Üretim için yeterli kazancnz yok.
+2412	Üretim için yeterli baar puannz yok.
+2413	Bu eya zindanda kullanlamaz.
+2414	Bir kostüm silah bu silah türüyle donatlamaz.
+2415	Kostüm silah çkarlamyor, envanterde yeterli yer yok.
+2416	Bir sonraki aramadan önce 5 saniye beklemeniz gerekir.
+2417	Bu maazadaki son ürün, dükkan kapat.
+2418	Dier tüm pencereleri kapatn.
+2419	Bu eylemden önce %d saniye beklemeniz gerekir.
+2420	Çevrimd bir maaza oluturmak için yeterli yang'nz yok. %d yang'a ihtiyacn var.
+2421	Çevrimd maaza yalnzca global kanalda (ilk ehirler) oluturulabilir.
+2422	Maaza açmak için ilk ehirlerde olmalsnz.
+2423	Bu eya kilitli, kuanlm veya u anda takasta.
+2424	Bu ürün çevrimd bir maazada satlamaz.
+2425	Ayn anda yalnzca bir tür skor tablosu yüklenebilir.
+2426	[TEST SUNUCUSU] Skor tablonuz güncel.
+2427	[TEST SUNUCUSU] Skor tablosunda bu karakterin kayd yok.
+2428	[TEST_SERVER] Haftalk skor tablosu kategorisi %u, %u puan ekledi.
+2429	Bu eylem, dönütürme penceresi açkken gerçekletirilemez.
+2430	Dönüüm görünümünün kilidi açld.
+2431	Oyuncu %s, etkinlik balkç sandn ald.
+2432	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Oltanza|cfffce35b 2|r |cfffce35bbonus puan|r |cfffff0a0aldnz.|r
+2433	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Oltanzdaki puanlar artt (|cfffce35b%d|r/|cfffce35b%d|r).|r
+2434	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Oltanzdaki puanlar maksimum seviyede.|r
+2435	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aOlta, balkçda yükseltilebilir.|r
+2436	|Eemoji/info|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a[VIP] %d ek baar puan aldnz.|r
+2437	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffff0a0Balk yakalamak için |cfffce35bboluk çubuuna %dx|r basmalsnz.|r
+2438	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Boluk çubuuna çok az kez basld.|r
+2439	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Boluk çubuuna çok fazla basld.|r
+2440	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aIzgara yaptnz |cff87fa8b%s|r.|r
+2441	|Eemoji/iaretini kaldr|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Balkçla yalnzca balk tutma haritasnda izin verilir.|r
+2442	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEnvanterinizde gerekli balk yok.|r
+2443	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aFish baaryla gönderildi. Mükemmel kalitedeydi.|r
+2444	|Eemoji/iaretini kaldr|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Balk gönderilemedi. Kalitesizdi.|r
+2445	|Eemoji/iaretini kaldr|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu öe yalnzca |cfffa7a7a olta|r.|r üzerinde kullanlabilir.
+2446	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu öe zaten maksimum sayda bonusa sahip.|r
+2447	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Oltanz zaten bu bonusu içeriyor.|r
+2448	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBonus baaryla eklendi.|r
+2449	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2au anda eya çekiliine eya ekleyemezsiniz. Lütfen bekleyin.|r
+2450	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Oyuncu %s eya çekiliini kazand.|r
+2451	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Madencilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Bonus sayesinde |cfffce35b%d|r |cffff0a0daha fazla cevher aldnz.|r
+2452	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Bonus sayesinde |cfffce35b 2|r |cfffce35bbonus puanlar|r |cfffff0a0 aldnz. kazma.|r|r
+2453	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Madencilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Kazmanzdaki puanlar artt (|cfffce35b%d|r/|cfffce35b%d|r|cffffff0a0).|r|r
+2454	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Madencilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBaaryla cevher çkardnz.|r
+2455	|Eemoji/iaretini kaldr|e|cffb9b8b8[|r|cff54ffc0Madencilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu sefer hiçbir ey çkarmadn.|r
+2456	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Kalntlar yalnzca kasklara, kalkanlara ve çizmelere eklenebilir.|r
+2457	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aKalnt baaryla öeye eklendi.|r
+2458	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Kalnt öeye eklenemedi.|r
+2459	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu öe zaten maksimum sayda kalnt içeriyor.|r
+2460	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Yeniden kaydedilebilmesi için öenin 3 kalnt içermesi gerekir.|r
+2461	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aÖedeki kalnt deiiklii baarl oldu.|r
+2462	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu eylem dönütürülürken veya monte edilirken gerçekletirilemez.|r
+2463	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aMineral damar bulunamad.|r
+2464	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Madencilie baladnz.|r
+2465	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Damara yaklamalsnz.|r
+2466	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Damar kaybolmu gibi görünüyor.|r
+2061	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Dünya Patronu|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aDünya Patronu %s hayatta.|r
+2062	|Eemoji/info|e|cffb9b8b8[|r|cffdee356WorldBoss|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323WorldBoss %s %01.0f:%02.0f %s'de ortaya çkacak.|r
+4000	Oyuncu %s, %d adetten %d adet ald.
+4001	%s oyuncusu %d ald.
+10008	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Binekten inmelisiniz.|r
+10009	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Binicilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBinek çarld.|r
+10010	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBinek reddedildi.|r
+10011	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Tekrar binmeden önce bir dakika beklemelisiniz.|r
+10012	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Binicilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Elbise veya smokin giyerek binee binemezsiniz.|r
+10013	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Binicilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Binek seviyesi çok düük.|r
+10014	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Binicilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu eylem balk tutma veya madencilik srasnda gerçekletirilemez.|r
+10015	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu besleme, minimum |cffff6363%d seviyesine sahip bir binek üzerinde kullanlabilir.|r|r
+10016	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu besleme, maksimum |cffff6363%d seviyesine sahip bir binek üzerinde kullanlabilir.|r|r
+10017	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Binek sürerken binein görünümünü deitiremezsiniz.|r
+10018	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu haritada binek çaramazsnz.|r
+10019	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323u anda binekten inemezsiniz.|r
+10020	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Binicilik|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffff0a0Binekinizin deneyim puanlar |cfffce35b%d artt.|r|r
+10021	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aDönütürülmüken bir kitab okuyamazsnz.|r
+10022	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu beceri zaten maksimum seviyede.|r
+10023	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Seviyeyi yükseltmek için gerekli öelere sahip deilsiniz.|r
+10024	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Seviyeyi yükseltmek için yeterli yang'nz yok.|r
+10025	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aSeviye baaryla yükseltildi.|r
+10026	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bugün gerçekten ansszsn; pes et.|r
+10027	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Ek bonus yeni balad.|r
+10028	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event - Ek bonus yeni sona erdi.|r
+10029	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Patronlardan çifte düü yeni balad.|r
+10030	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Etkinlik - Patronlardan çifte düme az önce sona erdi.|r
+10031	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Kayalardan çift düme yeni balad.|r
+10032	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Etkinlik - Kayalardan çift düme az önce sona erdi.|r
+10033	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Ay Sand düürmeleri yeni balad.|r
+10034	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Etkinlik - Ay Sand düürmeleri yeni sona erdi.|r
+10035	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Daha kolay 6/7 bonus çevrimi yeni balad.|r
+10036	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event - Daha kolay 6/7 bonus yuvarlama sona erdi.|r
+10037	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - %63 ortalama hasar alma ans yeni balad.|r
+10038	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event - %63 ortalama hasar alma ans sona erdi.|r
+10039	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Daha kolay kalnt yeniden kaydetme imdi balad.|r
+10040	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event - Daha kolay kalnt yeniden kaydetme sona erdi.|r
+10041	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Bosslardan ve kayalardan iki kat baar puan düüü yeni balad.|r
+10042	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Etkinlik - Bosslardan ve kayalardan iki kat baar puan düüü sona erdi.|r
+10043	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Cevherlerden madencilik sand düme ans yeni balad.|r
+10044	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event - Cevherlerden madencilik sand düme ans yeni sona erdi.|r
+10045	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Çift cevher düüü yeni balad.|r
+10046	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event - Çift cevher düüü az önce sona erdi.|r
+10047	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent - Balk tutan bir yldz için artan ans yeni balad.|r
+10048	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Etkinlik - Balk tutan bir yldz için artan ans yeni sona erdi.|r
+10049	Kanal deiiklii iptal edildi.
+10050	Zaten bu kanaldasnz.
+10051	Zaten bu kanaldasnz.
+10052	Global kanaldaki kanallar deitiremezsiniz.
+10053	Zindanlarda kanal deitiremezsiniz.
+10054	Tekrar kanal deitirmeden önce beklemelisiniz.
+10055	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Player |cfffce35b%s|r |cfffce35b%s|r öesini sizin için yerden ald.|r
+10056	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0 |cfffce35b%s|r.|r oyuncusu için yerden |cfffce35b%s|r öesini aldnz.
+10057	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Otomatik güçlendirmeniz devre d braklrken otomatik güçlendirme becerilerini çaltramazsnz.|r
+10058	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Bir etkinlik madencilii sand aldnz.|r
+10059	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEtkinlik sayesinde bir balkç yldz aldnz.|r
+10060	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEldivenler efsanevi gelitirmelerden temizlendi.|r
+10061	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Eldivenler efsanevi bir gelitirme içermiyor.|r
+10062	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Temizlik yalnzca +5 eldiven üzerinde kullanlabilir.|r
+10063	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Sava Biletinin süresi zaten doldu. Gelecek sezonu bekleyin.|r
+10064	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu öeyi kullanmak için en az 30 karakter seviyesine sahip olmalsnz.|r
+10065	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Zaten maksimum Sava Bileti seviyesine ulatnz.|r
+10066	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu öenin bir Sava Bileti sezonunda maksimum kullanm saysna ulald (7/7).|r
+10067	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a%d Sava Bileti deneyim puan aldnz! Mevcut seviye: %d (Kullanlan: %d/7).|r
+10068	Bu öe devre d brakld.
+10069	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYalnzca mükemmel efsanevi simya, efsanevi hale getirilebilir.|r
+10070	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu öe yalnzca seviye 201 veya daha yüksek öeleri yükseltmek için kullanlabilir.|r
+10071	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu öe, bu öeleri yükseltmek için kullanlamaz. Seon-Pyeong'u ziyaret edin.|r
+10072	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aSeviyeniz bu konuma nlanmak için çok düük! (Gerekli: %d+).|r
+10073	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aSeviyeniz bu konuma nlanamayacak kadar yüksek! (Maks: %d).|r
+10074	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aInlanma baarl!|r
+10075	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBilinmeyen konum dizini!|r
+10076	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGeçersiz dizin! Saysal bir dizin kullann.|r
+10077	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTicaret ve dierleri gibi ilemlerden sonra bir dakika beklemeniz gerekir.|r
+10078	|Eemoji/bilgi|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2axxx.|r
+10079	|Emoji/bilgi|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Emoji/right_arrow|e |cff23fa2axxx1.|r
+10080	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Yeterince yang'nz yok.|r
+10081	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a%d öe hazrladnz.|r
+10082	|Eemoji/iaretini kaldr|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Öe oluturma baarsz oldu.|r
+10083	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aMaaza süresi yalnzca 4 günden az ise uzatlabilir.|r
+10084	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Üretim için %s x%d öesine ihtiyacnz var.|r
+10085	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu geçersiz bir üretim tarifi.|r
+10086	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Üretim için yeterli malzemeniz yok.|r
+10087	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu öe özel envantere tanamaz.|r
+10088	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aHazrlk baarl oldu.|r
+10089	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aMaaza süresi 4 gün uzatld.|r
+10090	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Yaz Etkinlii|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Lagoon Ring sayesinde çift ödül kazandnz.|r
+10091	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aDöndürmek için gerekli öeye sahip deilsiniz.|r
+10092	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTekrar dönmeden önce bir dakika beklemelisiniz.|r
+10093	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Yaz Etkinlii|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Parltl Lagün'e geçi yapmak için gereken ekeri aldnz.|r
+10094	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Yaz Etkinlii|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aParldayan Lagün'e geçi yapmak için gereken bir ananas aldnz.|r
+10095	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aSnrl ürün baaryla satn alnd.|r
+10096	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu snrl ürün zaten tükendi.|r
+10097	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a %s - %d adet ürün satn aldnz.|r
+10098	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYeterince kazanmadnz. %d'ye ihtiyacnz var.|r
+10099	|Eemoji/info|e|cffb9b8b8[|r|cffdee356 Çarkfelek|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Zaten Çarkfelek'teki ana ödüllerden birini aldnz. Artk dönemezsiniz.|r
+10100	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aHer iki ana ödül de zaten maksimum döndürme snrna (5) ulat. Sandklardan birine vurursanz alternatif bir ödül alacaksnz.|r
+10101	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a %u öesini döndürdünüz, ancak öe zaten maksimum sunucu snrna ulat. Alternatif bir ödül dönüü gerçekletirildi.|r
+10102	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAna ödüllerden birinin telafisi olarak %u x%u öesini aldnz.|r
+10103	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Çarkfelek|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTebrikler! Ana ödüllerden birini aldnz! Kalan say: Reaper's Chest (I): %d/5, Reaper's Chest (II): %d/5.|r
+10104	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aElemental Heart'a baaryla 1-5 bonus eklediniz.|r
+10105	|Eemoji/tlsm|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Elemental Heart'a baka bir bonus ekleyemezsiniz.|r
+10106	|Eemoji/tlsm|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu gelitirme bu öede kullanlamaz.|r
+10107	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTlsm Kalbinde 1-5 bonusun deitirilmesi baarl oldu.|r
+10108	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Elemental Heart'ta yeniden kaydolmak için yeterli bonus yok.|r
+10109	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Elemental Heart zaten maksimum 6/7 bonus saysna sahip.|r
+10110	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTlsm Kalbine 6-7 bonus eklemek baarl oldu.|r
+10111	|Eemoji/tlsm|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu gerçekletirilemez.|r
+10112	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Elemental Heart'a 6-7 bonus eklemek yalnzca +20'den itibaren mümkündür.|r
+10113	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Elemental Heart'ta yeniden kaydolmak için yeterli 6/7 bonus yok.|r
+10114	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTlsm Kalbindeki 6/7 bonuslarn deitirilmesi baarl oldu.|r
+10115	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Elemental Heart'ta 6/7 bonuslar deitirmek yalnzca +20'den itibaren mümkündür.|r
+10116	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Aktif balk "Kalnt Avcs" sayesinde, bu yeniden kaydn size hiçbir maliyeti yok.|r
+10117	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a Aktif balk "Kalnt Avcs" sayesinde, bu yeniden kaydn size hiçbir maliyeti yok.|r
+10118	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBunu lonca olmadan yapamazsnz.|r
+10119	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aLonca koruyucu öelerini yükseltmek için yeterli haklara sahip deilsiniz.|r
+10120	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aKoruyucu eyalar hassaslatrmak için lonca haritasnda olmanz gerekir.|r
+10121	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aLoncanzn bu iyiletirme için yeterli lonca paras yok.|r
+10122	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBeklemeniz gerekiyor.|r
+10123	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYeterli baskn bileti yok.|r
+10124	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aLonca notlarn bu kadar sk deitiremezsiniz.|r
+10125	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild notlarnn en az 4 karakter uzunluunda olmas gerekir.|r
+10126	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBunu imdi yapamazsnz. Tüm pencereleri kapatn ve 10 saniye bekleyin.|r
+10127	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aKoruyucu öeleri yalnzca envantere yerletirildiklerinde donatabilirsiniz.|r
+10128	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu koruyucu eyas hâlâ baka bir loncann ruhuna bal.|r
+10129	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEnvanterde yeterli alan yok.|r
+10130	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aLoncanz için ekstra günlük baskn satn almak için biletiniz yok.|r
+10131	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEkstra günlük baskn satn almak için yeterli ejderha paranz yok.|r
+10132	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild günlüü bo.|r
+10133	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild günlükleri zaten güncel.|r
+10134	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bal tekrar deitirmek için %.2f saniye beklemeniz gerekiyor.|r
+10135	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYeni bir baln kilidini açtnz!|r
+10136	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBalk etkinletirildi!|r
+10137	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBalk kaldrld.|r
+10138	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu balk zaten etkin!|r
+10139	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu baln kilidini henüz açmadnz!|r
+10140	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu balk zaten premium slotunuzda aktif!|r
+10141	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu balk premium balnzla birlikte kullanlamaz!|r
+10142	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2akinci balk yuvasn kullanmak için aktif prime ihtiyacnz var!|r
+10143	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu balk zaten premium slotta aktif!|r
+10144	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu baln kilidini henüz açmadnz!|r
+10145	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu balk ana balnzla birlikte kullanlamaz!|r
+10146	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPremium balk etkinletirildi!|r
+10147	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPremium balk kaldrld.|r
+10148	|Eemoji/iaretini kaldr|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Zaten bir VIP üyesiniz.|r
+1957	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEk 6/7 bonus eklenemiyor!|r
+1958	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a6/7 bonusu baaryla eklendi!|r
+1959	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBu öeye 6/7 bonus eklenemiyor!|r
+10149	Bu tür bir öe zaten donatlmtr.
+10150	Öedeki bonus deiiklii: %s (Slot: %d) baarl oldu.
+10151	PvP sirasinda binege binemezsin. %d saniye bekle.
+21500	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu esya su anda Nesne Market'te mevcut degil.|r
+21501	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Envanterinizde bu esyayi almak icin yeterli bos yer yok.|r
+21502	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Bu esya su anda satin alinamiyor. Lutfen destek ile iletisime gecin.|r
+21503	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffa8ff9eSatin aldiginiz icin tesekkur ederiz! Esyanizin tadini cikarin.|r
+21504	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffa8ff9e%d Ejderha Parasi karsiliginda |r|cffffcc00%dx|r|cffa8ff9e |r|cffffcc00%d|r|cffa8ff9e satin aldiniz.|r
+21505	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffa8ff9e%d Ejderha Parasi karsiliginda esya satin aldiniz.|r
+21506	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffa8ff9e%d Ejderha Markasi karsiliginda |r|cffffcc00%dx %d|r|cffa8ff9e satin aldiniz.|r
+21507	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffa8ff9e%d Ejderha Markasi karsiliginda |r|cffffcc00%d|r|cffa8ff9e satin aldiniz.|r
+21508	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffa8ff9e%d Ejderha Parasi ve %d Ejderha Markasi karsiliginda |r|cffffcc00%dx %d|r|cffa8ff9e satin aldiniz.|r
+21509	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cffa8ff9e%d Ejderha Parasi ve %d Ejderha Markasi karsiliginda |r|cffffcc00%d|r|cffa8ff9e satin aldiniz.|r

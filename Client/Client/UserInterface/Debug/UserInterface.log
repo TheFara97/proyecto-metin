@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Adresář Output nekončí závěrečným lomítkem. Tato instance sestavení lomítko přidá, protože je nutné pro správné vyhodnocení adresáře Output.
+     Vytváří se knihovna ..\..\..\Elvion-client\client\Elvion_d.lib a objekt ..\..\..\Elvion-client\client\Elvion_d.exp.
+  LINK : Zadali jste /LTCG, ale generování kódu se nevyžaduje. Výkon linkeru můžete zlepšit odebráním parametru /LTCG z příkazového řádku propojení.
+  UserInterface.vcxproj -> F:\Elvion\Elvion-client\client\Elvion_d.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  copying launcher to debug working path...
+          1 file(s) copied.

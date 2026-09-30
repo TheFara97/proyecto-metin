@@ -1,0 +1,464 @@
+1	Gilde erstellen
+2	Möchtest du wirklich eine Gilde erstellen - 1 Won?
+3	Preis: 
+4	Ja
+5	Nein
+6	Der Name darf keine Sonderzeichen enthalten und muss zwischen 3 und 11 Zeichen lang sein!
+7	Möchtest du wirklich eine Gilde mit diesem Namen erstellen?[ENTER]
+8	Du hast nicht genug Yang.
+9	Du bist bereits in einer Gilde.
+10	[System] Gildenname ist ungültig (strlen <2 oder >11!)
+11	[System] Gildenname ist ungültig (enthält Sonderzeichen!)
+12	[System] Gilde wurde nicht erstellt (Name bereits vergeben oder du bist bereits Gildenmitglied)
+13	[System] Gilde wurde erstellt.
+14	[System] Der Spieler ist bereits Gildenmitglied
+15	[System] Der Spieler ist bereits Gildenleiter
+16	GM: Einschränken.
+17	Gib den Namen der Person ein, die du einschränken willst!
+18	Spieler wie:
+19	existiert nicht!
+20	GM: Prüfen.
+21	Hat Gilde: 
+22	Ist Meister: 
+23	Reich: 
+24	Reich NPC: 
+25	Gilde verlassen
+26	Möchtest du wirklich die Gilde verlassen?
+27	Du hast die Gilde verlassen.
+28	Gilde auflösen
+29	Möchtest du wirklich die Gilde auflösen?
+30	Die Gilde wurde aufgelöst.
+31	Es kann keine Gilde erstellt werden, du bist bereits in einer!
+32	Möchtest du wirklich eine Gilde erstellen - 1 Won?
+33	Du hast den erforderlichen Gegenstand zum Erstellen der Gilde nicht.
+34	Du hast nicht genug Geld, um eine Gilde zu erstellen.
+35	Du hast nicht das erforderliche Führungslevel.
+36	Du musst noch ein wenig warten, bevor du einen weiteren Gegenstand einreichst.
+37	Dieser Gegenstand hatte hohe Qualität!
+38	Du hast die Mission des Biologen abgeschlossen.
+39	Dieser Gegenstand hatte sehr geringe Qualität!
+40	Du hast den erforderlichen Gegenstand für die Forschung nicht.
+41	Dein Level ist zu niedrig.
+42	Du hast die Sammlermission abgeschlossen.
+43	[Eishöhle] Töte 50 Monster und benutze dann das Siegel!
+44	[Eishöhle] Zerstöre alle Felsblöcke!
+45	[Eishöhle] Töte 3 Mini-Bosse!
+46	[Eishöhle] Töte den Boss!
+47	Betritt die Eishöhle (125+)
+48	Wächter:
+49	Hallo!
+50	Verstehe ich das richtig? Du willst die Eishöhle betreten?
+51	Ohne die erforderlichen Gegenstände
+52	und Level lasse ich dich nicht passieren.
+53	Anzahl der Eintritte heute: 
+54	Das Limit wird zurückgesetzt in:
+55	%d Stunden und %d Minuten.
+56	0 Stunden und 0 Minuten.
+57	Du benötigst:
+58	Erforderlicher Gegenstand
+59	Möchtest du weitermachen?
+60	Sicher!
+61	Lieber nicht.
+62	Teleportation ist momentan nicht möglich!
+63	Du hast den erforderlichen Gegenstand nicht!
+64	[Eishöhle] Willkommen im Dungeon!
+65	[Eishöhle] Monster sind erschienen!
+66	Töte 50 Monster
+67	[Eishöhle] Benutze das Siegel, um weiterzugehen!
+68	[Eishöhle] Erfolg!
+69	[Eishöhle] Das nächste Ziel erscheint in 5 Sekunden!
+70	[Eishöhle] Felsblöcke sind erschienen!
+71	Zerstöre 8 Felsblöcke
+72	[Eishöhle] Gut gemacht!
+73	[Eishöhle] Verbleibend: 
+74	 Felsblöcke!
+75	Töte 3 Mini-Bosse
+76	[Eishöhle] Du hast die Mini-Bosse erfolgreich getötet!
+77	Zerstöre 4 Felsblöcke
+78	[Eishöhle] Der Boss ist erschienen!
+79	Töte den Boss!
+80	[Eishöhle] Du hast den Boss erfolgreich getötet!
+81	[Eishöhle] Du wirst in einer Minute aus dem Dungeon teleportiert!
+82	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Eishöhle |cFFc5ff8c(Lv. 125)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+83	Gesamtwertung
+84	Punktewertung
+85	Baek-Go
+86	Handwerk
+87	Handwerk – Seelensteine
+88	Handwerk – Elixiere
+89	Handwerk – Autobuff-Fähigkeiten
+90	Rang, Haustier, Reittier
+91	Level für Erfolgspunkte
+92	Erfolgspunkt-Shop
+93	Verdammnislevel
+94	Verdammnislevel erhöhen (Test)
+95	Fischersammlung
+96	Laden
+97	Fisch
+98	Relikte und Schmelzen
+99	Osterartikel
+100	[Emperor’s Gorge] Töte 50 Monster!
+101	[Emperor’s Gorge] Der Diener des Kaisers ist erschienen!
+102	[Emperor’s Gorge] Zerstöre 6 Felsblöcke!
+103	[Emperor’s Gorge] Töte 4 Dschinns!
+104	[Emperor’s Gorge] Die Kaiserliche Naga ist erschienen!
+105	Betritt Emperor’s Gorge (Lv. 160+)
+106	Verstehe ich das richtig? Du willst Emperor’s Gorge betreten?
+107	[Emperor’s Gorge] Willkommen in Emperor’s Gorge!
+108	[Emperor’s Gorge] Monster sind erschienen!
+109	Töte die Monster in der Schlucht.
+110	[Emperor’s Gorge] Du hast alle Monster getötet!
+111	[Emperor’s Gorge] Der Diener des Kaisers erwacht...
+112	[Emperor’s Gorge] Verbleibende Monster: 
+113	Reduziere die HP des Dieners unter 66%
+114	[Emperor’s Gorge] Der Diener hat Felsblöcke beschworen!
+115	Zerstöre alle 6 Felsen
+116	[Emperor’s Gorge] Alle Felsblöcke wurden zerstört!
+117	[Emperor’s Gorge] Kämpfe weiter gegen den Diener!
+118	Reduziere die HP des Dieners unter 33%
+119	[Emperor’s Gorge] Verbleibende Felsblöcke: 
+120	[Emperor’s Gorge] Der Diener ruft Verstärkung!
+121	Töte 4 Dschinns.
+122	[Emperor’s Gorge] Du hast alle Dschinns besiegt!
+123	[Emperor’s Gorge] Töte den Diener des Kaisers!
+124	Töte den Diener des Kaisers
+125	[Emperor’s Gorge] Verbleibende Dschinns: 
+126	[Emperor’s Gorge] Diener des Kaisers!
+127	[Emperor’s Gorge] Aber warte... etwas stimmt nicht...
+128	Töte die Kaiserliche Naga!
+129	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Emperor’s Gorge |cFFc5ff8c(Lv. 150)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+130	Dies kann gerade nicht ausgeführt werden.
+131	Du hast keine Fertigkeiten.
+132	Kann nicht in einem Dungeon verwendet werden.
+133	Seelenstein:
+134	Die Benutzung dieses Gegenstands entfernt
+135	den Effekt der Exorzismus-Rolle.
+136	Du hast keine Fertigkeit auf G-Level.
+137	Wähle die Fertigkeit, die du trainieren willst:
+138	Verlassen
+139	Fertigkeitstraining war erfolgreich.
+140	Drachenseelen – geschlossene Saison
+141	Drachenseelen sind vorübergehend nicht verfügbar.
+142	Du hast das heutige Limit bereits erreicht.
+143	Du kannst eine neue Drachenseelensammlungssaison starten.
+144	Drachenseelen
+145	Du kannst heute keine weiteren Drachenseelen sammeln.
+146	Eine neue Drachenseelensammlungssaison hat begonnen!
+147	Drachenseelen – Veredelung
+148	Hier kannst du deine Drachenseelen veredeln.
+149	Mythische Alchemie: Bonusänderung
+150	Möchtest du wirklich das Bonusänderungsfenster öffnen?
+151	Drachenseelen-Shop
+152	Willkommen im Drachenseelen-Shop!
+153	[Dämonen-Schrein] Töte 50 Monster und benutze dann das Siegel!
+154	[Dämonen-Schrein] Zerstöre alle Felsblöcke!
+155	[Dämonen-Schrein] Töte 3 Mini-Bosse!
+156	[Dämonen-Schrein] Töte den Boss!
+157	Betritt den Dämonen-Schrein (75+)
+158	Verstehe ich das richtig? Du willst den Dämonen-Schrein betreten?
+159	[Dämonen-Schrein] Willkommen im Dungeon!
+160	[Dämonen-Schrein] Monster sind erschienen!
+161	[Dämonen-Schrein] Benutze das Siegel, um weiterzugehen!
+162	[Dämonen-Schrein] Felsblöcke sind erschienen!
+163	[Dämonen-Schrein] Gut gemacht!
+164	[Dämonen-Schrein] Verbleibend: 
+165	[Dämonen-Schrein] Du hast die Mini-Bosse erfolgreich getötet!
+166	[Dämonen-Schrein] Der Boss ist erschienen!
+167	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Dämonen-Schrein |cFFc5ff8c(Lv. 75)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+168	Zurück zum Dungeon
+169	Möchtest du zum Dungeon zurückkehren?
+170	[Höhle der Spinnenkönigin] Töte 50 Monster und benutze dann das Siegel!
+171	[Höhle der Spinnenkönigin] Zerstöre alle Felsblöcke!
+172	[Höhle der Spinnenkönigin] Töte 3 Mini-Bosse!
+173	[Höhle der Spinnenkönigin] Töte den Boss!
+174	Betritt die Höhle der Spinnenkönigin (50+)
+175	Verstehe ich das richtig? Du willst die Höhle der Spinnenkönigin betreten?
+176	[Höhle der Spinnenkönigin] Willkommen im Dungeon!
+177	[Höhle der Spinnenkönigin] Monster sind erschienen!
+178	[Höhle der Spinnenkönigin] Benutze das Siegel, um weiterzugehen!
+179	[Höhle der Spinnenkönigin] Felsblöcke sind erschienen!
+180	Zerstöre 5 Felsblöcke
+181	[Höhle der Spinnenkönigin] Gut gemacht!
+182	[Höhle der Spinnenkönigin] Verbleibend: 
+183	[Höhle der Spinnenkönigin] Du hast die Mini-Bosse erfolgreich getötet!
+184	[Höhle der Spinnenkönigin] Der Boss ist erschienen!
+185	[Höhle der Spinnenkönigin] Du wirst in 20 Sekunden aus dem Dungeon teleportiert!
+186	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Höhle der Spinnenkönigin |cFFc5ff8c(Lv. 50)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+187	[Oster-Dungeon] Töte 150 Monster und benutze dann das Siegel!
+188	[Oster-Dungeon] Zerstöre alle Felsblöcke!
+189	[Oster-Dungeon] Töte 3 Mini-Bosse!
+190	[Oster-Dungeon] Töte den Boss!
+191	Oster-Dungeon
+192	Verstehe ich das richtig? Du willst den Oster-Dungeon betreten?
+193	Ohne die erforderlichen Gegenstände lasse ich dich nicht passieren.
+194	[Oster-Dungeon] Willkommen im Dungeon!
+195	[Oster-Dungeon] Monster sind erschienen!
+196	Töte 150 Monster
+197	[Oster-Dungeon] Benutze das Siegel, um weiterzugehen!
+198	[Oster-Dungeon] Felsblöcke sind erschienen!
+199	[Oster-Dungeon] Gut gemacht!
+200	[Oster-Dungeon] Verbleibend: 
+201	[Oster-Dungeon] Du hast die Mini-Bosse erfolgreich getötet!
+202	[Oster-Dungeon] Der Boss ist erschienen!
+203	[Oster-Dungeon] Du wirst in 20 Sekunden aus dem Dungeon teleportiert!
+204	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Oster-Dungeon |cFFc5ff8c|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+205	Oster-Karte
+206	Willkommen!
+207	Möchtest du zur Oster-Karte teleportieren?
+208	 - Du kannst die Karte alle 4 Stunden betreten
+209	 - Du kannst maximal 1 Stunde auf der Karte bleiben.
+210	Teleportieren
+211	Nicht jetzt
+212	Die Oster-Karte ist derzeit nicht verfügbar.
+213	Du kannst die Oster-Karte wieder betreten in:
+214	Stunde(n) und
+215	Minute(n).
+216	Deine Zeit ist abgelaufen. Du wirst zurück in die Stadt teleportiert.
+217	Blockierte Funktionen:
+218	Handel
+219	Gilden-Einladungen
+220	Freundes-Einladungen
+221	Party-Einladungen
+222	Party-Anfragen
+223	Flüstern
+224	[Tore der Hölle] Töte 50 Monster und benutze dann das Siegel!
+225	[Tore der Hölle] Zerstöre alle Felsblöcke!
+226	[Tore der Hölle] Töte 3 Mini-Bosse!
+227	[Tore der Hölle] Töte die Mini-Bosse!
+228	[Tore der Hölle] Töte den Boss!
+229	Betritt die Tore der Hölle (150+)
+230	Verstehe ich das richtig? Du willst die Tore der Hölle betreten?
+231	[Tore der Hölle] Willkommen im Dungeon!
+232	[Tore der Hölle] Monster sind erschienen!
+233	[Tore der Hölle] Benutze das Siegel, um weiterzugehen!
+234	[Tore der Hölle] Felsblöcke sind erschienen!
+235	[Tore der Hölle] Gut gemacht!
+236	[Tore der Hölle] Verbleibend: 
+237	[Tore der Hölle] Du hast die Mini-Bosse erfolgreich getötet!
+238	Töte die Mini-Bosse
+239	[Tore der Hölle] Der Boss ist erschienen!
+240	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Tore der Hölle |cFFc5ff8c(Lv. 150)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+241	Handwerk - Hufeisen
+242	Geschlechtsänderungs-Zauberspruch
+243	Das Geschlecht kann nicht geändert werden, während du ein Kostüm des anderen Geschlechts trägst!
+244	Du musst mindestens Level 50 haben!
+245	Das Geschlecht kann nicht geändert werden, während du verheiratet bist!
+246	Das Geschlecht kann nicht geändert werden, während du verwandelt bist!
+247	Du musst 24 Stunden warten!
+248	Verbleibende Zeit:
+249	Möchtest du wirklich dein Geschlecht ändern?
+250	Das Geschlecht wurde geändert.
+251	Um den Vorgang abzuschließen, logge dich bitte aus und wieder ein.
+252	[AP-Gutschein] Dies kann gerade nicht ausgeführt werden.
+253	[AP-Gutschein] Du hast den erforderlichen Gutschein nicht!
+254	Erfolgspunkte wurden um erhöht
+255	Dein Level ist zu hoch, um diese Karte zu betreten.
+256	Scherben-Handwerk
+257	Deokbae:
+258	Diese Spitzhacke hat zu wenige Punkte.
+259	Möchtest du die Spitzhacke wirklich verbessern?
+260	Die Verbesserung ist fehlgeschlagen...
+261	Sieht jetzt viel besser aus.
+262	Leider ist die Spitzhacken-Verbesserung fehlgeschlagen.
+263	Die Spitzhacke hat jetzt ein niedrigeres Level.
+264	[Imperienwechsel] Dies kann gerade nicht ausgeführt werden.
+265	Imperienwechsel:
+266	Mit diesem Gegenstand kannst du dein Imperium wechseln,
+267	aber es ist nicht kostenlos – alles hat seinen Preis.
+268	Du kannst dein Imperium alle 3 Tage wechseln,
+269	und du wirst auch 1.000.000.000 Yang benötigen.
+270	Möchtest du dein Imperium wechseln?
+271	[Imperienwechsel] Du hast nicht 1.000.000.000 Yang.
+272	[Imperienwechsel] Der Gegenstand ist derzeit deaktiviert.
+273	[Imperienwechsel] Du musst zuerst deine Gilde verlassen.
+274	[Imperienwechsel] Du musst dich zuerst scheiden lassen.
+275	Wähle ein neues Imperium
+276	Shinsoo
+277	Jinno
+278	Abbrechen
+279	[Imperienwechsel] Du bist bereits in diesem Imperium.
+280	[Imperienwechsel] Imperium gewechselt! Du musst dich aus- und wieder einloggen, damit die Änderungen wirksam werden.
+281	Aufgeben
+282	Abbrechen
+283	Du hast diese Quest aufgegeben
+284	Nicht alle Partymitglieder sind auf dieser Karte!
+285	Einige Partymitglieder haben nicht das erforderliche Level:
+286	Du hast nicht das erforderliche Level, um diesen Dungeon zu betreten!
+287	Einige Spieler haben nicht den erforderlichen Pass:
+288	Einige Spieler können nicht teleportiert werden:
+289	Versuchst du etwa, den Wächter zu betrügen?...
+290	Eingabe Nummer
+291	%d Sek.
+292	%d Min. %d Sek.
+293	%d Std. %d Min.
+294	%d T. %d Std.
+295	Diese Angelrute hat nicht genug Punkte!
+296	Deine Angelrute ist bereits auf dem maximalen Level!
+297	Möchtest du diese Angelrute wirklich verbessern?
+298	Die Verbesserung ist fehlgeschlagen.
+299	Die Angelruten-Verbesserung war erfolgreich!
+300	Versuche es später erneut!
+301	[Uralter Dschungel] Töte 50 Monster und benutze dann das Siegel!
+302	[Uralter Dschungel] Zerstöre alle Felsblöcke!
+303	[Uralter Dschungel] Töte 3 Mini-Bosse!
+304	[Uralter Dschungel] Töte die Mini-Bosse!
+305	[Uralter Dschungel] Töte den Boss!
+306	Betritt den Uralten Dschungel (175+)
+307	Verstehe ich das richtig? Du willst den Uralten Dschungel betreten?
+308	[Uralter Dschungel] Willkommen im Dungeon!
+309	[Uralter Dschungel] Monster sind erschienen!
+310	[Uralter Dschungel] Benutze das Siegel, um weiterzugehen!
+311	[Uralter Dschungel] Felsblöcke sind erschienen!
+312	[Uralter Dschungel] Gut gemacht!
+313	[Uralter Dschungel] Verbleibend: 
+314	[Uralter Dschungel] Du hast die Mini-Bosse erfolgreich getötet!
+315	[Uralter Dschungel] Der Boss ist erschienen!
+316	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Uralter Dschungel |cFFc5ff8c(Lv. 175)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+317	Kombination
+318	Möchtest du die Gürtel kombinieren?
+319	Gegenstand absorbieren
+320	Möchtest du eine Waffe in den Gürtel absorbieren?
+321[Skorpion-Ruinen] Töte 50 Monster und benutze dann das Siegel!
+322[Skorpion-Ruinen] Zerstöre alle Felsblöcke!
+323[Skorpion-Ruinen] Töte 3 Mini-Bosse!
+324[Skorpion-Ruinen] Töte den Boss!
+325	Betritt die Skorpion-Ruinen (100+)
+326	Verstehe ich das richtig? Du willst die Skorpion-Ruinen betreten?
+327	Dieser Dungeon kann nicht in einer Party betreten werden.
+328	[Skorpion-Ruinen] Willkommen im Dungeon!
+329	[Skorpion-Ruinen] Monster sind erschienen!
+330	[Skorpion-Ruinen] Benutze das Siegel, um weiterzugehen!
+331	[Skorpion-Ruinen] Felsblöcke sind erschienen!
+332	Zerstöre 6 Felsblöcke
+333	[Skorpion-Ruinen] Du hast den Boss erfolgreich getötet!
+334	[Skorpion-Ruinen] Du wirst in einer Minute aus dem Dungeon teleportiert!
+335	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Skorpion-Ruinen |cFFc5ff8c(Lv. 100)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+336	Fertigkeitstraining
+337	Körper
+338	Geist
+339	Dolche
+340	Bogen
+341	WP
+342	BM
+343	Buff
+344	Heiler
+345	Wähle Fertigkeiten:
+346	Wähle deine Spezialisierung.
+347	Später wählen
+348	Du hast deine Spezialisierung gewählt!
+349	Kostümauswahl:
+350	Wähle den Kostümtyp:
+351	PvP-Kostüm
+352	PvM-Kostüm
+353	Du hast ein PvP-Kostüm erhalten!
+354	Wähle eine PvP-Kostümwaffe:
+355	Nach der Auswahl gibt es kein Zurück mehr.
+356	Du hast ein PvM-Kostüm erhalten!
+357	Wähle eine PvM-Kostümwaffe:
+358	Auswahl abgebrochen.
+359	Wähle Kostümwaffe:
+360	Versuche es in 10 Sekunden erneut.
+361	Du hast nicht genug Platz im Inventar.
+362	Ungültiger Gegenstand.
+363	Du kannst die Fertigkeit in wieder trainieren 
+364	Minuten oder benutze eine Exorzismus-Rolle.
+365	Du kannst die Fertigkeit in 8 Stunden wieder trainieren.
+366	Fertigkeitstraining fehlgeschlagen.
+367	Fertigkeitstraining ist nicht zu 100% erfolgreich.
+368	Fertigkeiten zurücksetzen
+369	Willkommen,
+370	Wenn du deine Fertigkeiten zurücksetzen
+371	und eine neue Spezialisierung wählen willst, kostet es dich etwas.
+372	Preis: 1.000.000.000 Yang.
+373	Möchtest du deine Fertigkeiten zurücksetzen?
+374	Diese Änderung kann nicht rückgängig gemacht werden!
+375	[Alte Dame] Du hast nicht 1.000.000.000 Yang.
+376	[Alte Dame] Du kannst dies gerade nicht tun.
+377	[Alte Dame] Du hast keine Fertigkeiten.
+378	Valentinstags-Kostüme kostenlos!
+379	Hallo!
+380	Hier sind deine kostenlosen Item-Shop-Gegenstände zum Valentinstag!
+381	Sie enthalten volle Boni und halten 3 Tage.
+382	OK
+383	Nicht jetzt
+384	Lager
+385	Item-Shop
+386	[Geisterschiff] Zerstöre den Felsblock
+387	[Geisterschiff] Töte alle Monster (auf dem Reittier)
+388	[Geisterschiff] Zerstöre den Felsblock auf dem Boden.
+389	[Geisterschiff] Töte alle Monster
+390	[Geisterschiff] Zerstöre alle Felsblöcke!
+391	[Geisterschiff] Töte den Boss!
+392	[Geisterschiff] Zerstöre die Schatzkiste des Kapitäns!
+393	Betritt das Geisterschiff (Lv. 149)
+394	Verstehe ich das richtig? Du willst das Geisterschiff betreten?
+395	- Party (2 Spieler)
+396	[Geisterschiff] Du musst mindestens 1 weiteren Spieler in der Nähe haben.
+397	[Geisterschiff] Du bist nicht der Party-Leader!
+398	[Geisterschiff] Du hast nicht das erforderliche Level!
+399	[Geisterschiff] Dein Level ist zu hoch!
+400	[Geisterschiff] Der Leader hat nicht genug Pässe! (x2)
+401	[Geisterschiff] Willkommen im Dungeon!
+402	Du hast es nicht geschafft, den Dungeon rechtzeitig abzuschließen. Alle werden aus dem Dungeon teleportiert!
+403	[Geisterschiff] Ein Felsblock ist erschienen!
+404	[Geisterschiff] Eine Schatzkiste ist erschienen!
+405	[Geisterschiff] Du hast die Kiste zerstört!
+406	[Geisterschiff] Alle werden in einer Minute aus dem Dungeon teleportiert!
+407	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Geisterschiff (I) |cFFc5ff8c(Lv. 149)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+408	Betritt das Geisterschiff (Lv. 200)
+409	Verstehe ich das richtig? Du willst das Geisterschiff betreten?
+410	[Geisterschiff] Du hast nicht das erforderliche Level!
+411	[Geisterschiff] Dein Level ist zu hoch!
+412	[Geisterschiff] Der Leader hat nicht genug Pässe! (x2)
+413	[Geisterschiff] Du hast den Boss erfolgreich getötet!
+414	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Geisterschiff (II) |cFFc5ff8c(Lv. 200)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+415	[Wukong-Berge] Töte 50 Monster und benutze dann das Siegel!
+416	[Wukong-Berge] Zerstöre alle Felsblöcke!
+417	[Wukong-Berge] Töte 3 Mini-Bosse!
+418	Betritt die Wukong-Berge (75+)
+419	Verstehe ich das richtig? Du willst die Wukong-Berge betreten?
+420	[Wukong-Berge] Willkommen im Dungeon!
+421	[Wukong-Berge] Monster sind erschienen!
+422	[Wukong-Berge] Benutze das Siegel, um weiterzugehen!
+423	[Wukong-Berge] Felsblöcke sind erschienen!
+424	[Wukong-Berge] Du hast die Mini-Bosse erfolgreich getötet!
+425	[Wukong-Berge] Du hast den Boss erfolgreich getötet!
+426	[Wukong-Berge] Du wirst in einer Minute aus dem Dungeon teleportiert!
+427	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r hat |cFFf7dd83Wukong-Berge |cFFc5ff8c(Lv. 75)|r in Zeit: |cFFf7b983%s!|r abgeschlossen
+428	Handwerk
+429	Handwerk - Seelensteine
+430	Handwerk - Tränke
+431	Handwerk - Autobuff-Fertigkeiten
+432	Handwerk - Rang, Haustiere, Reittiere
+433	Erfolgspunkte-Level
+434	Laden - Erfolgspunkte
+435	Fisch-Sammlung
+436	Laden
+437	Fische
+438	Relikte und Schmelzen
+439	Wähle Kostüm:
+440	Wähle den Kostümtyp:
+441	PvP-Kostüm
+442	PvM-Kostüm
+443	Wähle Kostümwaffe:
+444	Diese Aktion ist unwiderruflich.
+445	Du hast eine Kostümwaffe erhalten
+446	Abgebrochen.
+447	Wähle Kostümwaffe:
+448	PvP-Flügel
+449	PvM-Flügel
+450	Wähle Flügel:
+451	Du hast Flügel, Haustier und Reittier erhalten!
+452	Versuche es in 10 Sekunden erneut.
+453	Dies kann im Dungeon nicht durchgeführt werden.
+454	Du hast nicht genug Platz im Inventar.
+455	Easter Valley
+456	You can enter the Easter Valley again in:
+457	(Character restriction)
+458	Do you want to teleport to the Easter Valley?
+459	 - You can enter the map once every 6 hours (CHAR + HWID)
+460	 - Cooldown starts from the moment you enter the map
+461	 - You can stay in the map for a maximum of 30 minutes
+462	The Easter Valley is currently unavailable.
+463	(HWID restriction)
+464	Easter Crafting

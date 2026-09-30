@@ -1,0 +1,44 @@
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+
+[COLOR=0xffd700;FONT_SIZE=15;anchor = start_list]Content List:
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?general_know|h1. General Knowledge|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?bonuses|h2. Bonuses|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_alchemy|h3. Alchemy|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_buffi|h4. Buffi|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_crafting|h5. Drop / Crafting Equipment|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_lostitems|h6. Lost Items / Yange|h|Elink_blue|e
+[COLOR=0x00ffff]*|Hwiki:anchor:guides/faq.txt?faq_dungeon|h7. Dungeon Problems|h|Elink_blue|e
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=20;COLOR=0xffd700;anchor=general_know]|Hwiki:anchor:guides/faq.txt?start_list|h1. General Knowledge |h|Elink_yellow|e
+
+[COLOR=0xAFE996]Q: How many books do you need to do the skill P?
+A: You need 55 books to do the skill P.
+
+[COLOR=0xAFE996]Q: What is the maximum level on the server?
+A: The maximum level that you can be is 120.
+
+[COLOR=0xAFE996]Q: Can I complete Demon's Tower at level 40?
+A: No, you require to be level 75 in order to go to the last floors.
+
+[COLOR=0xAFE996]Q: Where do the level 75 weapons drop?
+A: The level 75 weapons drop in Demon's Tower and in Grotto 2 Final at the Ice Witch.
+
+[COLOR=0xAFE996]Q: What bonuses do I require for Demon's Tower?
+A: You require Strong against Undead on your items.
+
+[COLOR=0xAFE996]Q: What bonuses do I require for Spider Baroness?
+A: You require Poison resistance and Strong against animals on your items. 
+
+[COLOR=0xAFE996]Q: What bonuses do I require for Azrael?
+A: You require Strong against Vampires on your items.
+
+[COLOR=0xAFE996]Q: What bonuses do I require for Beran Setau?
+A: You require Strong against Devils on your items.
+
+[COLOR=0xAFE996]Q: What bonuses do I require for Razador?
+A: You require Fire resistance on your items.
+
+[COLOR=0xAFE996]Q: What bonuses do I require for Jotun?
+A: You require Strong against Orks on your items.
+

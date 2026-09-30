@@ -1,0 +1,3 @@
+D:\Zaris2\zariscore\Client\eterPythonLib\Release\eterPythonLib.lib
+F:\Elvion\Elvion-core\Client\eterPythonLib\Release\eterPythonLib.lib
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterPythonLib\Release\eterPythonLib.lib

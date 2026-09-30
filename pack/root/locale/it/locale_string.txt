@@ -1,0 +1,2224 @@
+1	Everyone will soon be teleported to the city.
+2	This item does not exist.
+3	The chest suddenly exploded! You lost Health Points (HP).
+4	[Guild] The sale of the guild territory has failed.
+5	[Guild] The sale of the guild territory cannot be completed because there are not enough Yang in the guild treasury.
+6	[Guild] You cannot leave the guild while a vote is active.
+7	[Guild] The player is offline or on another map.
+8	[Guild] You cannot vote for warriors while the guild is at war.
+9	[Guild] You cannot start another vote while one is already in progress.
+10	[Guild] This action is not possible during a war.
+11	[Guild] Cannot upgrade while the guild treasury is full.
+12	[Guild] You cannot use the guild warehouse while a vote is active.
+13	If you inhale the green smoke coming from the chest, the poison will spread through your body!
+14	[Guild] You cannot perform this action while the guild warehouse is open.
+15	[Guild] You cannot change the guild leader during a war.
+16	[Guild] %s used %s.
+17	[Guild] You do not have permission to use guild skills.
+18	[Guild] You are in observer mode because you have already exhausted the revival limit.
+19	[Guild] Please verify members and commanders.
+20	[Guild] Please verify the enemy members and commanders.
+21	[Guild] Some members are offline or on another map.
+22	[Guild] Some enemies are offline or on another map.
+23	[Guild] There are not enough participants online.
+24	You received %s, %d pieces
+25	[Guild] You cannot perform this action during a war.
+26	[Guild] Can be used in 10 seconds.
+27	[Guild] Your character must be at least level 40 to become a commander.
+28	[Guild] %s won.
+29	[Guild] Draw
+30	[Guild] You cannot remove anyone from the guild during a war.
+31	[Guild] You cannot start a vote to remove the guild leader.
+32	[Guild] You cannot start a vote to remove yourself from the guild.
+33	[Guild] You need the Ring of Succession to transfer the guild.
+34	[Guild] There is not enough space in the guild treasury.
+35	There is %s in the chest.
+36	[Guild] After using the guild warehouse, you must wait at least 12 hours before leaving the guild.
+37	Guild [%s]! The final objective has appeared. Destroy all objectives to win this war!
+38	[Guild] The war ends in 5 minutes.
+39	[Guild] The war ends in 1 minute.
+40	[Guild] There is no guild with an advertisement.
+41	[Guild] No guild has defeated the dragon yet.
+42	[Guild] Rank update.
+43	[Guild] The battle against the Dragon Queen Meley begins.
+44	[Guild] The gates to Meley’s lair are open. The time limit in the labyrinth is one hour.
+45	[Guild] You defeated the Dragon Queen Meley!
+46	It seems the key does not fit the lock.
+47	[Guild] Required time: %d min. %d sec.
+48	[Guild] For your own safety, you will be teleported out of the nest in 10 minutes.
+49	[Guild] Time has expired.
+50	[Guild] The gates to Meley’s lair are closed again.
+51	[Guild] For your own safety, you will be teleported out of the nest in 1 minute.
+52	[Guild] The lair will close in %d minutes.
+53	[Guild] You interrupted the fight in Meley’s lair.
+54	[Guild] You cannot declare war while fighting in the dragon cave.
+55	[Guild] The enemy guild is currently fighting in the dragon cave.
+56	You received nothing.
+57	[Guild] Successful registration for Meley’s lair.
+58	[Guild] Visit the dragon guardian Dolnarr to enter the dragon cave.
+59	The Summer Event has started. Visit Summer in the city. She will give you some tasty refreshments.
+60	The Summer Event will end soon. Summer will supply the city with tasty refreshments for another 7 days.
+61	The effect is already active.
+62	[Guild] You can make one transaction every 10 seconds.
+63	[Guild] The guild treasury is being used by another member.
+64	[Guild] Guild [%s] lost the war against guild [%s].
+65	Account limit reached. You cannot open this chest.
+66	[Guild] Your guild does not have enough Yang in its account. Please deposit more Yang and try again.
+67	You do not have enough Yang to upgrade this item.
+68	[Guild] Object successfully moved.
+69	[Guild] You cannot use this guild emblem. Please try again.
+70	[Transformation] You cannot use the transformed item because it is for the opposite gender.
+71	[Transformation] You cannot use the transformed item because it is for a different character type.
+72	[Monster Card] Mission level: %d. You defeated the monster: %s.
+73	[Monster Card] You have completed the mission. Now collect the Monster Card.
+74	[Monster Card] You do not have enough inventory space.
+75	[Monster Card] [%s] Level upgrade completed.
+76	[Monster Card] You can now view the monster’s movement animations.
+77	[Monster Card] You can now transform into this monster.
+78	You reduced your skill level.
+79	[Monster Card] You can now teleport to the monster’s location.
+80	[Guild] As a participant, you cannot observe your own guild’s war.
+81	[Guild] The guild has set a minimum level requirement for applicants (min. level: %d).
+82	[Guild] You can make one transaction every 10 seconds.
+83	[Guild] Guild %s purchased territory.
+84	[Guild] The battle for the Dragon Temple is taking place on another channel.
+85	[Guild] The log server is currently under maintenance.
+86	[Guild] The log server is currently under maintenance.
+87	[Guild] The land belongs to another player.
+88	You cannot reduce your skill level.
+89	You must be at least level %d to enter the battle zone.
+90	You cannot enter the battle zone from this map.
+91	You must close all windows before entering or leaving the battle zone.
+92	You cannot leave the battle zone while dead.
+93	Entering the battle zone. Please wait.
+94	Leaving the battle zone. Please wait.
+95	Next entry is available in %d minutes.
+96	Next entry is available in %d seconds.
+97	You cannot use this item here.
+98	You cannot use this item here.
+99	The effect is already active.
+100	You need a Reincarnation item for instant revival.
+101	The battle zone is now open.
+102	The battle zone is now closed.
+103	The battle zone will open in %d minutes.
+104	The battle zone will close in %d minutes.
+105	An event is active, so you will receive double points.
+106	The battle zone event has ended.
+107	You have reported your escape from the battle zone and can leave it in %d minutes.
+108	A player has reported their escape. Kill them to gain more points.
+109	Your escape report has been canceled.
+110	You cannot receive the reward because your inventory is full.
+111	This item can only be used in an internet café.
+112	Your escape report is active.
+113	You cannot enter the battle zone at the moment.
+114	Good job! For achieving rank %d in the battle zone ranking, you will receive a special medal.
+115	You currently have %d point(s). Your total score is %d.
+116	You cannot use this item while escaping from the battle zone.
+117	You cannot declare war in the battle zone.
+118	This action is not possible on this map.
+119	Remaining amount: %d
+120	[Guild] The guild treasury is at maximum level.
+121	[Guild] You cannot withdraw any Yang because you have more than 2 trillion Yang.
+122	This exceeds the limit.
+123	[Guild] You cannot withdraw Yang while another window is open.
+124	Guild war declaration will expire in 3 minutes.
+125	You will enter the battle zone in %d seconds.
+126	You will leave the battle zone in %d seconds.
+127	You lost %d points. Remaining points: %d.
+128	Unfortunately, you do not have enough space in your inventory.
+129	You will not gain any points for this player.
+130	You have reported your departure from the battle zone and can leave it in %d seconds.
+131	The event has started!
+132	Mooncake or seed used.
+133	To continue, remove %s from your friends list.
+134	%s is now blocked.
+135	%s is no longer blocked.
+136	%s is already blocked.
+137	You cannot block your spouse.
+138	To continue, unblock %s.
+139	%s has blocked you.
+140	A monster from the current event has appeared.
+141	You do not have enough Anniversary Flags.
+142	The Anniversary Event has started!
+143	You cannot wear a wedding ring if you are not married.
+144	The Anniversary Event ends in %d minutes.
+145	You cannot use this item while wearing another costume.
+146	You cannot use this item while wearing wedding clothes or a tuxedo.
+147	You cannot do this while the item is being used.
+148	[Guild] You cannot deposit or withdraw Yang from the guild treasury while another window is open.
+149	[Guild] You cannot perform this action while depositing or withdrawing Yang from the guild treasury.
+150	[Guild] The deposit/withdraw Yang window is already open.
+151	[Guild] You cannot deposit or withdraw Yang from the guild treasury while you have a summoned pet.
+152	%s will appear here: %s
+153	Seungryong Valley
+154	You cannot use the Event Detector from this location.
+155	Mount Sohan
+156	Yongbi Desert
+157	Doyyumhwan
+158	The Ramadan Event has started!
+159	The Ramadan Event has ended.
+160	You cannot change channels.
+161	Please wait. Changing channel...
+162	This item cannot be absorbed.
+163	This item cannot be transformed.
+164	Enchant Item cannot be used on this item.
+165	The Event Detector disappeared in a magical glow.
+166	Enhance Item cannot be used on this item.
+167	This item can only be traded on the same map.
+168	Cannot connect to this channel right now. Please try again later.
+169	[Party] You cannot do this while party matching is active.
+170	[Gaya] You do not have enough Shimmering Stones.
+171	[Gaya] You do not have enough Yang to cut Shimmering Stones.
+172	[Gaya] You already have the maximum amount of Gaya.
+173	[Gaya] Cutting was successful.
+174	[Gaya] Cutting failed.
+175	[Gaya] The item list has been refreshed.
+176	The Event Detector disappeared.
+177	[Gaya] You do not have enough Gaya.
+178	[Gaya] You cannot buy this item.
+179	[Gaya] There is no more space in the inventory.
+180	[Gaya] You do not have enough items to refresh the Gaya Market.
+181	[Gaya] Open the Gaya Market first.
+182	[Gaya] You cannot unlock another slot in the Gaya Market.
+183	[Gaya] You do not have enough %s. You need %d more to unlock another slot.
+184	[Gaya] The Gaya Market is not available right now.
+185	[Gaya] The Gaya Market is already open.
+186	[Gaya] You can only open the Gaya Market if you close all other windows.
+187	The Metin Stone Compass does not work underground.
+188	[Party] The battle has begun.
+189	[Party] You have 1 hour to complete the labyrinth.
+190	[Party] You completed your task with honors!
+191	[Party] Time until teleport: %d min. %d sec.
+192	[Party] You will be teleported out of the labyrinth in 10 minutes.
+193	[Party] You have registered for Meley’s lair.
+194	[Party] Talk to the appropriate NPC to enter.
+195	[Party] You confessed.
+196	[Party] You will be teleported to the city in 1 minute.
+197	Visit %s and collect your rewards!
+198	The Metin Stone Compass disappeared in a magical glow.
+199	[Party] Group rankings in Meley’s lair are now being recalculated.
+200	[Party] You cannot leave the labyrinth at the moment.
+201	[Group] Your time in the maze has expired.
+202	[Group] You have left the maze.
+203	[Group] The maze will close in %d minutes.
+204	You will receive: %s - %d
+205	You cannot open a shop while transformed into stone.
+206	You cannot use items while transformed into stone.
+207	This command can only be used in the Zodiac Temple.
+208	You do not have enough insignias.
+209	The Metin Stone compass has disappeared.
+210	You have not completed all the quests yet.
+211	You need more Aventurine and Aureolin treasures to receive the reward.
+212	You have received %s.
+213	You have been revived by %s.
+214	You do not have enough items to be revived.
+215	You have been revived.
+216	You cannot use this here.
+217	You cannot use this right now.
+218	%s has been revived.
+219	First level completed. Return to Monk Milbon.
+220	You won %s item.
+221	You only find a piece of stone in the shell.
+222	All group members were turned to stone. Quest failed.
+223	All levels completed. You will now be transferred to the bonus level.
+224	Quest completed. Once the group leader clicks the button, you will be transferred directly to level %d.
+225	Quest was not successfully completed.
+226	Get out! If no one is revived within a minute, your adventure in the maze is over.
+227	Time has expired.
+228	The gates of this temple will open the next day.
+229	All group members must be on the same map to enter.
+230	You are not the group leader.
+231	There are %d Zodiac Temples in the area. Enter the corresponding command to be transferred to one of them (1-%d).
+232	There was nothing in the shell.
+233	There is no Zodiac Temple on this map.
+234	Destroy the Metin Stones.
+235	Bonus level: Destroy the Metin Stones.
+236	Destroy the Metin Stones.
+237	Destroy the Metin Stones.
+238	Defeat 5 Zodiac bosses.
+239	Bonus level: You have 5 minutes to trade and buy supplies.
+240	Destroy the Metin Stones.
+241	Destroy the Metin Stones.
+242	Destroy all Metin Stones.
+243	There is a White Pearl in the shell.
+244	Destroy all Metin Stones and defeat the Zodiac boss.
+245	Destroy all Metin Stones.
+246	Defeat all monsters.
+247	Defeat all monsters.
+248	Defeat monsters.
+249	Defeat monsters.
+250	Defeat all monsters.
+251	You just lost the bonus level.
+252	Defeat all Zodiac bosses.
+253	There is a Blue Pearl in the shell.
+254	Defeat the Zodiac boss.
+255	Defeat the Zodiac boss.
+256	Defeat the Zodiac boss without dying.
+257	Defeat all monsters without dying.
+258	Time has expired. Good luck on your next attempt.
+259	Defeat the Zodiac boss.
+260	Defeat the Zodiac boss.
+261	Bonus level: Destroy the Metin Stones.
+262	Destroy the Metin Stones. If successful, you will receive a bonus buff.
+263	%d minutes left to register for the PvP tournament!
+264	There is a Blood Red Pearl in the shell.
+265	You cannot enter the PvP tournament arena.
+266	You cannot transform during a PvP tournament.
+267	%d remaining until the battle starts!
+268	The battle has begun.
+269	Winner: %s / Loser: %s
+270	%s left the arena. %s won.
+271	PvP tournament registration completed.
+272	PvP tournament starts in %d minutes.
+273	Final
+274	It is not easy to understand this book.
+275	Semifinal
+276	Round %lu
+277	No winner
+278	PvP tournament has ended.
+279	%s is the tournament winner!
+280	Participants: %s
+281	Remaining participants: %lu
+282	Current participants: %lu
+283	You have registered for the PvP tournament.
+284	This book will not help you.
+285	You are not registered for the PvP tournament.
+286	This command can only be used on the PvP tournament map.
+287	Yutnori has not started yet!
+288	Collect Birch branches, craft a board for Yutnori, and play an exciting mini-game.
+289	Fantastic prizes await!
+290	Yutnori has ended!
+291	Go to the Yutnori table and choose your prize.
+292	You do not have enough required items to play Yutnori.
+293	[Soul System] Use %s to receive the effect.
+294	[Soul System] %s is already at the highest level.
+295	You must be at least level 30 to understand this book.
+296	[Soul System] Soul is active.
+297	While using the upgrading system, you cannot feed your pet.
+298	[Monster Slaying Action] Map %s reports sighting of %s.
+299	Yayang County
+300	Bokjung County
+301	Bakra County
+302	Hwang Temple
+303	Kuahlo Dong (Spider Dungeon)
+304	Spider Maze 2
+305	You must be at least level 50 to understand this book.
+306	Gautama Cliff
+307	Jade Bay
+308	Stormy Mountains
+309	Cursed Forest
+310	Exile Cave
+311	Exile Cave 2
+312	You cannot enter while riding!
+313	This cannot be used on currently equipped items!
+314	Red Forest
+315	Snake Field
+316	You cannot train more combos.
+317	You still need %d %s.
+318	The event is over. You can no longer use this item.
+319	Maximum level reached.
+320	Success! Effect %s has been increased to level %d.
+321	Failure! Attempt to upgrade effect %s to level %d failed.
+322	Success! Effect %s is now active.
+323	Failure! Attempt to change effect %s failed.
+324	Success! Effect %s is now active.
+325	Failure! Effect %s was not activated.
+326	Flower Power event has started!
+327	%s guild captured the %s guild flag!
+328	You already speak this language fluently.
+329	Flower Power event has ended.
+330	You must wait a moment before reopening the mailbox.
+331	You must close other windows before opening the mailbox.
+332	Your mailbox is full.
+333	Delete messages in the mailbox to receive new ones.
+334	You cannot use this right now.
+335	[Guild] You cannot use guild abilities during a guild war.
+336	[Guild] This can only be used during a guild war.
+337	You have received %d Won.
+338	[Guild] Saved: %d Yang
+339	You can no longer upgrade this ability.
+340	[Guild] Purchase canceled because you already own guild territory.
+341	[Guild] Purchase canceled because your guild already owns guild territory.
+342	[Capture the King] You do not have a good score for the prize.
+343	[Capture the King] Play Capture the King now!
+344	[Okey Event] Kill monsters, collect cards, and play Okey.
+345	[Okey Event] Incredible prizes await!
+346	[Capture the King] Capture the King game has ended!
+348	[Capture the King] You do not have the Royal Collection or enough Yang.
+349	[Capture the King] %s scored %d points in Capture the King!
+350	You must level up to understand this book.
+351	You have already used the Researcher's Elixir!
+352	Maze 'Ship Defense' is ready. The fisherman will now let you board.
+353	Sea monsters are attacking us! Prepare for battle!
+354	They attack again! Ready your weapons!
+355	Land on the horizon! You successfully defended the mast and reached a new continent after a long journey. Proceed to the portal.
+356	Your mast was destroyed. You fought bravely, but the battle was lost.
+357	You must leave the ship in %d seconds.
+358	You must leave the ship in %d minutes.
+359	Naval battle starts in %d seconds.
+360	This book is too difficult to learn.
+361	Hurry! You have %d minutes to pass through the portal to the continent.
+362	You must leave the ship now because you did not start the naval battle.
+363	If you do not start the naval battle within 1 minute, you will have to leave the ship.
+364	%s HP: %d%%
+365	SOS! Your mast was destroyed and the ship is sinking. You will now be transferred to Dragon Fire Bay.
+366	Wave %d: For %d seconds, you must protect %s with all your might.
+367	Wave %d: While protecting %s, defeat %s.
+368	You successfully defended the mast. Keep going! Prepare for the next wave.
+369	The next wave will come in %d seconds.
+370	%s
+371	You cannot train further with this book.
+372	You can leave the battle in %d seconds.
+373	You cannot perform this action right now.
+374	After opening the mailbox, you must wait %d seconds before changing channels or teleporting.
+375	Taxes set to %d%%.
+376	You need at least level 50 to train horse riding.
+377	You escaped the evil spirit's curse using the exorcism scroll.
+378	You cannot read more horse riding guides.
+379	You received horse riding points after reading the horse riding guide.
+380	You can use this point to improve your riding skills.
+381	The %s guild flag was stolen by player %s.
+382	You did not understand the horse riding guide.
+383	Your mind is clear. You can now focus well.
+384	Your rank has increased by %d points.
+385	You cannot dye or undye your current hairstyle.
+386	You must reach level %d to dye your hairstyle again.
+387	This item can only be opened by the opposite gender.
+388	You cannot use this from this position.
+389	You cannot use the Location Scroll because you are ready to teleport.
+390	You have been transferred back to the starting point.
+391	%s%s cannot be used in the dungeon.
+392	[Quest] You have already received the reward.
+393	to
+394	to
+395	There are no stone shards to remove.
+396	You cannot change this item's upgrades.
+397	You have no upgrades that can be changed.
+398	You can only do this %d minutes after upgrading. (%d minutes remaining)
+399	You changed the upgrade.
+400	Upgrade successfully added.
+401	Item upgrade was not added.
+402	You must use Blessing of Marble to add another bonus.
+403	You cannot use this in this arena.
+404	This item can no longer be upgraded. Maximum number of bonuses reached.
+405	If the item already has 4 bonuses, you can upgrade it only using Blessing of Marble.
+406	Socket successfully added.
+407	Socket was not added.
+408	No more sockets can be added to this item.
+409	This item cannot have more sockets.
+410	Enchantment successful.
+411	Enchantment failed.
+412	You must first add a socket. Use a diamond for that.
+413	There are no gem sockets here.
+414	You can do this only while wearing an emotion mask.
+415	You must add a socket to use a diamond.
+416	No more gems can be added to this item.
+417	These items cannot be used together.
+418	You cannot change the bait while fishing.
+419	You replaced your current bait with %s.
+420	You attached %s to the hook as bait.
+421	You do not have all the ingredients to craft the elixir.
+422	You do not have enough ingredients (%s).
+423	You do not have enough empty bottles.
+424	Elixir mixing failed.
+425	Only females can do this.
+426	You cannot add more stones of the same type.
+427	This spirit stone cannot be added to this type of item.
+428	This spirit stone cannot be added to a weapon.
+429	Spirit stone successfully added.
+430	Spirit stone broke while being added.
+431	No free sockets.
+432	Currently, this function is not available here.
+433	You cannot use a Location Scroll during a kingdom battle.
+434	You cannot use a Location Scroll %d seconds after opening the warehouse.
+435	You cannot use a Location Scroll while another window is open.
+436	This person does not exist.
+437	You cannot use a scroll %d seconds after trading.
+438	You cannot use a Location Scroll %d seconds after opening the warehouse.
+439	You cannot use a Location Scroll because the distance is too small.
+440	After trading, you cannot use a Location Scroll for %d seconds.
+441	You cannot open the warehouse if another window is already open.
+442	You cannot drop this item.
+443	Dropped item will disappear in 5 minutes.
+444	%s received.
+445	You have too many items in your inventory.
+446	%s receives %s.
+447	Everyone will be teleported to the town shortly.
+448	You are too close.
+449	Item trade: %s, %s
+450	You cannot change equipped items during your transformation.
+451	You must be still to equip this item.
+452	Monkey herbs are not meant for feeding living horses. They are used to revive dead horses.
+453	You cannot feed a dead horse.
+454	You fed the horse herbs.
+455	You fed the horse.
+456	Your level is too low to wear this hairstyle.
+457	You already have this hairstyle.
+458	You are already transformed.
+459	You are too far away.
+460	This is the wrong item for transformation.
+461	You cannot transform into a monster with a higher level than yours.
+462	Your level is too low to wear this item.
+463	You are not strong enough to wear this item.
+464	You do not have enough intelligence to wear this item.
+465	You do not have enough dexterity to wear this item.
+466	You do not have enough vitality to wear this item.
+467	You cannot use this item because you are not married.
+468	You cannot wear this item twice.
+469	Time remaining until the socket is removed from %s: %d
+470	Only the opposite gender can do this.
+471	The gem embedded in %s disappeared.
+472	[Guild] Guild name is invalid.
+473	[Guild] This guild name is already taken.
+474	[Guild] You cannot create a guild.
+475	%s guild declared war on %s guild!
+476	[Guild] %s did not accept the guild war.
+477	Guild war between %s and %s will start in a few seconds!
+478	War between %s and %s has begun!
+479	War between %s and %s ended in a draw.
+480	Guild %s won the war against guild %s.
+481	You need your teammate's consent for this.
+482	[Guild] Guild war has been canceled.
+483	War between guild %s and guild %s has been canceled.
+484	Close
+485	Canceled. You have entered the battle.
+486	Someone logged into your account. You will be disconnected.
+487	A mysterious light comes from the tree.
+488	%d game time has been added to your account. (Payment number %d)
+489	You can participate in the guild battle as a spectator.
+490	An icon will appear during character selection.
+491	There are no enemies.
+492	Battle with %s has started!
+493	If no enemy is found, the guild war will end automatically.
+494	Since the guild war ended prematurely, it will be considered a draw.
+495	Energy is reflected by the emperor's blessing.
+496	In %d seconds you can use the emperor's blessing.
+497	Insufficient tax revenue: %d.
+498	[TEST_ONLY]Tax: %d
+499	Error during transformation.
+500	You have fully learned the transformation.
+501	Please call your horse first.
+502	You sent your horse back.
+503	%s challenged you to a duel!
+504	You must dismount from your horse.
+505	You cannot feed your horse while riding it!
+506	You gave %s%s to the horse.
+507	You need %s.
+508	%d seconds until shutdown.
+509	The game will end in %d seconds.
+510	%d seconds until shutdown.
+511	Your logout has been canceled.
+512	Returning to login window. Please wait.
+513	You have been disconnected from the server. Please wait.
+514	You challenged %s to a duel.
+515	You changed character. Please wait.
+516	New start is not possible right now. Wait %d seconds.
+517	Restart is not possible. Wait another %d seconds.
+518	Restart is not possible. Wait another %d seconds.
+519	Restart in the city is still not possible. Wait another %d seconds.
+520	You lost the chance to revive. You will return to town.
+521	You cannot change your status during your transformation.
+522	Player is currently in battle.
+523	[Guild] This does not belong to the guild.
+524	[Guild] You are not authorized to change guild skill level.
+525	Selection is incorrect.
+526	[Warehouse] You entered the wrong password.
+527	[Warehouse] Warehouse is already open.
+528	[Warehouse] You must wait 10 seconds to reopen the warehouse.
+529	[Warehouse] You are too far to open the warehouse.
+530	[Group] Server cannot process group request.
+531	[Group] You cannot leave the group here.
+532	[Group] You left the group.
+533	[Guild] Your guild is already in another war.
+534	[Guild] Not eligible for guild war.
+535	[Guild] Guild with this name does not exist.
+536	There is already a candidacy here.
+537	[Guild] This guild is already participating in a war.
+538	[Guild] Not enough Yang to participate in the guild war.
+539	[Guild] The guild does not have enough Yang to participate in the guild war.
+540	[Guild] This guild is already registered for another guild war.
+541	[Guild] This guild is already participating in another war.
+542	[Guild] Guild level is too low to participate in the guild war.
+543	[Guild] At least %d players must register for the guild war.
+544	[Guild] The guild does not have enough points to participate in the war.
+545	[Guild] The guild does not have enough members to participate in the war.
+546	Your level must be higher than 20 to register your mobile number.
+547	You do not have the ability to become the emperor.
+548	%s declined the invitation.
+549	You cannot accept the invitation because you are already in a group.
+550	Only the emperor can use this.
+551	Waiting time approximately %d seconds.
+552	Insufficient taxes. Current capital: %u missing capital: %u
+553	Command: warpto <character name>
+554	You cannot warp to an unknown player.
+555	Adding player %d to channel. (Current Channel %d)
+556	Transport to %s.
+557	You cannot call unknown players.
+558	[Guild] Experience points for hunting do not count during guild war.
+559	If you use the emperor's blessing %s HP and MP will be restored again.
+560	Has emperor's information
+561	[%sRuler] : %s Yang owned %lld
+562	[%sRuler] : %s
+563	Emperor information
+564	Only the emperor may use this
+565	Select a number between 1 and 50.
+566	Taxes set to %d %%.
+567	Monster cannot be summoned. Check Mob number.
+568	Health points +%d
+569	Mana points +%d
+570	Emperor's blessing is active.
+571	Endurance +%d
+572	Intelligence +%d
+573	Strength +%d
+574	Dexterity +%d
+575	Attack speed +%d
+576	Movement speed %d
+577	Cooldown time -%d
+578	Health regeneration +%d
+579	Mana regeneration +%d
+580	Poison attack %d
+581	Preparing. Usable after %d.
+582	Star +%d
+583	Slow reduction +%d
+584	Critical attack chance %d%%
+585	Piercing attack chance %d%%
+586	Player's attack power against monsters +%d%%
+587	Horse's attack power against monsters +%d%%
+588	Attack boost against Wonggui + %d%%
+589	Attack boost against Milgyo + %d%%
+590	Attack boost against Zombies + %d%%
+591	Attack boost against Devils + %d%%
+592	From emperor Sa-Za-Hu, the player received %s with 10%% more attack power for 3 minutes.
+593	Life absorption %d%% on attack.
+594	Mana (MP) absorption %d%% on attack.
+595	Chance %d%% to steal MP from the enemy.
+596	MP absorption chance %d%%
+597	%d%% chance to block melee attack.
+598	%d%% chance to block ranged attack.
+599	Defense against one-handed swords %d%%
+600	Defense against two-handed swords %d%%
+601	Defense against two-handed swords %d%%
+602	Defense against bell %d%%
+603	From emperor Geum-Gang-Gwon, the player receives %s with 10%% more armor for 3 minutes.
+604	Defense against fan %d%%
+605	Resistance to ranged attack %d%%
+606	Resistance to fire %d%%
+607	Resistance to lightning %d%%
+608	Resistance to magic %d%%
+609	Resistance to wind %d%%
+610	Reflection of direct hit: %d%%
+611	Reflection of curse: %d%%
+612	Poison resistance %d%%
+613	MP (MB) will be increased to %d%% if you win.
+614	Event is already in progress (Flag: %d)
+615	Experience will be increased to %d%% if you win against the enemy.
+616	Increase Yang by %d%% if you win against the enemy.
+617	Increase loot items by %d%% if you win against the enemy.
+618	Increase strength by %d%% after drinking the elixir.
+619	%d%% chance to refill health points if you win.
+620	No dizziness %d%%
+621	No slowing %d%%
+622	No falling %d%%
+623	Attack power +%d
+624	Armor + %d
+625	OX Quiz script cannot be loaded.
+626	Magic attack + %d
+627	Magic defense + %d
+628	Max endurance + %d
+629	Strength against Warriors + %d%%
+630	Strength against Ninjas + %d%%
+631	Strength against Suras + %d%%
+632	Strength against Shamans + %d%%
+633	Strength against monsters + %d%%
+634	Attack + %d%%
+635	Defense + %d%%
+636	OX Quiz script is loaded.
+637	Experience %d%%
+638	Chance to find an item %. 1f
+639	Chance to find Yang %. 1f
+640	Max HP limit +%d%%
+641	Max HP limit +%d%%
+642	Skill damage %d%%
+643	Hit damage %d%%
+644	Resistance to skill damage %d%%
+645	Resistance to hit damage %d%%
+646	%d%% resistance to warrior attack
+647	Welcome to Metin2.
+648	%d%% resistance to ninja attack
+649	%d%% resistance to sura attack
+650	%d%% resistance to shaman attack
+651	(Procedure: %d r- %d m - %d d)
+652	Your chat is blocked.
+653	You need a higher level to summon.
+654	You need at least level %d to summon.
+655	You are not in this group.
+656	You did not join this guild.
+657	Player refused to be added to your friends list.
+658	OX competition has started.
+659	[Friends list] You cannot add GM to your friends list.
+660	%s is not in the game.
+661	After finishing trading, you can open your stall in %d seconds.
+662	You can trade again in %d seconds.
+663	You have more than 2 Trillion Yang. You cannot trade.
+664	You cannot open a private stall when another window is open.
+665	Player has more than 2 Trillion Yang. You cannot trade with them.
+666	[Warehouse] No transfer possible.
+667	[Warehouse] Item cannot be stored.
+668	[Group] Player who invited is not online.
+669	Guild battle cannot start because the server is not online.
+670	With Uriel's permission you may enter.
+671	[Group] Only the group leader can change this.
+672	[Group] Target is not a member of your group.
+673	[Group] You cannot kick a player from the group here.
+674	[Group] You cannot kick a player from the group here.
+675	[Group] You have been kicked from the group.
+676	[Group] You cannot leave the group here.
+677	[Group] You cannot kick group members.
+678	[Guild] After deleting a guild, you cannot create a new one for %d days.
+679	[Guild] After leaving a guild, you cannot create a new one for %d days.
+680	Guild name is invalid.
+681	Requesting participation of many players.
+682	[Guild] [%s] guild has been created.
+683	[Guild] Guild creation failed.
+684	[Group] Only group leader can use group skills.
+685	[Group] Target not found.
+686	[Guild] Incorrect amount of Yang.
+687	[Guild] You do not have enough Yang.
+688	[Guild] Sought person cannot be found.
+689	[Guild] This person is not in the same guild.
+690	[Guild] You cannot kick guild members.
+691	[Guild] Guild member %s has been kicked from the guild.
+692	OX competition has not ended yet, errors occurred. (flag: %d)
+693	[Guild] You kicked a guild member.
+694	[Guild] You cannot change your rank name.
+695	[Guild] Guild leader rights cannot be changed.
+696	[Guild] Rank name is invalid.
+697	[Guild] You cannot change your position.
+698	[Guild] Guild leader rights cannot be changed.
+699	[Guild] Used %u experience.
+700	[Guild] Using experience failed.
+701	[Guild] You do not have enough Yang in the guild treasury!
+702	[Guild] Dragon spirit was not restored.
+703	OX competition will start again shortly.
+704	[Guild] You cannot make a declaration.
+705	[Guild] You cannot change position.
+706	[Guild] Guild leader rank cannot be changed.
+707	[Guild] You cannot make yourself guild leader.
+708	[Guild] You cannot select a guild leader.
+709	[Guild] You cannot select multiple leaders.
+710	You cannot trade this item.
+711	Illegal software detected. The game will be terminated.
+712	You have more than 2 Trillion Yang. You cannot trade.
+713	Invalid Yang.
+714	Current event is limited to one area only.
+715	Start item roulette.
+716	Start Yang roulette.
+717	Player is online. Use whisper to chat.
+718	Mobile phone number is not registered.
+719	You must be at least level 20 to send text messages.
+720	You need 2000 DT to send a text message.
+721	Your text message has been sent.
+722	%s of guild %s increased to %d%%!
+723	%s of guild %s is back to normal.
+724	%s: %s increased by %d%%!
+725	OX competition will end.
+726	%s 's %s is back to normal.
+727	Your mining points increased to maximum. (%d).
+728	Your mining points increased to the highest level.
+729	You can upgrade your pickaxe with the help of lumberjack Deokbae.
+730	Your mining points increased! (%d/%d)
+731	You cannot dig without a pickaxe.
+732	There is nothing to dig here.
+733	Digging was successful.
+734	Digging failed.
+735	[Friends list] You added %s as a friend.
+736	Player will be transported to town shortly.
+737	[Friends list] You removed %s from the list.
+738	Critical server error. Server will restart automatically.
+739	You will be disconnected in 10 seconds.
+740	You can reconnect in 5 minutes.
+741	(%s) Guild created. [Temporary]
+742	Guild is at war.
+743	%s: This guild does not exist.
+744	Guild with this name or number does not exist.
+745	This building does not exist.
+746	This type of building can be constructed only once.
+747	Close OX competition tab first. (Flag: %d)
+748	A basic building must be constructed first.
+749	Construction failed due to wrong building cost.
+750	Your guild does not have enough Yang to construct this building.
+751	You do not have enough resources for this building.
+752	You cannot build a building in this location.
+753	This character does not exist.
+754	Duel not canceled.
+755	Duel successfully canceled.
+756	Duel successfully started.
+757	Error starting the duel.
+758	No errors occurred.
+759	There are no fighters here.
+760	No remaining body stat points.
+761	Too few remaining body stat points.
+762	You entered an invalid value.
+763	Subordination of command is invalid.
+764	Canceled contract between player %d and player %d.
+765	Spin roulette for %d Yang.
+766	Item record saved to system log.
+767	Information for kingdom
+768	Select map information of Holy Land %d entry %d %d %d
+769	An error occurred.
+770	%s kills %d monsters killed %d boss kills %d Holy Land number %d
+771	Kingdom battle status information
+772	Your request is being processed. Please wait.
+773	You cannot open the Warehouse when another window is open.
+774	[Warehouse] Warehouse password has been changed.
+775	[Warehouse] You entered the wrong password.
+776	Your game time will expire in %d minutes.
+777	Properly voted.
+778	Already voted.
+779	Player %s is already in the vote.
+780	You declared war on this guild.
+781	OX competition ended, no errors occurred. (Flag: %d)
+782	Cannot be elected.
+783	%s still has %u Yang.
+784	%s still has %d Yang
+785	You do not have enough Yang.
+786	%s was removed as a candidate for emperor.
+787	%s is not a candidate for emperor.
+788	%s was nominated for emperor.
+789	%s cannot be nominated for emperor.
+790	Emperor %s was expelled.
+791	Emperor %s cannot be expelled.
+792	OX events cannot have more participants.
+793	Kingdom of Shinsoo
+794	Kingdom of Chunjo
+795	Kingdom of Jinno
+796	Your fishing points increased! (%d/%d)
+797	You reached the maximum number of fishing points.
+798	Upgrade your rod with the help of the fisherman.
+799	You lost your bait.
+800	You caught a fish! (%s)
+801	Length of the caught fish is %.2fcm.
+802	Fishing event 'Best Fisher'
+803	OX Other participants of the event are listed.
+804	Fishing event 'Patience brings roses'.
+805	%s: %d
+806	You caught %d out of %d.
+807	The fish disappeared into the endless depths...
+808	Inside the fish is a shell.
+809	Inside the fish is a worm.
+810	You roast %s over the fire.
+811	You cannot trade because you carry more than 2 Trillion Yang.
+812	You cannot name your warehouse with an invalid name.
+813	You cannot sell an item from the accessory shop in a private stall.
+814	OX Other participants of the event are not listed.
+815	Digging completed.
+816	Take the pickaxe.
+817	Choose your fishing rod.
+818	Put bait on the hook first.
+819	You cannot go fishing without a rod.
+820	[Group] You cannot make the request because the group leader is not online.
+821	[Group] You cannot create a group with players from other kingdoms.
+822	[Group] You cannot invite players to the group here.
+823	[Group] You cannot invite players while in observer mode.
+824	[Group] Only players with level difference between -30 and +30 can be invited.
+825	Number of additional participants: %d
+826	[Group] You cannot invite this player; their level is too low.
+827	[Group] You cannot invite this player; their level is too high.
+828	[Group] You cannot invite more players to your group.
+829	Do you want to join the group of player %s?
+830	This player is not in this group.
+831	[Group] You cannot join this group; it is already full.
+832	[Group] You do not have the right to invite someone.
+833	[Group] %s declined the invitation to your group.
+834	[Group] %s is already in a group.
+835	[Group] You cannot accept an invitation here.
+836	OX competition has ended.
+837	[Group] You cannot accept an invitation.
+838	[Group] %s declined your invitation.
+839	[Group] %s joined your group.
+840	[Group] %s joined your group.
+841	You cannot use a private stall now.
+842	This player is already trading with someone.
+843	Metin2 confirmation number: %s
+844	Your confirmation number is incorrect. Please try again.
+845	Mobile phone number is registered.
+846	You cannot teleport to the player.
+847	OX competition reward has been given. ID: %d Quantity: %d
+848	Player is not online.
+849	Player is on channel %d. (You are on channel %d.)
+850	You cannot move anywhere for %d seconds after opening the warehouse.
+851	You cannot move immediately after trading.
+852	You cannot move anywhere for %d seconds after trading.
+853	Duel ended; your fighter disappeared.
+854	No limit on elixirs.
+855	You can use up to %d elixirs.
+856	Duel will start in 10 seconds.
+857	Duel started.
+858	TRUE
+859	Duel ended due to arena problem.
+860	Duel ended, time expired.
+861	In 10 seconds you will be moved to the city.
+862	Duel ended due to arena problem.
+863	Your opponent is having problems. Duel is ending.
+864	Duel ended due to opponent issues.
+865	%s won the duel.
+866	%s won.
+867	You will be moved to the city in 10 seconds.
+868	Next round will start in 10 seconds.
+869	FALSE
+870	Opponent disconnected. Duel ended.
+871	Drop chance is currently +%d%%
+872	Yang drop quota is currently +%d%%
+873	Current chance of Yang drop is %d%% higher.
+874	Experience bonus is currently an additional %d%%.
+875	Game client version is incorrect. Please install the latest patch.
+876	You cannot trade when another window is open.
+877	You are too far from the shop to buy.
+878	You are too far from the shop to sell.
+879	You cannot trade because you carry more than 2 Trillion Yang.
+880	Total quiz number: %d
+881	Sales tax: %d%%.
+882	You cannot ride a horse during your transformation.
+883	You cannot ride a horse if wearing wedding dress or tuxedo.
+884	You do not have a horse.
+885	Your horse is dead.
+886	Your horse's endurance is too low.
+887	Calling horse failed.
+888	Horse
+889	Wedding will end soon.
+890	It will be automatically left.
+891	The war has already ended.
+892	Result will be known in 10 seconds.
+893	You cannot trade while observing.
+894	If a window is open, you cannot trade with others.
+895	The other person is currently busy, so you cannot trade with them now.
+896	The other person canceled the trade.
+897	Insufficient Yang or inventory space.
+898	The other person does not have enough Yang or inventory space.
+899	The other person does not have enough inventory space.
+900	Trade with %s was successful.
+901	You did not lose any experience thanks to the blessing of the Dragon God.
+902	Current score: Shinsoo: %d, Chunjo: %d, Jinno: %d
+903	The correct answer is:
+904	%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d
+905	Devil of the holy place: [ENTER][ENTER]
+906	, you have no right to be here. This is a holy place. Leave! Members of your kingdom will leave the holy place in 10 seconds.
+907	Kingdom %s was defeated and left the kingdom battle.
+908	Number of monsters in the Kingdom Battle:
+909	If you defeat the guardian of the holy place, you will become its owner.
+910	Thanks to the protection of the Dragon God, you did not lose any items.
+911	Extra piercing weapon damage %d
+912	%s block! (%d%%)
+913	%s dodge! (%d%%)
+914	Yes (O)
+915	%s[%d]s Attack position: %d %d
+916	Please enter the command in full.
+917	You cannot do this while riding a horse.
+918	You cannot do this while lying on the ground.
+919	In my dreams? What?
+920	Stand up first.
+921	This command does not exist.
+922	[Group] Group has been disbanded.
+923	[Group] You cannot summon the target.
+924	[Group] You cannot summon group members to your current location.
+925	No (X)
+926	Group cooperates well and nearby members receive experience bonus.
+927	Leader
+928	Member
+929	[Guild] Provided experience exceeds remaining experience.
+930	[Guild] Message cannot be deleted.
+931	[Guild] Not enough Dragon Spirit. (%d, %d)
+932	[Guild] You cannot use guild skill yet.
+933	[Guild] %d-skill used (%d, %d) on %u.
+934	[Guild] Player is on channel %d. (Current channel: %d)
+935	[Guild] Player is not online.
+936	In 5 seconds, all who answered incorrectly will be eliminated.
+937	[Guild] This guild skill can only be used during war.
+938	[Guild] %u Dragon Spirit points have been restored.
+939	[Guild] Only guild master can select Yang.
+940	[Guild] Player declined invitation to the guild.
+941	[Guild] You cannot accept anyone into the guild.
+942	[Guild] You cannot accept a player from another kingdom into the guild.
+943	[Guild] This player can be re-invited in %d days.
+944	[Guild] After reorganization, you can accept members again in %d days.
+945	[Guild] This person is already a member of another guild.
+946	[Guild] Guild capacity has reached the maximum level.
+947	Ready for the next question?
+948	You cannot train this skill.
+949	You cannot train this skill to grandmaster level.
+950	You are already a master of this skill. You cannot train it further.
+951	Your skill level is not high enough to train to grandmaster.
+952	Oops, that didn’t work. Dang it!
+953	Training failed. Please try again later.
+954	My body is full of strength!
+955	Seems training is working...
+956	You completed training with the book successfully.
+957	You cannot read this; you have too little experience.
+958	Question.
+959	You cannot train this skill with a book anymore.
+960	This skill is not high enough to be trained with a book.
+961	Getting better, but still don’t understand everything.
+962	It is hard to understand the instructions. I must study more.
+963	I understand this chapter. But I had to work hard.
+964	You completed training with the book successfully.
+965	Teleportation failed.
+966	There is no horse here. Ask the servant.
+967	Use an item to call a horse.
+968	%s SB Consumption: %d
+969	If correct, go to O. If wrong, go to X.
+970	Burning inside, but it calms my body. My Chi must stabilize.
+971	Slowly... but still... without stopping!
+972	Yes, I feel great. My body is full of Chi.
+973	I read it! Now Chi flows through my body.
+974	Training completed.
+975	I am on the last page of the book! Training is almost finished!
+976	Almost done! Just a little more!
+977	I am enlightened! Almost read it all!
+978	Just a few pages left and I will have read it all.
+979	I feel refreshed.
+980	Correct!
+981	Now I understand!
+982	Good, I should stay focused.
+983	I keep reading the same line over and over.
+984	I don’t want to learn anything else.
+985	It is more complicated than I thought.
+986	I cannot focus properly. I should take a break.
+987	Your chat was temporarily blocked due to spam.
+988	Your chat block has been lifted.
+989	Crafting window is already open.
+990	You cannot craft if another shop/warehouse window is open.
+991	No further improvement possible.
+992	Crafting window is not open.
+993	You do not have the correct material.
+994	[Guild] Please try again later.
+995	You must read %d more books to upgrade this skill.
+996	[Guild] Please try again later.
+997	This function can only be used in the castle.
+998	TEST: Gold bars have been returned to your kingdom's vault.
+999	TEST: Your kingdom's vault contains: %d
+1000	TEST: You are unable to pay gold bars back into your kingdom's vault.
+1001	[Guild] Achieved %d points.
+1002	This item cannot be upgraded.
+1003	Free weapon upgrades can only be applied to weapons up to level 20.
+1004	You cannot use this item because you do not have sufficient qualification.
+1005	You cannot use this item because you are not the correct gender.
+1006	Use: transfer <name>
+1007	This function can only be used by the emperor.
+1008	You cannot recruit players from another kingdom.
+1009	Player %s is currently on channel %d. (Your channel: %d)
+1010	You recruited %s player(s).
+1011	No user with this name exists.
+1012	You cannot recruit yourself.
+1013	Your level is too low; you cannot use this item.
+1014	You cannot upgrade anything while another window is open.
+1015	Emperor %s has changed to %s.
+1016	There is a war to light the signal fire in %s.
+1017	%s successfully defended.
+1018	In 30 minutes, player %s may receive a reward for destroying the signal fire.
+1020	Signal fires were lit in %s to alert of the battle.
+1021	%s destroyed the signal fire.
+1022	%s lost the war. They could not defend the castle.
+1023	%s destroyed all signal fires.
+1024	Insufficient Yang for upgrading.
+1025	You can open a stall only if you are undressed.
+1026	You cannot use this while riding a horse.
+1027	You need: %s for this action.
+1028	%d hours, %d minutes, and %d seconds remain of your chat block.
+1029	%d hours and %d seconds remain of your chat block.
+1030	%d minutes and %d seconds remain of your chat block.
+1031	Yang drop rate
+1032	No stone available for removal.
+1033	Cannot be used.
+1034	Allocated time on the test server has expired.
+1035	You do not have the correct material to craft this item.
+1036	Rank points can no longer be increased.
+1037	All kingdoms
+1038	Item drop rate
+1039	Yang drop rate
+1040	Experience point rate percentage
+1041	You cannot read a book while transformed.
+1042	%d seconds remain of the chat block.
+1043	You cannot express emotions while riding a horse.
+1044	You cannot express emotions to a player riding a horse.
+1045	War scroll does not work on items +4 or higher.
+1046	%s rolled the dice. Result: %d (%d-%d).
+1047	You rolled the dice. You got %d (%d-%d).
+1048	[Guild] Enemy guild leader is offline.
+1049	You cannot mount a horse while lying on the ground :)
+1050	[Guild] This guild is currently participating in a war.
+1051	You cannot fish here.
+1052	[Guild] Your guild has reached maximum level.
+1053	You cannot transform while riding.
+1054	You are already riding. Dismount first.
+1055	You cannot add a player standing opposite you to the friends list.
+1056	You cannot upgrade with this scroll.
+1057	The item will disappear in %d minutes.
+1058	[Guild] Player standing opposite you cannot be invited.
+1059	You cannot sell an item you are using.
+1060	Items in use cannot be sold in the stall.
+1061	[Warehouse] You cannot move this item to storage.
+1062	You cannot drop gold yet.
+1063	Your inventory is full. Item cannot be picked up.
+1064	The item's level is too high.
+1065	It can only be used on a weapon or armor.
+1066	This Dragon Stone cannot be recharged.
+1067	For the Demon Tower quest, you can be rewarded only once.
+1068	Dragon Stone was removed.
+1069	You cannot move an item in the refinement window.
+1070	Item upgrade failed.
+1071	No Metin stone is present on this map.
+1072	Remaining Dragon Stone time has been removed.
+1073	Failed to remove remaining time.
+1074	Failed to remove Dragon Stone. However, you received the following: %s
+1075	Failed to remove Dragon Stone.
+1076	This item is not needed for purity upgrade.
+1077	This item cannot be upgraded this way.
+1078	Purity upgrade was successful.
+1079	Refinement by one level failed.
+1080	This item is not needed for refinement.
+1081	Dragon Stone cannot be used for refinement.
+1082	Refinement by one level was successful.
+1083	Purity upgrade failed.
+1084	You do not have all the materials needed to upgrade the Dragon Stone.
+1085	Dragon Stone cannot be used for enhancement.
+1086	You cannot combine identical upgrade scrolls.
+1087	Enhancement was successful.
+1088	Enhancement failed.
+1089	Dragon Stone is not activated.
+1090	You are already wearing a Dragon Stone of this type.
+1091	Dragon Stone cannot be removed.
+1092	You already have this type of Dragon Stone in your inventory.
+1093	Added %d seconds.
+1094	Before opening Cor Draconis, you must complete the Dragon Stone quest and activate Dragon Stone Alchemy.
+1095	You can remove a belt only if it contains no items.
+1096	You can combine Magic Stone and Blessed Scroll.
+1097	You cannot add this item to your belt.
+1098	You cannot ride in this maze.
+1099	You can use a maximum of 200 ingredients at once.
+1100	Items bound to the soul cannot be sold in the stall.
+1101	Attributes of soul-bound items cannot be changed.
+1102	You cannot use a soul-bound item.
+1103	You cannot drop a soul-bound item.
+1104	You cannot gift a soul-bound item.
+1105	On this server, you cannot bind an item to the soul.
+1106	You cannot bind this item to your soul.
+1107	You invested %d Yang.
+1108	No stone available for pickup.
+1109	This item is already soul-bound.
+1110	Soul bond of this item is being removed.
+1111	This item is not soul-bound.
+1112	You cannot upgrade a soul-bound item.
+1113	You cannot sell a soul-bound item.
+1114	You cannot open this chest; insufficient inventory space.
+1115	You cannot open a private stall while trading with others.
+1116	You cannot use this item while trading.
+1117	You cannot use Location Scroll while the Sherpa window is open.
+1118	You cannot trade while another window is open.
+1119	You cannot save this position.
+1120	You can use Sherpas like weapons and armor.
+1121	Drag items into the window.
+1122	This has already been customized.
+1123	Sherpa cannot receive any more bonuses.
+1124	You can only use Sherpas.
+1125	These Sherpas cannot be combined.
+1126	Failed!
+1127	Successful!
+1128	You do not have enough money for combining.
+1129	You cannot use this item if combining and absorption windows are open.
+1130	Not enough inventory space.
+1131	%s was successful! Absorption rate %d%% on new %s. Congratulations!
+1132	You cannot use soul-bound items.
+1133	You cannot sell items you are currently using in a private stall.
+1134	You cannot use this pouch while riding.
+1135	Time’s up. First round ended.
+1136	Time’s up. Second round ended.
+1137	Remaining time until the end of the first round: %d minutes.
+1138	Remaining time until the end of the second round: %d minutes.
+1139	Safe zone has just been deactivated.
+1140	Remaining time until safe zone deactivation: %d minutes.
+1141	You cannot teleport to a safe location in another kingdom.
+1142	Answer will be displayed in 20 seconds.
+1143	In 15 seconds, all who answered incorrectly will be removed.
+1144	Your level is too low to summon a pet.
+1145	
+1146	You summoned: %s.
+1147	You dismissed: %s.
+1148	%s reached level %d!
+1149	%s is currently sleepy.
+1150	%s has just hatched!
+1151	Your pet attacked the protein bar with full enthusiasm.
+1152	Not enough BP.
+1153	%s woke up and started eating delicious food.
+1154	%s is now in the transport box.
+1155	%s jumped out of the transport box.
+1156	%s changed into %s! Excellent!
+1157	%s refused to eat anything!
+1158	The event ended and no one from the kingdom participated.
+1159	You successfully transferred the bonuses.
+1160	You do not have enough Yang to trade with me.
+1161	Please enter a different name.
+1162	You do not have enough Magic Points (MB) to use.
+1163	You cannot trade while your partner’s Incubator is open.
+1164	You cannot open the Incubator if trading or storage/private stall window is open.
+1165	You cannot open a private stall while a pet is summoned.
+1166	You cannot trade while summoning a pet.
+1167	You cannot trade while your partner is summoning a pet.
+1168	Your pet has gained enough experience. It now needs an item to reach the next evolution stage.
+1169	Your pet is ready for evolution. Use Animal Books for development.
+1170	Your pet has already reached the highest evolution stage.
+1171	The entered name is too short.
+1172	You will reach the destination %d seconds after execution.
+1173	You do not have enough Yang.
+1174	You trained your pet well! It learns new abilities very quickly!
+1175	Experience increased to %d points.
+1176	Your pet has already learned this skill and refuses to learn it again.
+1177	Ability %s activated. BP increased by %d.
+1178	You must obtain a Brave Animal Book to send your pet for heroic training.
+1179	Your pet must be level %d to train and evolve to the next evolution stage.
+1180	Your pet must be %d days old for training and evolution to the next evolution stage.
+1181	Your pet must have 100% experience for training and evolution to the next evolution stage.
+1182	Effect %s activated.
+1183	Your level is too low to use this item.
+1184	Effect %s was not activated.
+1185	Ability %s activated. You are now immune to damage.
+1186	Ability %s activated. Slow, poison, and bleeding effects removed.
+1187	You are receiving bonuses.
+1188	The window is already open.
+1189	Spell penetration %d%%.
+1190	%s restores on exhaustion.
+1191	You cannot use this item here.
+1192	You cannot summon a pet while trading.
+1193	You cannot open a private stall.
+1194	You can use the Mooncake only every 5 seconds.
+1195	You do not have enough %s. You need %d for the next evolution stage.
+1196	Pet level cannot exceed player level.
+1197	Level: Young
+1198	Level: Wild
+1199	Level: Brave
+1200	Level: Heroic
+1201	@*** Throwing for this item: %s ***
+1202	@*** ->%*s - score: %4d ***
+1203	$*** Item %s winner is: %s ***
+1204	New absorption rate: %d
+1205	You cannot use this item during combat.
+1206	Maximum absorption rate has been reached.
+1207	You have already learned this skill.
+1208	No items were found matching the search criteria.
+1209	Sufficient pumpkin lanterns have been collected.
+1210	Ask Sam the Pumpkin if you deserve a reward.
+1211	Halloween event has started!
+1212	Go talk to Sam the Pumpkin!
+1213	Halloween event has ended. Don’t forget to collect your rewards!
+1214	Pumpkin lanterns delivered: %d
+1215	Total pumpkin lanterns: %d
+1216	You won %d Yang.
+1217	You cannot make a bonfire here.
+1218	This player is currently trading with someone else.
+1219	You must first equip a weapon.
+1220	This costume cannot be used with this weapon.
+1221	If you want to swap weapons, you must first remove the Weapon Appearance.
+1222	You do not have enough Yang to start an Okey game.
+1223	You do not have %s to start an Okey game.
+1224	Your Okey game has started!
+1225	You cannot deal more cards.
+1226	You cannot discard cards while some are marked.
+1227	You cannot deal more cards while some are marked.
+1228	You cannot make a bonfire underwater... that would be unreasonable.
+1229	Your inventory is full.
+1230	You will receive the prize only if you make space in your inventory.
+1231	%s in Okey scored %d points.
+1232	You cannot start an Okey game while trading.
+1233	Okey event has started!
+1234	Okey event has ended!
+1235	[Okey Event] If you manage to reach the top rank, you have 7 days to claim the prize.
+1236	You cannot do this while playing Okey.
+1237	Closed. You should go find the key.
+1238	Ritual Stone can only be used on items above level 80.
+1239	You cannot trade because the maximum limit of %d Won has been exceeded.
+1240	You do not have enough Yang.
+1241	You do not have enough Won.
+1242	You cannot continue the trade because the maximum Won limit would be exceeded.
+1243	You cannot continue the trade because the maximum Yang limit would be exceeded.
+1244	You cannot open a private stall because it could exceed the maximum of %d Won.
+1245	You cannot expand inventory while trading.
+1246	Okey event has started!
+1247	Okey event has ended!
+1248	This item cannot be opened with a key.
+1249	Monsters have appeared in Seungryong Valley, Sohan Mountain, Doyyumhwan, and Yongbi Desert!
+1250	Go through the areas and kill them. Collect hits and exchange them for chests.
+1251	Boss Reaper event ends in %d minutes.
+1252	Mr. B and the bosses will disappear in %d minutes.
+1253	You completed your daily goal – choose your reward.
+1254	You cannot use weapon appearances while wearing wedding dress or tuxedo.
+1255	The other person is currently busy, so you cannot trade with them now.
+1256	You cannot wear a wedding dress or tuxedo if using a weapon appearance.
+1257	Round %d begins.
+1258	This is the correct key.
+1259	[Guild] You have already donated the maximum amount of BZK.
+1260	[Guild] Guild advertisement started.
+1261	[Guild] Guild advertisement extended.
+1262	[Guild] List is updating. Try again later.
+1263	[Guild] No guild found.
+1264	[Guild] You have already sent a request to this guild.
+1265	[Guild] Your request has been registered.
+1266	[Guild] Player %s has requested to join the guild.
+1267	[Guild] List is updating. Try again later.
+1268	[Guild] No guild advertisement available.
+1269	You received %d Yang.
+1270	[Guild] No requests.
+1271	[Guild] Guild advertisement will run for %s.
+1272	[Guild] Guild advertisement will end soon.
+1273	[Guild] Received %d Yang.
+1274	[Guild] After tax %d%%, you will receive %d Yang.
+1275	[Guild] You cannot declare war while a vote is active.
+1276	[Guild] You cannot dissolve the guild while a vote is active.
+1277	[Guild] You cannot invite someone to the guild while a vote is active.
+1278	[Guild] You can only build one guild warehouse.
+1279	A mysterious glow comes from this chest.
+1280	[Guild] Please try again in 10 seconds.
+1281	[Guild] This is being used by another member.
+1282	[Guild] Guild warehouse still contains items.
+1283	[Guild] You voted against.
+1284	[Guild] You voted for.
+1285	[Guild] Member is currently offline.
+1286	[Guild] No voting in progress.
+1287	[Guild] 'Change Leader' vote is starting.
+1288	[Guild] 'Remove Member' vote is starting.
+1289	[Guild] 'Sell Guild Territory' vote is starting.
+1290	You received %d experience points.
+1291	[Guild] 'Leave Guild Territory' vote is starting.
+1292	[Guild] 'Change Leader' vote is in progress.
+1293	[Guild] 'Remove Member' vote is in progress.
+1294	[Guild] 'Sell Guild Territory' vote is in progress.
+1295	[Guild] 'Leave Guild Territory' vote is in progress.
+1296	[Guild] Guild warehouse is currently in use.
+1297	[Guild] You must wait 10 seconds before reopening the guild warehouse.
+1298	[Guild] Your guild does not have a warehouse.
+1299	See what dropped from the chest!
+1300	[Guild] Voting on this player failed. Try again in %d months, %d days, %d hours, and %d minutes.
+1301	[Guild] Member was removed from the guild due to inactivity.
+1302	[Guild] You participated in the current vote.
+1303	[Guild] You cannot start a vote for your own character.
+1304	[Guild] You cannot start a vote during war.
+1305	[Guild] You cannot sell guild territory to yourself.
+1306	[Guild] This guild does not exist.
+1307	[Guild] You cannot start a vote during war.
+1308	[Guild] Guild level is too low.
+1309	[Guild] Guild member rejected the last vote. Try again in %d months, %d days, %d hours, and %d minutes.
+1310	If you inhale the red smoke from the chest, you will move faster!
+1311	[Guild] You cannot start a vote during war.
+1312	[Guild] Guild member rejected the last vote. Try again in %d months, %d days, %d hours, and %d minutes.
+1313	[Guild] You must vote before selling guild territory.
+1314	[Guild] This guild is not the one in the guild vote.
+1315	[Guild] Guild member rejected the last vote to sell. Try again.
+1316	[Guild] You cannot sell guild territory to yourself.
+1317	[Guild] Guild leader is offline or on another map.
+1318	[Guild] Guild already owns the territory.
+1319	[Guild] No guild territory found.
+1320	[Guild] Guild territory sale completed.
+1321	This item can only be used during the current event.
+1322	An error occurred. Bonuses could not be changed.
+1323	You cannot summon your animal right now.
+1330	You cannot use a bonus Sherpa as the target.
+1331	You cannot use a non-bonus Sherpa as the source.
+1332	You cannot transfer the bonus because the Sherpas have different absorption rates.
+1333	You cannot transfer the bonus because the Sherpas have different levels.
+1334	Failure! Absorption rate decreased by 1%.
+1335	Partial success! Absorption rate decreased by 1%.
+1336	Success! Bonus successfully transferred.
+1337	You cannot discard items during bonus transfer.
+1338	You cannot move items during bonus transfer.
+1339	You cannot sell items during bonus transfer.
+1340	Not possible during bonus transfer.
+1341	This is not possible because the other player is transferring bonuses.
+1342	To determine the fate of pets, you need a Pet Fate Stone.
+1343	You must activate the pet first.
+1344	You cannot trade, sell items, or use storage while modifying pet attributes.
+1345	You cannot use items while modifying pet attributes.
+1346	You cannot drop items while modifying pet attributes.
+1347	You cannot move items while modifying pet attributes.
+1348	You cannot trade while your partner is modifying pet attributes.
+1349	You cannot talk to NPCs while modifying pet attributes.
+1350	Your pet's attributes have been changed.
+1351	You can open this 3 seconds after closing the pet attribute modification menu.
+1352	All positions are occupied.
+1399	Player cannot accept your invitation at the moment.
+1400	After using the Kingdom Tincture, you can no longer accept invitations in this kingdom.
+1401	Pet abilities have been activated. %s. %s is using Stepping Softly.
+1403	This name is already in use.
+1404	Please remove the Dragon Stone before using this item.
+1405	You cannot declare a guild war here.
+1406	Reward
+1407	Rewards for ranking %d
+1408	The boss has been defeated! You will soon be teleported back to the Zodiac Temple.
+1409	Unfortunately, you failed to stop the apocalypse. You will soon be teleported back to the Zodiac Temple.
+1410	You have entered the %s maze with difficulty %d. Battle begins in %d seconds.
+1411	You cannot talk to NPCs while the Lucky Chest is open.
+1412	You cannot use items while the Lucky Chest is open.
+1413	You cannot discard items while the Lucky Chest is open.
+1414	You cannot move items while the Lucky Chest is open.
+1415	You cannot trade while the Lucky Chest is open.
+1416	You cannot trade if your partner has the Lucky Chest open.
+1417	You have entered the %s maze. Battle begins in %d seconds.
+1418	Zodiac Apocalypse is not currently active.
+1419	Zodiac Apocalypse has already started.
+1420	Your Dragon Stone bonus has been changed.
+1421	[Catch the King] Kill monsters and collect Royal Cards. You need a total of 25 cards for the Royal Collection.
+1422	[Catch the King] Plenty of rewards await you!
+1423	[Catch the King] If you reach a high ranking, you will get a great prize from the game table.
+1426	You received a warehouse bonus of %d%% BZK.
+1427	You received a warehouse bonus of %d defense.
+1428	You received a warehouse bonus of %d%% HP.
+1429	You received a warehouse bonus of %d%% monster damage.
+1430	Make sure you have enough inventory space before fishing.
+1431	You cannot move items while the bonus change window is open.
+1432	Sorry, there was no treasure inside the fish.
+1433	You cannot fish while trying to hatch a pet.
+1434	You cannot fish while having a summoned pet.
+1435	You cannot fish while the bonus change window is open.
+1436	You cannot perform this action while the Sherpa combine or absorb window is open.
+1437	You cannot perform this action while the Sherpa bonus transfer window is open.
+1438	You cannot perform this action while the bonus transfer window is open.
+1439	You cannot fish while other windows are open.
+1440	You cannot perform this action while fishing.
+1441	Time remaining: %.2f | Fish difficulty: %lu | Difficulty reduction: %d
+1442	All Battle Zone rankings have been reset.
+1443	Deliver the weapon appearance in use.
+1444	Your inventory is full.
+1450	%s enhancement failed.
+1451	%s enhancement succeeded.
+1452	A Blood Altar has appeared.
+1453	You have captured a soul.
+1454	[Blood Ritual] Unfortunately, you do not have enough space in your inventory.
+1455	[Blood Ritual] Unfortunately, you do not have enough souls.
+1456	[Blood Ritual] Unfortunately, you do not have enough Yang.
+1457	Blood Ritual has started. Buy special items for better rewards.
+1458	Blood Ritual has ended. Try again another time.
+1459	Change enhancement failed.
+1460	This item is only available in Meley’s Den.
+1461	A Compass was used, but the Guardian was not found.
+1462	You cannot do this while performing another action.
+1463	You cannot do this while performing another action.
+1464	You cannot enhance a weapon while having a summoned pet.
+1465	You need %d inventory slots to open the chest.
+1466	Sorry, you do not have enough inventory space.
+1467	[Storage] Cannot store an item currently in use.
+1468	[Aura] Does not work on a soul-bound item.
+1469	[Aura] Does not work with an Aura Costume that already had an item transferred.
+1470	[Aura] Aura Costume has reached maximum level.
+1471	[Aura] You cannot evolve an Aura Costume before enhancing it.
+1472	[Aura] Can only be applied to an Aura Costume.
+1473	[Aura] Only a costume, necklace, earrings, or bracelet with aura can be inserted.
+1474	[Aura] Cannot enhance.
+1475	[Aura] Can only proceed if an Aura Costume is inserted.
+1476	[Aura] The amount of inserted materials has been adjusted to reach the required quantity.
+1477	[Aura] Cannot evolve.
+1478	[Aura] You cannot evolve an Aura Costume before enhancing it.
+1479	[Aura] You must insert items!
+1480	[Aura] Enhancement succeeded. Evolution is now possible.
+1481	[Aura] Enhancement succeeded!
+1482	[Aura] Not enough money to evolve the Aura Costume.
+1483	[Aura] Evolution succeeded!
+1484	[Aura] Success!
+1485	[Guild] %d BZK has been donated.
+1486	You cannot feed a pet while the refinement window is open.
+1487	Five Altars battle has started! It will last %d days.
+1488	Five Altars battle has ended. The next battle starts in %d hours.
+1489	The interface cannot be opened while riding a mount.
+1490	The event is not currently active.
+1491	You cannot trade, move, or drop items while summoning a mount.
+1492	The battle was terminated due to unforeseen circumstances.
+1493	Five Altars battle ends in %d minutes.
+1494	You need %s x %d more.
+1495	Dragon Portal level %d has opened. Attack the maze!!
+1496	You can now enter Dragon Portal level %d.
+1497	We have defeated the boss!
+1498	[Guild] Received %d BZK!
+1499	Time to enter Dragon Portal has expired!
+1500	The maze will close if you do not enter within %d minutes.
+1501	Battle was not started. Maze closed.
+1502	%s occupied %s!
+1503	You cannot donate while having a summoned pet.
+1504	This character is not available for combat.
+1505	Out of %d gifts, you can open %d.
+1506	You can open the next gift in %d minutes.
+1507	%s attacks %s!
+1508	%s reached a personal score of %d!
+1509	Blood Ritual reward
+1510	Inventory full. Reward will be sent to your mailbox.
+1511	Party member is too far away to receive the item.
+1512	Guild has reached maximum level. No more donations possible.
+1513	[Fortune Teller Battle] Fortune Teller Battle has started!
+1514	[Fortune Teller Battle] You will receive a quest for the mini-game.
+1515	[Fortune Teller Battle] Rich rewards await!
+1516	[Fortune Teller Battle] Fortune Teller Battle has ended.
+1517	[Fortune Teller Battle] Check your ranking and choose your rewards.
+1518	[Fortune Teller Battle] You do not have enough Fortune Coins.
+1519	[FT] Placement reward
+1520	[Fortune Teller Battle] You increased your donation count by 1.
+1521	You cannot use this item on a soul-bound item!
+1522	You cannot participate in Royal Battles.
+1524	You must leave your party first.
+1525	You cannot enter because the countdown has already started.
+1527	This is the Royal Battle winner: %s
+1528	%s killed %s.
+1529	Countdown has started. Royal Battle begins in %d seconds.
+1530	Royal Battle cannot start due to insufficient participants.
+1531	Royal Battle has started. The first zone will be displayed in %d seconds.
+1532	Battle Zone has been updated. It will close in %d seconds.
+1533	Battle Zone will close in %d seconds.
+1534	Electric field has stopped functioning. The next Battle Zone will appear in %d seconds.
+1535	Royal Battle ends in %d seconds.
+1536	You cannot do this during Royal Battle.
+1537	You cannot register on this map.
+1538	You cannot register for this on the Royal Battle server.
+1540	You cannot cancel this on the Royal Battle server.
+1541	Royal Battle has started!!!
+1542	Royal Battle has ended!!!
+1543	No more Battle Zones. The entire area will close in %d seconds.
+1544	You currently have no negative buffs.
+1545	You need a Royal Battle Pass to enter.
+1546	A special supply package was placed somewhere.
+1547	[Relic Bonus] You are already carrying a Soul Relic.
+1548	You cannot use this here.
+1549	Teleport to Primordial Plateau failed.
+1550	You can no longer use this.
+1551	You do not have enough Gaya.
+1552	Royal Battle participants status: (%u/%u)
+1553	Registration for Royal Battle has ended.
+1554	Please try again later.
+1555	You cannot do this while performing another action.
+1556	PvP tournament
+1557	Round win rewards
+1558	Tournament win rewards
+1559	Fortune Teller Battle rewards
+1560	Your inventory is full. Your reward will be delivered by mail.
+1561	Fortune Teller Battle reward will be sent by mail because your inventory is full.
+1562	You received %lu BZK for Champion level.
+1574	Please try again later.
+1575	Royal Battle
+1576	Royal Battle season reward. Placement: %d
+1577	General reward for Royal Battle.
+1578	Game reward for Royal Battle. Placement: %d
+1579	Battle reward for Royal Battle. Killed more than %d opponents
+1580	You cannot claim the achievement now.
+1581	You cannot use any emotes now.
+1582	Yongan
+1583	Guild %s purchased territory in area %s at position %d,%d for %d Won.
+1584	Your guild leader registered for the territory auction in area %s at position %d,%d.
+1585	You have already submitted your bid.
+1586	You can withdraw your offered Wons.
+1587	Nothing to collect.
+1588	Already reached maximum Won amount.
+1589	You withdrew %d Wons you had offered.
+1590	Only the guild leader or a member with treasury access can pay the rent.
+1591	No rent needs to be paid.
+1592	Guild does not have enough Yang.
+1593	[Guild Territory] Go to the guardian and pay %d Yang for guild territory rent.
+1594	You paid %lu Yang for guild territory rent.
+1595	You cannot do this during a running guild territory auction.
+1596	You are not registered in any guild territory auction.
+1597	You do not belong to any guild.
+1598	You are already registered in a guild territory auction.
+1599	Only the guild leader can register for the auction.
+1600	Only guilds level %d or higher can register.
+1601	Your guild already has a guild territory.
+1602	No guild territory auction is currently running.
+1603	Maximum amount is %d Won.
+1604	You do not have enough Won.
+1605	Your guild is not registered in the auction.
+1606	You can only bid if you have been a guild member for more than 24 hours.
+1607	Guild territory rent was not paid. Guild territory has been abandoned.
+1608	No guild registered for the guild territory auction.
+1609	You offered %d Won.
+1610	This guild does not exist.
+1611	Dong Gwang Plains
+1612	You can retrieve the Wons you offered from the village guardian.
+1613	Perfect! You successfully added a Spirit Stone and now receive double bonus to values.
+1614	Joan
+1615	Pyungmoo
+1616	Jungrang
+1617	Waryong
+1618	Imha
+1619	Miryang
+1620	Songpa
+1621	Daeyami
+1622	[World Boss] Event started
+1623	[World Boss] Event completed
+1624	[World Boss] On channel %d, %s was spotted terrorizing area %s. Let’s hunt!
+1625	[World Boss] The world boss on channel %d has been attacked. Join the hunt!
+1626	[World Boss] Excellent: %s has been defeated and peace is restored… for now.
+1627	[World Boss] The world boss has escaped! Good luck next time.
+1628	[World Boss] You cannot claim a reward now.
+1629	[World Boss] Great! Here is your reward. Join next time as well!
+1630	[World Boss] You cannot claim a reward because you do not have enough inventory space.
+1631	[World Boss] Loot Level I reward for ranking: %d
+1632	[World Boss] Loot Level II reward for ranking: %d
+1633	[World Boss] Loot Level III reward for ranking: %d
+1634	[World Boss] Loot Level IV reward for ranking: %d
+1635	[Flower Power] You do not have enough sprouts.
+1636	[Flower Power] You do not have enough inventory space.
+1637	[Flower Power] You have obtained Flower Seeds.
+1638	[Flower Power] You do not have enough Flower Seeds.
+1639	[Flower Power] You received a Chrysanthemum sprout.
+1640	[Flower Power] You received a Lily of the Valley sprout.
+1641	[Flower Power] You received a Narcissus sprout.
+1642	[Flower Power] You received a Lily sprout.
+1643	[Flower Power] You received a Sunflower sprout.
+1644	[World Boss] Attention: The world boss will appear soon!
+1645	[Flower Power] This item can no longer be used.
+1646	You cannot transform at the moment.
+1647	Kill all monsters within the time limit!
+1648	The portal to the next room is open.
+1649	Dodge all attacks!
+1650	The portal to the next level is open.
+1651	%s has completed level %u in Sung Mahi Tower!
+1652	Loot from Sung Mahi Tower has been sent to your mailbox.
+1653	Sung Mahi Tower: Level %d
+1654	Loot for completing Sung Mahi Tower
+1655	Battle begins in %d seconds.
+1656	You are at level %d.
+1657	Kill mismatched pairs of monsters!
+1658	You attacked the wrong monster. Kill all monsters!
+1659	Kill all monsters within the time limit!
+1660	You destroyed the wrong Metin stone. Defeat all monsters.
+1661	Destroy the correct Metin stone!
+1662	Find the correct key to escape!
+1663	Find the Seal Stone to break the seal!
+1664	[Sung Mahi Tower] Kill all monsters within the time limit!
+1665	[Sung Mahi Tower] Current ranking cycle ended.
+1666	[Sung Mahi Tower] New ranking cycle started.
+1667	Season reward for 1st place in Sung Mahi Tower level %d.
+1668	Sung Mahi Tower season reward
+1669	You are not cursed.
+1670	Your curse has been lifted.
+1671	Time’s up. You will be teleported out.
+1672	[Sung Mahi Tower] Destroy the Demon Stone!
+1673	[Sung Mahi Tower] The key does not fit. Find another and try again.
+1674	[Sung Mahi Tower] Break the seal using the Sung Mahi Seal Stone!
+1675	[Sung Mahi Tower] You must first break the first seal!
+1676	You can now equip gloves.
+1677	You cannot equip gloves yet.
+1678	This feature is unavailable because illegal software was detected.
+1679	[Sung Mahi Tower] You completed this level in %d seconds.
+1680	You cannot participate in a guild territory auction on the day the guild was created.
+1681	You have mastered %s %s's Dragon gate.
+1683	You do not have a Dragon gate reset item.
+1684	You received %d Dragon gate points.
+1685	You have failed to dissolve solvent.
+1686	Ascend to the next level in Sung Mahi Tower!
+1687	[Personal Premium Shop] You cannot use this. Go to the Shop Administrator in the village.
+1688	You have entered the area under Sung Mahi influence and feel the curse’s effects.
+1689	%s still has %d bases. (%d/%d)
+1690	%s has built all bases and Sung Mahi control check will start in %d minutes.
+1691	Sung Mahi bases have been built.
+1692	Sung Mahi bases have been destroyed.
+1693	All bases in %s have been destroyed and the area is no longer under Sung Mahi control.
+1694	Seo Gwang Wastelands
+1695	Nam Gwang Abyss
+1696	Enhancement was successful!
+1697	Sorry, enhancement failed.
+1698	Thanks to immunity blessing, you are unaffected by Sung Mahi presence.
+1699	Your immunity has expired and you are again affected by Sung Mahi presence and curse.
+1700	If a user uses illegal software, you cannot do this.
+1701	You do not have enough material for enhancement. (Soul-bound items cannot be used)
+1702	Your guild territory will be automatically canceled in %d hours. All items in the guild warehouse will be destroyed.
+1703	[Guild] You cannot kick the guild leader.
+1704	[Guild] You cannot kick yourself.
+1705	[Guild] You cannot make yourself guild leader.
+1706	[Guild] This is only available to the guild leader (if guild territory was canceled).
+1707	[Guild] You cannot leave guild territory during a guild battle.
+1708	You cannot trade this.
+1709	Tower event has been activated.
+1710	You can learn this only after reaching Champion level.
+1711	[Personal Premium Shop] You cannot open this because you still have money to collect.
+1712	[Personal Premium Shop] You cannot open this because you still have items to collect.
+1713	[Personal Premium Shop] You have already opened your Personal Premium Shop.
+1714	[Personal Premium Shop] The shop is now being prepared.
+1715	[Personal Premium Shop] You do not have enough inventory space.
+1716	[Personal Premium Shop] You can collect items from your Personal Premium Shop.
+1717	[Personal Premium Shop] You can collect money from your Personal Premium Shop.
+1718	[Personal Premium Shop] Sold: %s Please collect your money now.
+1719	[Personal Premium Shop] You cannot reopen the shop %d seconds after closing.
+1720	You cannot do this while creating a maze.
+1721	You can no longer revive. You will be teleported from the maze.
+1722	You have already received the reward. If you want to try again, come later. Time remaining: %d h %d m
+1723	You can still revive %dx.
+1724	You can now enter the Snake Temple. Use the Snake Statue for that.
+1725	The destroyed Metin is unresponsive. All Metins have respawned.
+1726	The destroyed Metin is unresponsive. All Metins have respawned.
+1727	You destroyed Metin %d. Now destroy Metin %d.
+1728	Time’s up. You will be teleported from the maze.
+1729	This is available in %d minutes.
+1730	You can no longer extend the maze time.
+1731	Maze time has been extended by 1 minute.
+1732	You killed all monsters. You will be moved to level %d. Time remaining: %d seconds.
+1733	You destroyed all Metins. You will be moved to level %d. Time remaining: %d seconds.
+1734	A piece was added to the snake head. But nothing happened.
+1735	All Snake Chambers have been unlocked. %d levels in %d seconds.
+1736	A special Snake Temple Blacksmith has appeared!
+1737	Snake Temple Blacksmith has appeared!
+1738	You killed all monsters and can advance to the boss level.
+1739	You completed Snake Temple. You will be teleported from the maze in %d seconds.
+1740	Destroy Metin stones in the correct order.
+1741	Kill all monsters.
+1742	To unlock the Snake Pillar, you must collect the key from monsters.
+1743	You added a piece to the Snake Head.
+1744	Kill the boss.
+1745	Successfully opened!
+1746	You must first unlock another pillar.
+1747	The prison has been unlocked. The blacksmith smiles at you.
+1748	This prison key did not open and did not save the blacksmith.
+1749	This piece does not fit the Snake Head.
+1750	You cannot use more than 999,999 Dragon gate points.
+1751	You cannot reset because your Dragon gate points exceed the limit.
+1752	You must fill at least 1 Marble BZK at level 120 to reach Champion level.
+1753	You must first complete the 'Ship Defense' maze.
+1754	You have already reached Champion level.
+1755	[Personal Premium Shop] You cannot use this item while opening your Personal Premium Shop.
+1756	[Personal Premium Shop] You cannot do this while managing items.
+1757	[Personal Premium Shop] You cannot use your Personal Premium Shop while another window is open.
+1758	[Personal Premium Shop] You cannot do this while managing items.
+1759	You have used %d Dragon gate points.
+1760	[Relic Bonus] This action is not possible while the Soul Relic window is open.
+1761	%s party members have left the battle.
+1762	Time remaining: %d minutes.
+1763	[Personal Premium Shop] You cannot fight here.
+1764	[Personal Premium Shop] Money that can be collected will not update during item management.
+1765	The highest Snake Temple boss has appeared.
+1766	[Personal Premium Shop] The shop was already opened here. Find another location to open your shop.
+1767	You cannot enhance this while having a evolving pet summoned.
+1768	<Northwind Depths> Time remaining: %d minutes.
+1769	<Northwind Depths> If you do not start the battle within 3 minutes, the instance will end.
+1770	<Northwind Depths> Time’s up. You will be teleported from the maze.
+1771	It is available after you complete Dragon gate learning quest.
+1772	<Northwind Depths> An instance was generated for Northwind Shelter.
+1773	HP
+1774	Defense
+1775	Leader
+1776	Tugyi
+1777	EXP
+1778	Resistance(Fire)
+1779	Resistance(Ice)
+1780	Resistance(Electric)
+1781	Resistance(Wind)
+1782	Resistance(Earth)
+1783	Resistance(Darkness)
+1784	STR
+1785	Strength(Fire)
+1786	Strength(Ice)
+1787	Strength(Electric)
+1788	Strength(Wind)
+1789	Strength(Earth)
+1790	Strength(Darkness)
+1791	Mark
+1792	Sung ma(STR)
+1793	Sung ma(Resistance)
+1794	Sung ma(VIT)
+1795	Sung ma(INT)
+1796	<Northwind Depths> You defeated Alastor! You will be teleported from the maze in 20 seconds.
+1797	<Northwind Depths> Alastor will soon unleash his icy wrath!
+1798	<Northwind Depths> Alastor will unleash his icy wrath at level %d!
+1799	<Northwind Depths> You successfully deflected Alastor’s icy wrath.
+1800	<Northwind Depths> If you do not destroy the White Dragon Egg within %d seconds, Alastor’s deadly frost will hit the shelter!
+1801	This is not available here.
+1802	This will be available after the battle starts.
+1803	<Northwind Depths> The instance ended because you did not start the battle within the time limit.
+1804	It is not available while Dragon gate is opened.
+1807	You cannot use the Dragon gate system.
+1808	You gained %d Champion level experience points.
+1809	You gained %d experience points.
+1810	You lost %d experience points.
+1811	You lost %d Champion level experience points.
+1812	You cannot do this during trading.
+1813	Metin Fever event has started!
+1814	Complete the quest list, destroy Metin stones, and claim your rewards.
+1815	Metin Fever event is not currently active.
+1816	[Dragon Temple] You generated a Dragon Temple instance.
+1817	[Dragon Temple] If you do not start the battle within 3 minutes, the instance will end.
+1818	[Dragon Temple] Beran-Setaou was defeated. You will be teleported from the maze in %d seconds.
+1819	[Dragon Temple] Time remaining: %d minutes.
+1820	[Dragon Temple] The instance ended because the battle was not started.
+1821	[Dragon Temple] Time’s up. All players will be teleported from the maze.
+1822	[Dragon Temple] You generated a Dragon Temple instance.
+1823	[Dragon Temple] If you do not start the battle within 3 minutes, the instance will end.
+1824	[Dragon Temple] The instance has started.
+1825	[Dragon Temple] You gave up and the instance ended.
+1829	[Dragon Temple] The maze will close if no one enters within %d seconds.
+1830	[Dragon Temple] The maze closed because no one entered in the required time.
+1838	You cannot block yourself.
+1839	You cannot add yourself.
+1840	Action %s has been enabled.
+1844	You fed the horse: %d feed. Gained %d experience.
+1845	Not enough Gaya or Yang.
+1846	You cannot learn this riding skill.
+1847	[Enigma Temple] Only the party leader can use this scroll.
+1848	[Enigma Temple] Only the party leader can use this scroll.
+1849	[Enigma Temple] %s is out of range.
+1850	[Enigma Temple] You cannot use this scroll at your level.
+1851	[Enigma Temple] %s requires a higher level to enter.
+1852	[Enigma Temple] %s refused to enter.
+1853	[Enigma Temple] The maze will close in 1 minute if you do not start the battle.
+1854	[Enigma Temple] The portal to Enigma Temple has been created.
+1855	[Enigma Temple] Destroy the real Metin Stone.
+1856	[Enigma Temple] This is a fake Metin Stone. Find the real Metin Stone!
+1857	[Enigma Temple] You obtained a treasure chest from the Metin Stone.
+1858	[Enigma Temple] You still need to find the real Metin Stone. Use the portal and try again.
+1859	[Enigma Temple] Quest completed. Find the secret room.
+1860	[Enigma Temple] Find the real monster and defeat it! Do not be fooled by illusions.
+1861	[Enigma Temple] You did not find the real monster. Use the portal and try again.
+1862	[Enigma Temple] Check the treasure chest.
+1863	[Enigma Temple] Welcome to the secret room.
+1864	[Enigma Temple] Your time is up! Everyone will be teleported out of the maze.
+1865	[Enigma Temple] As a reward, you received the Blessing of Enigma Temple.
+1866	[Enigma Temple] You did not receive a reward. Time until the next reward: %d hours and %d minutes
+1867	Enigma Temple Reward
+1868	[Enigma Temple] Enigma Temple disappeared because time ran out.
+1869	[Enigma Temple] You have 4 minutes to start the battle using the Enigma Portal.
+1870	[Enigma Temple] The Blessing of Enigma Temple guarantees you another treasure chest.
+1871	[Enigma Temple] You obtained the Enigma Reward. Check your mailbox to receive it.
+1872	%s was removed.
+1873	You acquired %s skill. You can check it in the skill tab.
+1874	Not enough Gaya
+1876	Try again later.
+1878	Time has expired. You will soon be transferred to the city.
+1879	You can no longer be revived.
+1880	You successfully completed the task and will be teleported out in %d minutes.
+1881	You defeated all messengers. Go to the Hae-Tae Guardian to enter the Curse.
+1882	You cannot use more than the maximum number of items.
+1883	The Journey to Another World has ended and you can no longer find Death Flames.
+1884	The Journey to Another World has begun. You will find Death Flames by killing monsters.
+1885	The Journey to Another World has ended.
+1886	The Journey to Another World has begun. You can now use the portal to Another World in the Dragon Fire Bay.
+1887	You used %dx Water of Life. You have %dx Waters of Life remaining.
+1888	You will receive %d Death Flames.
+1895	You defeated the Earth Messenger.
+1896	You defeated the Night Messenger.
+1897	You defeated the Storm Messenger.
+1898	You defeated the Air Messenger.
+1899	The maze will close in %d minutes.
+1900	You do not have enough space for more Death Flames.
+1901	You must wait before attempting again. Remaining time: %d hours and %d minutes
+1902	Once you enter the Dragon Temple, you can no longer change the party.
+1903	You cannot have more mercenaries.
+1904	Endurance exceeded
+1905	[Enigma Temple] Destroy the Enigma Metin to advance to the next level.
+1916	You have already learned this skill.
+1917	You cannot learn this skill until your horse reaches level 31.
+1918	You can no longer acquire this skill.
+1919	You cannot learn this skill until your horse reaches level 21.
+1921	<Secret Dungeon> You cannot enter the dungeon. Level requirement is not met.
+2200	Wait %.2f seconds.
+2201	You must have your buff summoned.
+2202	Remove your equipment first for the buff.
+2203	You do not have enough WON to upgrade this item.
+2204	You do not have enough AP to upgrade this item.
+2205	VIP is already active.
+2206	Waiting (VIP) added.
+2207	Wait before performing this action!
+2208	Close all windows!
+2209	You already have this title.
+2210	The title has been added to the title window!
+2211	This title cannot actually be used.
+2212	You have already activated the item switch.
+2213	You received %d Achievement Points.
+2214	You received %d Dragon Coins.
+2215	To use this item, you must have a summoned pet!
+2216	This potion can only be used from level 40 to 70.
+2217	This potion can only be used from level 70 to 110.
+2218	Your shaman is activated.
+2219	The shaman has been summoned.
+2220	VIP is already active.
+2221	VIP has been activated. Please log in again.
+2222	SYS: VIP box time is not set in the database.
+2223	VIP is already active.
+2224	VIP has been activated. Please log in again.
+2225	SYS: VIP box time is not set in the database.
+2226	VIP is already active.
+2227	VIP has been activated. Please log in again.
+2228	SYS: VIP box time is not set in the database.
+2229	Close your current personal shop before opening a new one.
+2230	This map area does not allow opening a private shop.
+2231	Select the skill you want to train.
+2232	Skill training was successfully completed.
+2233	Skill training failed.
+2234	Your level is too low!
+2235	You have already mastered this skill.
+2236	This book is not easy to understand...
+2237	You can no longer study this book.
+2238	You have reached the maximum skill level for this pet!
+2239	The skill level of this pet does not match the level of the training book.
+2240	Skill training was successful!
+2241	You have %d books left for skill training.
+2242	Skill training failed.
+2243	Select the skill you want to train.
+2244	You can no longer increase your rank.
+2245	Rank points increased by %d.
+2246	Add 5 base bonuses to this item first!
+2247	The item has reached maximum contribution!
+2248	Adding bonus failed!
+2249	Adding bonus was successful!
+2250	The item has no bonuses that can be changed.
+2251	Adding bonus was successful!
+2252	Adding bonus failed!
+2253	The item has the maximum number of bonuses!
+2254	Changing bonuses was successful!
+2255	You have no bonuses that can be changed.
+2256	Bonuses cannot be changed if the glove is upgraded.
+2261	The Sherpa has been upgraded!
+2262	The Sherpa has already been upgraded!
+2263	The Sherpa has too low absorption level. Required: 30%
+2264	The gloves have been upgraded!
+2265	The gloves have already been upgraded!
+2266	The gloves must have 5 bonuses!
+2267	Can only be used on +5 gloves.
+2268	The item has been upgraded!
+2269	The item has already been upgraded!
+2270	Can only be used on +9 items.
+2271	The Rune has been upgraded!
+2272	The Rune has already been upgraded!
+2273	Can only be used on +5 runes.
+2274	You cannot move items while your personal shop window is open.
+2275	This item is not suitable.
+2276	Your shaman is not summoned.
+2277	This item is not meant for shamans.
+2278	This item is not for this gender.
+2279	This item cannot be removed.
+2280	You do not have this title.
+2281	This title is already active.
+2282	You cannot do this while the wheel is spinning.
+2283	The accessory window is already open.
+2284	You must first close the accessory absorption window.
+2285	You must first close the accessory combination window.
+2286	You cannot add locked items.
+2287	This accessory already has the maximum absorption chance.
+2288	Bonuses can only be absorbed from weapons.
+2289	Not enough Yang.
+2290	Not enough checks.
+2291	You do not have the required items.
+2292	Wait %d seconds.
+2293	You received "%s" x%d from the wheel.
+2294	Changing channel in %d.
+2295	Channel change canceled.
+2296	You need %s to change your pet's name.
+2297	Not enough checks.
+2298	You cannot continue because the amount of Yang exceeds the limit.
+2299	Exchange was successful.
+2300	Not enough Yang to continue the exchange.
+2301	You cannot continue because the number of checks would exceed the limit.
+2302	The entered code is already inactive.
+2303	The entered promo code can be used from character level %d.
+2304	The entered promo code can be used up to character level %d.
+2305	The entered promo code contained: %s in quantity %d.
+2306	This would exceed the allowed amount of Yang.
+2307	You received %d Yang.
+2308	You received %d Dragon Coins.
+2309	You received %d levels.
+2310	Experience gain is only possible above level 30.
+2311	Not enough Yang or checks.
+2312	Alchemy time has been extended.
+2313	Experience gain has been enabled.
+2314	Experience gain has been disabled.
+2315	Direct acceptance of item into inventory: allowed.
+2316	Direct acceptance of item into inventory: forbidden.
+2317	The item has been added to the collection.
+2318	All items of this type have already been added.
+2319	You do not have this item.
+2320	You have already completed this mission.
+2321	Successful: %d, Failed: %d.
+2322	The item had poor quality.
+2323	You cannot donate experience to the guild if it is blocked.
+2324	[BattlePass] Mission: %s has been completed.
+2325	[BattlePass] You claimed the reward.
+2326	You do not have an item to activate the premium battlepass.
+2327	The chance to submit is already maximum.
+2328	The waiting time for submitting the item has been shortened.
+2329	The waiting time for submission is almost zero.
+2330	The chance to submit the item has been increased by 25%.
+2331	Current chance: %d
+2332	You are not in a dungeon!
+2333	The party leader does not have enough passes in the inventory.
+2334	A player in your group must be on the same map.
+2335	You do not have a pass!
+2336	You have not completed the dungeon yet!
+2337	This code has already been used on this account!
+2338	The entered code does not exist!
+2339	Special inventory is full!
+2340	You must have the Sherpa equipped to apply the skin!
+2341	Your pet has reached the maximum level! You cannot gain more experience with this item.
+2342	Changing bonuses on the item was stopped. You do not have enough enchanted items.
+2343	Changing bonuses on the item was stopped. You do not have enough yang.
+2344	You do not have enough coins to spin the wheel of fortune.
+2345	You have successfully created a helper named %s.
+2346	You are already in the dungeon.
+2347	Your level is too low.
+2348	You do not have the required pass.
+2349	You are not the party leader.
+2350	Not enough players in the party.
+2351	A party member still has a cooldown for this dungeon.
+2352	You do not have the item required to reduce the dungeon cooldown.
+2353	The dungeon cooldown has been successfully removed.
+2354	You do not have any cooldown on this dungeon.
+2355	Cannot save location in a dungeon.
+2356	You must wait a moment.
+2357	You must wait %d seconds.
+2358	Cannot teleport to this location because it is too close.
+2359	A mysterious light came out of the box.
+2360	You received %d experience points.
+2361	A monster came out of the box!
+2362	A poisonous cloud came out of the box, slowing you down.
+2363	The box has been opened! You lost a few life points.
+2364	The box has been opened! You were poisoned by the poison from the box.
+2365	The chest seems to be empty.
+2366	Organize space in the alchemy window before opening another core.
+2367	You must wait %d seconds before the next teleport.
+2368	Teleportation is not allowed on this map.
+2369	The fishing rod cannot be used right now.
+2370	Offline message has been sent.
+2371	You must wait %d seconds.
+2372	This transformation skin is already unlocked.
+2373	The transformation skin has been successfully unlocked.
+2374	Cannot change skin while transformed.
+2375	This skin is already active.
+2376	Cannot change to a skin you have not unlocked.
+2377	You must first unlock the transformation shop.
+2378	This action cannot be performed right now.
+2379	You do not have the required items.
+2380	You cannot open a shop outside the first cities.
+2381	The maximum number of shops on this map has been reached.
+2382	The price is a negative value.
+2383	A party member cannot open an offline shop.
+2384	You already have an offline shop open.
+2385	Returning items from the offline shop.
+2386	To open an offline shop for this duration, you need %s (x%d)!
+2387	To open an offline shop for this duration, you need %lld yang!
+2388	An error occurred while opening the shop.
+2389	Offline shop name is too short.
+2390	The shop name contains forbidden words.
+2391	This item cannot be moved into an offline shop.
+2392	This item cannot be moved.
+2393	Time
+2394	The duration of your offline shop has expired.
+2395	This action cannot be performed at the moment.
+2396	Too many items in the search.
+2397	Close all windows first.
+2398	Cannot purchase items from your own shop.
+2399	A party member cannot buy items from offline shops.
+2400	You must wait before performing this action.
+2401	The offline shop is empty.
+2402	The offline shop was closed on channel %d.
+2403	Item %s was successfully removed from the offline shop.
+2404	This feature is currently unavailable.
+2405	An offline shop cannot be created on this channel.
+2406	You cannot move an item you are wearing into the shop.
+2407	You are too far away from the shop.
+2408	The price is too high.
+2409	The item was found in %d shops.
+2410	You do not have enough yang for crafting.
+2411	You do not have enough won for crafting.
+2412	You do not have enough achievement points for crafting.
+2413	This item cannot be used in a dungeon.
+2414	Cannot equip a costume weapon with this weapon type.
+2415	Cannot unequip the costume weapon, not enough space in inventory.
+2416	You must wait 5 seconds before the next search.
+2417	This is the last item in the shop, close the shop.
+2418	Close all other windows.
+2419	You must wait %d seconds before this action.
+2420	You do not have enough yang to create an offline shop. You need %d yang.
+2421	An offline shop can only be created on the global channel (first cities).
+2422	You must be in the first cities to create a shop.
+2423	This item is locked, equipped, or currently in a trade.
+2424	This item cannot be sold in an offline shop.
+2425	Only one type of leaderboard can be loaded at a time.
+2426	[TEST SERVER] Your leaderboard is up to date.
+2427	[TEST SERVER] There is no record of this character in the leaderboard.
+2428	[TEST_SERVER] Weekly leaderboard category %u added points %u.
+2429	Cannot perform this action with the transformation window open.
+2430	The transformation skin has been unlocked.
+2431	Player %s received the event fisherman’s chest.
+2432	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You received|cfffce35b 2|r |cfffce35bbonus points|r |cfffff0a0into your fishing rod.|r
+2433	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Points in your fishing rod have increased (|cfffce35b%d|r/|cfffce35b%d|r).|r
+2434	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPoints in your fishing rod are at the maximum level.|r
+2435	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe fishing rod can be upgraded at the fisherman.|r
+2436	|Eemoji/info|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a[VIP] You received additional achievement points %d.|r
+2437	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0To catch the fish, you must press the |cfffce35bspacebar %dx|r.|r
+2438	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The spacebar was pressed too few times.|r
+2439	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The spacebar was pressed too many times.|r
+2440	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou grilled |cff87fa8b%s|r.|r
+2441	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Fishing is allowed only on the fishing map.|r
+2442	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have the required fish in your inventory.|r
+2443	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aFish successfully submitted. It was of excellent quality.|r
+2444	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Failed to submit the fish. It was of poor quality.|r
+2445	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This item can only be used on a |cfffa7a7afishing rod|r.|r
+2446	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item already has the maximum number of bonuses.|r
+2447	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Your fishing rod already contains this bonus.|r
+2448	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe bonus was successfully added.|r
+2449	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot add an item to the item lottery right now. Please wait.|r
+2450	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPlayer %s won the item lottery.|r
+2451	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Thanks to the bonus, you received |cfffce35b%d|r |cfffff0a0more ore.|r
+2452	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Thanks to the bonus, you received |cfffce35b 2|r |cfffce35bbonus points|r |cfffff0a0into your pickaxe.|r|r
+2453	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Points in your pickaxe have increased (|cfffce35b%d|r/|cfffce35b%d|r|cfffff0a0).|r|r
+2454	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou successfully mined ore.|r
+2455	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This time, you mined nothing.|r
+2456	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Relics can only be added to helmets, shields, and boots.|r
+2457	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe relic was successfully added to the item.|r
+2458	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Failed to add the relic to the item.|r
+2459	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item already contains the maximum number of relics.|r
+2460	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The item must contain 3 relics to reroll them.|r
+2461	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aRelic change in the item was successful.|r
+2462	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis action cannot be performed while transformed or mounted.|r
+2463	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNo mineral vein was found.|r
+2464	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou started mining.|r
+2465	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou must move closer to the vein.|r
+2466	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0It looks like the vein has disappeared.|r
+2061	|Eemoji/info|e|cffb9b8b8[|r|cffdee356WorldBoss|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aWorldBoss %s is alive.|r
+2062	|Eemoji/info|e|cffb9b8b8[|r|cffdee356WorldBoss|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323WorldBoss %s will spawn in %01.0f:%02.0f %s.|r
+4000	Player %s received %d pcs of %d.
+4001	Player %s received %d.
+10008	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You must dismount from your mount.|r
+10009	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe mount has been summoned.|r
+10010	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe mount has been dismissed.|r
+10011	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You must wait a moment before mounting again.|r
+10012	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You cannot ride a mount while wearing a dress or a tuxedo.|r
+10013	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The mount’s level is too low.|r
+10014	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This action cannot be performed while fishing or mining.|r
+10015	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This feed can be used on a mount with a minimum level of |cffff6363%d.|r|r
+10016	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This feed can be used on a mount with a maximum level of |cffff6363%d.|r|r
+10017	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot change the mount’s appearance while riding it.|r
+10018	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot summon a mount on this map.|r
+10019	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot dismount from the mount at this moment.|r
+10020	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Your mount’s experience points increased by |cfffce35b%d.|r|r
+10021	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot read a book while transformed.|r
+10022	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis skill is already at the maximum level.|r
+10023	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have the required items to increase the level.|r
+10024	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have enough yang to increase the level.|r
+10025	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe level was successfully increased.|r
+10026	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You are really unlucky today—give it up.|r
+10027	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Additional bonus has just started.|r
+10028	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Additional bonus has just ended.|r
+10029	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop from bosses has just started.|r
+10030	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop from bosses has just ended.|r
+10031	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop from rocks has just started.|r
+10032	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop from rocks has just ended.|r
+10033	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Moonlight Chest drops have just started.|r
+10034	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Moonlight Chest drops have just ended.|r
+10035	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Easier 6/7 bonus rolling has just started.|r
+10036	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Easier 6/7 bonus rolling has just ended.|r
+10037	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Chance to roll 63% average damage has just started.|r
+10038	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Chance to roll 63% average damage has just ended.|r
+10039	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Easier relic rerolling has just started.|r
+10040	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Easier relic rerolling has just ended.|r
+10041	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop of achievement points from bosses and rocks has just started.|r
+10042	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop of achievement points from bosses and rocks has just ended.|r
+10043	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Chance for a mining chest drop from ores has just started.|r
+10044	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Chance for a mining chest drop from ores has just ended.|r
+10045	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double ore drop has just started.|r
+10046	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double ore drop has just ended.|r
+10047	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Increased chance for a fishing star has just started.|r
+10048	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Increased chance for a fishing star has just ended.|r
+10049	Channel change has been canceled.
+10050	You are already on this channel.
+10051	You are already on this channel.
+10052	You cannot change channels on the global channel.
+10053	You cannot change channels in dungeons.
+10054	You must wait before changing channels again.
+10055	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Player |cfffce35b%s|r picked up the item |cfffce35b%s|r from the ground for you.|r
+10056	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You picked up the item |cfffce35b%s|r from the ground for player |cfffce35b%s|r.|r
+10057	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You cannot train autobuff skills while your autobuff is dismissed.|r
+10058	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You received an event mining chest.|r
+10059	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the event, you received a fishing star.|r
+10060	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe gloves were cleansed of legendary enhancement.|r
+10061	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The gloves do not contain a legendary enhancement.|r
+10062	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Cleansing can only be used on +5 gloves.|r
+10063	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The Battle Pass has already expired. Wait for the next season.|r
+10064	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You must have at least character level 30 to use this item.|r
+10065	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You have already reached the maximum Battle Pass level.|r
+10066	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The maximum number of uses for this item in one Battle Pass season has been reached (7/7).|r
+10067	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received %d Battle Pass experience points! Current level: %d (Used: %d/7).|r
+10068	This item has been disabled.
+10069	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aOnly excellent legendary alchemy can be refined into mythical.|r
+10070	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item can only be used to upgrade items of level 201 or higher.|r
+10071	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item cannot be used to upgrade these items. Visit Seon-Pyeong.|r
+10072	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour level is too low to teleport to this location! (Required: %d+).|r
+10073	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour level is too high to teleport to this location! (Max: %d).|r
+10074	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTeleportation successful!|r
+10075	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aUnknown location index!|r
+10076	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aInvalid index! Use a numeric index.|r
+10077	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAfter actions such as trading and others, you must wait a moment.|r
+10078	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2axxx.|r
+10079	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2axxx1.|r
+10080	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have enough yang.|r
+10081	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou crafted %d items.|r
+10082	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Item crafting failed.|r
+10083	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aShop duration can only be extended if it is less than 4 days.|r
+10084	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need item %s x%d for crafting.|r
+10085	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis is an invalid crafting recipe.|r
+10086	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have enough materials for crafting.|r
+10087	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item cannot be moved to the special inventory.|r
+10088	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCrafting was successful.|r
+10089	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe shop duration has been extended by 4 days.|r
+10090	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the Lagoon Ring, you gained double drop.|r
+10091	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have the required item to spin.|r
+10092	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou must wait a moment before spinning again.|r
+10093	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received sugar needed to craft a pass to the Shimmering Lagoon.|r
+10094	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received a pineapple needed to craft a pass to the Shimmering Lagoon.|r
+10095	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe limited item was successfully purchased.|r
+10096	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis limited item has already been sold out.|r
+10097	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou purchased item %s – %d pcs.|r
+10098	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have enough won. You need %d.|r
+10099	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have already received one of the main rewards in the Wheel of Fortune. You can no longer spin.|r
+10100	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBoth main rewards have already reached the maximum spin limit (5). If you hit one of the chests, you will receive an alternative reward.|r
+10101	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou spun item %u, but it has already reached the maximum server limit. An alternative reward spin was performed.|r
+10102	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received item %u x%u as compensation for one of the main rewards.|r
+10103	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCongratulations! You received one of the main rewards! Remaining count: Reaper’s Chest (I): %d/5, Reaper’s Chest (II): %d/5.|r
+10104	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have successfully added a 1–5 bonus to the Elemental Heart.|r
+10105	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot add another bonus to the Elemental Heart.|r
+10106	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This enhancement cannot be used on this item.|r
+10107	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aChanging 1–5 bonuses in the Talisman Heart was successful.|r
+10108	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323There are not enough bonuses in the Elemental Heart to reroll.|r
+10109	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The Elemental Heart already has the maximum number of 6/7 bonuses.|r
+10110	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAdding 6–7 bonuses to the Talisman Heart was successful.|r
+10111	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This cannot be performed.|r
+10112	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Adding 6–7 bonuses to the Elemental Heart is only possible from +20.|r
+10113	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323There are not enough 6/7 bonuses in the Elemental Heart to reroll.|r
+10114	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aChanging 6/7 bonuses in the Talisman Heart was successful.|r
+10115	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Changing 6/7 bonuses in the Elemental Heart is only possible from +20.|r
+10116	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the active title "Relic Hunter", this reroll cost you nothing.|r
+10117	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the active title "Relic Hunter", this reroll cost you nothing.|r
+10118	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot do this without guild.|r
+10119	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have sufficient rights to upgrade guild guardian items.|r
+10120	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need to be on guild map in order to refine guardian items.|r
+10121	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour guild dont have enough guild money for this refine.|r
+10122	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have to wait.|r
+10123	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNot enough raid tickets.|r
+10124	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cant change guild notes that often.|r
+10125	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild notes need to be at least 4 characters long.|r
+10126	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou can not do this now. Close all windows and wait 10 seconds.|r
+10127	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou can equip guardian items only if they are placed inside inventory.|r
+10128	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis guardian item is still soulbinded to another guild.|r
+10129	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNot enough space in inventory.|r
+10130	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou dont have a ticket to buy extra daily raid for your guild.|r
+10131	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou dont have enough dragon coins to buy extra daily raid.|r
+10132	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild log is empty.|r
+10133	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild logs are already up to date.|r
+10134	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You have to wait %.2f seconds to change title again.|r
+10135	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have unlocked a new title!|r
+10136	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTitle has been activated!|r
+10137	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTitle has been removed.|r
+10138	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou already have this title active!|r
+10139	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou haven't unlocked this title yet!|r
+10140	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title is already active in your premium slot!|r
+10141	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title cannot be used together with your premium title!|r
+10142	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need active premium to use the second title slot!|r
+10143	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou already have this title active in premium slot!|r
+10144	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou haven't unlocked this title yet!|r
+10145	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title cannot be used together with your primary title!|r
+10146	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPremium title has been activated!|r
+10147	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPremium title has been removed.|r
+10148	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You are already a VIP member.|r
+1957	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCannot add additional 6/7 bonuses!|r
+1958	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a6/7 bonus was successfully added!|r
+1959	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCannot add 6/7 bonuses to this item!|r
+10149	This type of item is already equipped.
+10150	Change of bonus in item: %s (Slot: %d) was successfull.
+10151	Non puoi montare durante il PvP. Attendi %d secondo(i).

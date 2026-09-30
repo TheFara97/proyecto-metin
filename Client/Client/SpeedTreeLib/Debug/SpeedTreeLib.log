@@ -1,0 +1,63 @@
+﻿  StdAfx.cpp
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru StdAfx.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru StdAfx.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru StdAfx.cpp)
+  
+  BoundaryShapeManager.cpp
+  SpeedGrassRT.cpp
+  SpeedGrassWrapper.cpp
+  SpeedTreeForest.cpp
+  SpeedTreeWrapper.cpp
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru SpeedTreeWrapper.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru SpeedTreeWrapper.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru SpeedTreeWrapper.cpp)
+  
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru SpeedGrassWrapper.cpp)
+  
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru BoundaryShapeManager.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru SpeedGrassWrapper.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru SpeedGrassWrapper.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru BoundaryShapeManager.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru BoundaryShapeManager.cpp)
+  
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru SpeedTreeForest.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru SpeedTreeForest.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru SpeedTreeForest.cpp)
+  
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru SpeedGrassRT.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru SpeedGrassRT.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru SpeedGrassRT.cpp)
+  
+  CSpeedTreeDirectX.cpp
+F:\Elvion\Elvion-core\Client\SpeedTreeLib\CSpeedTreeDirectX.cpp(1,10): warning C4652: Parametr kompilátoru Generovat informace o prohlížeči není konzistentní s předkompilovanou hlavičkou; aktuální parametr příkazového řádku přepíše ten, který je definovaný v předkompilované hlavičce.
+  SpeedTreeLib.vcxproj -> F:\Elvion\Elvion-core\Client\SpeedTreeLib\Debug\SpeedTreeLib.lib

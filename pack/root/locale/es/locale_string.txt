@@ -1,0 +1,2224 @@
+1	Pronto todos serán teletransportados a la ciudad.
+2	Este artículo no existe.
+3	¡El cofre explotó de repente! Perdiste puntos de salud (HP).
+4	[Gremio] La venta del territorio del gremio ha fracasado.
+5	[Gremio] La venta del territorio del gremio no se puede completar porque no hay suficientes Yang en la tesorería del gremio.
+6	[Gremio] No puedes abandonar el gremio mientras una votación esté activa.
+7	[Gremio] El jugador está desconectado o en otro mapa.
+8	[Gremio] No puedes votar por guerreros mientras el gremio está en guerra.
+9	[Gremio] No puedes iniciar otra votación mientras ya hay una en progreso.
+10	[Gremio] Esta acción no es posible durante una guerra.
+11	[Gremio] No se puede mejorar mientras el tesoro del gremio esté lleno.
+12	[Gremio] No puedes usar el almacén del gremio mientras hay una votación activa.
+13	Si inhalas el humo verde que sale del cofre, ¡el veneno se esparcirá por tu cuerpo!
+14	[Gremio] No puedes realizar esta acción mientras el almacén del gremio esté abierto.
+15	[Gremio] No puedes cambiar el líder del gremio durante una guerra.
+16	[Gremio] %s usó %s.
+17	[Gremio] No tienes permiso para usar habilidades de gremio.
+18	[Gremio] Estás en modo observador porque ya has agotado el límite de reactivación.
+19	[Gremio] Verifique los miembros y comandantes.
+20	[Gremio] Verifique los miembros y comandantes enemigos.
+21	[Gremio] Algunos miembros están desconectados o en otro mapa.
+22	[Gremio] Algunos enemigos están fuera de línea o en otro mapa.
+23	[Gremio] No hay suficientes participantes en línea.
+24	Recibiste %s, %d piezas
+25	[Gremio] No puedes realizar esta acción durante una guerra.
+26	[Gremio] Se puede utilizar en 10 segundos.
+27	[Gremio] Tu personaje debe tener al menos el nivel 40 para convertirse en comandante.
+28	[Gremio] %s ganó.
+29	[Gremio] Dibujar
+30	[Gremio] No puedes eliminar a nadie del gremio durante una guerra.
+31	[Gremio] No puedes iniciar una votación para eliminar al líder del gremio.
+32	[Gremio] No puedes iniciar una votación para eliminarte del gremio.
+33	[Gremio] Necesitas el Anillo de Sucesión para transferir el gremio.
+34	[Gremio] No hay suficiente espacio en la tesorería del gremio.
+35	Hay %s en el cofre.
+36	[Gremio] Después de usar el almacén del gremio, debes esperar al menos 12 horas antes de abandonar el gremio.
+37	¡Gremio [%s]! El objetivo final ha aparecido. ¡Destruye todos los objetivos para ganar esta guerra!
+38	[Gremio] La guerra termina en 5 minutos.
+39	[Gremio] La guerra termina en 1 minuto.
+40	[Gremio] No hay ningún gremio con un anuncio.
+41	[Gremio] Ningún gremio ha derrotado al dragón todavía.
+42	[Gremio] Actualización de rango.
+43	[Gremio] Comienza la batalla contra la Reina Dragón Meley.
+44	[Gremio] Las puertas de la guarida de Meley están abiertas. El tiempo límite en el laberinto es de una hora.
+45	[Gremio] ¡Derrotaste a la Reina Dragón Meley!
+46	Parece que la llave no encaja en la cerradura.
+47	[Gremio] Tiempo requerido: %d min. %d seg.
+48	[Gremio] Por tu propia seguridad, serás teletransportado fuera del nido en 10 minutos.
+49	[Gremio] El tiempo ha expirado.
+50	[Gremio] Las puertas de la guarida de Meley están cerradas de nuevo.
+51	[Gremio] Por tu propia seguridad, serás teletransportado fuera del nido en 1 minuto.
+52	[Gremio] La guarida se cerrará en %d minutos.
+53	[Gremio] Interrumpiste la pelea en la guarida de Meley.
+54	[Gremio] No puedes declarar la guerra mientras luchas en la cueva del dragón.
+55	[Gremio] El gremio enemigo está luchando actualmente en la cueva del dragón.
+56	No recibiste nada.
+57	[Gremio] Registro exitoso para la guarida de Meley.
+58	[Gremio] Visita al guardián del dragón Dolnarr para entrar a la cueva del dragón.
+59	El evento de verano ha comenzado. Visita Verano en la ciudad. Ella te dará unos sabrosos refrigerios.
+60	El evento de verano terminará pronto. El verano abastecerá a la ciudad con deliciosos refrescos durante otros 7 días.
+61	El efecto ya está activo.
+62	[Gremio] Puedes realizar una transacción cada 10 segundos.
+63	[Gremio] Otro miembro está utilizando el tesoro del gremio.
+64	[Gremio] El gremio [%s] perdió la guerra contra el gremio [%s].
+65	Se alcanzó el límite de la cuenta. No puedes abrir este cofre.
+66	[Gremio] Tu gremio no tiene suficiente Yang en su cuenta. Deposite más Yang e inténtelo de nuevo.
+67	No tienes suficiente Yang para mejorar este objeto.
+68	[Gremio] Objeto movido exitosamente.
+69	[Gremio] No puedes usar este emblema del gremio. Por favor inténtalo de nuevo.
+70	[Transformación] No puedes usar el objeto transformado porque es para el sexo opuesto.
+71	[Transformación] No puedes usar el elemento transformado porque es para un tipo de personaje diferente.
+72	[Tarjeta de Monstruo] Nivel de misión: %d. Derrotaste al monstruo: %s.
+73	[Tarjeta de monstruo] Has completado la misión. Ahora recoge la Monster Card.
+74	[Tarjeta de monstruo] No tienes suficiente espacio en el inventario.
+75	[Tarjeta de Monstruo] [%s] Actualización de nivel completada.
+76	[Tarjeta de monstruo] Ahora puedes ver las animaciones de movimiento del monstruo.
+77	[Tarjeta de Monstruo] Ahora puedes transformarte en este monstruo.
+78	Redujiste tu nivel de habilidad.
+79	[Tarjeta de monstruo] Ahora puedes teletransportarte a la ubicación del monstruo.
+80	[Gremio] Como participante, no puedes observar la guerra de tu propio gremio.
+81	[Gremio] El gremio ha establecido un requisito de nivel mínimo para los solicitantes (nivel mínimo: %d).
+82	[Gremio] Puedes realizar una transacción cada 10 segundos.
+83	[Gremio] Gremio %s territorio comprado.
+84	[Gremio] La batalla por el Templo del Dragón se está llevando a cabo en otro canal.
+85	[Gremio] El servidor de registro se encuentra actualmente en mantenimiento.
+86	[Gremio] El servidor de registro se encuentra actualmente en mantenimiento.
+87	[Gremio] La tierra pertenece a otro jugador.
+88	No puedes reducir tu nivel de habilidad.
+89	Debes tener al menos el nivel %d para ingresar a la zona de batalla.
+90	No puedes ingresar a la zona de batalla desde este mapa.
+91	Debes cerrar todas las ventanas antes de entrar o salir de la zona de batalla.
+92	No puedes abandonar la zona de batalla mientras estás muerto.
+93	Entrando a la zona de batalla. Espere por favor.
+94	Saliendo de la zona de batalla. Espere por favor.
+95	La próxima entrada estará disponible en %d minutos.
+96	La siguiente entrada estará disponible en %d segundos.
+97	No puedes usar este artículo aquí.
+98	No puedes usar este artículo aquí.
+99	El efecto ya está activo.
+100	Necesitas un objeto de reencarnación para un avivamiento instantáneo.
+101	La zona de batalla ya está abierta.
+102	La zona de batalla ya está cerrada.
+103	La zona de batalla se abrirá en %d minutos.
+104	La zona de batalla se cerrará en %d minutos.
+105	Hay un evento activo, por lo que recibirás el doble de puntos.
+106	El evento de la zona de batalla ha terminado.
+107	Has informado de tu huida de la zona de batalla y puedes salir de ella en %d minutos.
+108	Un jugador ha informado de su fuga. Mátalos para ganar más puntos.
+109	Su informe de fuga ha sido cancelado.
+110	No puedes recibir la recompensa porque tu inventario está lleno.
+111	Este artículo sólo se puede utilizar en un cibercafé.
+112	Su informe de fuga está activo.
+113	No puedes entrar a la zona de batalla en este momento.
+114	¡Buen trabajo! Por alcanzar el rango %d en la clasificación de la zona de batalla, recibirás una medalla especial.
+115	Actualmente tienes %d puntos. Tu puntuación total es %d.
+116	No puedes usar este objeto mientras escapas de la zona de batalla.
+117	No puedes declarar la guerra en la zona de batalla.
+118	Esta acción no es posible en este mapa.
+119	Importe restante: %d
+120	[Gremio] La tesorería del gremio está en el nivel máximo.
+121	[Gremio] No puedes retirar ningún Yang porque tienes más de 2 billones de Yang.
+122	Esto excede el límite.
+123	[Gremio] No puedes retirar a Yang mientras haya otra ventana abierta.
+124	La declaración de guerra entre gremios caducará en 3 minutos.
+125	Entrarás a la zona de batalla en %d segundos.
+126	Saldrás de la zona de batalla en %d segundos.
+127	Perdiste %d puntos. Puntos restantes: %d.
+128	Desafortunadamente, no tienes suficiente espacio en tu inventario.
+129	No ganarás ningún punto para este jugador.
+130	Has informado de tu salida de la zona de batalla y puedes abandonarla en %d segundos.
+131	¡El evento ha comenzado!
+132	Se utiliza pastel de luna o semilla.
+133	Para continuar, elimina %s de tu lista de amigos.
+134	%s ahora está bloqueado.
+135	%s ya no está bloqueado.
+136	%s ya está bloqueado.
+137	No puedes bloquear a tu cónyuge.
+138	Para continuar, desbloquea %s.
+139	%s te ha bloqueado.
+140	Ha aparecido un monstruo del evento actual.
+141	No tienes suficientes banderas de aniversario.
+142	¡El evento de aniversario ha comenzado!
+143	No puedes usar un anillo de bodas si no estás casado.
+144	El evento de aniversario finaliza en %d minutos.
+145	No puedes usar este artículo mientras usas otro disfraz.
+146	No puedes usar este artículo mientras usas ropa de boda o esmoquin.
+147	No puede hacer esto mientras el artículo está en uso.
+148	[Gremio] No puedes depositar ni retirar Yang del tesoro del gremio mientras haya otra ventana abierta.
+149	[Gremio] No puedes realizar esta acción mientras depositas o retiras Yang del tesoro del gremio.
+150	[Guild] The deposit/withdraw Yang window is already open.
+151	[Gremio] No puedes depositar ni retirar Yang del tesoro del gremio mientras tengas una mascota convocada.
+152	%s aparecerá aquí: %s
+153	Valle Seungryong
+154	No puede utilizar el detector de eventos desde esta ubicación.
+155	Monte Sohan
+156	Desierto de Yongbi
+157	Doyyumhwan
+158	¡El evento de Ramadán ha comenzado!
+159	El evento de Ramadán ha terminado.
+160	No puedes cambiar de canal.
+161	Espere por favor. Cambiando de canal...
+162	Este artículo no se puede absorber.
+163	Este artículo no se puede transformar.
+164	Encantar artículo no se puede usar en este artículo.
+165	El detector de eventos desapareció con un brillo mágico.
+166	El artículo mejorado no se puede utilizar en este artículo.
+167	Este artículo solo se puede comercializar en el mismo mapa.
+168	No puedo conectarme a este canal en este momento. Inténtelo de nuevo más tarde.
+169	[Grupo] No puedes hacer esto mientras la coincidencia de grupos esté activa.
+170	[Gaya] No tienes suficientes piedras brillantes.
+171	[Gaya] No tienes suficiente Yang para cortar Shimmering Stones.
+172	[Gaya] Ya tienes la cantidad máxima de Gaya.
+173	[Gaya] El corte fue exitoso.
+174	[Gaya] El corte falló.
+175	[Gaya] La lista de elementos se ha actualizado.
+176	El detector de eventos desapareció.
+177	[Gaya] No tienes suficiente Gaya.
+178	[Gaya] No puedes comprar este artículo.
+179	[Gaya] No hay más espacio en el inventario.
+180	[Gaya] No tienes suficientes artículos para actualizar el mercado de Gaya.
+181	[Gaya] Primero abre el mercado de Gaya.
+182	[Gaya] No puedes desbloquear otra ranura en Gaya Market.
+183	[Gaya] No tienes suficientes %s. Necesitas %d más para desbloquear otra ranura.
+184	[Gaya] El Mercado Gaya no está disponible en este momento.
+185	[Gaya] El Mercado de Gaya ya está abierto.
+186	[Gaya] Solo puedes abrir el Mercado Gaya si cierras todas las demás ventanas.
+187	La Metin Stone Compass no funciona bajo tierra.
+188	[Partido] La batalla ha comenzado.
+189	[Grupo] Tienes 1 hora para completar el laberinto.
+190	[Grupo] ¡Completaste tu tarea con honores!
+191	[Grupo] Tiempo hasta el teletransporte: %d min. %d seg.
+192	[Grupo] Serás teletransportado fuera del laberinto en 10 minutos.
+193	[Grupo] Te has registrado en la guarida de Meley.
+194	[Grupo] Habla con el NPC apropiado para ingresar.
+195	[Partido] Confesaste.
+196	[Grupo] Serás teletransportado a la ciudad en 1 minuto.
+197	¡Visita %s y recoge tus recompensas!
+198	La Brújula de Piedra Metin desapareció en un brillo mágico.
+199	[Grupo] Las clasificaciones de grupo en la guarida de Meley ahora se están recalculando.
+200	[Grupo] No puedes salir del laberinto en este momento.
+201	[Grupo] Tu tiempo en el laberinto ha expirado.
+202	[Grupo] Has salido del laberinto.
+203	[Grupo] El laberinto se cerrará en %d minutos.
+204	Recibirás: %s - %d
+205	No puedes abrir una tienda mientras estás transformado en piedra.
+206	No puedes usar objetos mientras estás transformado en piedra.
+207	Este comando sólo se puede utilizar en el Templo del Zodíaco.
+208	No tienes suficientes insignias.
+209	La brújula de Metin Stone ha desaparecido.
+210	Aún no has completado todas las misiones.
+211	Necesitas más tesoros de Aventurina y Aureolina para recibir la recompensa.
+212	Has recibido %s.
+213	Has sido revivido por %s.
+214	No tienes suficientes elementos para ser revivido.
+215	Has sido revivido.
+216	No puedes usar esto aquí.
+217	No puedes usar esto ahora mismo.
+218	%s ha sido revivido.
+219	Primer nivel completado. Vuelve con el monje Milbon.
+220	Ganaste %s artículo.
+221	Sólo encuentras un trozo de piedra en el caparazón.
+222	Todos los miembros del grupo quedaron convertidos en piedra. La misión falló.
+223	Todos los niveles completados. Ahora serás transferido al nivel de bonificación.
+224	Misión completada. Una vez que el líder del grupo haga clic en el botón, serás transferido directamente al nivel %d.
+225	La misión no se completó con éxito.
+226	¡Salir! Si nadie revive en un minuto, tu aventura en el laberinto habrá terminado.
+227	El tiempo ha expirado.
+228	Las puertas de este templo se abrirán al día siguiente.
+229	Todos los miembros del grupo deben estar en el mismo mapa para ingresar.
+230	No eres el líder del grupo.
+231	Hay %d templos del zodíaco en el área. Ingrese el comando correspondiente para ser transferido a uno de ellos (1-%d).
+232	No había nada en el caparazón.
+233	No hay ningún templo del zodíaco en este mapa.
+234	Destruye las piedras de Metin.
+235	Nivel de bonificación: Destruye las Piedras Metin.
+236	Destruye las piedras de Metin.
+237	Destruye las piedras de Metin.
+238	Derrota a 5 jefes del Zodíaco.
+239	Nivel de bonificación: tienes 5 minutos para comerciar y comprar suministros.
+240	Destruye las piedras de Metin.
+241	Destruye las piedras de Metin.
+242	Destruye todas las piedras Metin.
+243	Hay una perla blanca en la concha.
+244	Destruye todas las Metin Stones y derrota al jefe del Zodíaco.
+245	Destruye todas las piedras Metin.
+246	Derrota a todos los monstruos.
+247	Derrota a todos los monstruos.
+248	Derrota a los monstruos.
+249	Derrota a los monstruos.
+250	Derrota a todos los monstruos.
+251	Acabas de perder el nivel de bonificación.
+252	Derrota a todos los jefes del Zodíaco.
+253	Hay una Perla Azul en el caparazón.
+254	Derrota al jefe del Zodíaco.
+255	Derrota al jefe del Zodíaco.
+256	Derrota al jefe del Zodíaco sin morir.
+257	Derrota a todos los monstruos sin morir.
+258	El tiempo ha expirado. Buena suerte en tu próximo intento.
+259	Derrota al jefe del Zodíaco.
+260	Derrota al jefe del Zodíaco.
+261	Nivel de bonificación: Destruye las Piedras Metin.
+262	Destruye las piedras de Metin. Si tiene éxito, recibirá un beneficio adicional.
+263	¡Quedan %d minutos para registrarse en el torneo PvP!
+264	Hay una perla roja sangre en el caparazón.
+265	No puedes ingresar a la arena del torneo PvP.
+266	No puedes transformarte durante un torneo PvP.
+267	¡Quedan %d hasta que comience la batalla!
+268	La batalla ha comenzado.
+269	Winner: %s / Loser: %s
+270	%s abandonó la arena. %s ganó.
+271	Registro del torneo PvP completado.
+272	El torneo PvP comienza en %d minutos.
+273	Final
+274	No es fácil entender este libro.
+275	Semifinal
+276	% lu redondo
+277	Ningún ganador
+278	El torneo PvP ha finalizado.
+279	¡%s es el ganador del torneo!
+280	Participantes: %s
+281	Participantes restantes: %lu
+282	Participantes actuales: %lu
+283	Te has registrado para el torneo PvP.
+284	Este libro no te ayudará.
+285	No estás registrado para el torneo PvP.
+286	Este comando sólo se puede utilizar en el mapa del torneo PvP.
+287	¡Yutnori aún no ha comenzado!
+288	Recoge ramas de abedul, crea un tablero para Yutnori y juega un emocionante minijuego.
+289	¡Te esperan fantásticos premios!
+290	¡Yutnori ha terminado!
+291	Ve a la mesa de Yutnori y elige tu premio.
+292	No tienes suficientes elementos necesarios para jugar Yutnori.
+293	[Sistema de alma] Utilice %s para recibir el efecto.
+294	[Sistema de alma] %s ya está en el nivel más alto.
+295	Debes tener al menos el nivel 30 para entender este libro.
+296	[Sistema del alma] El alma está activa.
+297	Mientras utiliza el sistema de actualización, no puede alimentar a su mascota.
+298	[Acción de matanza de monstruos] El mapa %s informa del avistamiento de %s.
+299	Condado de Yayang
+300	Condado de Bokjung
+301	Condado de Bakra
+302	Templo Hwang
+303	Kuahlo Dong (Mazmorra de las Araña)
+304	Laberinto de arañas 2
+305	Debes tener al menos el nivel 50 para entender este libro.
+306	Acantilado de Gautama
+307	Bahía de Jade
+308	Montañas tormentosas
+309	Bosque Maldito
+310	Cueva del exilio
+311	Cueva del exilio 2
+312	¡No puedes entrar mientras conduces!
+313	¡Esto no se puede usar en artículos actualmente equipados!
+314	bosque rojo
+315	Campo de serpientes
+316	No puedes entrenar más combos.
+317	Aún necesitas %d %s.
+318	El evento ha terminado. Ya no puedes usar este artículo.
+319	Nivel máximo alcanzado.
+320	¡Éxito! El efecto %s ha sido aumentado al nivel %d.
+321	¡Falla! El intento de actualizar el efecto %s al nivel %d falló.
+322	¡Éxito! El efecto %s ahora está activo.
+323	¡Falla! El intento de cambiar el efecto %s falló.
+324	¡Éxito! El efecto %s ahora está activo.
+325	¡Falla! El efecto %s no fue activado.
+326	¡El evento Flower Power ha comenzado!
+327	¡El gremio %s capturó la bandera del gremio %s!
+328	Ya hablas este idioma con fluidez.
+329	El evento Flower Power ha finalizado.
+330	Debes esperar un momento antes de volver a abrir el buzón.
+331	Debe cerrar otras ventanas antes de abrir el buzón.
+332	Tu buzón está lleno.
+333	Elimine mensajes en el buzón para recibir otros nuevos.
+334	No puedes usar esto ahora mismo.
+335	[Gremio] No puedes usar habilidades de gremio durante una guerra de gremio.
+336	[Gremio] Esto sólo se puede usar durante una guerra de gremio.
+337	Has recibido %d ganado.
+338	[Gremio] Guardado: %d Yang
+339	Ya no puedes mejorar esta habilidad.
+340	[Gremio] Compra cancelada porque ya posees territorio del gremio.
+341	[Gremio] Compra cancelada porque tu gremio ya posee territorio de gremio.
+342	[Capturar al Rey] No tienes una buena puntuación para el premio.
+343	[Capturar al Rey] ¡Juega a Capturar al Rey ahora!
+344	[Evento Okey] Mata monstruos, colecciona cartas y juega Okey.
+345	[Evento OK] ¡Te esperan premios increíbles!
+346	[Capturar al Rey] ¡El juego Capturar al Rey ha terminado!
+348	[Capturar al Rey] No tienes la Colección Real ni suficiente Yang.
+349	[Capturar al Rey] ¡%s obtuvo %d puntos en Capturar al Rey!
+350	Debes subir de nivel para entender este libro.
+351	¡Ya has usado el Elixir del Investigador!
+352	El laberinto 'Ship Defense' está listo. El pescador ahora te dejará embarcar.
+353	¡Los monstruos marinos nos están atacando! ¡Prepárate para la batalla!
+354	¡Atacan de nuevo! ¡Preparad vuestras armas!
+355	¡Aterriza en el horizonte! Defendiste con éxito el mástil y llegaste a un nuevo continente después de un largo viaje. Continúe hasta el portal.
+356	Tu mástil fue destruido. Luchaste con valentía, pero la batalla estaba perdida.
+357	Debes abandonar el barco en %d segundos.
+358	Debes abandonar el barco en %d minutos.
+359	La batalla naval comienza en %d segundos.
+360	Este libro es demasiado difícil de aprender.
+361	¡Apurarse! Tienes %d minutos para pasar por el portal al continente.
+362	Debes abandonar el barco ahora porque no iniciaste la batalla naval.
+363	Si no inicias la batalla naval en 1 minuto, tendrás que abandonar el barco.
+364	%s HP: %d%%
+365	¡LLAMADA DE SOCORRO! Tu mástil fue destruido y el barco se está hundiendo. Ahora serás transferido a Dragon Fire Bay.
+366	Ola %d: Durante %d segundos, debes proteger a %s con todas tus fuerzas.
+367	Ola %d: Mientras proteges a %s, derrota a %s.
+368	Defendiste con éxito el mástil. ¡Sigue adelante! Prepárate para la próxima ola.
+369	La próxima ola llegará en %d segundos.
+370	%s
+371	No puedes entrenar más con este libro.
+372	Puedes abandonar la batalla en %d segundos.
+373	No puedes realizar esta acción en este momento.
+374	Después de abrir el buzón, debes esperar %d segundos antes de cambiar de canal o teletransportarte.
+375	Impuestos establecidos en %d%%.
+376	Necesitas al menos el nivel 50 para entrenar a equitación.
+377	Escapaste de la maldición del espíritu maligno usando el pergamino de exorcismo.
+378	No se pueden leer más guías de equitación.
+379	Recibiste puntos para montar a caballo después de leer la guía de montar a caballo.
+380	Puedes utilizar este punto para mejorar tus habilidades de conducción.
+381	La bandera del gremio %s fue robada por el jugador %s.
+382	No entendiste la guía de equitación.
+383	Tu mente está clara. Ahora puedes concentrarte bien.
+384	Tu rango ha aumentado en %d puntos.
+385	No puedes teñir ni desteñir tu peinado actual.
+386	Debes alcanzar el nivel %d para volver a teñir tu peinado.
+387	Este artículo sólo puede ser abierto por el sexo opuesto.
+388	No puedes usar esto desde esta posición.
+389	No puedes usar el desplazamiento de ubicación porque estás listo para teletransportarte.
+390	Ha sido trasladado de regreso al punto de partida.
+391	%s%s no se puede usar en la mazmorra.
+392	[Misión] Ya has recibido la recompensa.
+393	to
+394	to
+395	No hay fragmentos de piedra que quitar.
+396	No puedes cambiar las actualizaciones de este artículo.
+397	No tienes actualizaciones que se puedan cambiar.
+398	Solo puedes hacer esto %d minutos después de la actualización. (Quedan %d minutos)
+399	Cambiaste la actualización.
+400	Actualización agregada exitosamente.
+401	No se agregó la actualización del artículo.
+402	Debes usar Blessing of Marble para agregar otra bonificación.
+403	No puedes usar esto en este campo.
+404	Este artículo ya no se puede actualizar. Número máximo de bonos alcanzados.
+405	Si el artículo ya tiene 4 bonificaciones, puedes mejorarlo solo usando Blessing of Marble.
+406	El socket se agregó exitosamente.
+407	No se agregó el enchufe.
+408	No se pueden agregar más enchufes a este artículo.
+409	Este artículo no puede tener más enchufes.
+410	Encantamiento exitoso.
+411	El encantamiento falló.
+412	Primero debes agregar un enchufe. Usa un diamante para eso.
+413	Aquí no hay casquillos de gemas.
+414	Puedes hacer esto sólo mientras usas una máscara de emoción.
+415	Debes agregar un encaje para usar un diamante.
+416	No se pueden agregar más gemas a este artículo.
+417	Estos artículos no se pueden usar juntos.
+418	No se puede cambiar el cebo mientras se pesca.
+419	Reemplazaste tu cebo actual con %s.
+420	Colocaste %s en el anzuelo como cebo.
+421	No tienes todos los ingredientes para elaborar el elixir.
+422	No tienes suficientes ingredientes (%s).
+423	No tienes suficientes botellas vacías.
+424	Falló la mezcla del elixir.
+425	Sólo las mujeres pueden hacer esto.
+426	No puedes agregar más piedras del mismo tipo.
+427	Esta piedra espiritual no se puede agregar a este tipo de artículo.
+428	Esta piedra espiritual no se puede agregar a un arma.
+429	La piedra espiritual se agregó con éxito.
+430	La piedra espiritual se rompió mientras se agregaba.
+431	No hay enchufes libres.
+432	Actualmente, esta función no está disponible aquí.
+433	No puedes usar un Pergamino de Ubicación durante una batalla del reino.
+434	No puedes usar un desplazamiento de ubicación %d segundos después de abrir el almacén.
+435	No puede utilizar un desplazamiento de ubicación mientras hay otra ventana abierta.
+436	Esta persona no existe.
+437	No puedes usar un desplazamiento %d segundos después de operar.
+438	No puedes usar un desplazamiento de ubicación %d segundos después de abrir el almacén.
+439	No puedes usar un desplazamiento de ubicación porque la distancia es demasiado pequeña.
+440	Después de operar, no puedes usar un desplazamiento de ubicación durante %d segundos.
+441	No puede abrir el almacén si ya hay otra ventana abierta.
+442	No puedes soltar este artículo.
+443	El artículo caído desaparecerá en 5 minutos.
+444	%s recibidos.
+445	Tienes demasiados artículos en tu inventario.
+446	%s recibe %s.
+447	Todos serán teletransportados a la ciudad en breve.
+448	Estás demasiado cerca.
+449	Comercio de artículos: %s, %s
+450	No puedes cambiar los elementos equipados durante tu transformación.
+451	Debes estar quieto para equipar este objeto.
+452	Las hierbas de mono no están destinadas a alimentar a caballos vivos. Se utilizan para revivir caballos muertos.
+453	No se puede alimentar a un caballo muerto.
+454	Le diste de comer hierbas al caballo.
+455	Le diste de comer al caballo.
+456	Tu nivel es demasiado bajo para usar este peinado.
+457	Ya tienes este peinado.
+458	Ya estás transformado.
+459	Estás demasiado lejos.
+460	Éste es el elemento equivocado para la transformación.
+461	No puedes transformarte en un monstruo con un nivel superior al tuyo.
+462	Tu nivel es demasiado bajo para usar este artículo.
+463	No eres lo suficientemente fuerte para usar este artículo.
+464	No tienes suficiente inteligencia para usar este artículo.
+465	No tienes suficiente destreza para usar este artículo.
+466	No tienes suficiente vitalidad para usar este artículo.
+467	No puedes utilizar este artículo porque no estás casado.
+468	No puedes usar este artículo dos veces.
+469	Tiempo restante hasta que se retire el encaje de %s: %d
+470	Sólo el sexo opuesto puede hacer esto.
+471	La gema incrustada en %s desapareció.
+472	[Gremio] El nombre del gremio no es válido.
+473	[Gremio] El nombre de este gremio ya está en uso.
+474	[Gremio] No puedes crear un gremio.
+475	¡El gremio %s declaró la guerra al gremio %s!
+476	[Gremio] %s no aceptó la guerra de gremios.
+477	¡La guerra de gremios entre %s y %s comenzará en unos segundos!
+478	¡La guerra entre %s y %s ha comenzado!
+479	La guerra entre %s y %s terminó en empate.
+480	El gremio %s ganó la guerra contra el gremio %s.
+481	Necesitas el consentimiento de tu compañero de equipo para esto.
+482	[Gremio] La guerra de gremios ha sido cancelada.
+483	La guerra entre el gremio %s y el gremio %s ha sido cancelada.
+484	Cerca
+485	Cancelado. Has entrado en la batalla.
+486	Alguien inició sesión en su cuenta. Estarás desconectado.
+487	Una luz misteriosa proviene del árbol.
+488	Se ha agregado %d tiempo de juego a tu cuenta. (Número de pago %d)
+489	Puedes participar en la batalla del gremio como espectador.
+490	Aparecerá un icono durante la selección de personaje.
+491	No hay enemigos.
+492	¡La batalla con %s ha comenzado!
+493	Si no se encuentra ningún enemigo, la guerra de gremios terminará automáticamente.
+494	Dado que la guerra de gremios terminó prematuramente, se considerará un empate.
+495	La energía se refleja en la bendición del emperador.
+496	En %d segundos podrás usar la bendición del emperador.
+497	Ingresos fiscales insuficientes: %d.
+498	[TEST_ONLY]Impuesto: %d
+499	Error durante la transformación.
+500	Has aprendido completamente la transformación.
+501	Por favor llame primero a su caballo.
+502	Enviaste tu caballo de vuelta.
+503	¡%s te retó a duelo!
+504	Debes desmontarte de tu caballo.
+505	¡No puedes alimentar a tu caballo mientras lo montas!
+506	Le diste %s%s al caballo.
+507	Necesitas %s.
+508	%d segundos hasta el apagado.
+509	El juego terminará en %d segundos.
+510	%d segundos hasta el apagado.
+511	Su cierre de sesión ha sido cancelado.
+512	Volviendo a la ventana de inicio de sesión. Espere por favor.
+513	Te han desconectado del servidor. Espere por favor.
+514	Retaste a %s a un duelo.
+515	Cambiaste de personaje. Espere por favor.
+516	Un nuevo comienzo no es posible en este momento. Espere %d segundos.
+517	No es posible reiniciar. Espere otros %d segundos.
+518	No es posible reiniciar. Espere otros %d segundos.
+519	Aún no es posible reiniciar en la ciudad. Espere otros %d segundos.
+520	Perdiste la oportunidad de revivir. Regresarás al pueblo.
+521	No puedes cambiar tu estado durante tu transformación.
+522	El jugador se encuentra actualmente en batalla.
+523	[Gremio] Esto no pertenece al gremio.
+524	[Gremio] No estás autorizado a cambiar el nivel de habilidad del gremio.
+525	La selección es incorrecta.
+526	[Almacén] Ingresaste la contraseña incorrecta.
+527	[Almacén] El almacén ya está abierto.
+528	[Almacén] Debes esperar 10 segundos para reabrir el almacén.
+529	[Almacén] Estás demasiado lejos para abrir el almacén.
+530	[Grupo] El servidor no puede procesar la solicitud de grupo.
+531	[Grupo] No puedes abandonar el grupo aquí.
+532	[Grupo] Dejaste el grupo.
+533	[Gremio] Tu gremio ya está en otra guerra.
+534	[Gremio] No elegible para la guerra de gremios.
+535	[Gremio] El gremio con este nombre no existe.
+536	Aquí ya hay una candidatura.
+537	[Gremio] Este gremio ya está participando en una guerra.
+538	[Gremio] No hay suficiente Yang para participar en la guerra del gremio.
+539	[Gremio] El gremio no tiene suficiente Yang para participar en la guerra del gremio.
+540	[Gremio] Este gremio ya está registrado para otra guerra de gremios.
+541	[Gremio] Este gremio ya está participando en otra guerra.
+542	[Gremio] El nivel del gremio es demasiado bajo para participar en la guerra del gremio.
+543	[Gremio] Al menos %d jugadores deben registrarse para la guerra de gremios.
+544	[Gremio] El gremio no tiene suficientes puntos para participar en la guerra.
+545	[Gremio] El gremio no tiene suficientes miembros para participar en la guerra.
+546	Tu nivel debe ser superior a 20 para registrar tu número de móvil.
+547	No tienes la capacidad de convertirte en emperador.
+548	%s rechazó la invitación.
+549	No puedes aceptar la invitación porque ya estás en un grupo.
+550	Sólo el emperador puede utilizar esto.
+551	Tiempo de espera de aproximadamente %d segundos.
+552	Impuestos insuficientes. Capital actual: %u Capital faltante: %u
+553	Comando: warpto <nombre de personaje>
+554	No puedes pasar a un jugador desconocido.
+555	Agregando el jugador %d al canal. (Canal actual %d)
+556	Transporte a %s.
+557	No puedes llamar a jugadores desconocidos.
+558	[Gremio] Los puntos de experiencia por cazar no cuentan durante la guerra de gremios.
+559	Si usas la bendición del emperador, %s HP y MP se restaurarán nuevamente.
+560	Tiene información del emperador.
+561	[%sRuler] : %s Yang era dueño de %lld
+562	[%sRegla]: %s
+563	Información del emperador
+564	Sólo el emperador puede utilizar esto.
+565	Seleccione un número entre 1 y 50.
+566	Impuestos establecidos en %d %%.
+567	No se puede invocar al monstruo. Verifique el número de mafia.
+568	Puntos de vida +%d
+569	Puntos de maná +%d
+570	La bendición del emperador está activa.
+571	Resistencia +%d
+572	Inteligencia +%d
+573	Fuerza +%d
+574	Destreza +%d
+575	Velocidad de ataque +%d
+576	Velocidad de movimiento %d
+577	Tiempo de recuperación -%d
+578	Regeneración de salud +%d
+579	Regeneración de maná +%d
+580	Ataque de veneno %d
+581	Preparante. Utilizable después de %d.
+582	Estrella +%d
+583	Reducción lenta +%d
+584	Probabilidad de ataque crítico %d%%
+585	Probabilidad de ataque penetrante %d%%
+586	Poder de ataque del jugador contra monstruos +%d%%
+587	Poder de ataque del caballo contra monstruos +%d%%
+588	Aumento de ataque contra Wonggui + %d%%
+589	Aumento de ataque contra Milgyo + %d%%
+590	Aumento de ataque contra zombis + %d%%
+591	Aumento de ataque contra demonios + %d%%
+592	Del emperador Sa-Za-Hu, el jugador recibió %s con un 10%% más de poder de ataque durante 3 minutos.
+593	Absorción de vida %d%% al atacar.
+594	Absorción de maná (MP) %d%% al atacar.
+595	Posibilidad de %d%% de robar MP del enemigo.
+596	Probabilidad de absorción de MP %d%%
+597	%d%% de probabilidad de bloquear un ataque cuerpo a cuerpo.
+598	%d%% de probabilidad de bloquear un ataque a distancia.
+599	Defensa contra espadas de una mano %d%%
+600	Defensa contra espadas a dos manos %d%%
+601	Defensa contra espadas a dos manos %d%%
+602	Defensa contra campana %d%%
+603	Del emperador Geum-Gang-Gwon, el jugador recibe %s con un 10%% más de armadura durante 3 minutos.
+604	Defensa contra fan %d%%
+605	Resistencia al ataque a distancia %d%%
+606	Resistencia al fuego %d%%
+607	Resistencia al rayo %d%%
+608	Resistencia a la magia %d%%
+609	Resistencia al viento %d%%
+610	Reflejo del golpe directo: %d%%
+611	Reflejo de maldición: %d%%
+612	Resistencia al veneno %d%%
+613	MP (MB) aumentará a %d%% si ganas.
+614	El evento ya está en curso (Indicador: %d)
+615	La experiencia aumentará a %d%% si ganas contra el enemigo.
+616	Aumenta el Yang en %d%% si ganas contra el enemigo.
+617	Aumenta los artículos de botín en %d%% si ganas contra el enemigo.
+618	Aumenta la fuerza en %d%% después de beber el elixir.
+619	%d%% de posibilidades de recargar puntos de salud si ganas.
+620	Sin mareos %d%%
+621	Sin desaceleración %d%%
+622	Sin caída %d%%
+623	Poder de ataque +%d
+624	Armadura + %d
+625	El script OX Quiz no se puede cargar.
+626	Ataque mágico + %d
+627	Defensa mágica + %d
+628	Resistencia máxima + %d
+629	Fuerza contra guerreros + %d%%
+630	Fuerza contra Ninjas + %d%%
+631	Fuerza contra Suras + %d%%
+632	Fuerza contra chamanes + %d%%
+633	Fuerza contra monstruos + %d%%
+634	Ataque + %d%%
+635	Defensa + %d%%
+636	El script OX Quiz está cargado.
+637	Experiencia %d%%
+638	Posibilidad de encontrar un artículo %. 1f
+639	Posibilidad de encontrar Yang %. 1f
+640	Límite máximo de HP +%d%%
+641	Límite máximo de HP +%d%%
+642	Daño de habilidad %d%%
+643	Daño de golpe %d%%
+644	Resistencia al daño de habilidad %d%%
+645	Resistencia al daño por golpe %d%%
+646	%d%% resistencia al ataque del guerrero
+647	Bienvenidos a Metin2.
+648	%d%% resistencia al ataque ninja
+649	%d%% resistencia al ataque sura
+650	%d%% resistencia al ataque de chamán
+651	(Procedimiento: %d r- %d m - %dd d)
+652	Tu chat está bloqueado.
+653	Necesitas un nivel superior para convocar.
+654	Necesitas al menos el nivel %d para convocar.
+655	No estás en este grupo.
+656	No te uniste a este gremio.
+657	El jugador se negó a ser agregado a tu lista de amigos.
+658	La competición OX ha comenzado.
+659	[Lista de amigos] No puedes agregar GM a tu lista de amigos.
+660	%s no está en el juego.
+661	Después de terminar de operar, puedes abrir tu puesto en %d segundos.
+662	Puedes volver a operar en %d segundos.
+663	Tienes más de 2 billones de Yang. No puedes comerciar.
+664	No se puede abrir un cubículo privado cuando hay otra ventana abierta.
+665	El jugador tiene más de 2 billones de Yang. No puedes comerciar con ellos.
+666	[Almacén] No es posible realizar transferencias.
+667	[Almacén] El artículo no se puede almacenar.
+668	[Grupo] El jugador que invitó no está en línea.
+669	La batalla del gremio no puede comenzar porque el servidor no está en línea.
+670	Con el permiso de Uriel podrás entrar.
+671	[Grupo] Sólo el líder del grupo puede cambiar esto.
+672	[Grupo] Target no es miembro de su grupo.
+673	[Grupo] Aquí no puedes expulsar a un jugador del grupo.
+674	[Grupo] Aquí no puedes expulsar a un jugador del grupo.
+675	[Grupo] Te han expulsado del grupo.
+676	[Grupo] No puedes abandonar el grupo aquí.
+677	[Grupo] No puedes expulsar a los miembros del grupo.
+678	[Gremio] Después de eliminar un gremio, no puedes crear uno nuevo durante %d días.
+679	[Gremio] Después de abandonar un gremio, no puedes crear uno nuevo durante %d días.
+680	El nombre del gremio no es válido.
+681	Solicitando participación de muchos jugadores.
+682	[Gremio] [%s] se ha creado el gremio.
+683	[Gremio] Falló la creación del gremio.
+684	[Grupo] Sólo el líder del grupo puede utilizar las habilidades del grupo.
+685	[Grupo] Destino no encontrado.
+686	[Gremio] Cantidad incorrecta de Yang.
+687	[Gremio] No tienes suficiente Yang.
+688	[Gremio] No se puede encontrar a la persona buscada.
+689	[Gremio] Esta persona no está en el mismo gremio.
+690	[Gremio] No puedes expulsar a los miembros del gremio.
+691	[Gremio] El miembro del gremio %s ha sido expulsado del gremio.
+692	La competencia OX aún no ha terminado, se produjeron errores. (bandera: %d)
+693	[Gremio] Pateaste a un miembro del gremio.
+694	[Gremio] No puedes cambiar el nombre de tu rango.
+695	[Gremio] Los derechos del líder del gremio no se pueden cambiar.
+696	[Gremio] El nombre del rango no es válido.
+697	[Gremio] No puedes cambiar tu posición.
+698	[Gremio] Los derechos del líder del gremio no se pueden cambiar.
+699	[Gremio] Usé %u experiencia.
+700	[Gremio] Falló el uso de la experiencia.
+701	[Gremio] ¡No tienes suficiente Yang en el tesoro del gremio!
+702	[Gremio] El espíritu del dragón no fue restaurado.
+703	La competición OX comenzará de nuevo en breve.
+704	[Gremio] No puedes hacer una declaración.
+705	[Gremio] No puedes cambiar de posición.
+706	[Gremio] El rango del líder del gremio no se puede cambiar.
+707	[Gremio] No puedes convertirte en líder del gremio.
+708	[Gremio] No puedes seleccionar un líder de gremio.
+709	[Gremio] No puedes seleccionar varios líderes.
+710	No puedes intercambiar este artículo.
+711	Software ilegal detectado. El juego terminará.
+712	Tienes más de 2 billones de Yang. No puedes comerciar.
+713	Yang no válido.
+714	El evento actual está limitado a un solo área.
+715	Iniciar la ruleta de artículos.
+716	Empieza la ruleta.
+717	El jugador está en línea. Utilice susurro para charlar.
+718	El número de teléfono móvil no está registrado.
+719	Debes tener al menos el nivel 20 para enviar mensajes de texto.
+720	Necesitas 2000 DT para enviar un mensaje de texto.
+721	Su mensaje de texto ha sido enviado.
+722	¡%s del gremio %s aumentaron a %d%%!
+723	%s del gremio %s ha vuelto a la normalidad.
+724	%s: ¡%s aumentó en %d%%!
+725	La competencia OX terminará.
+726	%s 's %s ha vuelto a la normalidad.
+727	Tus puntos de minería aumentaron al máximo. (%d).
+728	Tus puntos de minería aumentaron al nivel más alto.
+729	Puedes mejorar tu pico con la ayuda del leñador Deokbae.
+730	¡Tus puntos mineros aumentaron! (%d/%d)
+731	No se puede cavar sin un pico.
+732	No hay nada que cavar aquí.
+733	La excavación fue exitosa.
+734	La excavación falló.
+735	[Lista de amigos] Agregaste a %s como amigo.
+736	El jugador será transportado a la ciudad en breve.
+737	[Lista de amigos] Eliminaste a %s de la lista.
+738	Error crítico del servidor. El servidor se reiniciará automáticamente.
+739	Estarás desconectado en 10 segundos.
+740	Puedes volver a conectarte en 5 minutos.
+741	(%s) Gremio creado. [Temporario]
+742	El gremio está en guerra.
+743	%s: Este gremio no existe.
+744	El gremio con este nombre o número no existe.
+745	Este edificio no existe.
+746	Este tipo de edificio sólo se puede construir una vez.
+747	Primero cierre la pestaña de competencia OX. (Bandera: %d)
+748	Primero se debe construir un edificio básico.
+749	La construcción fracasó debido a un costo de construcción incorrecto.
+750	Tu gremio no tiene suficiente Yang para construir este edificio.
+751	No tienes suficientes recursos para este edificio.
+752	No puedes construir un edificio en esta ubicación.
+753	Este personaje no existe.
+754	Duelo no cancelado.
+755	Duelo cancelado con éxito.
+756	El duelo comenzó con éxito.
+757	Error al iniciar el duelo.
+758	No se produjeron errores.
+759	Aquí no hay luchadores.
+760	No quedan puntos de estadísticas corporales.
+761	Muy pocos puntos de estadísticas corporales restantes.
+762	Ingresaste un valor no válido.
+763	La subordinación del mando no es válida.
+764	Contrato cancelado entre el jugador %d y el jugador %d.
+765	Gira la ruleta para %d Yang.
+766	Registro de artículo guardado en el registro del sistema.
+767	información para el reino
+768	Seleccionar información del mapa de Tierra Santa %d entrada %d %d %d
+769	Se produjo un error.
+770	%s mata a %d monstruos asesinados %d jefe mata a %d número de Tierra Santa %d
+771	Información del estado de la batalla del reino.
+772	Su solicitud está siendo procesada. Espere por favor.
+773	No puedes abrir el Almacén cuando hay otra ventana abierta.
+774	[Almacén] Se ha cambiado la contraseña del almacén.
+775	[Almacén] Ingresaste la contraseña incorrecta.
+776	Tu tiempo de juego expirará en %d minutos.
+777	Correctamente votado.
+778	Ya votado.
+779	El jugador %s ya está en la votación.
+780	Le declaraste la guerra a este gremio.
+781	La competencia OX terminó, no se produjeron errores. (Bandera: %d)
+782	No puede ser elegido.
+783	%s todavía tiene %u Yang.
+784	%s todavía tiene %d Yang
+785	No tienes suficiente Yang.
+786	%s fue eliminado como candidato a emperador.
+787	%s no es candidato a emperador.
+788	%s fue nominado para emperador.
+789	%s no puede ser nominado para emperador.
+790	El emperador %s fue expulsado.
+791	El emperador %s no puede ser expulsado.
+792	Los eventos OX no pueden tener más participantes.
+793	Reino de Shinsoo
+794	Reino de Chunjo
+795	Reino de Jinno
+796	¡Tus puntos de pesca aumentaron! (%d/%d)
+797	Has alcanzado el número máximo de puntos de pesca.
+798	Mejora tu caña con la ayuda del pescador.
+799	Perdiste tu cebo.
+800	¡Has pescado un pez! (%s)
+801	La longitud del pescado capturado es %.2fcm.
+802	Evento de pesca 'Mejor Pescador'
+803	OX Se enumeran otros participantes del evento.
+804	Evento de pesca 'La paciencia trae rosas'.
+805	%s: %d
+806	Atrapaste a %d de %d.
+807	Los peces desaparecieron en las profundidades infinitas...
+808	Dentro del pescado hay una concha.
+809	Dentro del pez hay un gusano.
+810	Asas a %s al fuego.
+811	No puedes comerciar porque llevas más de 2 billones de Yang.
+812	No puede nombrar su almacén con un nombre no válido.
+813	No se puede vender un artículo de la tienda de accesorios en un puesto privado.
+814	OX Los demás participantes del evento no figuran en la lista.
+815	Excavación completada.
+816	Toma el pico.
+817	Elige tu caña de pescar.
+818	Primero ponga el cebo en el anzuelo.
+819	No se puede ir a pescar sin caña.
+820	[Grupo] No puedes realizar la solicitud porque el líder del grupo no está en línea.
+821	[Grupo] No puedes crear un grupo con jugadores de otros reinos.
+822	[Grupo] No puedes invitar jugadores al grupo aquí.
+823	[Grupo] No puedes invitar jugadores mientras estás en modo observador.
+824	[Grupo] Solo se pueden invitar jugadores con una diferencia de nivel entre -30 y +30.
+825	Número de participantes adicionales: %d
+826	[Grupo] No puedes invitar a este jugador; su nivel es demasiado bajo.
+827	[Grupo] No puedes invitar a este jugador; su nivel es demasiado alto.
+828	[Grupo] No puedes invitar a más jugadores a tu grupo.
+829	¿Quieres unirte al grupo del jugador %s?
+830	Este jugador no está en este grupo.
+831	[Grupo] No puedes unirte a este grupo; ya esta lleno.
+832	[Grupo] No tienes derecho a invitar a alguien.
+833	[Grupo] %s rechazó la invitación a tu grupo.
+834	[Grupo] %s ya está en un grupo.
+835	[Grupo] No puedes aceptar una invitación aquí.
+836	La competencia OX ha terminado.
+837	[Grupo] No puedes aceptar una invitación.
+838	[Grupo] %s rechazó tu invitación.
+839	[Grupo] %s se unió a tu grupo.
+840	[Grupo] %s se unió a tu grupo.
+841	No puedes usar un puesto privado ahora.
+842	Este jugador ya está negociando con alguien.
+843	Número de confirmación de Metin2: %s
+844	Su número de confirmación es incorrecto. Por favor inténtalo de nuevo.
+845	El número de teléfono móvil está registrado.
+846	No puedes teletransportarte al jugador.
+847	Se ha otorgado la recompensa de la competencia OX. ID: %d Cantidad: %d
+848	El jugador no está en línea.
+849	El jugador está en el canal %d. (Estás en el canal %d.)
+850	No puedes moverte a ningún lado durante %d segundos después de abrir el almacén.
+851	No puede moverse inmediatamente después de operar.
+852	No puedes moverte a ningún lado durante %d segundos después de operar.
+853	El duelo terminó; Tu luchador desapareció.
+854	No hay límite de elixires.
+855	Puedes usar hasta %d elixires.
+856	El duelo comenzará en 10 segundos.
+857	El duelo comenzó.
+858	TRUE
+859	El duelo terminó debido a un problema en la arena.
+860	El duelo terminó, el tiempo expiró.
+861	En 10 segundos serás trasladado a la ciudad.
+862	El duelo terminó debido a un problema en la arena.
+863	Tu oponente está teniendo problemas. El duelo está terminando.
+864	El duelo terminó por problemas del oponente.
+865	%s ganó el duelo.
+866	%s ganó.
+867	Serás trasladado a la ciudad en 10 segundos.
+868	La próxima ronda comenzará en 10 segundos.
+869	FALSE
+870	Oponente desconectado. El duelo terminó.
+871	La probabilidad de caída es actualmente +%d%%
+872	La cuota de caída de Yang es actualmente +%d%%
+873	La probabilidad actual de caída del Yang es %d%% mayor.
+874	La bonificación de experiencia es actualmente un %d%% adicional.
+875	La versión del cliente del juego es incorrecta. Instale el último parche.
+876	No puede operar cuando hay otra ventana abierta.
+877	Estás demasiado lejos de la tienda para comprar.
+878	Estás demasiado lejos de la tienda para vender.
+879	No puedes comerciar porque llevas más de 2 billones de Yang.
+880	Número total de pruebas: %d
+881	Impuesto sobre las ventas: %d%%.
+882	No puedes montar a caballo durante tu transformación.
+883	No se puede montar a caballo si se lleva vestido de novia o esmoquin.
+884	No tienes un caballo.
+885	Tu caballo está muerto.
+886	La resistencia de tu caballo es demasiado baja.
+887	No se pudo llamar al caballo.
+888	Caballo
+889	La boda terminará pronto.
+890	Se dejará automáticamente.
+891	La guerra ya terminó.
+892	El resultado se conocerá en 10 segundos.
+893	No se puede comerciar mientras se observa.
+894	Si hay una ventana abierta, no podrá comerciar con otros.
+895	La otra persona está actualmente ocupada, por lo que no puedes comerciar con ella ahora.
+896	La otra persona canceló el intercambio.
+897	Yang insuficiente o espacio de inventario.
+898	La otra persona no tiene suficiente Yang o espacio en el inventario.
+899	La otra persona no tiene suficiente espacio en el inventario.
+900	El comercio con %s fue exitoso.
+901	No perdiste ninguna experiencia gracias a la bendición del Dios Dragón.
+902	Puntuación actual: Shinsoo: %d, Chunjo: %d, Jinno: %d
+903	La respuesta correcta es:
+904	%s deadcount %d Imperio %d killcount %d(Propósito %d) killmobcount %d, RegenFlag %d
+905	Diablo del lugar santo: [ENTRAR][ENTRAR]
+906	, no tienes derecho a estar aquí. Este es un lugar santo. ¡Dejar! Los miembros de tu reino abandonarán el lugar santo en 10 segundos.
+907	El reino %s fue derrotado y abandonó la batalla del reino.
+908	Número de monstruos en la Batalla del Reino:
+909	Si derrotas al guardián del lugar sagrado, te convertirás en su dueño.
+910	Gracias a la protección del Dios Dragón, no perdiste ningún objeto.
+911	Daño de arma extra perforante %d
+912	¡%s bloque! (%d%%)
+913	¡%s esquiva! (%d%%)
+914	Sí (O)
+915	%s[%d]s Posición de ataque: %d %d
+916	Por favor ingrese el comando completo.
+917	No puedes hacer esto mientras montas a caballo.
+918	No puedes hacer esto mientras estás acostado en el suelo.
+919	¿En mis sueños? ¿Qué?
+920	Levántate primero.
+921	Este comando no existe.
+922	[Grupo] El grupo se ha disuelto.
+923	[Grupo] No puedes convocar al objetivo.
+924	[Grupo] No puedes convocar a miembros del grupo a tu ubicación actual.
+925	No (X)
+926	El grupo coopera bien y los miembros cercanos reciben una bonificación de experiencia.
+927	Líder
+928	Miembro
+929	[Gremio] La experiencia proporcionada supera la experiencia restante.
+930	[Gremio] El mensaje no se puede eliminar.
+931	[Gremio] No hay suficiente Espíritu de Dragón. (%d, %d)
+932	[Gremio] Aún no puedes usar la habilidad del gremio.
+933	[Gremio] %d-habilidad utilizada (%d, %d) en %u.
+934	[Gremio] El jugador está en el canal %d. (Canal actual: %d)
+935	[Gremio] El jugador no está en línea.
+936	En 5 segundos todos los que respondieron incorrectamente serán eliminados.
+937	[Gremio] Esta habilidad de gremio solo se puede usar durante la guerra.
+938	[Gremio] Se han restaurado %u puntos de Espíritu del Dragón.
+939	[Gremio] Sólo el maestro del gremio puede seleccionar a Yang.
+940	[Gremio] El jugador rechazó la invitación al gremio.
+941	[Gremio] No puedes aceptar a nadie en el gremio.
+942	[Gremio] No puedes aceptar a un jugador de otro reino en el gremio.
+943	[Gremio] Este jugador puede ser vuelto a invitar en %d días.
+944	[Gremio] Después de la reorganización, puedes aceptar miembros nuevamente en %d días.
+945	[Gremio] Esta persona ya es miembro de otro gremio.
+946	[Gremio] La capacidad del gremio ha alcanzado el nivel máximo.
+947	¿Listo para la siguiente pregunta?
+948	No puedes entrenar esta habilidad.
+949	No puedes entrenar esta habilidad al nivel de gran maestro.
+950	Ya eres un maestro en esta habilidad. No puedes entrenarlo más.
+951	Tu nivel de habilidad no es lo suficientemente alto para entrenar hasta llegar a ser gran maestro.
+952	Vaya, eso no funcionó. ¡Maldita sea!
+953	El entrenamiento fracasó. Inténtelo de nuevo más tarde.
+954	¡Mi cuerpo está lleno de fuerza!
+955	Parece que el entrenamiento está funcionando...
+956	Completaste el entrenamiento con el libro con éxito.
+957	No puedes leer esto; Tienes muy poca experiencia.
+958	Pregunta.
+959	Ya no puedes entrenar esta habilidad con un libro.
+960	Esta habilidad no es lo suficientemente alta como para entrenarla con un libro.
+961	Está mejorando, pero aún no lo entiende todo.
+962	Cuesta entender las instrucciones. Debo estudiar más.
+963	Entiendo este capítulo. Pero tuve que trabajar duro.
+964	Completaste el entrenamiento con el libro con éxito.
+965	La teletransportación falló.
+966	Aquí no hay ningún caballo. Pregúntale al sirviente.
+967	Usa un objeto para llamar a un caballo.
+968	%s Consumo de SB: %d
+969	Si es correcto, vaya a O. Si es incorrecto, vaya a X.
+970	Arde por dentro, pero calma mi cuerpo. Mi Chi debe estabilizarse.
+971	Poco a poco... pero aún así... ¡sin parar!
+972	Sí, me siento genial. Mi cuerpo está lleno de Chi.
+973	¡Lo leí! Ahora Chi fluye por mi cuerpo.
+974	Entrenamiento completado.
+975	¡Estoy en la última página del libro! ¡El entrenamiento casi ha terminado!
+976	¡Casi terminado! ¡Solo un poquito más!
+977	¡Estoy iluminado! ¡Casi lo leo todo!
+978	Sólo quedan unas pocas páginas y lo habré leído todo.
+979	Me siento renovado.
+980	¡Correcto!
+981	¡Ahora lo entiendo!
+982	Bien, debería mantenerme concentrado.
+983	Sigo leyendo la misma línea una y otra vez.
+984	No quiero aprender nada más.
+985	Es más complicado de lo que pensaba.
+986	No puedo concentrarme correctamente. Debería tomarme un descanso.
+987	Tu chat fue bloqueado temporalmente debido a spam.
+988	Tu bloqueo de chat ha sido levantado.
+989	La ventana de elaboración ya está abierta.
+990	You cannot craft if another shop/warehouse window is open.
+991	No es posible realizar más mejoras.
+992	La ventana de elaboración no está abierta.
+993	No tienes el material correcto.
+994	[Gremio] Inténtalo de nuevo más tarde.
+995	Debes leer %d libros más para mejorar esta habilidad.
+996	[Gremio] Inténtalo de nuevo más tarde.
+997	Esta función sólo se puede utilizar en el castillo.
+998	PRUEBA: Los lingotes de oro han sido devueltos a la bóveda de tu reino.
+999	TEST: La bóveda de tu reino contiene: %d
+1000	PRUEBA: No puedes devolver lingotes de oro a la bóveda de tu reino.
+1001	[Gremio] Has conseguido %d puntos.
+1002	Este artículo no se puede actualizar.
+1003	Las mejoras de armas gratuitas solo se pueden aplicar a armas hasta el nivel 20.
+1004	No puedes utilizar este artículo porque no tienes la cualificación suficiente.
+1005	No puedes usar este artículo porque no eres del género correcto.
+1006	Uso: transferir <nombre>
+1007	Esta función sólo puede ser utilizada por el emperador.
+1008	No puedes reclutar jugadores de otro reino.
+1009	El jugador %s se encuentra actualmente en el canal %d. (Tu canal: %d)
+1010	Reclutaste a %s jugadores.
+1011	No existe ningún usuario con este nombre.
+1012	No puedes reclutarte a ti mismo.
+1013	Tu nivel es demasiado bajo; No puedes usar este artículo.
+1014	No puedes actualizar nada mientras haya otra ventana abierta.
+1015	El emperador %s ha cambiado a %s.
+1016	Hay una guerra para encender la señal de fuego en %s.
+1017	%s defendió con éxito.
+1018	En 30 minutos, el jugador %s puede recibir una recompensa por destruir la señal de fuego.
+1020	Se encendieron señales de fuego en %s para alertar de la batalla.
+1021	%s destruyó la señal de fuego.
+1022	%s perdió la guerra. No pudieron defender el castillo.
+1023	%s destruyó todas las señales de fuego.
+1024	Yang insuficiente para mejorar.
+1025	Puedes abrir un puesto solo si estás desnudo.
+1026	No puedes usar esto mientras montas a caballo.
+1027	Necesitas: %s para esta acción.
+1028	Quedan %d horas, %d minutos y %d segundos de tu bloque de chat.
+1029	Quedan %d horas y %d segundos de tu bloque de chat.
+1030	Quedan %d minutos y %d segundos de tu bloque de chat.
+1031	La tasa de caída
+1032	No hay piedras disponibles para retirar.
+1033	No se puede utilizar.
+1034	El tiempo asignado en el servidor de prueba ha expirado.
+1035	No tienes el material correcto para elaborar este artículo.
+1036	Los puntos de rango ya no se pueden aumentar.
+1037	Todos los reinos
+1038	Tasa de caída de artículos
+1039	La tasa de caída
+1040	Porcentaje de tasa de puntos de experiencia
+1041	No puedes leer un libro mientras estás transformado.
+1042	Quedan %d segundos del bloque de chat.
+1043	No se pueden expresar emociones mientras se monta a caballo.
+1044	No puedes expresar emociones a un jugador que monta a caballo.
+1045	El desplazamiento de guerra no funciona con elementos +4 o superiores.
+1046	%s lanzó los dados. Resultado: %d (%d-%d).
+1047	Tiraste los dados. Tienes %d (%d-%d).
+1048	[Gremio] El líder del gremio enemigo está desconectado.
+1049	No puedes montar a caballo estando tirado en el suelo :)
+1050	[Gremio] Este gremio está participando actualmente en una guerra.
+1051	No se puede pescar aquí.
+1052	[Gremio] Tu gremio ha alcanzado el nivel máximo.
+1053	No puedes transformarte mientras conduces.
+1054	Ya estás montando. Desmontar primero.
+1055	No puedes agregar un jugador que esté frente a ti a la lista de amigos.
+1056	No puedes actualizar con este pergamino.
+1057	El elemento desaparecerá en %d minutos.
+1058	[Gremio] El jugador que está frente a ti no puede ser invitado.
+1059	No puedes vender un artículo que estás usando.
+1060	Los artículos en uso no se pueden vender en el puesto.
+1061	[Almacén] No puedes mover este artículo al almacén.
+1062	No puedes dejar caer oro todavía.
+1063	Tu inventario está lleno. El artículo no se puede recoger.
+1064	El nivel del objeto es demasiado alto.
+1065	Sólo se puede usar en un arma o armadura.
+1066	Esta Piedra Dragón no se puede recargar.
+1067	Por la misión Demon Tower, solo puedes ser recompensado una vez.
+1068	La Piedra del Dragón fue eliminada.
+1069	No puede mover un elemento en la ventana de refinamiento.
+1070	Error en la actualización del artículo.
+1071	No hay ninguna piedra de Metin en este mapa.
+1072	Se ha eliminado el tiempo restante de Dragon Stone.
+1073	No se pudo eliminar el tiempo restante.
+1074	No se pudo eliminar Dragon Stone. Sin embargo, recibió lo siguiente: %s
+1075	No se pudo eliminar Dragon Stone.
+1076	Este artículo no es necesario para mejorar la pureza.
+1077	Este artículo no se puede actualizar de esta manera.
+1078	La actualización de pureza fue exitosa.
+1079	El refinamiento en un nivel falló.
+1080	Este elemento no es necesario para el refinamiento.
+1081	Dragon Stone no se puede utilizar para refinar.
+1082	El refinamiento en un nivel fue exitoso.
+1083	Error en la actualización de pureza.
+1084	No tienes todos los materiales necesarios para mejorar la Piedra del Dragón.
+1085	Dragon Stone no se puede utilizar para mejorar.
+1086	No puedes combinar pergaminos de actualización idénticos.
+1087	La mejora fue exitosa.
+1088	La mejora falló.
+1089	Dragon Stone no está activado.
+1090	Ya llevas una Piedra Dragón de este tipo.
+1091	La Piedra del Dragón no se puede eliminar.
+1092	Ya tienes este tipo de Piedra Dragón en tu inventario.
+1093	Se agregaron %d segundos.
+1094	Antes de abrir Cor Draconis, debes completar la misión Dragon Stone y activar Dragon Stone Alchemy.
+1095	Puede quitarse un cinturón solo si no contiene artículos.
+1096	Puedes combinar Piedra Mágica y Pergamino Bendito.
+1097	No puedes agregar este artículo a tu cinturón.
+1098	No puedes montar en este laberinto.
+1099	Puedes utilizar un máximo de 200 ingredientes a la vez.
+1100	Los artículos vinculados al alma no se pueden vender en el puesto.
+1101	Los atributos de los objetos ligados al alma no se pueden cambiar.
+1102	No puedes usar un objeto ligado al alma.
+1103	No puedes soltar un objeto ligado al alma.
+1104	No puedes regalar un objeto ligado al alma.
+1105	En este servidor, no puedes vincular un objeto al alma.
+1106	No puedes vincular este objeto a tu alma.
+1107	Invertiste %d Yang.
+1108	No hay piedras disponibles para recoger.
+1109	Este objeto ya está ligado al alma.
+1110	Se está eliminando el vínculo del alma de este objeto.
+1111	Este objeto no está ligado al alma.
+1112	No puedes mejorar un objeto ligado al alma.
+1113	No puedes vender un objeto ligado al alma.
+1114	No puedes abrir este cofre; espacio de inventario insuficiente.
+1115	No puedes abrir un puesto privado mientras comercias con otros.
+1116	No puedes usar este artículo mientras realizas transacciones.
+1117	No puede utilizar el desplazamiento de ubicación mientras la ventana Sherpa esté abierta.
+1118	No puede operar mientras haya otra ventana abierta.
+1119	No puedes guardar esta posición.
+1120	Puedes usar sherpas como armas y armaduras.
+1121	Arrastre elementos a la ventana.
+1122	Esto ya ha sido personalizado.
+1123	Sherpa no puede recibir más bonificaciones.
+1124	Sólo puedes utilizar sherpas.
+1125	Estos sherpas no se pueden combinar.
+1126	¡Fallido!
+1127	¡Exitoso!
+1128	No tienes suficiente dinero para combinar.
+1129	No puedes usar este objeto si las ventanas de combinación y absorción están abiertas.
+1130	No hay suficiente espacio en el inventario.
+1131	¡%s tuvo éxito! Tasa de absorción %d%% en %s nuevos. ¡Felicidades!
+1132	No puedes usar objetos ligados al alma.
+1133	No puedes vender artículos que estés usando actualmente en un puesto privado.
+1134	No puede utilizar esta bolsa mientras conduce.
+1135	Se acabó el tiempo. Terminó la primera ronda.
+1136	Se acabó el tiempo. Terminó la segunda ronda.
+1137	Tiempo restante hasta el final de la primera ronda: %d minutos.
+1138	Tiempo restante hasta el final de la segunda ronda: %d minutos.
+1139	La zona segura acaba de ser desactivada.
+1140	Tiempo restante hasta la desactivación de la zona segura: %d minutos.
+1141	No puedes teletransportarte a un lugar seguro en otro reino.
+1142	La respuesta se mostrará en 20 segundos.
+1143	En 15 segundos, todos los que respondieron incorrectamente serán eliminados.
+1144	Tu nivel es demasiado bajo para invocar una mascota.
+1145	
+1146	Convocaste a: %s.
+1147	Despediste: %s.
+1148	¡%s alcanzó el nivel %d!
+1149	%s actualmente tiene sueño.
+1150	¡%s acaba de nacer!
+1151	Tu mascota atacó la barra de proteínas con total entusiasmo.
+1152	No hay suficiente presión arterial.
+1153	%s se despertó y empezó a comer comida deliciosa.
+1154	%s ahora está en la caja de transporte.
+1155	%s saltó de la caja de transporte.
+1156	¡%s cambió a %s! ¡Excelente!
+1157	¡%s se negó a comer nada!
+1158	El evento terminó y nadie del reino participó.
+1159	Has transferido correctamente los bonos.
+1160	No tienes suficiente Yang para comerciar conmigo.
+1161	Por favor ingrese un nombre diferente.
+1162	No tienes suficientes Puntos Mágicos (MB) para usar.
+1163	No puedes comerciar mientras la incubadora de tu socio esté abierta.
+1164	You cannot open the Incubator if trading or storage/private stall window is open.
+1165	No se puede abrir un puesto privado mientras se convoca a una mascota.
+1166	No puedes comerciar mientras invocas una mascota.
+1167	No puedes comerciar mientras tu compañero esté invocando una mascota.
+1168	Tu mascota ha adquirido suficiente experiencia. Ahora necesita un objeto para pasar a la siguiente etapa de evolución.
+1169	Tu mascota está lista para la evolución. Utilice libros de animales para el desarrollo.
+1170	Tu mascota ya ha alcanzado la etapa más alta de evolución.
+1171	El nombre ingresado es demasiado corto.
+1172	Llegará al destino %d segundos después de la ejecución.
+1173	No tienes suficiente Yang.
+1174	¡Entrenaste bien a tu mascota! ¡Aprende nuevas habilidades muy rápidamente!
+1175	La experiencia aumentó a %d puntos.
+1176	Tu mascota ya aprendió esta habilidad y se niega a volver a aprenderla.
+1177	Habilidad %s activada. La presión arterial aumentó en %d.
+1178	Debes obtener un Libro de animales valientes para enviar a tu mascota a un entrenamiento heroico.
+1179	Tu mascota debe estar en el nivel %d para entrenar y evolucionar a la siguiente etapa de evolución.
+1180	Tu mascota debe tener %d días de edad para su entrenamiento y evolución a la siguiente etapa de evolución.
+1181	Tu mascota debe tener 100% de experiencia para el entrenamiento y evolución a la siguiente etapa de evolución.
+1182	Efecto %s activado.
+1183	Tu nivel es demasiado bajo para usar este objeto.
+1184	El efecto %s no fue activado.
+1185	Habilidad %s activada. Ahora eres inmune al daño.
+1186	Habilidad %s activada. Se eliminaron los efectos de lentitud, veneno y sangrado.
+1187	Estás recibiendo bonificaciones.
+1188	La ventana ya está abierta.
+1189	Penetración de hechizos %d%%.
+1190	%s se restaura al agotarse.
+1191	No puedes usar este artículo aquí.
+1192	No puedes invocar una mascota mientras haces trading.
+1193	No se puede abrir un puesto privado.
+1194	Puedes usar el Mooncake solo cada 5 segundos.
+1195	No tienes suficientes %s. Necesitas %d para la siguiente etapa de evolución.
+1196	El nivel de la mascota no puede exceder el nivel del jugador.
+1197	Nivel: Joven
+1198	Nivel: Salvaje
+1199	Nivel: Valiente
+1200	Nivel: Heroico
+1201	@*** Throwing for this item: %s ***
+1202	@*** ->%*s - score: %4d ***
+1203	$*** Item %s winner is: %s ***
+1204	Nueva tasa de absorción: %d
+1205	No puedes usar este objeto durante el combate.
+1206	Se ha alcanzado la tasa máxima de absorción.
+1207	Ya has aprendido esta habilidad.
+1208	No se encontraron artículos que coincidieran con los criterios de búsqueda.
+1209	Se han recogido suficientes faroles de calabaza.
+1210	Pregúntale a Sam la Calabaza si mereces una recompensa.
+1211	¡El evento de Halloween ha comenzado!
+1212	¡Ve a hablar con Sam la Calabaza!
+1213	El evento de Halloween ha terminado. ¡No olvides recoger tus recompensas!
+1214	Linternas de calabaza entregadas: %d
+1215	Total de faroles de calabaza: %d
+1216	Ganaste %d Yang.
+1217	No se puede hacer una hoguera aquí.
+1218	Este jugador actualmente está negociando con otra persona.
+1219	Primero debes equipar un arma.
+1220	Este disfraz no se puede utilizar con esta arma.
+1221	Si quieres intercambiar armas, primero debes eliminar la apariencia del arma.
+1222	No tienes suficiente Yang para iniciar un juego Okey.
+1223	No tienes %s para iniciar un juego Okey.
+1224	¡Tu juego Okey ha comenzado!
+1225	No puedes repartir más cartas.
+1226	No puedes descartar cartas mientras algunas estén marcadas.
+1227	No puedes repartir más cartas mientras algunas estén marcadas.
+1228	No se puede hacer una hoguera bajo el agua... eso no sería razonable.
+1229	Tu inventario está lleno.
+1230	Recibirás el premio sólo si haces espacio en tu inventario.
+1231	%s en Okey obtuvo %d puntos.
+1232	No puedes iniciar un juego Okey mientras haces trading.
+1233	¡Bien, el evento ha comenzado!
+1234	¡Bien, el evento ha terminado!
+1235	[Evento OK] Si logras alcanzar el puesto más alto, tienes 7 días para reclamar el premio.
+1236	No puedes hacer esto mientras juegas Okey.
+1237	Cerrado. Deberías ir a buscar la llave.
+1238	La piedra ritual solo se puede usar en elementos superiores al nivel 80.
+1239	No puede operar porque se ha excedido el límite máximo de %d Won.
+1240	No tienes suficiente Yang.
+1241	No tienes suficiente Won.
+1242	No puede continuar con la operación porque se excedería el límite máximo de ganancias.
+1243	No puede continuar con la operación porque se excedería el límite máximo de Yang.
+1244	No puedes abrir un puesto privado porque podría exceder el máximo de %d Won.
+1245	No puede ampliar el inventario mientras realiza transacciones.
+1246	¡Bien, el evento ha comenzado!
+1247	¡Bien, el evento ha terminado!
+1248	Este artículo no se puede abrir con una llave.
+1249	¡Han aparecido monstruos en el valle de Seungryong, la montaña Sohan, Doyyumhwan y el desierto de Yongbi!
+1250	Recorre las zonas y mátalos. Recoge golpes y cámbialos por cofres.
+1251	El evento Boss Reaper termina en %d minutos.
+1252	El Sr. B y los jefes desaparecerán en %d minutos.
+1253	Has completado tu objetivo diario: elige tu recompensa.
+1254	No puedes usar apariencias de armas mientras llevas un vestido de novia o un esmoquin.
+1255	La otra persona está actualmente ocupada, por lo que no puedes comerciar con ella ahora.
+1256	No puedes usar un vestido de novia o esmoquin si usas una apariencia de arma.
+1257	Comienza la ronda %d.
+1258	Esta es la clave correcta.
+1259	[Gremio] Ya has donado la cantidad máxima de BZK.
+1260	[Gremio] Se inició el anuncio del gremio.
+1261	[Gremio] Anuncio del gremio ampliado.
+1262	[Gremio] La lista se está actualizando. Vuelve a intentarlo más tarde.
+1263	[Gremio] No se encontró ningún gremio.
+1264	[Gremio] Ya has enviado una solicitud a este gremio.
+1265	[Gremio] Su solicitud ha sido registrada.
+1266	[Gremio] El jugador %s ha solicitado unirse al gremio.
+1267	[Gremio] La lista se está actualizando. Vuelve a intentarlo más tarde.
+1268	[Gremio] No hay anuncios de gremio disponibles.
+1269	Recibiste %d Yang.
+1270	[Gremio] No hay solicitudes.
+1271	[Gremio] El anuncio del gremio se publicará durante %s.
+1272	[Gremio] La publicidad del gremio terminará pronto.
+1273	[Gremio] Recibió %d Yang.
+1274	[Gremio] Después de impuestos %d%%, recibirás %d Yang.
+1275	[Gremio] No puedes declarar la guerra mientras una votación esté activa.
+1276	[Gremio] No puedes disolver el gremio mientras hay una votación activa.
+1277	[Gremio] No puedes invitar a alguien al gremio mientras hay una votación activa.
+1278	[Gremio] Solo puedes construir un almacén de gremio.
+1279	Un brillo misterioso surge de este cofre.
+1280	[Gremio] Inténtalo de nuevo en 10 segundos.
+1281	[Gremio] Esto está siendo utilizado por otro miembro.
+1282	[Gremio] El almacén del gremio todavía contiene artículos.
+1283	[Gremio] Votaste en contra.
+1284	[Gremio] Votaste a favor.
+1285	[Gremio] El miembro está actualmente desconectado.
+1286	[Gremio] No hay votación en curso.
+1287	[Gremio] La votación para 'cambiar líder' está comenzando.
+1288	[Gremio] La votación 'Eliminar miembro' está comenzando.
+1289	[Gremio] La votación 'Vender territorio del gremio' está comenzando.
+1290	Recibiste %d puntos de experiencia.
+1291	[Gremio] La votación para abandonar el territorio del gremio está comenzando.
+1292	[Gremio] La votación para 'cambiar líder' está en curso.
+1293	[Gremio] La votación para "eliminar miembro" está en curso.
+1294	[Gremio] La votación para 'Vender territorio del gremio' está en curso.
+1295	[Gremio] La votación para abandonar el territorio del gremio está en curso.
+1296	[Gremio] El almacén del gremio está actualmente en uso.
+1297	[Gremio] Debes esperar 10 segundos antes de reabrir el almacén del gremio.
+1298	[Gremio] Tu gremio no tiene almacén.
+1299	¡Mira lo que cayó del cofre!
+1300	[Gremio] No se pudo votar por este jugador. Vuelve a intentarlo en %d meses, %d días, %d horas y %d minutos.
+1301	[Gremio] El miembro fue eliminado del gremio debido a inactividad.
+1302	[Gremio] Participaste en la votación actual.
+1303	[Gremio] No puedes iniciar una votación para tu propio personaje.
+1304	[Gremio] No puedes iniciar una votación durante la guerra.
+1305	[Gremio] No puedes venderte territorio del gremio a ti mismo.
+1306	[Gremio] Este gremio no existe.
+1307	[Gremio] No puedes iniciar una votación durante la guerra.
+1308	[Gremio] El nivel del gremio es demasiado bajo.
+1309	[Gremio] Un miembro del gremio rechazó la última votación. Vuelve a intentarlo en %d meses, %d días, %d horas y %d minutos.
+1310	¡Si inhalas el humo rojo del cofre, te moverás más rápido!
+1311	[Gremio] No puedes iniciar una votación durante la guerra.
+1312	[Gremio] Un miembro del gremio rechazó la última votación. Vuelve a intentarlo en %d meses, %d días, %d horas y %d minutos.
+1313	[Gremio] Debes votar antes de vender territorio del gremio.
+1314	[Gremio] Este gremio no es el que está en la votación del gremio.
+1315	[Gremio] Un miembro del gremio rechazó el último voto para vender. Intentar otra vez.
+1316	[Gremio] No puedes venderte territorio del gremio a ti mismo.
+1317	[Gremio] El líder del gremio está desconectado o en otro mapa.
+1318	[Gremio] El gremio ya posee el territorio.
+1319	[Gremio] No se encontró territorio del gremio.
+1320	[Gremio] Se completó la venta del territorio del gremio.
+1321	Este artículo solo se puede usar durante el evento actual.
+1322	Se produjo un error. Los bonos no se pudieron cambiar.
+1323	No puedes convocar a tu animal en este momento.
+1330	No puedes utilizar un sherpa extra como objetivo.
+1331	No puedes utilizar un Sherpa que no sea de bonificación como fuente.
+1332	No puedes transferir el bono porque los sherpas tienen diferentes tasas de absorción.
+1333	No puedes transferir el bono porque los sherpas tienen diferentes niveles.
+1334	¡Falla! La tasa de absorción disminuyó en un 1%.
+1335	¡Éxito parcial! La tasa de absorción disminuyó en un 1%.
+1336	¡Éxito! Bonificación transferida exitosamente.
+1337	No puedes descartar artículos durante la transferencia de bonificación.
+1338	No puedes mover artículos durante la transferencia de bonificación.
+1339	No puedes vender artículos durante la transferencia de bonificación.
+1340	No es posible durante la transferencia de bonificación.
+1341	Esto no es posible porque el otro jugador está transfiriendo bonos.
+1342	Para determinar el destino de las mascotas, necesitas una piedra del destino de las mascotas.
+1343	Primero debes activar la mascota.
+1344	No puedes intercambiar, vender artículos ni utilizar el almacenamiento mientras modificas los atributos de la mascota.
+1345	No puedes usar elementos mientras modificas los atributos de la mascota.
+1346	No puedes soltar objetos mientras modificas los atributos de la mascota.
+1347	No puedes mover elementos mientras modificas los atributos de la mascota.
+1348	No puedes comerciar mientras tu compañero esté modificando los atributos de la mascota.
+1349	No puedes hablar con los NPC mientras modificas los atributos de las mascotas.
+1350	Los atributos de tu mascota han sido cambiados.
+1351	Puede abrir esto 3 segundos después de cerrar el menú de modificación de atributos de mascota.
+1352	Todos los puestos están ocupados.
+1399	El jugador no puede aceptar su invitación en este momento.
+1400	Después de usar Kingdom Tincture, ya no podrás aceptar invitaciones en este reino.
+1401	Se han activado las habilidades de las mascotas. %s. %s está usando Pasos suaves.
+1403	Este nombre ya está en uso.
+1404	Retire la Piedra del Dragón antes de usar este artículo.
+1405	No puedes declarar una guerra de gremios aquí.
+1406	Premio
+1407	Recompensas por clasificar %d
+1408	¡El jefe ha sido derrotado! Pronto serás teletransportado de regreso al Templo del Zodíaco.
+1409	Desafortunadamente, no lograste detener el apocalipsis. Pronto serás teletransportado de regreso al Templo del Zodíaco.
+1410	Has entrado al laberinto de %s con dificultad %d. La batalla comienza en %d segundos.
+1411	No puedes hablar con los NPC mientras el Lucky Chest esté abierto.
+1412	No puedes usar artículos mientras el Lucky Chest esté abierto.
+1413	No puedes descartar objetos mientras el Cofre de la Suerte esté abierto.
+1414	No puedes mover objetos mientras el Lucky Chest esté abierto.
+1415	No puedes comerciar mientras el Lucky Chest esté abierto.
+1416	No puedes comerciar si tu socio tiene el Lucky Chest abierto.
+1417	Has entrado en el laberinto de %s. La batalla comienza en %d segundos.
+1418	Apocalipsis del Zodíaco no está activo actualmente.
+1419	El Apocalipsis del Zodíaco ya ha comenzado.
+1420	Tu bonificación de Dragon Stone ha sido cambiada.
+1421	[Atrapa al rey] Mata monstruos y recoge cartas reales. Necesitas un total de 25 cartas para la Colección Real.
+1422	[Atrapa al Rey] ¡Te esperan muchas recompensas!
+1423	[Atrapa al Rey] Si alcanzas una clasificación alta, obtendrás un gran premio en la mesa de juego.
+1426	Recibiste una bonificación de almacén de %d%% BZK.
+1427	Recibiste una bonificación de almacén de %d defensa.
+1428	Recibiste una bonificación de almacén de %d%% HP.
+1429	Recibiste una bonificación de almacén de %d%% daño de monstruos.
+1430	Asegúrese de tener suficiente espacio en el inventario antes de pescar.
+1431	No puedes mover elementos mientras la ventana de cambio de bonificación esté abierta.
+1432	Lo siento, no había ningún tesoro dentro del pez.
+1433	No puedes pescar mientras intentas criar una mascota.
+1434	No puedes pescar mientras tengas una mascota invocada.
+1435	No puedes pescar mientras la ventana de cambio de bonificación esté abierta.
+1436	No puedes realizar esta acción mientras la ventana de combinación o absorción de Sherpa esté abierta.
+1437	No puedes realizar esta acción mientras la ventana de transferencia del bono Sherpa esté abierta.
+1438	No puedes realizar esta acción mientras la ventana de transferencia de bonificación esté abierta.
+1439	No se puede pescar mientras otras ventanas estén abiertas.
+1440	No puedes realizar esta acción mientras pescas.
+1441	Tiempo restante: %.2f | Dificultad del pez: %lu | Reducción de dificultad: %d
+1442	Se han restablecido todas las clasificaciones de Battle Zone.
+1443	Entrega la apariencia del arma en uso.
+1444	Tu inventario está lleno.
+1450	La mejora de %s falló.
+1451	%s mejora exitosa.
+1452	Ha aparecido un Altar de Sangre.
+1453	Has capturado un alma.
+1454	[Ritual de sangre] Desafortunadamente, no tienes suficiente espacio en tu inventario.
+1455	[Ritual de sangre] Desafortunadamente, no tienes suficientes almas.
+1456	[Ritual de sangre] Desafortunadamente, no tienes suficiente Yang.
+1457	El ritual de sangre ha comenzado. Compre artículos especiales para obtener mejores recompensas.
+1458	El ritual de sangre ha terminado. Vuelve a intentarlo en otro momento.
+1459	Error en la mejora del cambio.
+1460	Este artículo solo está disponible en Meley's Den.
+1461	Se utilizó una brújula, pero no se encontró al Guardián.
+1462	No puedes hacer esto mientras realizas otra acción.
+1463	No puedes hacer esto mientras realizas otra acción.
+1464	No puedes mejorar un arma mientras tienes una mascota convocada.
+1465	Necesitas %d espacios de inventario para abrir el cofre.
+1466	Lo sentimos, no tienes suficiente espacio en el inventario.
+1467	[Almacenamiento] No se puede almacenar un elemento actualmente en uso.
+1468	[Aura] No funciona con un objeto ligado al alma.
+1469	[Aura] No funciona con un disfraz de Aura al que ya se le haya transferido un elemento.
+1470	[Aura] El disfraz de Aura ha alcanzado el nivel máximo.
+1471	[Aura] No puedes evolucionar un disfraz de aura antes de mejorarlo.
+1472	[Aura] Solo se puede aplicar a un disfraz de Aura.
+1473	[Aura] Solo se puede insertar un disfraz, collar, aretes o pulsera con aura.
+1474	[Aura] No se puede mejorar.
+1475	[Aura] Solo puede continuar si se inserta un disfraz de Aura.
+1476	[Aura] La cantidad de materiales insertados se ha ajustado para alcanzar la cantidad requerida.
+1477	[Aura] No se puede evolucionar.
+1478	[Aura] No puedes evolucionar un disfraz de aura antes de mejorarlo.
+1479	[Aura] ¡Debes insertar elementos!
+1480	[Aura] La mejora fue exitosa. La evolución ahora es posible.
+1481	[Aura] ¡La mejora fue exitosa!
+1482	[Aura] No hay suficiente dinero para evolucionar el disfraz de Aura.
+1483	[Aura] ¡La evolución fue exitosa!
+1484	[Aura] ¡Éxito!
+1485	[Gremio] Se ha donado %d BZK.
+1486	No puedes alimentar a una mascota mientras la ventana de refinamiento esté abierta.
+1487	¡La batalla de los Cinco Altares ha comenzado! Durará %d días.
+1488	La batalla de los Cinco Altares ha terminado. La próxima batalla comienza en %d horas.
+1489	La interfaz no se puede abrir mientras se monta en una montura.
+1490	El evento no está activo actualmente.
+1491	No puedes intercambiar, mover ni soltar objetos mientras invocas una montura.
+1492	La batalla terminó debido a circunstancias imprevistas.
+1493	La batalla de los Cinco Altares termina en %d minutos.
+1494	Necesitas %s x %d más.
+1495	Se ha abierto el nivel %d del Portal del Dragón. ¡¡Ataca el laberinto!!
+1496	Ahora puedes ingresar al nivel %d del Portal del Dragón.
+1497	¡Hemos derrotado al jefe!
+1498	[Gremio] ¡Recibiste %d BZK!
+1499	¡El tiempo para ingresar al Dragon Portal ha expirado!
+1500	El laberinto se cerrará si no ingresas en %d minutos.
+1501	La batalla no comenzó. Laberinto cerrado.
+1502	%s ocupado %s!
+1503	No puedes donar mientras tengas una mascota convocada.
+1504	Este personaje no está disponible para el combate.
+1505	De %d regalos, puedes abrir %d.
+1506	Puedes abrir el siguiente regalo en %d minutos.
+1507	¡%s ataca a %s!
+1508	¡%s alcanzó una puntuación personal de %d!
+1509	Recompensa del ritual de sangre
+1510	Inventario lleno. La recompensa se enviará a su buzón de correo.
+1511	El miembro del grupo está demasiado lejos para recibir el artículo.
+1512	El gremio ha alcanzado el nivel máximo. No es posible realizar más donaciones.
+1513	[Batalla de adivinos] ¡La batalla de adivinos ha comenzado!
+1514	[Batalla del adivino] Recibirás una misión para el minijuego.
+1515	[Batalla de adivinos] ¡Te esperan ricas recompensas!
+1516	[Batalla de adivinos] La batalla de adivinos ha terminado.
+1517	[Batalla de adivinos] Consulta tu clasificación y elige tus recompensas.
+1518	[Batalla de adivinos] No tienes suficientes monedas de la fortuna.
+1519	[FT] Recompensa por ubicación
+1520	[Batalla de adivinos] Aumentaste tu recuento de donaciones en 1.
+1521	¡No puedes usar este objeto en un objeto ligado al alma!
+1522	No puedes participar en Batallas Reales.
+1524	Primero debes abandonar tu grupo.
+1525	No puedes entrar porque ya empezó la cuenta atrás.
+1527	Este es el ganador de la Batalla Real: %s
+1528	%s mató a %s.
+1529	La cuenta atrás ha comenzado. La batalla real comienza en %d segundos.
+1530	La Batalla Real no puede comenzar debido a que no hay suficientes participantes.
+1531	La Batalla Real ha comenzado. La primera zona se mostrará en %d segundos.
+1532	Zona de batalla ha sido actualizada. Se cerrará en %d segundos.
+1533	La zona de batalla se cerrará en %d segundos.
+1534	El campo eléctrico ha dejado de funcionar. La próxima zona de batalla aparecerá en %d segundos.
+1535	La batalla real termina en %d segundos.
+1536	No puedes hacer esto durante la Batalla Real.
+1537	No puedes registrarte en este mapa.
+1538	No puedes registrarte para esto en el servidor de Royal Battle.
+1540	No puedes cancelar esto en el servidor de Royal Battle.
+1541	¡¡¡La Batalla Real ha comenzado!!!
+1542	¡¡¡La Batalla Real ha terminado!!!
+1543	No más zonas de batalla. Toda el área se cerrará en %d segundos.
+1544	Actualmente no tienes beneficios negativos.
+1545	Necesitas un Pase de Batalla Real para ingresar.
+1546	En algún lugar se colocó un paquete de suministros especiales.
+1547	[Bonificación de reliquia] Ya llevas una reliquia del alma.
+1548	No puedes usar esto aquí.
+1549	El teletransporte a la Meseta Primordial falló.
+1550	Ya no puedes usar esto.
+1551	No tienes suficiente Gaya.
+1552	Estado de los participantes de la Batalla Real: (%u/%u)
+1553	El registro para Royal Battle ha finalizado.
+1554	Inténtelo de nuevo más tarde.
+1555	No puedes hacer esto mientras realizas otra acción.
+1556	torneo PvP
+1557	Recompensas por ganar rondas
+1558	Recompensas por ganar torneos
+1559	Recompensas de la batalla de adivinos
+1560	Tu inventario está lleno. Su recompensa será entregada por correo.
+1561	La recompensa de Fortune Teller Battle se enviará por correo porque su inventario está lleno.
+1562	Recibiste %lu BZK por el nivel Campeón.
+1574	Inténtelo de nuevo más tarde.
+1575	Batalla real
+1576	Recompensa de la temporada de Batalla Real. Ubicación: %d
+1577	Recompensa general por Batalla Real.
+1578	Recompensa del juego por Royal Battle. Ubicación: %d
+1579	Recompensa de batalla por Batalla Real. Mataste a más de %d oponentes.
+1580	No puedes reclamar el logro ahora.
+1581	No puedes usar ningún gesto ahora.
+1582	quemado
+1583	El gremio %s compró territorio en el área %s en la posición %d,%d ganó %d.
+1584	El líder de tu gremio se registró para la subasta de territorio en el área %s en la posición %d,%d.
+1585	Ya has enviado tu oferta.
+1586	Puede retirar los Wons ofrecidos.
+1587	Nada que coleccionar.
+1588	Ya se alcanzó la cantidad máxima ganada.
+1589	Retiraste %d Wons que habías ofrecido.
+1590	Sólo el líder del gremio o un miembro con acceso a la tesorería puede pagar el alquiler.
+1591	No es necesario pagar alquiler.
+1592	El gremio no tiene suficiente Yang.
+1593	[Territorio del gremio] Ve al guardián y paga a %d Yang por el alquiler del territorio del gremio.
+1594	Pagaste a %lu Yang por el alquiler del territorio del gremio.
+1595	No puedes hacer esto durante una subasta de territorio de gremio en curso.
+1596	No estás registrado en ninguna subasta de territorio del gremio.
+1597	No perteneces a ningún gremio.
+1598	Ya estás registrado en una subasta de territorio de gremio.
+1599	Sólo el líder del gremio puede registrarse para la subasta.
+1600	Sólo los gremios de nivel %d o superior pueden registrarse.
+1601	Tu gremio ya tiene un territorio de gremio.
+1602	Actualmente no hay ninguna subasta de territorio de gremio en marcha.
+1603	El monto máximo es %d ganados.
+1604	No tienes suficiente Won.
+1605	Tu gremio no está registrado en la subasta.
+1606	Sólo puedes pujar si has sido miembro del gremio durante más de 24 horas.
+1607	No se pagó el alquiler del territorio del gremio. El territorio del gremio ha sido abandonado.
+1608	Ningún gremio se registró para la subasta del territorio del gremio.
+1609	Ofreciste %d ganado.
+1610	Este gremio no existe.
+1611	Llanuras de Dong Gwang
+1612	Puedes recuperar los Wons que le ofreciste al guardián de la aldea.
+1613	¡Perfecto! Agregaste con éxito una piedra espiritual y ahora recibes una bonificación doble a los valores.
+1614	joan
+1615	Pyungmoo
+1616	Jungrang
+1617	Waryong
+1618	Destrucción
+1619	Miriam
+1620	Songpa
+1621	Daeyami
+1622	[Jefe Mundial] Evento iniciado
+1623	[Jefe mundial] Evento completado
+1624	[Jefe mundial] En el canal %d, %s fue visto aterrorizando el área %s. ¡Vamos a cazar!
+1625	[Jefe mundial] El jefe mundial del canal %d ha sido atacado. ¡Únete a la caza!
+1626	[Jefe mundial] Excelente: %s ha sido derrotado y la paz ha sido restaurada... por ahora.
+1627	[Jefe mundial] ¡El jefe mundial ha escapado! Buena suerte la próxima vez.
+1628	[Jefe mundial] No puedes reclamar una recompensa ahora.
+1629	[Jefe mundial] ¡Genial! Aquí está tu recompensa. ¡Únete la próxima vez también!
+1630	[Jefe mundial] No puedes reclamar una recompensa porque no tienes suficiente espacio en el inventario.
+1631	[Jefe mundial] Recompensa de nivel I de botín por clasificación: %d
+1632	[Jefe mundial] Recompensa de botín de nivel II por clasificación: %d
+1633	[Jefe mundial] Recompensa de botín de nivel III por clasificación: %d
+1634	[Jefe mundial] Recompensa de nivel IV de botín por clasificación: %d
+1635	[Flower Power] No tienes suficientes brotes.
+1636	[Flower Power] No tienes suficiente espacio en el inventario.
+1637	[Flower Power] Has obtenido semillas de flores.
+1638	[Flower Power] No tienes suficientes semillas de flores.
+1639	[Flower Power] Recibiste un brote de crisantemo.
+1640	[Flower Power] Recibiste un brote de lirio de los valles.
+1641	[Flower Power] Recibiste un brote de Narciso.
+1642	[Flower Power] Recibiste un brote de lirio.
+1643	[Flower Power] Recibiste un brote de girasol.
+1644	[Jefe mundial] Atención: ¡El jefe mundial aparecerá pronto!
+1645	[Poder de las flores] Este objeto ya no se puede utilizar.
+1646	No puedes transformarte en este momento.
+1647	¡Mata a todos los monstruos dentro del límite de tiempo!
+1648	El portal a la siguiente habitación está abierto.
+1649	¡Esquiva todos los ataques!
+1650	El portal al siguiente nivel está abierto.
+1651	¡%s ha completado el nivel %u en la Torre Sung Mahi!
+1652	El botín de la Torre Sung Mahi ha sido enviado a tu buzón.
+1653	Torre Sung Mahi: Nivel %d
+1654	Botín por completar la Torre Sung Mahi
+1655	La batalla comienza en %d segundos.
+1656	Estás en el nivel %d.
+1657	¡Mata pares de monstruos que no coinciden!
+1658	Atacaste al monstruo equivocado. ¡Mata a todos los monstruos!
+1659	¡Mata a todos los monstruos dentro del límite de tiempo!
+1660	Destruiste la piedra Metin equivocada. Derrota a todos los monstruos.
+1661	¡Destruye la piedra Metin correcta!
+1662	¡Encuentra la llave correcta para escapar!
+1663	¡Encuentra la piedra del sello para romper el sello!
+1664	[Torre Sung Mahi] ¡Mata a todos los monstruos dentro del límite de tiempo!
+1665	[Torre Sung Mahi] El ciclo de clasificación actual finalizó.
+1666	[Torre Sung Mahi] Comenzó un nuevo ciclo de clasificación.
+1667	Recompensa de temporada por el 1er lugar en el nivel %d de la Torre Sung Mahi.
+1668	Recompensa de temporada de la Torre Sung Mahi
+1669	No estás maldito.
+1670	Tu maldición ha sido levantada.
+1671	Se acabó el tiempo. Serás teletransportado.
+1672	[Torre Sung Mahi] ¡Destruye la Piedra Demoníaca!
+1673	[Torre Sung Mahi] La llave no encaja. Encuentra otro e inténtalo de nuevo.
+1674	[Torre Sung Mahi] ¡Rompe el sello usando la Piedra Sello Sung Mahi!
+1675	[Torre Sung Mahi] ¡Primero debes romper el primer sello!
+1676	Ahora puedes equipar guantes.
+1677	Aún no puedes equiparte guantes.
+1678	Esta función no está disponible porque se detectó software ilegal.
+1679	[Torre Sung Mahi] Completaste este nivel en %d segundos.
+1680	No puedes participar en una subasta de territorio de gremio el día en que se creó el gremio.
+1681	Has dominado la puerta del Dragón de %s %s.
+1683	No tienes un elemento de reinicio de Dragon Gate.
+1684	Recibiste %d puntos Dragon Gate.
+1685	No has podido disolver el disolvente.
+1686	¡Asciende al siguiente nivel en la Torre Sung Mahi!
+1687	[Tienda Premium personal] No puedes usar esto. Ve al administrador de la tienda en el pueblo.
+1688	Has entrado en el área bajo la influencia de Sung Mahi y sientes los efectos de la maldición.
+1689	%s todavía tiene %d bases. (%d/%d)
+1690	%s ha construido todas las bases y la verificación de control de Sung Mahi comenzará en %d minutos.
+1691	Se han construido bases Sung Mahi.
+1692	Las bases de Sung Mahi han sido destruidas.
+1693	Todas las bases en %s han sido destruidas y el área ya no está bajo el control de Sung Mahi.
+1694	Páramos de Seo Gwang
+1695	Abismo de Nam Gwang
+1696	¡La mejora fue exitosa!
+1697	Lo sentimos, la mejora falló.
+1698	Gracias a la bendición de inmunidad, la presencia de Sung Mahi no te afecta.
+1699	Tu inmunidad ha expirado y estás nuevamente afectado por la presencia y la maldición de Sung Mahi.
+1700	Si un usuario utiliza software ilegal, no puede hacerlo.
+1701	No tienes suficiente material para mejorar. (Los objetos ligados al alma no se pueden utilizar)
+1702	El territorio de tu gremio se cancelará automáticamente en %d horas. Todos los artículos en el almacén del gremio serán destruidos.
+1703	[Gremio] No puedes expulsar al líder del gremio.
+1704	[Gremio] No puedes patearte a ti mismo.
+1705	[Gremio] No puedes convertirte en líder del gremio.
+1706	[Gremio] Esto solo está disponible para el líder del gremio (si se canceló el territorio del gremio).
+1707	[Gremio] No puedes abandonar el territorio del gremio durante una batalla de gremio.
+1708	No puedes intercambiar esto.
+1709	El evento de la torre ha sido activado.
+1710	Puedes aprender esto solo después de alcanzar el nivel de Campeón.
+1711	[Tienda Premium personal] No puedes abrir esto porque todavía tienes dinero para cobrar.
+1712	[Tienda Premium personal] No puedes abrir esto porque todavía tienes artículos para recolectar.
+1713	[Tienda Personal Premium] Ya has abierto tu Tienda Personal Premium.
+1714	[Tienda Premium personal] La tienda ya se está preparando.
+1715	[Tienda Premium personal] No tienes suficiente espacio en el inventario.
+1716	[Tienda Personal Premium] Puedes recolectar artículos de tu Tienda Personal Premium.
+1717	[Tienda Personal Premium] Puedes cobrar dinero en tu Tienda Personal Premium.
+1718	[Tienda Premium personal] Vendido: %s Por favor, recoge tu dinero ahora.
+1719	[Tienda Premium personal] No puedes volver a abrir la tienda %d segundos después de cerrarla.
+1720	No puedes hacer esto mientras creas un laberinto.
+1721	Ya no podrás revivir. Serás teletransportado desde el laberinto.
+1722	Ya has recibido la recompensa. Si quieres volver a intentarlo, ven más tarde. Tiempo restante: %d h %d m
+1723	Aún puedes revivir a %dx.
+1724	Ahora puedes ingresar al Templo de la Serpiente. Usa la estatua de la serpiente para eso.
+1725	El Metin destruido no responde. Todos los Metins han reaparecido.
+1726	El Metin destruido no responde. Todos los Metins han reaparecido.
+1727	Destruiste a Metin %d. Ahora destruye Metin %d.
+1728	Se acabó el tiempo. Serás teletransportado desde el laberinto.
+1729	Está disponible en %d minutos.
+1730	Ya no puedes extender el tiempo del laberinto.
+1731	El tiempo del laberinto se ha ampliado en 1 minuto.
+1732	Mataste a todos los monstruos. Serás trasladado al nivel %d. Tiempo restante: %d segundos.
+1733	Destruiste a todos los Metins. Serás trasladado al nivel %d. Tiempo restante: %d segundos.
+1734	Se añadió un trozo a la cabeza de serpiente. Pero no pasó nada.
+1735	Todas las Cámaras de Serpientes han sido desbloqueadas. %d niveles en %d segundos.
+1736	¡Ha aparecido un herrero especial del Templo de la Serpiente!
+1737	¡Ha aparecido Snake Temple Blacksmith!
+1738	Mataste a todos los monstruos y puedes avanzar al nivel de jefe.
+1739	Has completado el Templo de la Serpiente. Serás teletransportado desde el laberinto en %d segundos.
+1740	Destruye las piedras de Metin en el orden correcto.
+1741	Mata a todos los monstruos.
+1742	Para desbloquear el Pilar de la Serpiente, debes recoger la llave de los monstruos.
+1743	Agregaste una pieza a Snake Head.
+1744	Mata al jefe.
+1745	¡Abierto con éxito!
+1746	Primero debes desbloquear otro pilar.
+1747	La prisión ha sido desbloqueada. El herrero te sonríe.
+1748	Esta llave de la prisión no se abrió y no salvó al herrero.
+1749	Esta pieza no se ajusta a Snake Head.
+1750	No puedes usar más de 999,999 puntos Dragon Gate.
+1751	No puedes reiniciar porque tus puntos Dragon Gate exceden el límite.
+1752	Debes llenar al menos 1 Marble BZK en el nivel 120 para alcanzar el nivel de Campeón.
+1753	Primero debes completar el laberinto 'Defensa del barco'.
+1754	Ya has alcanzado el nivel de Campeón.
+1755	[Tienda Personal Premium] No puedes usar este artículo mientras abres tu Tienda Personal Premium.
+1756	[Tienda Premium personal] No puedes hacer esto mientras administras artículos.
+1757	[Tienda Personal Premium] No puedes usar tu Tienda Personal Premium mientras haya otra ventana abierta.
+1758	[Tienda Premium personal] No puedes hacer esto mientras administras artículos.
+1759	Has usado %d puntos de Dragon Gate.
+1760	[Bonificación de reliquia] Esta acción no es posible mientras la ventana de Soul Relic esté abierta.
+1761	%s miembros del grupo han abandonado la batalla.
+1762	Tiempo restante: %d minutos.
+1763	[Tienda Premium personal] No puedes pelear aquí.
+1764	[Tienda Premium personal] El dinero que se puede cobrar no se actualizará durante la gestión de artículos.
+1765	Ha aparecido el jefe más alto del Templo de la Serpiente.
+1766	[Tienda Premium personal] La tienda ya estaba abierta aquí. Encuentra otra ubicación para abrir tu tienda.
+1767	No puedes mejorar esto mientras tienes una mascota en evolución convocada.
+1768	<Profundidades del viento del norte> Tiempo restante: %d minutos.
+1769	<Profundidades del Viento del Norte> Si no comienzas la batalla en 3 minutos, la instancia terminará.
+1770	<Profundidades del Viento del Norte> Se acabó el tiempo. Serás teletransportado desde el laberinto.
+1771	Está disponible después de completar la misión de aprendizaje de Dragon Gate.
+1772	<Profundidades de Northwind> Se generó una instancia para Northwind Shelter.
+1773	HP
+1774	Defensa
+1775	Líder
+1776	Tugyi
+1777	EXP
+1778	Resistencia (Fuego)
+1779	Resistencia (Hielo)
+1780	Resistencia (eléctrica)
+1781	Resistencia (viento)
+1782	Resistencia (Tierra)
+1783	Resistencia (Oscuridad)
+1784	STR
+1785	Fuerza (Fuego)
+1786	Fuerza (Hielo)
+1787	Fuerza (eléctrica)
+1788	Fuerza (viento)
+1789	Fuerza (Tierra)
+1790	Fuerza (Oscuridad)
+1791	Marca
+1792	Sung Ma (STR)
+1793	Sung ma (Resistencia)
+1794	Sung Ma (VIT)
+1795	Sung Ma(INT)
+1796	<Profundidades del Viento del Norte> ¡Derrotaste a Alastor! Serás teletransportado desde el laberinto en 20 segundos.
+1797	<Profundidades del Viento del Norte> ¡Alastor pronto desatará su ira helada!
+1798	<Profundidades del Viento del Norte> ¡Alastor desatará su ira helada en el nivel %d!
+1799	<Profundidades del Viento del Norte> Desviaste con éxito la ira helada de Alastor.
+1800	<Profundidades del Viento del Norte> ¡Si no destruyes el Huevo del Dragón Blanco en %d segundos, la escarcha mortal de Alastor golpeará el refugio!
+1801	Esto no está disponible aquí.
+1802	Estará disponible después de que comience la batalla.
+1803	<Profundidades del Viento del Norte> La instancia terminó porque no comenzaste la batalla dentro del límite de tiempo.
+1804	No está disponible mientras la Puerta del Dragón esté abierta.
+1807	No puedes usar el sistema Dragon Gate.
+1808	Obtuviste %d puntos de experiencia de nivel Campeón.
+1809	Ganaste %d puntos de experiencia.
+1810	Perdiste %d puntos de experiencia.
+1811	Perdiste %d puntos de experiencia de nivel Campeón.
+1812	No puede hacer esto durante el comercio.
+1813	¡El evento Metin Fever ha comenzado!
+1814	Completa la lista de misiones, destruye las piedras de Metin y reclama tus recompensas.
+1815	El evento Metin Fever no está activo actualmente.
+1816	[Templo del Dragón] Generaste una instancia del Templo del Dragón.
+1817	[Templo del Dragón] Si no comienzas la batalla dentro de 3 minutos, la instancia terminará.
+1818	[Templo del Dragón] Beran-Setaou fue derrotado. Serás teletransportado desde el laberinto en %d segundos.
+1819	[Templo del Dragón] Tiempo restante: %d minutos.
+1820	[Templo del Dragón] La instancia terminó porque la batalla no comenzó.
+1821	[Templo del Dragón] Se acabó el tiempo. Todos los jugadores serán teletransportados fuera del laberinto.
+1822	[Templo del Dragón] Generaste una instancia del Templo del Dragón.
+1823	[Templo del Dragón] Si no comienzas la batalla dentro de 3 minutos, la instancia terminará.
+1824	[Templo del Dragón] La instancia ha comenzado.
+1825	[Templo del Dragón] Te rendiste y la instancia terminó.
+1829	[Templo del Dragón] El laberinto se cerrará si nadie entra en %d segundos.
+1830	[Templo del Dragón] El laberinto se cerró porque nadie entró en el tiempo requerido.
+1838	No puedes bloquearte a ti mismo.
+1839	No puedes agregarte a ti mismo.
+1840	La acción %s ha sido habilitada.
+1844	Le diste de comer al caballo: %d alimento. Obtuvo %d experiencia.
+1845	No hay suficiente estilo ni Yang.
+1846	No puedes aprender esta habilidad de montar.
+1847	[Templo Enigma] Sólo el líder del grupo puede usar este pergamino.
+1848	[Templo Enigma] Sólo el líder del grupo puede usar este pergamino.
+1849	[Templo Enigma] %s está fuera de alcance.
+1850	[Templo Enigma] No puedes usar este pergamino en tu nivel.
+1851	[Templo Enigma] %s requiere un nivel superior para entrar.
+1852	[Templo Enigma] %s se negó a entrar.
+1853	[Templo Enigma] El laberinto se cerrará en 1 minuto si no comienzas la batalla.
+1854	[Templo Enigma] Se ha creado el portal al Templo Enigma.
+1855	[Templo Enigma] Destruye la verdadera Piedra Metin.
+1856	[Templo Enigma] Esta es una piedra Metin falsa. ¡Encuentra la verdadera Piedra Metin!
+1857	[Templo Enigma] Obtuviste un cofre del tesoro de la Piedra Metin.
+1858	[Templo Enigma] Aún necesitas encontrar la verdadera Piedra Metin. Utilice el portal e inténtelo de nuevo.
+1859	[Templo del Enigma] Misión completada. Encuentra la habitación secreta.
+1860	[Templo Enigma] ¡Encuentra el verdadero monstruo y derrótalo! No te dejes engañar por ilusiones.
+1861	[Templo Enigma] No encontraste al verdadero monstruo. Utilice el portal e inténtelo de nuevo.
+1862	[Templo Enigma] Revisa el cofre del tesoro.
+1863	[Templo Enigma] Bienvenido a la habitación secreta.
+1864	[Templo Enigma] ¡Se acabó tu tiempo! Todos serán teletransportados fuera del laberinto.
+1865	[Templo Enigma] Como recompensa, recibiste la Bendición del Templo Enigma.
+1866	[Templo Enigma] No recibiste una recompensa. Tiempo hasta la próxima recompensa: %d horas y %d minutos
+1867	Recompensa del Templo Enigma
+1868	[Templo Enigma] El Templo Enigma desapareció porque se acabó el tiempo.
+1869	[Templo Enigma] Tienes 4 minutos para comenzar la batalla usando el Portal Enigma.
+1870	[Templo Enigma] La Bendición del Templo Enigma te garantiza otro cofre del tesoro.
+1871	[Templo Enigma] Obtuviste la recompensa Enigma. Revisa tu buzón para recibirlo.
+1872	%s fue eliminado.
+1873	Adquiriste la habilidad %s. Puedes comprobarlo en la pestaña de habilidades.
+1874	No es suficiente Gaya
+1876	Vuelve a intentarlo más tarde.
+1878	El tiempo ha expirado. Pronto serás trasladado a la ciudad.
+1879	Ya no podrás ser revivido.
+1880	Completaste con éxito la tarea y serás teletransportado en %d minutos.
+1881	Derrotaste a todos los mensajeros. Ve al Guardián de Hae-Tae para entrar en la Maldición.
+1882	No puede utilizar más que el número máximo de elementos.
+1883	El viaje a otro mundo ha terminado y ya no puedes encontrar Death Flames.
+1884	El viaje a otro mundo ha comenzado. Encontrarás Death Flames matando monstruos.
+1885	El viaje a otro mundo ha terminado.
+1886	El viaje a otro mundo ha comenzado. Ahora puedes usar el portal a Otro Mundo en Dragon Fire Bay.
+1887	Usaste %dx Agua de Vida. Te quedan %dx Aguas de Vida.
+1888	Recibirás %d Llamas de la Muerte.
+1895	Derrotaste al Mensajero de la Tierra.
+1896	Derrotaste al Mensajero Nocturno.
+1897	Derrotaste al Mensajero de la Tormenta.
+1898	Derrotaste al Mensajero Aéreo.
+1899	El laberinto se cerrará en %d minutos.
+1900	No tienes suficiente espacio para más Death Flames.
+1901	Debes esperar antes de volver a intentarlo. Tiempo restante: %d horas y %d minutos
+1902	Una vez que ingresas al Templo del Dragón, ya no podrás cambiar de grupo.
+1903	No puedes tener más mercenarios.
+1904	Resistencia superada
+1905	[Templo Enigma] Destruye el Enigma Metin para avanzar al siguiente nivel.
+1916	Ya has aprendido esta habilidad.
+1917	No puedes aprender esta habilidad hasta que tu caballo alcance el nivel 31.
+1918	Ya no puedes adquirir esta habilidad.
+1919	No puedes aprender esta habilidad hasta que tu caballo alcance el nivel 21.
+1921	<Mazmorra Secreta> No puedes entrar a la mazmorra. No se cumple el requisito de nivel.
+2200	Espere %.2f segundos.
+2201	Debes convocar tu beneficio.
+2202	Primero quítate el equipo para mejorarlo.
+2203	No tienes suficiente WON para actualizar este artículo.
+2204	No tienes suficientes AP para actualizar este artículo.
+2205	VIP ya está activo.
+2206	Espera (VIP) agregada.
+2207	¡Espera antes de realizar esta acción!
+2208	¡Cierra todas las ventanas!
+2209	Ya tienes este título.
+2210	¡El título se ha agregado a la ventana de título!
+2211	En realidad, este título no se puede utilizar.
+2212	Ya has activado el cambio de elemento.
+2213	Recibiste %d puntos de logros.
+2214	Recibiste %d monedas de dragón.
+2215	¡Para usar este objeto, debes tener una mascota convocada!
+2216	Esta poción sólo se puede utilizar desde el nivel 40 al 70.
+2217	Esta poción sólo se puede utilizar desde el nivel 70 al 110.
+2218	Tu chamán está activado.
+2219	El chamán ha sido convocado.
+2220	VIP ya está activo.
+2221	VIP ha sido activado. Por favor inicia sesión nuevamente.
+2222	SYS: La hora de la casilla VIP no está configurada en la base de datos.
+2223	VIP ya está activo.
+2224	VIP ha sido activado. Por favor inicia sesión nuevamente.
+2225	SYS: La hora de la casilla VIP no está configurada en la base de datos.
+2226	VIP ya está activo.
+2227	VIP ha sido activado. Por favor inicia sesión nuevamente.
+2228	SYS: La hora de la casilla VIP no está configurada en la base de datos.
+2229	Cierra tu tienda personal actual antes de abrir una nueva.
+2230	Esta zona del mapa no permite abrir una tienda privada.
+2231	Selecciona la habilidad que deseas entrenar.
+2232	El entrenamiento de habilidades se completó con éxito.
+2233	El entrenamiento de habilidades falló.
+2234	¡Tu nivel es demasiado bajo!
+2235	Ya dominas esta habilidad.
+2236	Este libro no es fácil de entender...
+2237	Ya no puedes estudiar este libro.
+2238	¡Has alcanzado el nivel máximo de habilidad para esta mascota!
+2239	El nivel de habilidad de esta mascota no coincide con el nivel del libro de entrenamiento.
+2240	¡El entrenamiento de habilidades fue exitoso!
+2241	Te quedan %d libros para entrenar habilidades.
+2242	El entrenamiento de habilidades falló.
+2243	Selecciona la habilidad que deseas entrenar.
+2244	Ya no puedes aumentar tu rango.
+2245	Los puntos de rango aumentaron en %d.
+2246	¡Primero agrega 5 bonificaciones básicas a este artículo!
+2247	¡El artículo ha alcanzado la contribución máxima!
+2248	¡Error al agregar bonificación!
+2249	¡Añadir bonificación fue un éxito!
+2250	El artículo no tiene bonificaciones que se puedan cambiar.
+2251	¡Añadir bonificación fue un éxito!
+2252	¡Error al agregar bonificación!
+2253	¡El artículo tiene la cantidad máxima de bonificaciones!
+2254	¡El cambio de bonos fue exitoso!
+2255	No tienes bonificaciones que se puedan cambiar.
+2256	Las bonificaciones no se pueden cambiar si se actualiza el guante.
+2261	¡El Sherpa ha sido mejorado!
+2262	¡El Sherpa ya ha sido actualizado!
+2263	El Sherpa tiene un nivel de absorción demasiado bajo. Requerido: 30%
+2264	¡Los guantes han sido mejorados!
+2265	¡Los guantes ya han sido actualizados!
+2266	¡Los guantes deben tener 5 bonos!
+2267	Sólo se puede utilizar con guantes +5.
+2268	¡El artículo ha sido actualizado!
+2269	¡El artículo ya ha sido actualizado!
+2270	Solo se puede usar en +9 artículos.
+2271	The Rune has been upgraded!
+2272	The Rune has already been upgraded!
+2273	Can only be used on +5 runes.
+2274	You cannot move items while your personal shop window is open.
+2275	This item is not suitable.
+2276	Your shaman is not summoned.
+2277	This item is not meant for shamans.
+2278	This item is not for this gender.
+2279	This item cannot be removed.
+2280	You do not have this title.
+2281	This title is already active.
+2282	You cannot do this while the wheel is spinning.
+2283	The accessory window is already open.
+2284	You must first close the accessory absorption window.
+2285	You must first close the accessory combination window.
+2286	You cannot add locked items.
+2287	This accessory already has the maximum absorption chance.
+2288	Bonuses can only be absorbed from weapons.
+2289	Not enough Yang.
+2290	Not enough checks.
+2291	You do not have the required items.
+2292	Wait %d seconds.
+2293	You received "%s" x%d from the wheel.
+2294	Changing channel in %d.
+2295	Channel change canceled.
+2296	You need %s to change your pet's name.
+2297	Not enough checks.
+2298	You cannot continue because the amount of Yang exceeds the limit.
+2299	Exchange was successful.
+2300	Not enough Yang to continue the exchange.
+2301	No puede continuar porque el número de cheques excedería el límite.
+2302	El código ingresado ya está inactivo.
+2303	El código de promoción ingresado se puede usar desde el nivel de personaje %d.
+2304	El código de promoción ingresado se puede usar hasta el nivel de personaje %d.
+2305	El código de promoción ingresado contenía: %s en cantidad %d.
+2306	Esto excedería la cantidad permitida de Yang.
+2307	Recibiste %d Yang.
+2308	Recibiste %d monedas de dragón.
+2309	Recibiste %d niveles.
+2310	La ganancia de experiencia solo es posible por encima del nivel 30.
+2311	No hay suficiente Yang ni cheques.
+2312	El tiempo de alquimia se ha ampliado.
+2313	Se ha habilitado la ganancia de experiencia.
+2314	La ganancia de experiencia ha sido deshabilitada.
+2315	Aceptación directa del artículo en el inventario: permitida.
+2316	Aceptación directa del artículo en el inventario: prohibida.
+2317	El artículo ha sido agregado a la colección.
+2318	Todos los elementos de este tipo ya han sido agregados.
+2319	No tienes este artículo.
+2320	Ya has completado esta misión.
+2321	Exitoso: %d, Fallido: %d.
+2322	El artículo tenía mala calidad.
+2323	No puedes donar experiencia al gremio si está bloqueado.
+2324	[BattlePass] Misión: %s ha sido completada.
+2325	[BattlePass] Reclamaste la recompensa.
+2326	No tienes un artículo para activar el pase de batalla premium.
+2327	La posibilidad de enviar ya es máxima.
+2328	Se ha reducido el tiempo de espera para enviar el artículo.
+2329	El tiempo de espera para la presentación es casi nulo.
+2330	La posibilidad de enviar el artículo se ha incrementado en un 25%.
+2331	Probabilidad actual: %d
+2332	¡No estás en una mazmorra!
+2333	El líder del partido no tiene suficientes pases en el inventario.
+2334	Un jugador de tu grupo debe estar en el mismo mapa.
+2335	¡No tienes pase!
+2336	¡Aún no has completado la mazmorra!
+2337	¡Este código ya se ha utilizado en esta cuenta!
+2338	¡El código ingresado no existe!
+2339	¡El inventario especial está lleno!
+2340	¡Debes tener el Sherpa equipado para aplicar la piel!
+2341	¡Tu mascota ha alcanzado el nivel máximo! No puedes ganar más experiencia con este artículo.
+2342	Se detuvo el cambio de bonificaciones en el artículo. No tienes suficientes objetos encantados.
+2343	Se detuvo el cambio de bonificaciones en el artículo. No tienes suficiente yang.
+2344	No tienes suficientes monedas para hacer girar la rueda de la fortuna.
+2345	Ha creado exitosamente un asistente llamado %s.
+2346	Ya estás en el calabozo.
+2347	Tu nivel es demasiado bajo.
+2348	No tienes el pase requerido.
+2349	No eres el líder del partido.
+2350	No hay suficientes jugadores en el partido.
+2351	Un miembro del grupo todavía tiene un tiempo de reutilización para esta mazmorra.
+2352	No tienes el objeto necesario para reducir el tiempo de reutilización de la mazmorra.
+2353	El tiempo de reutilización de la mazmorra se ha eliminado con éxito.
+2354	No tienes ningún tiempo de reutilización en esta mazmorra.
+2355	No se puede guardar la ubicación en una mazmorra.
+2356	Debes esperar un momento.
+2357	Debes esperar %d segundos.
+2358	No puedo teletransportarme a esta ubicación porque está demasiado cerca.
+2359	Una luz misteriosa salió de la caja.
+2360	Recibiste %d puntos de experiencia.
+2361	¡Un monstruo salió de la caja!
+2362	Una nube venenosa salió de la caja y te ralentizó.
+2363	¡La caja ha sido abierta! Perdiste algunos puntos de vida.
+2364	¡La caja ha sido abierta! Fuiste envenenado por el veneno de la caja.
+2365	El cofre parece estar vacío.
+2366	Organiza el espacio en la ventana de alquimia antes de abrir otro núcleo.
+2367	Debes esperar %d segundos antes del próximo teletransporte.
+2368	La teletransportación no está permitida en este mapa.
+2369	La caña de pescar no se puede utilizar en este momento.
+2370	Se ha enviado un mensaje sin conexión.
+2371	Debes esperar %d segundos.
+2372	Esta máscara de transformación ya está desbloqueada.
+2373	La máscara de transformación se ha desbloqueado con éxito.
+2374	No se puede cambiar de piel mientras se está transformado.
+2375	Esta piel ya está activa.
+2376	No se puede cambiar a una máscara que no hayas desbloqueado.
+2377	Primero debes desbloquear la tienda de transformación.
+2378	Esta acción no se puede realizar en este momento.
+2379	No tienes los artículos requeridos.
+2380	No se puede abrir una tienda fuera de las primeras ciudades.
+2381	Se ha alcanzado el número máximo de tiendas en este mapa.
+2382	El precio es un valor negativo.
+2383	Un miembro del grupo no puede abrir una tienda fuera de línea.
+2384	Ya tienes abierta una tienda offline.
+2385	Devolución de artículos de la tienda fuera de línea.
+2386	Para abrir una tienda fuera de línea durante este tiempo, ¡necesitas %s (x%d)!
+2387	Para abrir una tienda fuera de línea durante este período, necesitas %lld yang!
+2388	Se produjo un error al abrir la tienda.
+2389	El nombre de la tienda sin conexión es demasiado corto.
+2390	El nombre de la tienda contiene palabras prohibidas.
+2391	Este artículo no se puede mover a una tienda fuera de línea.
+2392	Este elemento no se puede mover.
+2393	Tiempo
+2394	La duración de tu tienda offline ha caducado.
+2395	Esta acción no se puede realizar en este momento.
+2396	Demasiados elementos en la búsqueda.
+2397	Primero cierre todas las ventanas.
+2398	No puedes comprar artículos en tu propia tienda.
+2399	Un miembro del grupo no puede comprar artículos en tiendas fuera de línea.
+2400	Debes esperar antes de realizar esta acción.
+2401	La tienda fuera de línea está vacía.
+2402	La tienda fuera de línea se cerró en el canal %d.
+2403	El artículo %s se eliminó correctamente de la tienda fuera de línea.
+2404	Esta característica no está disponible actualmente.
+2405	No se puede crear una tienda fuera de línea en este canal.
+2406	No puedes mover un artículo que llevas puesto a la tienda.
+2407	Estás demasiado lejos de la tienda.
+2408	El precio es demasiado alto.
+2409	El artículo fue encontrado en %d tiendas.
+2410	No tienes suficiente yang para hacer manualidades.
+2411	No tienes suficientes ganancias para la elaboración.
+2412	No tienes suficientes puntos de logros para la elaboración.
+2413	Este objeto no se puede utilizar en una mazmorra.
+2414	No se puede equipar un arma de disfraz con este tipo de arma.
+2415	No se puede desequipar el arma del disfraz, no hay suficiente espacio en el inventario.
+2416	Debes esperar 5 segundos antes de la siguiente búsqueda.
+2417	Este es el último artículo de la tienda, cierra la tienda.
+2418	Cierre todas las demás ventanas.
+2419	Debes esperar %d segundos antes de esta acción.
+2420	No tienes suficiente yang para crear una tienda fuera de línea. Necesitas %d yang.
+2421	Una tienda offline sólo se puede crear en el canal global (primeras ciudades).
+2422	Debes estar en las primeras ciudades para crear una tienda.
+2423	Este artículo está bloqueado, equipado o actualmente en intercambio.
+2424	Este artículo no se puede vender en una tienda fuera de línea.
+2425	Sólo se puede cargar un tipo de tabla de clasificación a la vez.
+2426	[SERVIDOR DE PRUEBA] Tu tabla de clasificación está actualizada.
+2427	[SERVIDOR DE PRUEBA] No hay ningún registro de este personaje en la tabla de clasificación.
+2428	[TEST_SERVER] La categoría de clasificación semanal %u agregó puntos %u.
+2429	No se puede realizar esta acción con la ventana de transformación abierta.
+2430	La máscara de transformación ha sido desbloqueada.
+2431	El jugador %s recibió el cofre del pescador del evento.
+2432	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You received|cfffce35b 2|r |cfffce35bbonus points|r |cfffff0a0into your fishing rod.|r
+2433	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Points in your fishing rod have increased (|cfffce35b%d|r/|cfffce35b%d|r).|r
+2434	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPoints in your fishing rod are at the maximum level.|r
+2435	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe fishing rod can be upgraded at the fisherman.|r
+2436	|Eemoji/info|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a[VIP] You received additional achievement points %d.|r
+2437	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0To catch the fish, you must press the |cfffce35bspacebar %dx|r.|r
+2438	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The spacebar was pressed too few times.|r
+2439	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The spacebar was pressed too many times.|r
+2440	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou grilled |cff87fa8b%s|r.|r
+2441	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Fishing is allowed only on the fishing map.|r
+2442	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have the required fish in your inventory.|r
+2443	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aFish successfully submitted. It was of excellent quality.|r
+2444	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Failed to submit the fish. It was of poor quality.|r
+2445	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This item can only be used on a |cfffa7a7afishing rod|r.|r
+2446	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item already has the maximum number of bonuses.|r
+2447	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Your fishing rod already contains this bonus.|r
+2448	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe bonus was successfully added.|r
+2449	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot add an item to the item lottery right now. Please wait.|r
+2450	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPlayer %s won the item lottery.|r
+2451	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Thanks to the bonus, you received |cfffce35b%d|r |cfffff0a0more ore.|r
+2452	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Thanks to the bonus, you received |cfffce35b 2|r |cfffce35bbonus points|r |cfffff0a0into your pickaxe.|r|r
+2453	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Points in your pickaxe have increased (|cfffce35b%d|r/|cfffce35b%d|r|cfffff0a0).|r|r
+2454	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou successfully mined ore.|r
+2455	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This time, you mined nothing.|r
+2456	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Relics can only be added to helmets, shields, and boots.|r
+2457	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe relic was successfully added to the item.|r
+2458	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Failed to add the relic to the item.|r
+2459	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item already contains the maximum number of relics.|r
+2460	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The item must contain 3 relics to reroll them.|r
+2461	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aRelic change in the item was successful.|r
+2462	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis action cannot be performed while transformed or mounted.|r
+2463	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNo mineral vein was found.|r
+2464	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou started mining.|r
+2465	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou must move closer to the vein.|r
+2466	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0It looks like the vein has disappeared.|r
+2061	|Eemoji/info|e|cffb9b8b8[|r|cffdee356WorldBoss|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aWorldBoss %s is alive.|r
+2062	|Eemoji/info|e|cffb9b8b8[|r|cffdee356WorldBoss|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323WorldBoss %s will spawn in %01.0f:%02.0f %s.|r
+4000	El jugador %s recibió %d piezas de %d.
+4001	El jugador %s recibió %d.
+10008	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You must dismount from your mount.|r
+10009	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe mount has been summoned.|r
+10010	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe mount has been dismissed.|r
+10011	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You must wait a moment before mounting again.|r
+10012	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You cannot ride a mount while wearing a dress or a tuxedo.|r
+10013	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The mount’s level is too low.|r
+10014	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This action cannot be performed while fishing or mining.|r
+10015	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This feed can be used on a mount with a minimum level of |cffff6363%d.|r|r
+10016	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This feed can be used on a mount with a maximum level of |cffff6363%d.|r|r
+10017	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot change the mount’s appearance while riding it.|r
+10018	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot summon a mount on this map.|r
+10019	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot dismount from the mount at this moment.|r
+10020	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Your mount’s experience points increased by |cfffce35b%d.|r|r
+10021	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot read a book while transformed.|r
+10022	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis skill is already at the maximum level.|r
+10023	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have the required items to increase the level.|r
+10024	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have enough yang to increase the level.|r
+10025	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe level was successfully increased.|r
+10026	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You are really unlucky today—give it up.|r
+10027	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Additional bonus has just started.|r
+10028	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Additional bonus has just ended.|r
+10029	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop from bosses has just started.|r
+10030	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop from bosses has just ended.|r
+10031	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop from rocks has just started.|r
+10032	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop from rocks has just ended.|r
+10033	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Moonlight Chest drops have just started.|r
+10034	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Moonlight Chest drops have just ended.|r
+10035	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Easier 6/7 bonus rolling has just started.|r
+10036	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Easier 6/7 bonus rolling has just ended.|r
+10037	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Chance to roll 63% average damage has just started.|r
+10038	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Chance to roll 63% average damage has just ended.|r
+10039	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Easier relic rerolling has just started.|r
+10040	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Easier relic rerolling has just ended.|r
+10041	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop of achievement points from bosses and rocks has just started.|r
+10042	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop of achievement points from bosses and rocks has just ended.|r
+10043	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Chance for a mining chest drop from ores has just started.|r
+10044	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Chance for a mining chest drop from ores has just ended.|r
+10045	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double ore drop has just started.|r
+10046	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double ore drop has just ended.|r
+10047	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Increased chance for a fishing star has just started.|r
+10048	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Increased chance for a fishing star has just ended.|r
+10049	El cambio de canal ha sido cancelado.
+10050	Ya estás en este canal.
+10051	Ya estás en este canal.
+10052	No puedes cambiar de canal en el canal global.
+10053	No puedes cambiar de canal en las mazmorras.
+10054	Debes esperar antes de volver a cambiar de canal.
+10055	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Player |cfffce35b%s|r picked up the item |cfffce35b%s|r from the ground for you.|r
+10056	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You picked up the item |cfffce35b%s|r from the ground for player |cfffce35b%s|r.|r
+10057	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You cannot train autobuff skills while your autobuff is dismissed.|r
+10058	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You received an event mining chest.|r
+10059	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the event, you received a fishing star.|r
+10060	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe gloves were cleansed of legendary enhancement.|r
+10061	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The gloves do not contain a legendary enhancement.|r
+10062	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Cleansing can only be used on +5 gloves.|r
+10063	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The Battle Pass has already expired. Wait for the next season.|r
+10064	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You must have at least character level 30 to use this item.|r
+10065	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You have already reached the maximum Battle Pass level.|r
+10066	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The maximum number of uses for this item in one Battle Pass season has been reached (7/7).|r
+10067	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received %d Battle Pass experience points! Current level: %d (Used: %d/7).|r
+10068	Este elemento ha sido deshabilitado.
+10069	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aOnly excellent legendary alchemy can be refined into mythical.|r
+10070	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item can only be used to upgrade items of level 201 or higher.|r
+10071	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item cannot be used to upgrade these items. Visit Seon-Pyeong.|r
+10072	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour level is too low to teleport to this location! (Required: %d+).|r
+10073	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour level is too high to teleport to this location! (Max: %d).|r
+10074	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTeleportation successful!|r
+10075	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aUnknown location index!|r
+10076	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aInvalid index! Use a numeric index.|r
+10077	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAfter actions such as trading and others, you must wait a moment.|r
+10078	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2axxx.|r
+10079	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2axxx1.|r
+10080	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have enough yang.|r
+10081	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou crafted %d items.|r
+10082	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Item crafting failed.|r
+10083	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aShop duration can only be extended if it is less than 4 days.|r
+10084	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need item %s x%d for crafting.|r
+10085	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis is an invalid crafting recipe.|r
+10086	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have enough materials for crafting.|r
+10087	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item cannot be moved to the special inventory.|r
+10088	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCrafting was successful.|r
+10089	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe shop duration has been extended by 4 days.|r
+10090	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the Lagoon Ring, you gained double drop.|r
+10091	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have the required item to spin.|r
+10092	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou must wait a moment before spinning again.|r
+10093	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received sugar needed to craft a pass to the Shimmering Lagoon.|r
+10094	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received a pineapple needed to craft a pass to the Shimmering Lagoon.|r
+10095	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe limited item was successfully purchased.|r
+10096	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis limited item has already been sold out.|r
+10097	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou purchased item %s – %d pcs.|r
+10098	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have enough won. You need %d.|r
+10099	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have already received one of the main rewards in the Wheel of Fortune. You can no longer spin.|r
+10100	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBoth main rewards have already reached the maximum spin limit (5). If you hit one of the chests, you will receive an alternative reward.|r
+10101	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou spun item %u, but it has already reached the maximum server limit. An alternative reward spin was performed.|r
+10102	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received item %u x%u as compensation for one of the main rewards.|r
+10103	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCongratulations! You received one of the main rewards! Remaining count: Reaper’s Chest (I): %d/5, Reaper’s Chest (II): %d/5.|r
+10104	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have successfully added a 1–5 bonus to the Elemental Heart.|r
+10105	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot add another bonus to the Elemental Heart.|r
+10106	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This enhancement cannot be used on this item.|r
+10107	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aChanging 1–5 bonuses in the Talisman Heart was successful.|r
+10108	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323There are not enough bonuses in the Elemental Heart to reroll.|r
+10109	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The Elemental Heart already has the maximum number of 6/7 bonuses.|r
+10110	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAdding 6–7 bonuses to the Talisman Heart was successful.|r
+10111	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This cannot be performed.|r
+10112	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Adding 6–7 bonuses to the Elemental Heart is only possible from +20.|r
+10113	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323There are not enough 6/7 bonuses in the Elemental Heart to reroll.|r
+10114	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aChanging 6/7 bonuses in the Talisman Heart was successful.|r
+10115	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Changing 6/7 bonuses in the Elemental Heart is only possible from +20.|r
+10116	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the active title "Relic Hunter", this reroll cost you nothing.|r
+10117	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the active title "Relic Hunter", this reroll cost you nothing.|r
+10118	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot do this without guild.|r
+10119	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have sufficient rights to upgrade guild guardian items.|r
+10120	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need to be on guild map in order to refine guardian items.|r
+10121	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour guild dont have enough guild money for this refine.|r
+10122	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have to wait.|r
+10123	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNot enough raid tickets.|r
+10124	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cant change guild notes that often.|r
+10125	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild notes need to be at least 4 characters long.|r
+10126	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou can not do this now. Close all windows and wait 10 seconds.|r
+10127	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou can equip guardian items only if they are placed inside inventory.|r
+10128	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis guardian item is still soulbinded to another guild.|r
+10129	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNot enough space in inventory.|r
+10130	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou dont have a ticket to buy extra daily raid for your guild.|r
+10131	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou dont have enough dragon coins to buy extra daily raid.|r
+10132	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild log is empty.|r
+10133	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild logs are already up to date.|r
+10134	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You have to wait %.2f seconds to change title again.|r
+10135	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have unlocked a new title!|r
+10136	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTitle has been activated!|r
+10137	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTitle has been removed.|r
+10138	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou already have this title active!|r
+10139	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou haven't unlocked this title yet!|r
+10140	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title is already active in your premium slot!|r
+10141	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title cannot be used together with your premium title!|r
+10142	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need active premium to use the second title slot!|r
+10143	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou already have this title active in premium slot!|r
+10144	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou haven't unlocked this title yet!|r
+10145	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title cannot be used together with your primary title!|r
+10146	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPremium title has been activated!|r
+10147	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPremium title has been removed.|r
+10148	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You are already a VIP member.|r
+1957	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCannot add additional 6/7 bonuses!|r
+1958	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a6/7 bonus was successfully added!|r
+1959	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCannot add 6/7 bonuses to this item!|r
+10149	Este tipo de artículo ya está equipado.
+10150	El cambio de bonificación en el artículo: %s (Slot: %d) fue exitoso.
+10151	No puedes montar durante PvP. Espera %d segundo(s).

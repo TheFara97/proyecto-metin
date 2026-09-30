@@ -1,0 +1,1075 @@
+ACCE_DEL_ABSORDITEM	Öeyi absorbe edip bu süreçte onu yok etmek mi istiyorsunuz?
+ACCE_DEL_SERVEITEM	Kombinasyonun baarsz olmas durumunda Kanat 2 yok edilecek.
+AFF_LOVE_POINT	Ak puanlar: %d%%
+ALIGNMENT_NAME	Sralama puanlar:
+AURA_DRAIN_PER	Emilim oran %.1f%%
+AURA_LEVEL_STEP	Seviye %d (%d. Aama)
+AURA_TITLE_ABSORB	Deerleri Aura Outfit'e aktarn
+AURA_TITLE_EVOLUTION	Evolve Aura Kyafeti
+AURA_TOOLTIP_NEED_YANG	%s Yang
+AURA_TOOLTIP_NEXT	Yeni
+AURA_TOOLTIP_RESOURCE	Sarf malzemeleri
+AURA_TOOLTIP_RESOURCE_ITEM	%s * %d
+CANNOT_ATTACK_DEST_IN_SAFE	Savaç çok uzakta.
+CANNOT_ATTACK_SELF_IN_SAFE	Rakibime buradan saldramam.
+CANNOT_EQUIP_IN_EXCHANGE	Ticaret srasnda ekipmannz deitiremezsiniz.
+CANNOT_EQUIP_IN_SHOP	Ticaret srasnda ekipmannz deitiremezsiniz.
+CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA	Halka açk alanda özel maaza açamazsnz.
+CANNOT_SHOOT_DEST_IN_SAFE	Düman çok uzakta.
+CANNOT_SHOOT_EMPTY_ARROW	Bir oka ihtiyacm var.
+CANNOT_SHOOT_SELF_IN_SAFE	Rakibime buradan saldramam.
+CANNOT_SKILL_APPROACH	Daha fazla yaklaamayacama eminim.
+CANNOT_SKILL_ATTACK	Buna saldramam.
+CANNOT_SKILL_DEST_IN_SAFE	Rakip çok uzakta.
+CANNOT_SKILL_EQUIP_FISHING_ROD	Olta donanm olmadan balk tutamazsnz.
+CANNOT_SKILL_HAVE_TO_RIDE	Bunu kullanabilmem için bir ata ihtiyacm var.
+CANNOT_SKILL_NEED_EMPTY_BOTTLE	Bo bir iem yok.
+CANNOT_SKILL_NEED_POISON_BOTTLE	Zehir iem yok.
+CANNOT_SKILL_NEED_TARGET	Hedef kim?
+CANNOT_SKILL_NOT_ENOUGH_HP	Yeterli HP'm yok!
+CANNOT_SKILL_NOT_ENOUGH_SP	Yeterli SP'm yok!
+CANNOT_SKILL_NOT_HORSE_SKILL	Bunu sürü srasnda kullanamyorum.
+CANNOT_SKILL_NOT_MATCHABLE_WEAPON	Bu beceriyi bu silahla kullanamam.
+CANNOT_SKILL_NOT_YET_LEARN	Bu beceriyi örenmedim.
+CANNOT_SKILL_ONLY_FOR_ALLIANCE	Bu yalnzca grup üyelerini etkiler.
+CANNOT_SKILL_ONLY_FOR_CORPSE	Bu sadece ölü insanlar etkiler.
+CANNOT_SKILL_REMOVE_FISHING_ROD	Bu beceriyi Olta Kam ile kullanamam.
+CANNOT_SKILL_SELF_IN_SAFE	Buradan saldramam.
+CANNOT_SKILL_USE_SELF	Bunu kendimde kullanamam.
+CANNOT_SKILL_WAIT_COOLTIME	Bu beceriyi henüz kullanamyorum.
+CANNOT_USE	Bunu kullanamazsnz.
+CANNOT_WHISPER_DEST_REFUSE	%s fsldamay engelledi.	SA
+CANNOT_WHISPER_NOT_LOGON	%s çevrimiçi deil.	SA
+CANNOT_WHISPER_SELF_REFUSE	Fsldamay tamamen engellediinizde birine bir ey fsldayamazsnz.	SNA
+CATEGORY_ARMOR_ARMOR_BODY	Zrh
+CATEGORY_ARMOR_ARMOR_HEAD	Kasklar
+CATEGORY_ARMOR_ARMOR_SHIELD	Kalkanlar
+CATEGORY_COSTUMES	Kostümler
+CATEGORY_COSTUMES_COSTUME_BODY	Kostümler
+CATEGORY_COSTUMES_COSTUME_HAIR	Saç modelleri
+CATEGORY_COSTUMES_COSTUME_WEAPON	Silah Görünümleri
+CATEGORY_COSTUMES_SASH	Omuz Kuaklar
+CATEGORY_DRAGON_STONE	Ejderha Ta Simyas
+CATEGORY_EQUIPMENT_ARMOR	Teçhizat
+CATEGORY_EQUIPMENT_WEAPON	Silahlar
+CATEGORY_ETC	Dier
+CATEGORY_JEWELRY_ARMOR_EAR	Küpeler
+CATEGORY_JEWELRY_ARMOR_FOOTS	Ayakkab
+CATEGORY_JEWELRY_ARMOR_NECK	Kolyeler
+CATEGORY_JEWELRY_ARMOR_WRIST	Bilezikler
+CATEGORY_WEAPON_WEAPON_ARROW	Oklar
+CATEGORY_WEAPON_WEAPON_BELL	Çanlar
+CATEGORY_WEAPON_WEAPON_BOW	Yaylar
+CATEGORY_WEAPON_WEAPON_DAGGER	Hançerler
+CATEGORY_WEAPON_WEAPON_FAN	Hayranlar
+CATEGORY_WEAPON_WEAPON_SWORD	Tek Elle Kullanlan Silahlar
+CATEGORY_WEAPON_WEAPON_TWO_HANDED	ki Elli Silahlar
+CHANNEL	Kanal
+CHANNEL_NOTIFY_FULL	Bu kanal dolu! Lütfen baka bir tane seçin.
+CHARACTER_CREATE_MODE	Karakter olutur
+CHARACTER_NAME	sim
+CHATTING_SETTING_CLEAR_QUESTION	Sfrlansn m?
+CHATTING_SETTING_SETTING	Ayarlar
+CHAT_ALL	Tüm
+CHAT_DICE_INFO	Frlatmak
+CHAT_GUILD	Lonca
+CHAT_INFORMATION	Bilgi
+CHAT_INSULT_STRING	Bu cümlenin içinde geçersiz kelimeler var.
+CHAT_LOG	Eski mesajlar göster [L]
+CHAT_LOG_TITLE	Sohbet günlüü
+CHAT_NORMAL	Normal
+CHAT_NOTICE	Sunucu
+CHAT_PARTY	Grup
+CHAT_SEND_CHAT	Sohbet gönder
+CHAT_SEND_MEMO	Fslt gönder [Shift+Enter]
+CHAT_SHOUT	Arama
+CHAT_SHOUT_LIMIT	Yalnzca 15 saniyede bir arayabilirsiniz.
+CHEQUE_SYSTEM_SELL_PRICE	[Sat fiyat]
+CHEQUE_SYSTEM_UNIT_WON	Kazanmak
+CHEQUE_SYSTEM_UNIT_YANG	Hangi
+CHEQUE_SYSTEM_WON	%s Kazand
+CHEQUE_SYSTEM_YANG	%s Yang
+CREATE_ERROR_GM_NAME	Karakter adnzda 'GM' kullanmanza izin verilmiyor.
+CREATE_ERROR_INSULT_NAME	Bu ad geçersiz.
+CREATE_EXIST_SAME_NAME	Baka bir karakter zaten bu isme sahip.
+CREATE_FAILURE	Karakteri oluturamazsnz
+CREATE_GM_NAME	GM
+CREATE_INPUT_NAME	Ad girin.
+CUBE_CATEGORY_ETC	Vesaire.
+DAY	d
+DETAILS_1	Cad. Yar nsanlara Kar
+DETAILS_12	Saldr Deeri
+DETAILS_13	Savunma Deeri
+DETAILS_14	Ortalama Hasar
+DETAILS_15	Ortalama Hasar. Direnmek.
+DETAILS_16	Beceri Hasar
+DETAILS_17	Beceri Hasar Direnci
+DETAILS_18	Magic/Melee Attack
+DETAILS_19	Büyü Saldrs
+DETAILS_2	Res. Yar nsanlara
+DETAILS_20	Kritik Vuru ans
+DETAILS_21	Delici Vuru
+DETAILS_24	Yldrm Direnci
+DETAILS_25	Buz Direnci
+DETAILS_26	Karanla Direnç
+DETAILS_27	Yangna Dayankllk
+DETAILS_28	Rüzgar Direnci
+DETAILS_29	Toprak Direnci
+DETAILS_3	Güçlü Orklara Kar
+DETAILS_36	Güçlü vs Warriors
+DETAILS_37	Ninjalara Kar Güçlü
+DETAILS_38	Güçlü ve Sureler
+DETAILS_39	Güçlü amanlara Kar
+DETAILS_4	Güçlü ve Ölümsüz
+DETAILS_41	Savunma ve Savaçlar
+DETAILS_42	Savunma ve Ninjalar
+DETAILS_43	Savunma ve Sureler
+DETAILS_44	Savunma ve amanlar
+DETAILS_46	Klç Savunmas
+DETAILS_47	ki Elle Savunma
+DETAILS_48	Hançer Savunmas
+DETAILS_5	Güçlü Canavarlara Kar
+DETAILS_50	Çan Savunmas
+DETAILS_51	Taraftar Savunmas
+DETAILS_52	Ok Savunmas
+DETAILS_53	Zayf ans
+DETAILS_54	Yavalama ans
+DETAILS_55	Zehir ans
+DETAILS_56	Zehir Direnci
+DETAILS_59	HP Çalma
+DETAILS_6	Cad. vs Zodiac Mon.
+DETAILS_60	SP Çalma
+DETAILS_61	HP Kurtarma
+DETAILS_62	SP Kurtarma
+DETAILS_63	Blok Saldrs
+DETAILS_64	Ok Saldrsndan Kaçn
+DETAILS_65	Yakn Dövü Saldrsn Yanst
+DETAILS_66	Öldürmede HP Kurtarma
+DETAILS_67	Öldürmede SP Kurtarma
+DETAILS_68	Çift EXP
+DETAILS_69	Çift Yang
+DETAILS_7	Güçlü Hayvanlara Kar
+DETAILS_70	Düme ans
+DETAILS_76	Büyü Direnci
+DETAILS_8	Güçlü Mistiklere Kar
+DETAILS_9	Güçlü eytanlara Kar
+DO_YOU_BUY_ITEM1	%s Yang karlnda %s satn almak ister misiniz?
+DO_YOU_BUY_ITEM2	%s Yang için %s (%s adet) satn almak ister misiniz?
+DO_YOU_BUY_ITEM3	%s Won ve %s Yang karlnda %s satn almak ister misiniz?
+DO_YOU_BUY_ITEM4	%s Won ve %s Yang karlnda %s (%s adet) satn almak ister misiniz?
+DO_YOU_DROP_MONEY	%d Yang' brakmak istiyor musunuz?
+DO_YOU_SELL_ITEM1	%s'yi %s Yang karlnda satmak istiyor musunuz?
+DO_YOU_SELL_ITEM2	%s (%s adet)'i %s Yang karlnda satmak istiyor musunuz?
+DRAGON_SOUL_CANNOT_REFINE	Bu Ejderha Ta rafine edilemez.
+DRAGON_SOUL_CANNOT_REFINE_MORE	Bu Ejderha Ta zaten en yüksek seviyeye ulat.
+DRAGON_SOUL_EQUIP_WARNING1	Bir Ejderha Ta takldktan sonra onu çkarmak zordur.
+DRAGON_SOUL_EQUIP_WARNING2	Hala devam etmek istiyor musunuz?
+DRAGON_SOUL_EXPIRED	Süresi dolmu Dragon Stone
+DRAGON_SOUL_INVALID_DRAGON_SOUL	Bu yanl Ejderha Ta.
+DRAGON_SOUL_IS_NOT_DRAGON_SOUL	Bu bir Ejderha Ta deil.
+DRAGON_SOUL_NOT_DRAGON_SOUL_REFINE_STONE	Bu doru Ejderha Ta deil.
+DRAGON_SOUL_NOT_ENOUGH_MATERIAL	Artmak için yeterli malzemeniz yok.
+DRAGON_SOUL_STEP_LEVEL1	Berraklk: mat,
+DRAGON_SOUL_STEP_LEVEL2	Açklk: açk,
+DRAGON_SOUL_STEP_LEVEL3	Netlik: kusursuz,
+DRAGON_SOUL_STEP_LEVEL4	Netlik: parlak,
+DRAGON_SOUL_STEP_LEVEL5	Netlik: mükemmel,
+DRAGON_SOUL_STRENGTH	Seviye: +%d	SA
+DRAGON_SOUL_UNEQUIP_WARNING1	Ejderha Ta bu süreçte yok edilebilir.
+DRAGON_SOUL_UNEQUIP_WARNING2	Hala devam etmek istiyor musunuz?
+DRAGON_SOUL_UNMATCHED_SLOT	Bu yanl slot.
+DROP_ITEM_FAILURE_EQUIP_ITEM	Donanml eyalar düüremezsiniz.
+DROP_ITEM_FAILURE_PRIVATE_SHOP	Özel bir maaza açk olduu sürece hiçbir eyay brakamazsnz.
+DROP_MONEY_FAILURE_1000_OVER	Maksimum 999 Yang düürebilirsiniz.
+EMOTION_ANGRY	Arlatrc
+EMOTION_ATTRACTIVE	Batan çkarma
+EMOTION_BANTER	Küçümseyen
+EMOTION_CHEERS_1	erefe 1
+EMOTION_CHEERS_2	erefe 2
+EMOTION_CHEERUP	Tezahürat
+EMOTION_CHOOSE_ONE	Bir hedef seçin.
+EMOTION_CLAP	Alklar
+EMOTION_CLAP_KISS	Öpücük
+EMOTION_CONGRATULATION	Onay
+EMOTION_DANCE_1	Dans 1
+EMOTION_DANCE_2	Dans 2
+EMOTION_DANCE_3	Dans 3
+EMOTION_DANCE_4	Dans 4
+EMOTION_DANCE_5	Dans 5
+EMOTION_DANCE_6	Gümsan Stili
+EMOTION_FORGIVE	Balama
+EMOTION_FRENCH_KISS	Fransz Öpücüü
+EMOTION_JOY	Nee
+EMOTION_SAD	Üzgün
+EMOTION_SHY	Reddetme
+EMOTION_SLAP	Vurmak
+EMPIRE_A	Shinsoo Krall
+EMPIRE_B	Chunjo Krall
+EMPIRE_C	Jinno Krall
+EMPIRE_SELECT_MODE	Krallk seçin
+EXCHANGE_CANNOT_GIVE	Bu eyann ticareti yaplamaz.
+EXCHANGE_CANT_EDIT_MONEY	imdi toplam deitiremezsiniz.
+EXCHANGE_FAILURE_EQUIP_ITEM	Donanml Öeleri deitiremezsiniz.
+EXCHANGE_MONEY	Toplam
+EXCHANGE_TITLE	%s (%d) ile ilem yapn
+FISHING_FAILURE	Bait'i kaybettin.
+FISHING_NOTIFY1	%s bamls gibi görünüyor.
+FISHING_NOTIFY2	Görünüe göre %s kancaya taklm durumda.
+FISHING_SUCCESS1	%s'yi yakaladnz!
+FISHING_SUCCESS2	%s'yi sudan çkardnz!
+FISHING_UNKNOWN	Bir ey yemi yuttu ama ne olduunu göremiyorsun.
+FISHING_WRONG_PLACE	Burada balk tutmaya gidemezsin.
+FOR_FEMALE	kadn için
+FOR_MALE	erkek için
+GAME_CANNOT_MINING	Sürü srasnda Cevher çkaramazsnz.
+GAME_CANNOT_PICK_ITEM	Bu Öeyi kazanmadnz için toplayamazsnz.
+GAME_INIT_ERROR_CURSOR	mleç oluturulamad.
+GAME_INIT_ERROR_DIRECTX	Oyunun çalabilmesi için DirectX 8.1 yüklü olmaldr.\nDirectX 8.1 veya üzerini yükleyin.
+GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE	Grafik aygt bulunamad. \nVGA kartnzn doru ekilde taklp taklmadn kontrol edin.
+GAME_INIT_ERROR_GRAPHICS_NOT_EXIST	Grafik aygt kurulamad. \nVGA kartnz olup olmadn kontrol edin. \nAlternatif olarak, donanm hzlandrcy etkinletirebilirsiniz.\n(Donanm hzlandrcy maksimuma ayarlayn \nDenetim Masas->Ekran->Ayarlar->Gelimi->Sorun Giderme sekmesi)
+GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT	Bilgisayarn grafik kart 32bit Modunda pencere modunu desteklemiyor. \n16bit Moduna geçin veya Tam Ekran Modunu kullann.
+GAME_INIT_ERROR_ITEM_PROTO	Orada Öe verisi yok.\nOyunu tekrar yükleyin.
+GAME_INIT_ERROR_MAIN_WINDOW	Ana bilgisayar kurulamad
+GAME_INIT_ERROR_MOB_PROTO	Orada Monster Verisi yok.\nOyunu tekrar yükleyin.
+GAME_INIT_ERROR_NETWORK	A cihazlar kurulamad.\nnternet balantnz kontrol edin.
+GAME_PICK_MONEY	%s Yang aldnz.
+GUILDMARK_UPLOADER_ERROR_128_HEIGHT	Yükseklik 128 Piksel deil
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	Yükseklik 12 Piksel deil
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	Genilik 16 Piksel deil
+GUILDMARK_UPLOADER_ERROR_64_WIDTH	Genilik 64 Piksel deil
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	Oyun bu resmi desteklemiyor.
+GUILDMARK_UPLOADER_ERROR_PATH	Move the data into the folder metin2/upload.
+GUILDMARK_UPLOADER_ERROR_SELECT	Resim dosyas seçilmedi.
+GUILDWAR_CTF_TITLE	Bayra Ele Geçirin
+GUILDWAR_NORMAL_TITLE	Saha Sava
+GUILDWAR_WARP_TITLE	Arena Sava
+GUILD_BOARD_ID	Üye
+GUILD_BOARD_TEXT	Mesaj
+GUILD_BUILDING_GRADE	Rütbe
+GUILD_BUILDING_NAME	Binann ad
+GUILD_CANNOT_HEAL_GSP_ANYMORE	Ejderha Hayaleti Enerjisi zaten tamamen yenilendi.
+GUILD_COMMENT	Yazmak
+GUILD_CREATE_ERROR_INSULT_NAME	Lonca ad geçerli deil.
+GUILD_DEFAULT_GRADE	Lonca üyeleri
+GUILD_DELETE	Silmek
+GUILD_DEPOSIT	Mevduat
+GUILD_DO_YOU_HEAL_GSP	%d birimi Dragon Ghost'u geri yüklemek için %d Yang' kullanmak ister misiniz?
+GUILD_DO_YOU_JOIN	seni davet etti. Loncaya katlmak ister misin?
+GUILD_EMPTY_AREA	Bo arazi
+GUILD_FACILITY	Ek bina
+GUILD_GEM	Mücevher
+GUILD_HEADQUARTER	Ana Bina
+GUILD_HEAL_GSP	Ejderha hayaletini geri yükle
+GUILD_INFO_ENEMY_GUILD_EMPTY	Hiçbiri
+GUILD_MARK_NOT_ENOUGH_LEVEL	Minimum seviye 3 gerekli
+GUILD_MEMBER_JOB	Snf
+GUILD_MEMBER_KNIGHT	Savaç
+GUILD_MEMBER_LEVEL	Seviye
+GUILD_MEMBER_NAME	Üye
+GUILD_MEMBER_RANK	Rütbe
+GUILD_MEMBER_SPECIFIC_GRAVITY	Balanan EXP
+GUILD_NAME	Lonca ad
+GUILD_NOT_ENOUGH_MATERIAL	Bu bina için yeterli inaat malzemesi yok.
+GUILD_NOT_ENOUGH_MONEY	Bu bina için yeterli Yang yok.
+GUILD_NO_NOTICE_PERMISSION	Duyuru yapma hakknz yoktur.
+GUILD_OBJECT	Nesneler
+GUILD_OFFER_EXP	Yatrm deneyimi
+GUILD_SHORT_EXP	Yeterli deneyim puan yok.
+GUILD_TILE_BASEINFO	Bölge Bilgileri
+GUILD_TILE_BOARD	Lonca Mesajlar
+GUILD_TILE_GRADE	Hak Yönetimi
+GUILD_TILE_INFO	Lonca Bilgileri
+GUILD_TILE_MEMBER	Üye
+GUILD_TILE_SKILL	Lonca Becerileri
+GUILD_WAR_LIMIT_30MIN	Süre: 30 Dakika
+GUILD_WAR_REWARD_POTION	Ödül: Kazanan bir ksir alr
+GUILD_WAR_USE_BATTLE_MAP	Yer: Lonca Sava Arenas
+GUILD_WAR_USE_NORMAL_MAP	Konum: Normal Harita
+GUILD_WAR_WIN_CHECK_SCORE	En yüksek sonuç sava kazanr.
+GUILD_WAR_WIN_TAKE_AWAY_FLAG1	Dümannzn bayran ele geçirin
+GUILD_WAR_WIN_TAKE_AWAY_FLAG2	ve üssünüze tayn.
+GUILD_WAR_WIN_WIPE_OUT_GUILD	Kazanmak için tüm dümanlar yen.
+GUILD_WITHDRAW	Geri çekilmek
+GUILD_YOU_DO_NOT_JOIN	Herhangi bir Loncann üyesi deilsiniz.
+HORSE_HEALTH0	Ölü
+HORSE_HEALTH1	Açlktan ölme
+HORSE_HEALTH2	Aç
+HORSE_HEALTH3	Tam dolu
+HORSE_LEVEL1	Normal At
+HORSE_LEVEL2	Sava At
+HORSE_LEVEL3	Askeri At
+HOUR	hr
+HOW_MANY_ITEM_DO_YOU_DROP1	%s'i brakmak istiyor musunuz?
+HOW_MANY_ITEM_DO_YOU_DROP2	%s %d'yi brakmak istiyor musunuz?
+INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION	Hesap ayarlarnzdan silme kodunu buraya girin.
+INPUT_PRIVATE_CODE_DIALOG_TITLE	Karakteri sil
+INVENTORY_REALLY_USE_ITEM	Bu öede öe kullanlsn m?
+JOB_ASSASSIN	Ninja
+JOB_ASSASSIN0	Hiçbiri
+JOB_ASSASSIN1	Klç Ninjas
+JOB_ASSASSIN2	Okçuluk Ninjas
+JOB_SHAMAN	aman
+JOB_SHAMAN0	Hiçbiri
+JOB_SHAMAN1	Ejderha aman
+JOB_SHAMAN2	ifa aman
+JOB_SURA	Sure
+JOB_SURA0	Hiçbiri
+JOB_SURA1	Silah Suresi
+JOB_SURA2	Sihirli Sure
+JOB_WARRIOR	Savaç
+JOB_WARRIOR0	Hiçbiri
+JOB_WARRIOR1	Vücut Savaçs
+JOB_WARRIOR2	Zihinsel Savaç
+JOB_WOLFMAN	Lycan
+JOB_WOLFMAN0	Amatör Lycan
+JOB_WOLFMAN1	çgüdü
+JOB_WOLFMAN2	N.A.
+KEYCHANGE_DONT_SAVE_EXIT	Kaydetmeden çklsn m?
+KEYCHANGE_IMPOSSIBLE_CHANGE	Burada [CTRL], [ALT], [SHIFT]'e izin verilmiyor!
+KEYCHANGE_SAVE_EXIT	Kaydet ve çk?
+KEY_0	0
+KEY_0_LALT	ALT + 0
+KEY_0_LCONTROL	CTRL + 0
+KEY_0_LSHIFT	ÜST KRKT + 0
+KEY_1	1
+KEY_1_LALT	ALT + 1
+KEY_1_LCONTROL	CTRL + 1
+KEY_1_LSHIFT	ÜST KRKT + 1
+KEY_2	2
+KEY_2_LALT	ALT + 2
+KEY_2_LCONTROL	CTRL + 2
+KEY_2_LSHIFT	ÜST KRKT + 2
+KEY_3	3
+KEY_3_LALT	ALT + 3
+KEY_3_LCONTROL	CTRL + 3
+KEY_3_LSHIFT	ÜST KRKT + 3
+KEY_4	4
+KEY_4_LALT	ALT + 4
+KEY_4_LCONTROL	CTRL + 4
+KEY_4_LSHIFT	ÜST KRKT + 4
+KEY_5	5
+KEY_5_LALT	ALT + 5
+KEY_5_LCONTROL	CTRL + 5
+KEY_5_LSHIFT	ÜST KRKT + 5
+KEY_6	6
+KEY_6_LALT	ALT + 6
+KEY_6_LCONTROL	CTRL + 6
+KEY_6_LSHIFT	ÜST KRKT + 6
+KEY_7	7
+KEY_7_LALT	ALT + 7
+KEY_7_LCONTROL	CTRL + 7
+KEY_7_LSHIFT	ÜST KRKT + 7
+KEY_8	8
+KEY_8_LALT	ALT + 8
+KEY_8_LCONTROL	CTRL + 8
+KEY_8_LSHIFT	ÜST KRKT + 8
+KEY_9	9
+KEY_9_LALT	ALT + 9
+KEY_9_LCONTROL	CTRL + 9
+KEY_9_LSHIFT	ÜST KRKT + 9
+KEY_A	A
+KEY_ADD	+
+KEY_A_LALT	ALT + A
+KEY_A_LCONTROL	CTRL + A
+KEY_A_LSHIFT	ÜST KRKT + A
+KEY_B	B
+KEY_B_LALT	ALT + B
+KEY_B_LCONTROL	CTRL + B
+KEY_B_LSHIFT	ÜST KRKT + B
+KEY_C	C
+KEY_COMMA	,
+KEY_COMMA_LALT	ALT + ,
+KEY_COMMA_LCONTROL	CTRL+,
+KEY_COMMA_LSHIFT	ÜSTKRKT +,
+KEY_C_LALT	ALT + C
+KEY_C_LCONTROL	CTRL + C
+KEY_C_LSHIFT	ÜST KRKT + C
+KEY_D	D
+KEY_DOWN	DOWN
+KEY_D_LALT	ALT + D
+KEY_D_LCONTROL	CTRL + D
+KEY_D_LSHIFT	ÜST KRKT + D
+KEY_E	E
+KEY_E_LALT	ALT + E
+KEY_E_LCONTROL	CTRL + E
+KEY_E_LSHIFT	ÜSTKRKT + E
+KEY_F	F
+KEY_F1	F1
+KEY_F10	F10
+KEY_F10_LALT	ALT + F10
+KEY_F10_LCONTROL	CTRL + F10
+KEY_F10_LSHIFT	ÜST KRKT + F10
+KEY_F1_LALT	ALT + F1
+KEY_F1_LCONTROL	CTRL + F1
+KEY_F1_LSHIFT	ÜST KRKT + F1
+KEY_F2	F2
+KEY_F2_LALT	ALT + F2
+KEY_F2_LCONTROL	CTRL + F2
+KEY_F2_LSHIFT	ÜST KRKT + F2
+KEY_F3	F3
+KEY_F3_LALT	ALT + F3
+KEY_F3_LCONTROL	CTRL + F3
+KEY_F3_LSHIFT	ÜST KRKT + F3
+KEY_F4	F4
+KEY_F4_LALT	ALT + F4
+KEY_F4_LCONTROL	CTRL + F4
+KEY_F4_LSHIFT	ÜST KRKT + F4
+KEY_F5	F5
+KEY_F5_LALT	ALT + F5
+KEY_F5_LCONTROL	CTRL + F5
+KEY_F5_LSHIFT	ÜST KRKT + F5
+KEY_F6	F6
+KEY_F6_LALT	ALT + F6
+KEY_F6_LCONTROL	CTRL + F6
+KEY_F6_LSHIFT	ÜST KRKT + F6
+KEY_F7	F7
+KEY_F7_LALT	ALT + F7
+KEY_F7_LCONTROL	CTRL + F7
+KEY_F7_LSHIFT	ÜST KRKT + F7
+KEY_F8	F8
+KEY_F8_LALT	ALT + F8
+KEY_F8_LCONTROL	CTRL + F8
+KEY_F8_LSHIFT	ÜST KRKT + F8
+KEY_F9	F9
+KEY_F9_LALT	ALT + F9
+KEY_F9_LCONTROL	CTRL + F9
+KEY_F9_LSHIFT	ÜST KRKT + F9
+KEY_F_LALT	ALT + F
+KEY_F_LCONTROL	CTRL + F
+KEY_F_LSHIFT	ÜST KRKT + F
+KEY_G	G
+KEY_GRAVE	`
+KEY_GRAVE_LALT	ALT + `
+KEY_GRAVE_LCONTROL	CTRL + `
+KEY_GRAVE_LSHIFT	ÜSTKRKT + `
+KEY_G_LALT	ALT + G
+KEY_G_LCONTROL	CTRL + G
+KEY_G_LSHIFT	ÜST KRKT + G
+KEY_H	H
+KEY_H_LALT	ALT + H
+KEY_H_LCONTROL	CTRL + H
+KEY_H_LSHIFT	ÜST KRKT + H
+KEY_I	I
+KEY_I_LALT	HEPS + ben
+KEY_I_LCONTROL	CTRL + ben
+KEY_I_LSHIFT	ÜSTKRKT + I
+KEY_J	J
+KEY_J_LALT	ALT + J
+KEY_J_LCONTROL	CTRL +J
+KEY_J_LSHIFT	ÜST KRKT + J
+KEY_K	K
+KEY_K_LALT	ALT + K
+KEY_K_LCONTROL	CTRL + K
+KEY_K_LSHIFT	ÜST KRKT + K
+KEY_L	L
+KEY_LALT	ALT
+KEY_LCONTROL	CTRL
+KEY_LEFT	LEFT
+KEY_LSHIFT	SHIFT
+KEY_L_LALT	ALT + L
+KEY_L_LCONTROL	CTRL + L
+KEY_L_LSHIFT	ÜST KRKT + L
+KEY_M	M
+KEY_M_LALT	ALT + M
+KEY_M_LCONTROL	CTRL + M
+KEY_M_LSHIFT	ÜST KRKT + M
+KEY_N	N
+KEY_NUMLOCK	NUMLOCK
+KEY_NUMPAD0	NUMPAD 0
+KEY_NUMPAD1	NUMPAD 1
+KEY_NUMPAD2	NUMPAD 2
+KEY_NUMPAD3	NUMPAD 3
+KEY_NUMPAD4	NUMPAD 4
+KEY_NUMPAD5	NUMPAD 5
+KEY_NUMPAD6	NUMPAD 6
+KEY_NUMPAD7	NUMPAD 7
+KEY_NUMPAD8	NUMPAD 8
+KEY_NUMPAD9	NUMPAD 9
+KEY_N_LALT	ALT + N
+KEY_N_LCONTROL	CTRL + N
+KEY_N_LSHIFT	ÜST KRKT + N
+KEY_O	O
+KEY_O_LALT	ALT + O
+KEY_O_LCONTROL	CTRL + O
+KEY_O_LSHIFT	ÜST KRKT + O
+KEY_P	P
+KEY_PERIOD	.
+KEY_PERIOD_LALT	ALT + .
+KEY_PERIOD_LCONTROL	CTRL + .
+KEY_PERIOD_LSHIFT	ÜST KRKT + .
+KEY_PGDN	SAYFA AAI
+KEY_PGUP	SAYFA YUKARI
+KEY_P_LALT	ALT + P
+KEY_P_LCONTROL	CTRL + P
+KEY_P_LSHIFT	ÜST KRKT + P
+KEY_Q	Q
+KEY_Q_LALT	ALT + Q
+KEY_Q_LCONTROL	CTRL + S
+KEY_Q_LSHIFT	ÜST KRKT + Q
+KEY_R	R
+KEY_RIGHT	RIGHT
+KEY_R_LALT	ALT + R
+KEY_R_LCONTROL	CTRL + R
+KEY_R_LSHIFT	ÜSTKRKT + R
+KEY_S	S
+KEY_SPACE	SPACE
+KEY_SUBTRACT	-
+KEY_SYSRQ	PRT SCN'si
+KEY_S_LALT	ALT + S
+KEY_S_LCONTROL	CTRL + S
+KEY_S_LSHIFT	ÜST KRKT + S
+KEY_T	T
+KEY_TAB	TAB
+KEY_T_LALT	ALT + T
+KEY_T_LCONTROL	CTRL + T
+KEY_T_LSHIFT	ÜST KRKT + T
+KEY_U	U
+KEY_UP	UP
+KEY_U_LALT	ALT + Ü
+KEY_U_LCONTROL	CTRL + U
+KEY_U_LSHIFT	ÜSTKRKT + U
+KEY_V	V
+KEY_V_LALT	ALT + V
+KEY_V_LCONTROL	CTRL + V
+KEY_V_LSHIFT	ÜSTKRKT + V
+KEY_W	W
+KEY_W_LALT	ALT + W
+KEY_W_LCONTROL	CTRL + W
+KEY_W_LSHIFT	ÜSTKRKT + W
+KEY_X	X
+KEY_X_LALT	ALT + X
+KEY_X_LCONTROL	CTRL + X
+KEY_X_LSHIFT	ÜST KRKT + X
+KEY_Y	Y
+KEY_Y_LALT	ALT + Y
+KEY_Y_LCONTROL	CTRL + Y
+KEY_Y_LSHIFT	ÜST KRKT + Y
+KEY_Z	Z
+KEY_Z_LALT	ALT + Z
+KEY_Z_LCONTROL	CTRL +Z
+KEY_Z_LSHIFT	ÜST KRKT + Z
+LEFT_TIME	Kalan Süre
+LOGIN_CONNECT_FAILURE	Sunucuya balanrken hata olutu.
+LOGIN_CONNECT_SUCCESS	Sunucuya balandnz.
+LOGIN_CONNETING	Sunucuya balanrken lütfen bekleyin.
+LOGIN_FAILURE_ALREAY	Hesabnz zaten bal.
+LOGIN_FAILURE_BE_SAME_KEY	Kayt sorunu.
+LOGIN_FAILURE_BLOCK_ID	Bu hesap engellendi.
+LOGIN_FAILURE_BLOCK_LOGIN	Kapal sunucu: Yalnzca kapatlmadan önce oluturulan hesaplar girebilir. Lütfen baka bir tane seçin!
+LOGIN_FAILURE_NOBILL	Hesabn oynama süresi yoktur.
+LOGIN_FAILURE_NOT_AVAIL	Hesap kullanlamyor.
+LOGIN_FAILURE_NOT_EXIST_ID	Hesap ad veya ifre yanl.
+LOGIN_FAILURE_REPAIR_ID	Bu hesap için öeler geri yüklendi.
+LOGIN_FAILURE_SAMELOGIN	Birisi hesabnza baland.
+LOGIN_FAILURE_SHUTDOWN	Sunucu henüz açk deil.
+LOGIN_FAILURE_TOO_MANY_USER	Çok fazla oyuncu çevrimiçi olduundan balanamadnz.
+LOGIN_FAILURE_UNKNOWN	Bilinmeyen nedenlerden dolay kayt olamadnz.
+LOGIN_FAILURE_WEB_BLOCK	Web sitesinde engellendiniz. Lütfen E-postalarnz kontrol edin.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER	Yanl numara girdiniz.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE	You entered a wrong number three times. /n Your connection will be disabled.
+LOGIN_FAILURE_WRONG_PASSWORD	Hesap ad veya ifre yanl.
+LOGIN_INPUT_ID	Kimlii girin.
+LOGIN_INPUT_PASSWORD	ifreyi girin.
+LOGIN_PROCESSING	Giri yaplyor...
+MALL_CANNOT_INSERT	Öeyi yerletiremezsiniz.
+MALL_PASSWORD_TITLE	ifre
+MAP_A1	Yongan Bölgesi
+MAP_A3	Yayang Bölgesi
+MAP_C1	Pyungmoo Bölgesi
+MAP_C3	Bakra Bölgesi
+MAP_NUSLUCK	Devler Ülkesi
+MAP_SNOW	Sohan Da
+MAP_TREE	Lungsam (Hayalet Orman)
+MAP_TRENT	Hayalet Orman
+MAP_TRENT02	Kzl Orman
+MAP_WL	Ylan Tarlas
+MESSENGER_ADD_FRIEND	Arkada Ekle
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1	%s seni arkada olarak ekledi.
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2	Kabul etmek?
+MESSENGER_DO_YOU_DELETE	Silmek?
+MESSENGER_DO_YOU_DELETE_PHONE_NUMBER	Cep telefonu numarasn silmek istiyor musunuz?
+MESSENGER_EMPTY_LIST	Bo
+MESSENGER_FAMILY	Aile
+MESSENGER_FRIEND	Arkadalar
+MESSENGER_GUILD	Lonca
+MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION	Cep telefonunuza gönderilen onay numarasn girin.
+MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE	Onay numarasn girin
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1	Ksa mesaj gönderimi için cep telefonu numarasn girin.
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2	Numaray imdi girmek istiyor musunuz?
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE	Cep telefonu numarasn girin.
+MESSENGER_SEND_MOBILE_MESSAGE_TITLE	Mesaj gönder.
+MINIMAP	Mini Haritay Aç
+MINIMAP_CANNOT_SEE	Mini Harita görülemiyor.
+MINIMAP_CAN_NOT_SHOW_AREAMAP	Büyük Harita gösterilemiyor.
+MINIMAP_DEC_SCALE	Uzaklatr
+MINIMAP_INC_SCALE	Yaknlatr
+MINIMAP_OBSERVER_COUNT	%d gözlemci
+MINIMAP_SHOW_AREAMAP	Büyük Haritay Aç
+MINI_GAME_RUMI_DISCARD_QUESTION	Bu kart gerçekten atmak istiyor musunuz?
+MINI_GAME_RUMI_EXIT_QUESTION	Oyunu sonlandrp ödülünüzü almak istiyor musunuz?\nPuannz ve kalan kartlarnz sfrlanacak!
+MINI_GAME_RUMI_START_QUESTION	Oynamak için %d Yang tutarnda bir ücret ödemeniz gerekmektedir. Ayrca %d Kart Setine de ihtiyacnz olacak.\nOyuna balamak istiyor musunuz?
+MINUTE	min
+MONETARY_UNIT0	Hangi
+MONEY_INPUT_DIALOG_SELLPRICE	Sat Fiyat:
+MOVE_CHANNEL_CANCEL	ptal etmek
+MOVE_CHANNEL_NOTICE	%d kanalna balsnz.
+MOVE_CHANNEL_SWITCHED	Kanal deitirildi: CH%d - CH%d
+MOVE_CHANNEL_NOT_MOVE	Kanalnz deitiremezsiniz.
+MOVE_CHANNEL_SELECT	OK
+MOVE_CHANNEL_TITLE	Kanallar
+MOVE_ITEM_FAILURE_PRIVATE_SHOP	Özel bir maazanz açkken eyalar tayamazsnz.
+MUSIC_EMPTY_MUSIC_LIST	Arka Plan Müzii Yok.
+MUSIC_METIN2_DEFAULT_THEMA	Metin2 Standart müzik
+MUSIC_NOT_SELECT_MUSIC	Hiçbir Müzik dosyas seçilmedi.
+NEEFD_REST	Önce dinlenmelisin.
+NOT_YET_SUPPORT	Desteklenmiyorsun
+OPTION_PVPMODE_CANNOT_SET_GUILD_MODE	Bir Loncaya ait olmadnzda Lonca Modunu etkinletiremezsiniz.
+OPTION_PVPMODE_NOT_SUPPORT	Bu konfigürasyonu PvP Modunda seçemezsiniz.
+OPTION_PVPMODE_PROTECT	PvP Modunu deitirebilmek için en az %d Seviyeye sahip olmanz gerekir.
+PARTY_BONUS_ATTACKER	Saldr Deeri: +%d	SA
+PARTY_BONUS_BERSERKER	Saldr Hz: +%d AÇIK
+PARTY_BONUS_BUFFER	Beceri Süresi: +%d	SA
+PARTY_BONUS_DEFENDER	Savunma +%d%%	SA
+PARTY_BONUS_EXP	Bonus EXP: %d%%	SA
+PARTY_BONUS_SKILL_MASTER	Öldürme bana HP kurtarma +%d%%	SA
+PARTY_BONUS_TANKER	Maks. HP: +%d	SA
+PARTY_BREAK_UP	Grubu Sil
+PARTY_DO_YOU_ACCEPT	Gruba katlmak istiyorum.
+PARTY_DO_YOU_JOIN	sizi bir gruba katlmaya davet etti. Kabul etmek?
+PARTY_EXP_DISTRIBUTION_MODE	EXP Dalm
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL	Seviyeye bal
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP	Daha yüksek seviyedeki grup üyeleri daha fazla EXP alr.
+PARTY_EXP_DISTRIBUTION_MODE_PARITY	even
+PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP	Tüm Grup üyeleri ayn EXP'yi alr.
+PARTY_HEAL_ALL_MEMBER	Her eyi geri yükleyin.
+PARTY_INCREASE_AREA_150	Grubun aral 1,5 faktöre çkarld.	SNA
+PARTY_INCREASE_AREA_200	Faktör 2'nin yükseltildii grubun aral.	SNA
+PARTY_LEAVE	Gruptan ayrl
+PARTY_MEMBER_OFFLINE	[Çevrimd]
+PARTY_RECALL_MEMBER	Grup üyesini arayn.
+PARTY_REQUEST_DENIED	steiniz reddedildi.
+PARTY_SET_ATTACKER	Saldrgan olarak hazrlann.
+PARTY_SET_BERSERKER	Berserker olarak olutur.
+PARTY_SET_BUFFER	Engelleyici olarak oluturun.
+PARTY_SET_DEFENDER	Savunmac olarak hazrlann.
+PARTY_SET_NORMAL	Ayarlar geri çekin.
+PARTY_SET_SKILL_MASTER	Beceri Ustas olarak oluturun.
+PARTY_SET_TANKER	Bçak savaçs olarak oluturun.
+PARTY_SKILL_ATTACKER	Taban Saldr Deeri Saldrgan +%.0f
+PARTY_SKILL_BERSERKER	Saldr Hz Vahi +%.0f
+PARTY_SKILL_BUFFER	Beceri Süresi Engelleyici +%.0f
+PARTY_SKILL_DEFENDER	Savunmac olarak Savunma +%.0f%%
+PARTY_SKILL_SKILL_MASTER	Beceri Ustas olarak HP yenilenmesi +%.0f%%
+PARTY_SKILL_TANKER	Maks. HP bçakl savaç +%.0f
+PARTY_SKILL_WARP	Grup üyelerini aramak mümkündür.
+PASSWORD_TITLE	Depo ifresi
+PICK_ITEM_TITLE	Ürün Numaras
+PICK_MONEY_TITLE	Toplam
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_WON	Sata çkaracanz eyalarn izin verilen toplam deeri amamas gerekmektedir.
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_YANG	Sata çkaracanz eyalarn izin verilen toplam deeri amamas gerekmektedir.
+PREMIUM_PRIVATE_MODIFY_LIMIT_WON	Bu 3000 Won'un üzerinde. Lütfen paranz hemen toplayn.
+PREMIUM_PRIVATE_MODIFY_LIMIT_YANG	Bu 2 milyar Yang'n üzerindedir. Lütfen paranz hemen toplayn.
+PREMIUM_PRIVATE_SHOP_CLOSE_QUESTIONG	Kiisel maazanz kapatmak m istiyorsunuz?
+PREMIUM_PRIVATE_SHOP_MODIFY_STATE_OPEN_FAIL	Maaza u anda yönetimde olduundan dolay açk deildir.
+PREMIUM_PRIVATE_SHOP_POSITION	%s (%d,%d) - CH-%d
+PREMIUM_PRIVATE_TAX_ADJUSTMENT_LIMIT_WON	Paray alamazsnz çünkü o zaman 3.000 Won'dan fazlasna sahip olursunuz.
+PREMIUM_PRIVATE_TAX_ADJUSTMENT_LIMIT_YANG	Paray toplayamazsnz çünkü o zaman 2 milyardan fazla Yang'a sahip olursunuz.
+PRIVATESHOPSEARCH_BUYTIME	Seçilen ürünü satn almak istiyor musunuz?
+PRIVATESHOPSEARCH_DS	Ejderha Ta Simyas
+PRIVATESHOPSEARCH_DS_BLACK	Oniks
+PRIVATESHOPSEARCH_DS_BLUE	Safir
+PRIVATESHOPSEARCH_DS_GREEN	Yeim
+PRIVATESHOPSEARCH_DS_RED	Yakut
+PRIVATESHOPSEARCH_DS_WHITE	Elmas
+PRIVATESHOPSEARCH_DS_YELLOW	Garnet
+PRIVATESHOPSEARCH_NEED_ITEM_BUY	Doru paket olmadan hiçbir öeyi satn alamazsnz.
+PRIVATESHOPSEARCH_NEED_ITEM_FIND	Doru paket olmadan hiçbir öeyi arayamazsnz.
+PRIVATE_SHOP_CANNOT_SELL_ITEM	Bu ürünü özel bir maazada satamazsnz.
+PRIVATE_SHOP_CLOSE_QUESTION	Özel dükkan kapatmak m istiyorsun?
+PRIVATE_SHOP_INPUT_NAME_DIALOG_TITLE	Özel dükkann ad.
+PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE	Fiyat
+PRIVATE_SHOP_SEARCH_VNUM_ITEM_NOT_SELECTED	Aranacak bir öeyi seçin.
+PVP_MODE_GUILD	PvP - Lonca etkinletirildi
+PVP_MODE_KILL	PvP - Ücretsiz etkinletirildi
+PVP_MODE_NORMAL	PvP - Bar etkinletirildi
+PVP_MODE_PROTECT	PvP - Koruma etkinletirildi
+PVP_MODE_REVENGE	PvP - Dümanca etkinletirildi
+PVP_OPTION_KILL	Özgür
+PVP_OPTION_NORMAL	Bar
+PVP_OPTION_PROTECT	Koruma
+PVP_OPTION_REVENGE	Dümanca
+QUEST_MIN	Min.
+QUEST_SEC	saniye.
+QUEST_TIMEOVER	Süre Sona Erdi
+QUEST_UNLIMITED_TIME	Zaman snr yok.
+QUICKSLOT_REGISTER_DISABLE_ITEM	Bu Öe Hzl Eriim Alanna eklenemez.
+RANKING	Rütbe
+RECEIVE_MESSAGE	%s size bir mesaj gönderdi.
+REFINE_COST	lerleme Maliyeti: %d Yang
+REFINE_DESTROY_WARNING	Bu Öe yükseltme srasnda yok edilebilir.
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1	Bu öeyi gerçekten yükseltmek istiyor musunuz?
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2	Baarsz olursanz öe yok edilecektir. Devam etmek istiyor musun?
+REFINE_DOWN_GRADE_WARNING	Öenin notu bu ekilde düürülebilir.
+REFINE_DO_YOU_SEPARATE_METIN	Mevcut tüm ruh talarn kaldrmak istiyor musunuz?
+REFINE_FAILURE	Ah hayr, bu ie yaramad! Baarsz olduk.
+REFINE_FAILURE_EQUIP_ITEM	Donanml Öeleri yükseltemezsiniz.
+REFINE_FAILURE_METIN_INSEPARABLE_ITEM	Hiçbir ruh ta alnamaz.
+REFINE_FAILURE_NEED_BETTER_SCROLL	Daha iyi bir lerleme Parömenine ihtiyacnz var.
+REFINE_FAILURE_NO_GOLD_SOCKET	%s'yi içerecek Gold soket yok.
+REFINE_FAILURE_NO_MORE_SOCKET	Daha fazla yuva ekleyemezsiniz.
+REFINE_FAILURE_NO_SOCKET0	%s için bo yuva yok.
+REFINE_FAILURE_SOCKET_DISABLE_ITEM	Bu öeye daha fazla yuva ekleyemezsiniz.
+REFINE_FAILURE_UPGRADE_DISABLE_ITEM	Bu Öe yükseltilemez.
+REFINE_SUCCESS	Öenin ilerlemesi baarl oldu.
+REFINE_SUCCESS_PROBALITY	lerleme ans %d%%
+REFINE_WARNING2	Yükseltme ilemine devam etmek istiyor musunuz?
+SAFEBOX_ERROR	Yanl ifre girdiniz.
+SAFEBOX_SELL_DISABLE_SAFEITEM	Kaydedilen Öelerin hiçbirini satamazsnz.
+SAFEBOX_WRONG_PASSWORD	ifrelerin ayn olmas gerekiyor.
+SCREENSHOT_SAVE1	kaydedildi
+SCREENSHOT_SAVE2	Ekran Görüntüsü Dosyas
+SCREENSHOT_SAVE_FAILURE	Ekran Görüntüsü kaydedilemedi.
+SECOND	saniye
+SELECT_CAN_NOT_DELETE	Karakteri silemezsiniz.
+SELECT_CHANGED_NAME	Karakterin adn deitirdiniz.
+SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME	Karakter ad zaten mevcut.
+SELECT_CHANGE_FAILURE_STRANGE_INDEX	Tekrar deneyin.
+SELECT_CHANGE_FAILURE_STRANGE_NAME	Bu yanl karakter addr.
+SELECT_CHANGE_NAME_TITLE	Karakter adn deitirin.
+SELECT_DELEING	Siliniyor...
+SELECT_DELETED	Silme baarl.
+SELECT_DO_YOU_DELETE_REALLY	Devam etmek istiyor musun?
+SELECT_EMPTY_SLOT	Bu bo bir alandr.
+SELECT_INPUT_CHANGING_NAME	Yeni bir karakter ad girin.
+SELECT_NOT_JOIN_GUILD	Lonca yok
+SHOP_BUY_INFO	Maaza vitrininde satn almak istediiniz Ürünü seçin.
+SHOP_CANNOT_SELL_EQUIPMENT	Donanml Öeleri satamazsnz.
+SHOP_CANNOT_SELL_ITEM	Bu Ürün satlamaz.
+SHOP_ERROR_UNKNOWN	Bilinmeyen Maaza Hatas: %s
+SHOP_INVALID_POS	Bu Öe burada kullanlamaz.
+SHOP_INVENTORY_FULL	Envanteriniz dolu.
+SHOP_NOT_ENOUGH_MONEY	Yeterli Won veya Yang yok
+SHOP_NOT_ENOUGH_MONEY_EX	Yeterli Yang'nz yok.
+SHOP_SELL_INFO	Envanter pencerenizde satmak istediiniz öeyi seçin.
+SHOP_SOLDOUT	Hepsi satld
+SHOT_ERROR_UNKNOWN	Uzun Mesafe Saldrs Srasnda Bilinmeyen Hata: %s
+SKILL_BLEEDING	Kanama
+SKILL_BOHO	Yanstmak
+SKILL_CHEONGEUN	Güçlü Gövde
+SKILL_EUNHYEONG	Kamuflaj
+SKILL_FIRE	Kalc Yangn
+SKILL_FISHMIND	Balkçlk Mermeri aktif
+SKILL_GEOMGYEONG	Klcn Auras
+SKILL_GICHEON	Ejderhann Yardm
+SKILL_GONGPO	Korku
+SKILL_GRADE_NAME_GRAND_MASTER	%s Büyük Usta
+SKILL_GRADE_NAME_MASTER	%s Usta
+SKILL_GRADE_NAME_PERFECT_MASTER	%s Mükemmel Usta
+SKILL_GROUP_ASSASSIN_1	Bçak
+SKILL_GROUP_ASSASSIN_2	Yay
+SKILL_GROUP_HORSE	Binme
+SKILL_GROUP_SHAMAN_1	Ejderha
+SKILL_GROUP_SHAMAN_2	yiletirme
+SKILL_GROUP_SURA_1	Silah
+SKILL_GROUP_SURA_2	Büyü
+SKILL_GROUP_WARRIOR_1	Vücut
+SKILL_GROUP_WARRIOR_2	zihinsel
+SKILL_GWIGEOM	Büyülü Klç
+SKILL_GYEONGGONG	Tüy Yürüyüü
+SKILL_HEUKSIN	Karanlk Koruma
+SKILL_HOSIN	Nimet
+SKILL_INC_ATKSPD	Saldr hz artrld
+SKILL_INC_MOVSPD	Hareket hz artrld
+SKILL_JEONGWI	çlgna dön
+SKILL_JEUNGRYEOK	Saldr +
+SKILL_JUMAGAP	Büyülü Zrh
+SKILL_KWAESOK	Hz
+SKILL_MUYEONG	Alevin Hayaleti
+SKILL_NEED_EMPTY_BOTTLE	Bo iem yok.
+SKILL_NEED_POISON_BOTTLE	Zehir iem yok
+SKILL_ONLY_FOR_GUILD_WAR	Bu Beceriyi yalnzca Lonca Sava srasnda kullanabilirsiniz.
+SKILL_PABEOP	Büyüyü Etkisizletirme
+SKILL_POWERFUL_STRIKE	Sersemletici Saldr
+SKILL_SLOW	Yava
+SKILL_STUN	aknlk
+SKILL_SUMMON_DESCRIPTION	Çarlma ans: %d%%
+SKILL_TOOLTIP_INT	stihbarat
+SKILL_TOOLTIP_LEVEL	Seviye
+SKILL_TOXICDIE	Zehirlenme
+STAT_MINUS_CON	Canllk Ayarlamas (Kalan ans: %d)
+STAT_MINUS_DEX	Beceri Ayarlamas (Kalan ans: %d)
+STAT_MINUS_INT	Zeka Ayarlamas (Geri Kalan ans: %d)
+STAT_MINUS_STR	Güç Ayar (Geri Kalan ans: %d)
+STAT_TOOLTIP_ATT	Saldr Deeri
+STAT_TOOLTIP_ATT_SPEED	Saldr hz
+STAT_TOOLTIP_CAST_SPEED	Döküm hz
+STAT_TOOLTIP_CON	HP'yi ve savunmay artrr
+STAT_TOOLTIP_DEX	Saldr ve kaçmay artrr
+STAT_TOOLTIP_INT	SP'yi, büyü saldrsn ve savunmay artrr
+STAT_TOOLTIP_MOVE_SPEED	Hareket hz
+STAT_TOOLTIP_STR	Saldr deerini ve hasar artrr
+SYMBOLLIST_TITLE	Lonca bayran kaydedin
+TARGET_BUTTON_ACCEPT_FIGHT	Kabul etmek
+TARGET_BUTTON_AVENGE	ntikam
+TARGET_BUTTON_BUILDING_DESTROY	Tahrip etmek
+TARGET_BUTTON_DISMOUNT	Sökme
+TARGET_BUTTON_EMOTION_ALLOW	Duygular
+TARGET_BUTTON_EXCHANGE	Ticaret
+TARGET_BUTTON_EXCLUDE	Hariç tutmak
+TARGET_BUTTON_EXIT_OBSERVER	Gözlemci Modunu Sonlandr
+TARGET_BUTTON_FIGHT	Düello
+TARGET_BUTTON_FRIEND	Arkada
+TARGET_BUTTON_INVITE_GUILD	Lonca Daveti
+TARGET_BUTTON_INVITE_PARTY	Grup Davetiyesi
+TARGET_BUTTON_LEAVE_PARTY	Gruptan Ayrl
+TARGET_BUTTON_REQUEST_ENTER_PARTY	Gruba Katl
+TARGET_BUTTON_VIEW_EQUIPMENT	Teçhizat
+TARGET_BUTTON_WHISPER	Fsldayan
+TARGET_LEVEL_BOSS	Patron
+TARGET_LEVEL_KING	Seviye 5.
+TARGET_LEVEL_KNIGHT	Seviye 3.
+TARGET_LEVEL_PAWN	Seviye 1.
+TARGET_LEVEL_S_KNIGHT	Seviye 4.
+TARGET_LEVEL_S_PAWN	Seviye 2.
+TASKBAR_ATTACK	Saldr
+TASKBAR_AUTO	Otomatik olarak saldr
+TASKBAR_CAMERA	Kamera
+TASKBAR_EXP	Deneyim
+TASKBAR_HP	HP
+TASKBAR_MOVE	Tanmak
+TASKBAR_SKILL	Yetenek
+TASKBAR_SP	SP
+TASKBAR_ST	ST
+THING_COUNT	all
+TOOLTIP_AFFECT_PREMIUM_PRIVATE_SHOP	Kiisel Premium Maaza SNA's
+TOOLTIP_ANTI_CRITICAL_PCT	Kritik vurulara kar direnç +%d%%	SA
+TOOLTIP_ANTI_PENETRATE_PCT	Delici vurulara kar direnç +%d%%	SA
+TOOLTIP_ANTI_SELL	Maazada satlamaz.
+TOOLTIP_APPLY_ATTBONUS_ANIMAL	Hayvanlara Kar Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ASSASSIN	Ninjalara kar güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DEVIL	eytanlara kar güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_HUMAN	Yar nsanlara Kar Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MILGYO	Mistiklere kar güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MONSTER	Canavarlara kar güç +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ORC	Orklara kar güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SHAMAN	amanlara kar güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SURA	Sura +%d%% SA'ya kar güçlü
+TOOLTIP_APPLY_ATTBONUS_UNDEAD	Undead'e kar güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WARRIOR	Warriorr'a kar güçlü +%d%%	SA
+TOOLTIP_APPLY_BLOCK	Yakn dövü saldrsn engelleme ans %d%%	SA
+TOOLTIP_APPLY_CRITICAL_PCT	Kritik vuru ans +%d%%	SA
+TOOLTIP_APPLY_DAMAGE_SP_RECOVER	%d%% SA'ya vurulduunda SP'yi geri alma ans
+TOOLTIP_APPLY_DODGE	Oklardan kaçnma ans %d%%	SA
+TOOLTIP_APPLY_EXP_DOUBLE_BONUS	EXP Bonus SA için %d%% ans
+TOOLTIP_APPLY_GOLD_DOUBLE_BONUS	%d%% Çift Yang SA'y düürme ans
+TOOLTIP_APPLY_IMMUNE_FALL	SNA'nn dümesine kar baklk
+TOOLTIP_APPLY_IMMUNE_SLOW	Yavalayan SNA'ya kar savunma
+TOOLTIP_APPLY_IMMUNE_STUN	Elektrik kesintilerine kar savunma	SNA
+TOOLTIP_APPLY_ITEM_DROP_BONUS	%d%% Öe SA'snn iki kat düme ans
+TOOLTIP_APPLY_KILL_HP_RECOVER	HP SA'y geri yükleme ans %d%%
+TOOLTIP_APPLY_KILL_SP_RECOVER	%d%% SP SA'y geri yükleme ans
+TOOLTIP_APPLY_MANA_BURN_PCT	SP SA'y soyma ans %d%%
+TOOLTIP_APPLY_MAX_HP_PCT	Maks. HP +%d%% AÇIK
+TOOLTIP_APPLY_MAX_SP_PCT	Maks. SP +%d%%	SA
+TOOLTIP_APPLY_NOAFFECT	Etki yok
+TOOLTIP_APPLY_NO_DEATH_PENALTY	Karakteriniz öldüü yerde yeniden canlandrlrsa hiçbir deneyim puan kaybolmaz.	SNA
+TOOLTIP_APPLY_PENETRATE_PCT	SA Vurularn delme ans %d%%
+TOOLTIP_APPLY_POISON_PCT	Zehirlenme ans %d%% AÇIK
+TOOLTIP_APPLY_POISON_REDUCE	Zehir Direnci %d%%	SA
+TOOLTIP_APPLY_POTION_BONUS	ksir %d%% etkisi SA'y artrr
+TOOLTIP_APPLY_REFLECT_CURSE	Laneti yanstma ans: %d%%	SA
+TOOLTIP_APPLY_REFLECT_MELEE	Yakn dövü saldrlarn yanstma ans %d%%	SA
+TOOLTIP_APPLY_RESIST_ASSASSIN	Ninja saldrlarna kar savunma ans: %d%%	SA
+TOOLTIP_APPLY_RESIST_BELL	Bell Savunma %d%%	SA
+TOOLTIP_APPLY_RESIST_DAGGER	Hançer Savunmas %d%% AÇIK
+TOOLTIP_APPLY_RESIST_FAN	Taraftar Savunmas %d%%	SA
+TOOLTIP_APPLY_RESIST_HUMAN	Yar nsanlara Kar Direnç %d%%	SA
+TOOLTIP_APPLY_RESIST_SHAMAN	aman saldrlarna kar savunma ans: %d%%	SA
+TOOLTIP_APPLY_RESIST_SURA	Sure saldrlarna kar savunma ans: %d%%	SA
+TOOLTIP_APPLY_RESIST_SWORD	Klç Savunmas %d%%	SA
+TOOLTIP_APPLY_RESIST_TWOHAND	ki Elle Savunma %d%%	SA
+TOOLTIP_APPLY_RESIST_WARRIOR	Savaç saldrlarna kar savunma ans: %d%%	SA
+TOOLTIP_APPLY_RESIST_WIND	Rüzgar Direnci %d%%	SA
+TOOLTIP_APPLY_SKILL_BOOK_BONUS	Faktör 2,5 SNA ile yükseltilmi kitaplardan örenme ans
+TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY	Örenme baarsz olursa hemen ücretsiz SNA için baka bir deneme hakknz vardr
+TOOLTIP_APPLY_SLOW_PCT	Yavalama ans %d%% AÇIK
+TOOLTIP_APPLY_STEAL_HP	%d%% hasar HP SA tarafndan emilecek
+TOOLTIP_APPLY_STEAL_SP	%d%% hasar SP SA tarafndan emilecek
+TOOLTIP_APPLY_STUN_PCT	Kesinti ans %d%% AÇIK
+TOOLTIP_ARMOR	Zrh
+TOOLTIP_ARROW	Ok
+TOOLTIP_ASSASSIN	Ninja
+TOOLTIP_ATT_GRADE	Saldr Deeri +%d	SA
+TOOLTIP_ATT_SPEED	Saldr Hz +%d%%	SA
+TOOLTIP_AUTO_POTION_HP	Sun Elixir
+TOOLTIP_AUTO_POTION_REST	Kalan: %.2f%%
+TOOLTIP_AUTO_POTION_SP	Ay ksiri
+TOOLTIP_AUTO_POTION_USING	Aktif
+TOOLTIP_BOW_DISTANCE	Aralk +%d m	SA
+TOOLTIP_BUYPRICE	Fiyat: %s
+TOOLTIP_CAST_SPEED	Döküm Hz +%d%%	SA
+TOOLTIP_CON	Canllk +%d	SA
+TOOLTIP_COSTUME_ATTR_BONUS	Bonus kostüm %d%%	SA
+TOOLTIP_DEF_GRADE	Savunma +%d	SA
+TOOLTIP_DEX	El Becerisi +%d	SA
+TOOLTIP_DRAGON_SOUL_DECK1	Gökyüzü  SNA's
+TOOLTIP_DRAGON_SOUL_DECK2	Dünya  SNA's
+TOOLTIP_EAR	Küpe
+TOOLTIP_ENERGY	Enerji %d	SA
+TOOLTIP_FISHINGROD_EXP	Puan %d / %d
+TOOLTIP_FISHINGROD_LEVEL	Seviye: %d
+TOOLTIP_FISHINGROD_UPGRADE1	Balkçya ver
+TOOLTIP_FISHINGROD_UPGRADE2	daha iyiye ulamak için
+TOOLTIP_FISHINGROD_UPGRADE3	Olta kam.
+TOOLTIP_FISH_LEN	Uzunluk: %.2fcm
+TOOLTIP_HELMET	Kask
+TOOLTIP_HP_REGEN	HP Yenilenmesi +%d%% AÇIK
+TOOLTIP_INT	stihbarat +%d	SA
+TOOLTIP_ITEM_ATT_GRADE	Saldr Deeri %d
+TOOLTIP_ITEM_ATT_POWER	Saldr Deeri %d - %d
+TOOLTIP_ITEM_ATT_POWER_ONE_ARG	Saldr Deeri %d
+TOOLTIP_ITEM_ATT_SPEED	Saldr Hz %s
+TOOLTIP_ITEM_DEF_GRADE	Savunma %d
+TOOLTIP_ITEM_FAST	Hzl
+TOOLTIP_ITEM_LIMIT_CON	Canllk Üst Snr: %d
+TOOLTIP_ITEM_LIMIT_DEX	El Becerisi Üst Snr: %d
+TOOLTIP_ITEM_LIMIT_INT	Zeka Üst Snr: %d
+TOOLTIP_ITEM_LIMIT_LEVEL	Seviyeden itibaren: %d
+TOOLTIP_ITEM_LIMIT_STR	Mukavemet Üst Snr: %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER	Büyülü Saldr Deeri %d - %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG	Büyülü Saldr Deeri %d
+TOOLTIP_ITEM_MAGIC_DEF_POWER	Büyülü Savunma %d
+TOOLTIP_ITEM_NORMAL	Normal
+TOOLTIP_ITEM_SLOW	Yava
+TOOLTIP_ITEM_VERY_FAST	Çok hzl
+TOOLTIP_ITEM_VERY_SLOW	Çok yava
+TOOLTIP_ITEM_WEARABLE_JOB	[Giyilebilir]
+TOOLTIP_LOTTERY_STEP_NUMBER	%d
+TOOLTIP_LOTTO_NUMBER	ansl Say: %d
+TOOLTIP_MAGIC_ATTBONUS_PER	Büyü saldrs +%d%%	SA
+TOOLTIP_MAGIC_ATT_GRADE	Büyülü Saldr Deeri +%d	SA
+TOOLTIP_MAGIC_DEF_GRADE	Büyülü Savunma +%d	SA
+TOOLTIP_MALL_ATTBONUS	Saldr Deeri +%d%%	SA
+TOOLTIP_MALL_ATTBONUS_STATIC	Saldr Deeri SNA's
+TOOLTIP_MALL_AUTOLOOT	Elini kaldran el otomatik olarak Yang' düürdü	SNA
+TOOLTIP_MALL_DEFBONUS	Savunma +%d%%	SA
+TOOLTIP_MALL_DEFBONUS_STATIC	Savunma SNA's
+TOOLTIP_MALL_EXPBONUS	EXP +%d%% AÇIK
+TOOLTIP_MALL_EXPBONUS_P_STATIC	iCafe EXP Bonusu +%d%%	SA
+TOOLTIP_MALL_EXPBONUS_STATIC	%50 daha fazla EXP	SNA
+TOOLTIP_MALL_FISH_MIND	Nadir bir balk yakalama ansnz iki katna çkar.	SNA
+TOOLTIP_MALL_GOLDBONUS	Yang düme ans %%d SA artrld
+TOOLTIP_MALL_GOLDBONUS_STATIC	Çift Yang düme ans	SNA
+TOOLTIP_MALL_ITEMBONUS	Eya düürme ans %d%% SA artrld
+TOOLTIP_MALL_ITEMBONUS_P_STATIC	iCafe Öeleri yamalama ans art %.1f%%	SA
+TOOLTIP_MALL_ITEMBONUS_STATIC	Eya düme ans %200 artt.	SNA
+TOOLTIP_MALL_MARRIAGE_FAST	Ak puanlar daha hzl yükselir.	SNA
+TOOLTIP_MALL_SAFEBOX	Deponuz 2 depolama odasna sahip olur	SNA
+TOOLTIP_MAX_HP	Maks. HP +%d	SA
+TOOLTIP_MAX_HP_PCT	Maks. HP +%d%% AÇIK
+TOOLTIP_MAX_SP	Maks. SP +%d	SA
+TOOLTIP_MAX_SP_PCT	Maks. SP +%d%%	SA
+TOOLTIP_MAX_STAMINA	Maks. Dayankllk +%d	SA
+TOOLTIP_MELEE_MAGIC_ATTBONUS_PER	Magic/melee attack +%d%%	SA
+TOOLTIP_MEMORIZED_POSITION	%s(%d, %d)
+TOOLTIP_MEMORIZED_POSITION_ERROR	GPS HATASI(%d, %d)
+TOOLTIP_MOV_SPEED	Hareket Hz %d%%	SA
+TOOLTIP_NECK	Kolye
+TOOLTIP_NEED_ALL_SP	Gerekli SP: Maks.
+TOOLTIP_NEED_GSP	Gerekli Ejderha hayaleti: %d
+TOOLTIP_NEED_HP	Gerekli HP: %d
+TOOLTIP_NEED_HP_PER_SEC	HP / Sec.: %d
+TOOLTIP_NEED_SP	Gerekli SP: %d
+TOOLTIP_NEED_SP_PER_SEC	SP / Sec.: %d
+TOOLTIP_NEXT_SKILL_LEVEL_1	Sonraki Seviye: %d (Maks. %d)
+TOOLTIP_NORMAL_HIT_DAMAGE_BONUS	Ortalama Hasar %d%%	SA
+TOOLTIP_NORMAL_HIT_DEFEND_BONUS	Ortalama Hasar Direnci %d%%	SA
+TOOLTIP_PARTY_SKILL_LEVEL	Mevcut Seviye: %d
+TOOLTIP_PICK_EXP	Puanlar: %d / %d
+TOOLTIP_PICK_LEVEL	Seviye: %d
+TOOLTIP_PICK_UPGRADE1	Oduncuya ver
+TOOLTIP_PICK_UPGRADE2	daha iyiye ulamak için
+TOOLTIP_PICK_UPGRADE3	Kazma.
+TOOLTIP_POTION_CURE	Olumsuz etkileri iyiletirin.
+TOOLTIP_POTION_MIN	Min.
+TOOLTIP_POTION_PLUS_ATTACK_SPEED	Saldr hz +%d
+TOOLTIP_POTION_PLUS_HP_PERCENT	HP +%d%%
+TOOLTIP_POTION_PLUS_HP_POINT	HP +%d
+TOOLTIP_POTION_PLUS_MOVING_SPEED	Hareket hz +%d
+TOOLTIP_POTION_PLUS_SP_PERCENT	SP +%d%%
+TOOLTIP_POTION_PLUS_SP_POINT	SP +%d
+TOOLTIP_POTION_SEC	saniye.
+TOOLTIP_POTION_TIME	Süre:
+TOOLTIP_REQUIREMENT_SKILL_LEVEL	%s Seviye %d gerekli.
+TOOLTIP_REQUIREMENT_STAT_LEVEL	%s %d gerekli
+TOOLTIP_RESIST_BOW	Ok Savunmas %d%%	SA
+TOOLTIP_RESIST_DARK	Karanla kar direnç +%d%%	SA
+TOOLTIP_RESIST_EARTH	Toprak direnci +%d%%	SA
+TOOLTIP_RESIST_ELEC	Yldrm Direnci %d%%	SA
+TOOLTIP_RESIST_FIRE	Yangna Dayankllk %d%%	SA
+TOOLTIP_RESIST_ICE	Buz direnci +%d%% AÇIK
+TOOLTIP_RESIST_MAGIC	Büyü Direnci %d%% AÇIK
+TOOLTIP_REST_USABLE_COUNT	Sol: %d
+TOOLTIP_SEALED	Ruha bal
+TOOLTIP_SELLPRICE	Fiyat: %s
+TOOLTIP_SHAMAN	aman
+TOOLTIP_SHIELD	Kalkan
+TOOLTIP_SHOES	Ayakkab
+TOOLTIP_SKILL	Beceriler SNA's
+TOOLTIP_SKILLBOOK_NAME	Beceri Kitab
+TOOLTIP_SKILL_AFFECT_ATT_GRADE	Saldr Deeri: +
+TOOLTIP_SKILL_AFFECT_ATT_POWER	Saldr Deeri:
+TOOLTIP_SKILL_AFFECT_ATT_SPEED	Saldr Hz: +
+TOOLTIP_SKILL_AFFECT_DEF_GRADE	Savunma:
+TOOLTIP_SKILL_AFFECT_DODGE	Rakibin Saldr Deeri: -
+TOOLTIP_SKILL_AFFECT_HEAL	HP'yi geri yükleyin:
+TOOLTIP_SKILL_AFFECT_MOV_SPEED	Hareket Hz: +
+TOOLTIP_SKILL_AFFECT_REFLECT_MELEE	Yakn dövü saldrsn yanstma ans:
+TOOLTIP_SKILL_AFFECT_RESIST_NORMAL	Vücut Hasarna Kar Direnç:
+TOOLTIP_SKILL_COOL_TIME	arj etme:
+TOOLTIP_SKILL_DAMAGE_BONUS	Beceri Hasar %d%% AÇIK
+TOOLTIP_SKILL_DEFEND_BONUS	Beceri Hasarna Kar Direnç %d%%	SA
+TOOLTIP_SKILL_DURATION	Süre: %d sn.
+TOOLTIP_SKILL_FORGET_BOOK_NAME	Unutkanlk Kitab
+TOOLTIP_SKILL_LEVEL	Mevcut Seviye: %d
+TOOLTIP_SKILL_LEVEL_MASTER	Mevcut Seviye: %d (Usta)
+TOOLTIP_SKILL_LEVEL_WITH_MAX	Mevcut Seviye: %d (Maks. %d)
+TOOLTIP_SOCKET_EMPTY	Bo
+TOOLTIP_SOCKET_REFINABLE_ITEM	[Soketli Öe]
+TOOLTIP_SP_REGEN	SP Yenilenmesi +%d%%	SA
+TOOLTIP_STR	Güç +%d	SA
+TOOLTIP_SURA	Sure
+TOOLTIP_TIME_CHARGER_FIX	arj etme süresi %d sn.	SA
+TOOLTIP_TIME_CHARGER_PER	arj süresi %d%% AÇIK
+TOOLTIP_UNIQUE	Esiz
+TOOLTIP_UNSEAL_LEFT_TIME	Soulbind u süre içinde kaldrlyor: %d saat. %d dakika.
+TOOLTIP_WARRIOR	Savaç
+TOOLTIP_WEAPON	Silah
+TOOLTIP_WOLFMAN	Lycan
+TOOLTIP_WRISTLET	Bileklik
+UI_ACCEPT	Kabul etmek
+UI_BOLD_FONT	Tahoma:12b
+UI_CANCEL	ptal etmek
+UI_CLOSE	Kapal
+UI_DEF_FONT	Tahoma:12
+UI_DEF_FONT_LARGE	Tahoma:14
+UI_DEF_FONT_SMALL	Tahoma:9
+UI_DENY	Reddetmek
+UI_ITEM	Öe
+UI_LEFT_TIME	Kalan Süre: %d San.
+UI_NEXT	Devam etmek
+UI_NEXTPAGE	Sonraki
+UI_NOCONTENTS	çerik Yok
+UI_NONAME	sim Yok
+UI_OK	OK
+UI_POS_UNKNOWN	Bilinmeyen Yer
+UI_PREVPAGE	Geri
+UPLOAD_MARK_UPLOAD_NEED_RECONNECT	Yüklemenin yeniden balatlmas gerekiyor.
+USE_ITEM_FAILURE_PRIVATE_SHOP	Özel bir maazanz açkken eyalar kullanamazsnz.
+STAT_TOOLTIP	Add 10 points - |Eemoji/key_ctrl|e + |Eemoji/key_lclick|e
+TOOLTIP_ENCHANT_DARK	Karanln Gücü +%d%%	SA
+TOOLTIP_ENCHANT_EARTH	Dünyann Gücü +%d%%	SA
+TOOLTIP_ENCHANT_ELEC	Yldrmn Gücü %d%%	SA
+TOOLTIP_ENCHANT_FIRE	Atein Gücü %d%%	SA
+TOOLTIP_ENCHANT_ICE	Buzun Gücü +%d%%	SA
+TOOLTIP_ENCHANT_WIND	Rüzgarn Gücü +%d%%	SA

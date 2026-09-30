@@ -1,0 +1,46 @@
+﻿  StdAfx.cpp
+  LODController.cpp
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+  ModelInstance.cpp
+  ModelInstanceCollisionDetection.cpp
+  ModelInstanceModel.cpp
+  ModelInstanceMotion.cpp
+  ModelInstanceRender.cpp
+  ModelInstanceUpdate.cpp
+  Motion.cpp
+  Thing.cpp
+  ThingInstance.cpp
+F:\Elvion\Elvion-core\Client\eterGrnLib\ModelInstanceMotion.cpp(101,36): warning C4244: argument: float se převádí na granny_int32x; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /ModelInstanceMotion.cpp)
+  
+F:\Elvion\Elvion-core\Client\eterGrnLib\ModelInstanceMotion.cpp(168,36): warning C4244: argument: float se převádí na granny_int32x; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /ModelInstanceMotion.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /ThingInstance.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /ThingInstance.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /Thing.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /Thing.cpp)
+  
+F:\Elvion\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /ModelInstanceRender.cpp)
+  
+  Util.cpp
+F:\Elvion\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /Material.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /Material.cpp)
+  
+F:\Elvion\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /Material.cpp)
+  
+  eterGrnLib.vcxproj -> F:\Elvion\Elvion-core\Client\eterGrnLib\Debug\eterGrnLib.lib

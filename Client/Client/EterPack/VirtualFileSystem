@@ -1,0 +1,22 @@
+#pragma once
+#include <cassert>
+#include <io.h>
+/*
+	Main Virtual File System header file
+*/
+
+#include "../EterPack/VFSArchive.hpp"
+#include "../EterPack/VFSFilename.hpp"
+#include "../EterPack/Utils.hpp"
+#include "../EterPack/VFSManager.hpp"
+#include "../EterPack/VFSBuffer.hpp"
+
+#include "../EterPack/CRC32.hpp"
+#include "../EterPack/FileBase.hpp"
+#include "../EterPack/FileDir.hpp"
+#include "../EterPack/FileLoader.hpp"
+#include "../EterPack/MappedFile.hpp"
+#include "../EterPack/XTea.hpp"
+
+void SetVirtualFileSystem(VFSManager* yit);
+VFSManager& CallVFS();

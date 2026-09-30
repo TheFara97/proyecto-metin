@@ -1,0 +1,37 @@
+﻿  StdAfx.cpp
+  EffectData.cpp
+  EffectElementBase.cpp
+  EffectElementBaseInstance.cpp
+  EffectInstance.cpp
+  EffectManager.cpp
+  EffectMesh.cpp
+  EffectMeshInstance.cpp
+  EffectUpdateDecorator.cpp
+  EmitterProperty.cpp
+  FrameController.cpp
+  ParticleInstance.cpp
+  ParticleProperty.cpp
+F:\Elvion\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /EffectManager.cpp)
+  
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /EffectMeshInstance.cpp)
+  
+  ParticleSystemData.cpp
+F:\Elvion\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /EffectMesh.cpp)
+  
+  ParticleSystemInstance.cpp
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /ParticleInstance.cpp)
+  
+  SimpleLightData.cpp
+  SimpleLightInstance.cpp
+  Type.cpp
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /ParticleSystemInstance.cpp)
+  
+F:\Elvion\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /EffectInstance.cpp)
+  
+  EffectLib.vcxproj -> F:\Elvion\Elvion-core\Client\EffectLib\Debug\EffectLib.lib

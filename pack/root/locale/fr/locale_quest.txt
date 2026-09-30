@@ -1,0 +1,464 @@
+1	Créer une guilde
+2	Voulez-vous vraiment créer une guilde - 1 Won ?
+3	Prix:
+4	Oui
+5	Non
+6	Le nom ne doit pas contenir de caractères spéciaux et sa longueur doit être comprise entre 3 et 11 caractères !
+7	Voulez-vous vraiment créer une guilde avec ce nom ?[ENTER]
+8	Vous n'avez pas assez de Yang.
+9	Vous êtes déjà dans une guilde.
+10	[Système] Le nom de guilde n'est pas valide (strlen <2 ou >11 !)
+11	[Système] Le nom de la guilde n'est pas valide (contient des caractères spéciaux !)
+12	[Système] La guilde n'a pas été créée (le nom est déjà pris ou vous êtes déjà membre de la guilde)
+13	La guilde [Système] a été créée.
+14	[Système] Le joueur est déjà membre de la guilde
+15	[Système] Le joueur est déjà chef de guilde
+16	MJ : Restreindre.
+17	Entrez le nom de la personne que vous souhaitez restreindre !
+18	Joueur tel que :
+19	n'existe pas !
+20	MJ : Vérifiez.
+21	A une guilde :
+22	Est maître :
+23	Royaume:
+24	PNJ du Royaume :
+25	Quitter la guilde
+26	Voulez-vous vraiment quitter la guilde ?
+27	Vous avez quitté la guilde.
+28	Dissoudre la guilde
+29	Voulez-vous vraiment dissoudre la guilde ?
+30	La guilde a été dissoute.
+31	Impossible de créer une guilde, vous en faites déjà partie !
+32	Voulez-vous vraiment créer une guilde - 1 Won?
+33	Vous n'avez pas l'objet requis pour créer une guilde.
+34	Vous n'avez pas assez d'argent pour créer une guilde.
+35	Vous n'avez pas un niveau de leadership suffisant.
+36	Vous devez attendre encore un peu avant de soumettre un autre élément.
+37	Cet article était de grande qualité !
+38	Vous avez terminé la mission du biologiste.
+39	Cet article était de très mauvaise qualité !
+40	Vous n'avez pas l'élément requis pour la recherche.
+41	Votre niveau est trop bas.
+42	Vous avez terminé la mission de collectionneur.
+43	[Grotte de glace] Tuez 50 monstres puis utilisez le sceau !
+44	[Grotte de glace] Détruisez tous les rochers !
+45	[Grotte de glace] Tuez 3 mini-boss !
+46	[Grotte de glace] Tuez le boss !
+47	Entrez dans la grotte de glace (125+)
+48	Tuteur:
+49	Bonjour!
+50	Est-ce que je comprends bien ? Voulez-vous entrer dans la grotte de glace ?
+51	Sans les éléments requis
+52	et niveau, je ne te laisserai pas passer.
+53	Nombre d'entrées aujourd'hui :
+54	La limite sera réinitialisée dans :
+55	%d heures et %d minutes.
+56	0 heures et 0 minutes.
+57	Il vous faut :
+58	Article requis
+59	Voulez-vous continuer ?
+60	Bien sûr!
+61	Je préfère ne pas le faire.
+62	La téléportation n'est actuellement pas possible !
+63	Vous n'avez pas l'article requis !
+64	[Grotte de Glace] Bienvenue dans le donjon !
+65	[Grotte de Glace] Des monstres sont apparus !
+66	Tuez 50 monstres
+67	[Grotte de glace] Utilisez le sceau pour continuer !
+68	[Grotte de Glace] Succès !
+69	[Grotte de Glace] Le prochain objectif apparaîtra dans 5 secondes !
+70	[Grotte de glace] Des rochers sont apparus !
+71	Détruisez 8 rochers
+72	[Grotte de Glace] Excellent travail !
+73	[Grotte de Glace] Restant encore :
+74	des rochers !
+75	Tuez 3 mini-boss
+76	[Ice Cave] Vous avez réussi à tuer les mini-boss !
+77	Détruisez 4 rochers
+78	[Grotte de Glace] Le boss est apparu !
+79	Tuez le patron !
+80	[Ice Cave] Vous avez réussi à tuer le boss !
+81	[Grotte de Glace] Vous serez téléporté hors du donjon dans une minute !
+82	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Grotte de glace |cFFc5ff8c(Lv. 125)|r dans le temps : |cFFf7b983%s !
+83	Classement général
+84	Classement par points
+85	Baek-Go
+86	Artisanat
+87	Artisanat - pierres d'âme
+88	Artisanat - élixirs
+89	Artisanat - compétences d'autobuff
+90	Rang, animal de compagnie, monture
+91	Niveaux pour les points de réussite
+92	Boutique de points de réussite
+93	Niveau de damnation
+94	Augmenter le niveau de damnation (test)
+95	Collection de pêche
+96	Boutique
+97	Poisson
+98	Reliques et fonderies
+99	Articles de Pâques
+100	[Gorge de l'Empereur] Tuez 50 monstres !
+101	[Gorge de l'Empereur] Le Serviteur de l'Empereur est apparu !
+102	[Gorge de l'Empereur] Détruisez 6 rochers !
+103	[Gorge de l'Empereur] Tuez 4 djinns !
+104	[Gorge de l'Empereur] Le Naga impérial est apparu !
+105	Entrez dans les Gorges de l'Empereur (Nv. 160+)
+106	Est-ce que je comprends bien ? Voulez-vous entrer dans les Gorges de l'Empereur ?
+107	[Gorges de l'Empereur] Bienvenue dans les Gorges de l'Empereur !
+108	[Gorge de l'Empereur] Des monstres sont apparus !
+109	Tuez les monstres dans la gorge.
+110	[Gorge de l'Empereur] Vous avez tué tous les monstres !
+111	[Gorge de l'Empereur] Le Serviteur de l'Empereur se réveille...
+112	[Gorge de l'Empereur] Monstres restants :
+113	Réduisez les HP du serviteur en dessous de 66 %
+114	[Gorge de l'Empereur] Le serviteur a invoqué des rochers !
+115	Détruisez les 6 rochers
+116	[Gorge de l'Empereur] Tous les rochers ont été détruits !
+117	[Gorge de l'Empereur] Continuez à combattre le serviteur !
+118	Réduisez les HP du serviteur en dessous de 33 %
+119	[Gorge de l'Empereur] Rochers restants :
+120	[Gorge de l'Empereur] Le serviteur appelle des renforts !
+121	Tuez 4 djinns.
+122	[Gorge de l'Empereur] Vous avez vaincu tous les djinns !
+123	[Gorge de l'Empereur] Tuez le serviteur de l'empereur !
+124	Tuez le serviteur de l'empereur
+125	[Gorge de l'Empereur] Djinns restants :
+126	[Gorge de l'Empereur] Serviteur de l'Empereur !
+127	[Gorge de l'Empereur] Mais attendez... quelque chose ne va pas...
+128	Tuez le Naga impérial !
+129	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Gorge de l'Empereur |cFFc5ff8c(Lv. 150)|r à temps : |cFFf7b983%s !
+130	Cela ne peut pas être fait pour le moment.
+131	Vous n'avez aucune compétence.
+132	Ne peut pas être utilisé dans un donjon.
+133	Pierre d'âme :
+134	L'utilisation de cet élément supprimera
+135	l'effet du parchemin d'exorcisme.
+136	Vous n'avez aucune compétence au niveau G.
+137	Sélectionnez la compétence que vous souhaitez former :
+138	Partir
+139	La formation professionnelle a été un succès.
+140	Dragon Souls - saison fermée
+141	Dragon Souls est temporairement indisponible.
+142	Vous avez déjà atteint la limite d'aujourd'hui.
+143	Vous pouvez commencer une nouvelle saison de collection Dragon Soul.
+144	Âmes de dragon
+145	Vous ne pouvez plus collecter d'âmes de dragon aujourd'hui.
+146	Une nouvelle saison de collection Dragon Soul a commencé !
+147	Dragon Souls - raffinement
+148	Ici, vous pouvez affiner vos Dragon Souls.
+149	Alchimie mythique : changement de bonus
+150	Voulez-vous vraiment ouvrir la fenêtre de changement de bonus ?
+151	Boutique d'âme de dragon
+152	Bienvenue dans la boutique Dragon Soul !
+153	[Sanctuaire des Démons] Tuez 50 monstres puis utilisez le sceau !
+154	[Sanctuaire démoniaque] Détruisez tous les rochers !
+155	[Sanctuaire démoniaque] Tuez 3 mini-boss !
+156	[Sanctuaire démoniaque] Tuez le boss !
+157	Entrez dans le sanctuaire des démons (75+)
+158	Est-ce que je comprends bien ? Voulez-vous entrer dans le sanctuaire des démons ?
+159	[Sanctuaire des Démons] Bienvenue dans le donjon !
+160	[Sanctuaire des Démons] Des monstres sont apparus !
+161	[Sanctuaire démoniaque] Utilisez le sceau pour continuer !
+162	[Sanctuaire du Démon] Des rochers sont apparus !
+163	[Sanctuaire des Démons] Excellent travail !
+164	[Sanctuaire du Démon] Restant encore :
+165	[Sanctuaire Démon] Vous avez réussi à tuer les mini-boss !
+166	[Sanctuaire Démon] Le boss est apparu !
+167	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Sanctuaire du Démon |cFFc5ff8c(Lv. 75)|r à temps : |cFFf7b983%s !
+168	Retour au donjon
+169	Voulez-vous retourner au donjon ?
+170	[Spider Queen's Lair] Tuez 50 monstres puis utilisez le sceau !
+171	[Spider Queen's Lair] Détruisez tous les rochers !
+172	[Spider Queen's Lair] Tuez 3 mini-boss !
+173	[Spider Queen's Lair] Tuez le boss !
+174	Entrez dans le repaire de la reine araignée (50+)
+175	Est-ce que je comprends bien ? Voulez-vous entrer dans le repaire de la reine araignée ?
+176	[Spider Queen's Lair] Bienvenue dans le donjon !
+177	[Spider Queen's Lair] Des monstres sont apparus !
+178	[Spider Queen's Lair] Utilisez le sceau pour continuer !
+179	[Spider Queen's Lair] Des rochers sont apparus !
+180	Détruisez 5 rochers
+181	[Spider Queen's Lair] Excellent travail !
+182	[Spider Queen's Lair] Reste encore :
+183	[Spider Queen's Lair] Vous avez réussi à tuer les mini-boss !
+184	[Spider Queen's Lair] Le boss est apparu !
+185	[Spider Queen's Lair] Vous serez téléporté hors du donjon dans 20 secondes !
+186	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Spider Queen's Lair |cFFc5ff8c(Lv. 50)|r à temps : |cFFf7b983%s !
+187	[Donjon de Pâques] Tuez 150 monstres puis utilisez le sceau !
+188	[Donjon de Pâques] Détruisez tous les rochers !
+189	[Donjon de Pâques] Tuez 3 mini boss !
+190	[Donjon de Pâques] Tuez le boss !
+191	Donjon de Pâques
+192	Est-ce que je comprends bien ? Voulez-vous entrer dans le donjon de Pâques ?
+193	Sans les éléments requis, je ne vous laisserai pas passer.
+194	[Donjon de Pâques] Bienvenue dans le donjon !
+195	[Donjon de Pâques] Des monstres sont apparus !
+196	Tuez 150 monstres
+197	[Donjon de Pâques] Utilisez le sceau pour continuer !
+198	[Donjon de Pâques] Des rochers sont apparus !
+199	[Donjon de Pâques] Excellent travail !
+200	[Donjon de Pâques] Reste encore :
+201	[Donjon de Pâques] Vous avez réussi à tuer les mini boss !
+202	[Donjon de Pâques] Le boss est apparu !
+203	[Donjon de Pâques] Vous serez téléporté hors du donjon dans 20 secondes !
+204	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Donjon de Pâques |cFFc5ff8c|r à temps : |cFFf7b983%s !
+205	Carte de Pâques
+206	Accueillir!
+207	Voulez-vous vous téléporter sur la carte de Pâques ?
+208	- Vous pouvez accéder à la carte une fois toutes les 4 heures
+209	- Vous pouvez rester sur la carte pendant 1 heure maximum.
+210	Téléportation
+211	Pas maintenant
+212	La carte de Pâques est actuellement indisponible.
+213	Vous pouvez à nouveau accéder à la carte de Pâques dans :
+214	heure(s) et
+215	minutes).
+216	Votre temps est écoulé. Vous serez téléporté vers la ville.
+217	Fonctions bloquées :
+218	Commerce
+219	Invitations de guilde
+220	Invitations d'amis
+221	Invitations à une fête
+222	Demandes de fête
+223	Chuchotement
+224	[Portes de l'Enfer] Tuez 50 monstres puis utilisez le sceau !
+225	[Portes de l'Enfer] Détruisez tous les rochers !
+226	[Portes de l'Enfer] Tuez 3 mini-boss !
+227	[Portes de l'Enfer] Tuez les mini-boss !
+228	[Portes de l'Enfer] Tuez le boss !
+229	Entrez par les portes de l'enfer (150+)
+230	Est-ce que je comprends bien ? Voulez-vous franchir les portes de l'enfer ?
+231	[Portes de l'Enfer] Bienvenue dans le donjon !
+232	[Portes de l'Enfer] Des monstres sont apparus !
+233	[Portes de l'Enfer] Utilisez le sceau pour continuer !
+234	[Portes de l'Enfer] Des rochers sont apparus !
+235	[Portes de l'Enfer] Excellent travail !
+236	[Portes de l'Enfer] Restant encore :
+237	[Portes de l'Enfer] Vous avez réussi à tuer les mini boss !
+238	Tuez les mini-boss
+239	[Portes de l'Enfer] Le boss est apparu !
+240	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Portes de l'Enfer |cFFc5ff8c(Lv. 150)|r à temps : |cFFf7b983%s !
+241	Artisanat - Fer à cheval
+242	Sort de changement de genre
+243	Impossible de changer de sexe en portant un costume du sexe opposé !
+244	Vous devez être au moins niveau 50 !
+245	Vous ne pouvez pas changer de sexe pendant que vous êtes marié !
+246	Impossible de changer de sexe pendant la transformation !
+247	Vous devez attendre 24 heures !
+248	Temps restant :
+249	Voulez-vous vraiment changer de sexe ?
+250	Le sexe a été modifié.
+251	Pour terminer le processus, veuillez vous déconnecter et vous reconnecter.
+252	[Coupon AP] Cela ne peut pas être fait pour le moment.
+253	[Coupon AP] Vous n'avez pas le coupon requis !
+254	Les points de réussite ont été augmentés de
+255	Votre niveau est trop élevé pour figurer sur cette carte.
+256	Fabrication d'éclats
+257	Deokbae :
+258	Cette pioche a trop peu de points.
+259	Voulez-vous vraiment améliorer la pioche ?
+260	La mise à niveau a échoué...
+261	Ça a l'air beaucoup mieux maintenant.
+262	Malheureusement, la mise à niveau de la pioche a échoué.
+263	La pioche a désormais un niveau inférieur.
+264	[Changement d'Empire] Cela ne peut pas être fait pour le moment.
+265	Changement d'empire :
+266	Avec cet objet, vous pouvez changer votre empire,
+267	mais ce n'est pas gratuit : tout a un prix.
+268	Vous pouvez changer d'empire tous les 3 jours,
+269	et vous aurez également besoin de 1 000 000 000 de Yang.
+270	Voulez-vous changer d'empire ?
+271	[Changement d'Empire] Vous n'avez pas 1 000 000 000 de Yang.
+272	[Changement d'Empire] L'objet est actuellement désactivé.
+273	[Changement d'Empire] Vous devez d'abord quitter votre guilde.
+274	[Changement d'Empire] Vous devez d'abord divorcer.
+275	Sélectionnez un nouvel empire
+276	Shinsoo
+277	djinn
+278	Annuler
+279	[Changement d'Empire] Vous êtes déjà dans cet empire.
+280	[Changement d'Empire] L'Empire a changé ! Vous devez vous déconnecter et vous reconnecter pour que les modifications prennent effet.
+281	Abandonner
+282	Annuler
+283	Tu as abandonné cette quête
+284	Tous les membres du groupe ne sont pas sur cette carte !
+285	Certains membres du groupe n'ont pas le niveau requis :
+286	Vous n'avez pas un niveau suffisant pour entrer dans ce donjon !
+287	Certains joueurs ne disposent pas du pass requis :
+288	Certains joueurs ne peuvent pas être téléportés :
+289	Étiez-vous en train d'essayer d'escroquer le garde ?...
+290	Numéro d'entrée
+291	%d secondes.
+292	%d minutes. %d secondes.
+293	%d h. %d m.
+294	%d d. %d h.
+295	Cette canne à pêche n'a pas assez de points !
+296	Votre canne à pêche est déjà au niveau maximum !
+297	Voulez-vous vraiment améliorer cette canne à pêche ?
+298	La mise à niveau a échoué.
+299	La mise à niveau de la canne à pêche a été réussie !
+300	Réessayez plus tard !
+301	[Jungle antique] Tuez 50 monstres puis utilisez le sceau !
+302	[Jungle antique] Détruisez tous les rochers !
+303	[Jungle antique] Tuez 3 mini-boss !
+304	[Jungle antique] Tuez les mini-boss !
+305	[Jungle antique] Tuez le boss !
+306	Entrez dans la jungle antique (175+)
+307	Est-ce que je comprends bien ? Voulez-vous entrer dans la jungle antique ?
+308	[Jungle antique] Bienvenue dans le donjon !
+309	[Jungle antique] Des monstres sont apparus !
+310	[Jungle antique] Utilisez le sceau pour continuer !
+311	[Jungle antique] Des rochers sont apparus !
+312	[Jungle antique] Excellent travail !
+313	[Jungle antique] Restant encore :
+314	[Jungle antique] Vous avez réussi à tuer les mini-boss !
+315	[Jungle Antique] Le boss est apparu !
+316	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Ancient Jungle |cFFc5ff8c(Lv. 175)|r à temps : |cFFf7b983%s !
+317	Combinaison
+318	Voulez-vous combiner des châssis ?
+319	Absorption des articles
+320	Voulez-vous absorber une arme dans la ceinture ?
+321	[Ruines du Scorpion] Tuez 50 monstres puis utilisez le sceau !
+322	[Ruines du Scorpion] Détruisez tous les rochers !
+323	[Ruines du Scorpion] Tuez 3 mini-boss !
+324	[Ruines du Scorpion] Tuez le boss !
+325	Entrez dans les ruines du Scorpion (100+)
+326	Est-ce que je comprends bien ? Voulez-vous entrer dans les ruines du Scorpion ?
+327	Ce donjon ne peut pas être entré en groupe.
+328	[Ruines du Scorpion] Bienvenue dans le donjon !
+329	[Ruines du Scorpion] Des monstres sont apparus !
+330	[Ruines du Scorpion] Utilisez le sceau pour continuer !
+331	[Ruines du Scorpion] Des rochers sont apparus !
+332	Détruisez 6 rochers
+333	[Ruines du Scorpion] Vous avez réussi à tuer le boss !
+334	[Ruines du Scorpion] Vous serez téléporté hors du donjon dans une minute !
+335	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Ruines du Scorpion |cFFc5ff8c(Lv. 100)|r à temps : |cFFf7b983%s !
+336	Formation professionnelle
+337	Corps
+338	Mental
+339	Dagues
+340	Arc
+341	WP
+342	BM
+343	Chamois
+344	Guérisseur
+345	Sélectionnez les compétences :
+346	Choisissez votre spécialisation.
+347	Choisissez plus tard
+348	Vous avez choisi votre spécialisation !
+349	Sélection de costumes :
+350	Sélectionnez le type de costume :
+351	Costume JcJ
+352	Costume PvM
+353	Vous avez reçu un costume PvP !
+354	Sélectionnez une arme de costume PvP :
+355	Il n'y a aucun retour en arrière après la sélection.
+356	Vous avez reçu un costume PvM !
+357	Sélectionnez une arme de costume PvM :
+358	Sélection annulée.
+359	Sélectionnez l'arme du costume :
+360	Réessayez dans 10 secondes.
+361	Vous n'avez pas assez d'espace dans votre inventaire.
+362	Article invalide.
+363	Vous pouvez réentraîner la compétence dans
+364	minutes ou utilisez un parchemin d'exorcisme.
+365	Vous pouvez réentraîner la compétence dans 8 heures.
+366	La formation professionnelle a échoué.
+367	La formation professionnelle n'est pas à 100 %.
+368	Réinitialisation des compétences
+369	Accueillir,
+370	Si vous souhaitez réinitialiser vos compétences
+371	et choisissez une nouvelle spécialisation, cela vous coûtera quelque chose.
+372	Prix : 1 000 000 000 de Yang.
+373	Voulez-vous réinitialiser vos compétences?
+374	Ce changement est irréversible !
+375	[Vieille Dame] Vous n'avez pas 1 000 000 000 de Yang.
+376	[Vieille Dame] Vous ne pouvez pas faire ça maintenant.
+377	[Vieille Dame] Vous n'avez aucune compétence.
+378	Costumes de Saint-Valentin gratuits !
+379	Bonjour!
+380	Voici vos articles gratuits dans la boutique d'articles pour la Saint-Valentin !
+381	Ils contiennent des bonus complets et durent 3 jours.
+382	OK
+383	Pas maintenant
+384	Entrepôt
+385	Boutique d'articles
+386	[Navire fantôme] Détruisez le rocher
+387	[Ghost Ship] Tuez tous les monstres (sur une monture)
+388	[Navire fantôme] Détruisez le rocher au sol.
+389	[Navire fantôme] Tuez tous les monstres
+390	[Navire fantôme] Détruisez tous les rochers !
+391	[Navire fantôme] Tuez le patron !
+392	[Navire fantôme] Détruisez le coffre du capitaine !
+393	Entrez dans le vaisseau fantôme (Nv. 149)
+394	Est-ce que je comprends bien ? Voulez-vous entrer dans le vaisseau fantôme ?
+395	- Fête (2 joueurs)
+396	[Navire fantôme] Vous devez avoir au moins 1 autre joueur à proximité.
+397	[Ghost Ship] Vous n'êtes pas le chef du groupe !
+398	[Ghost Ship] Vous n'avez pas un niveau suffisant !
+399	[Ghost Ship] Votre niveau est trop élevé !
+400	[Ghost Ship] Le leader n'a pas assez de passes ! (x2)
+401	[Ghost Ship] Bienvenue dans le donjon !
+402	Vous n'avez pas réussi à terminer le donjon à temps. Tout le monde sera téléporté hors du donjon !
+403	[Navire fantôme] Un rocher est apparu !
+404	[Navire fantôme] Un coffre est apparu !
+405	[Vaisseau fantôme] Vous avez détruit le coffre !
+406	[Ghost Ship] Tout le monde sera téléporté hors du donjon en une minute !
+407	|cFFf7dd83%s|r |cFFc5ff8c(Niv. %d)|r terminé |cFFf7dd83Vaisseau fantôme (I) |cFFc5ff8c(Niv. 149)|r dans le temps : |cFFf7b9
+408	Entrez dans le vaisseau fantôme (Nv. 200)
+409	Est-ce que je comprends bien ? Voulez-vous entrer dans le vaisseau fantôme ?
+410	[Ghost Ship] Vous n'avez pas un niveau suffisant !
+411	[Ghost Ship] Votre niveau est trop élevé !
+412	[Ghost Ship] Le leader n'a pas assez de passes ! (x2)
+413	[Ghost Ship] Vous avez réussi à tuer le boss !
+414	|cFFf7dd83%s|r |cFFc5ff8c(Niv. %d)|r terminé |cFFf7dd83Vaisseau fantôme (II) |cFFc5ff8c(Niv. 200)|r dans le temps : |cFFf7b98
+415	[Montagnes Wukong] Tuez 50 monstres puis utilisez le sceau !
+416	[Montagnes Wukong] Détruisez tous les rochers !
+417	[Montagnes Wukong] Tuez 3 mini-boss !
+418	Entrez dans les montagnes de Wukong (75+)
+419	Est-ce que je comprends bien ? Voulez-vous entrer dans les montagnes de Wukong ?
+420	[Montagnes Wukong] Bienvenue dans le donjon !
+421	[Montagnes Wukong] Des monstres sont apparus !
+422	[Montagnes Wukong] Utilisez le sceau pour continuer !
+423	[Montagnes Wukong] Des rochers sont apparus !
+424	[Montagnes Wukong] Vous avez réussi à tuer les mini-boss !
+425	[Montagnes Wukong] Vous avez réussi à tuer le boss !
+426	[Montagnes Wukong] Vous serez téléporté hors du donjon dans une minute !
+427	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r terminé |cFFf7dd83Montagnes Wukong |cFFc5ff8c(Lv. 75)|r dans le temps : |cFFf7b983%s !
+428	Artisanat
+429	Artisanat - Pierres d'âme
+430	Artisanat - Potions
+431	Artisanat - Compétences d'autobuff
+432	Artisanat - Rang, familiers, montures
+433	Niveaux de réussite
+434	Magasin - Points de réussite
+435	Collecte de poissons
+436	Magasin
+437	Poissons
+438	Reliques et fonds
+439	Choisissez le costume :
+440	Choisissez le type de costume :
+441	Costume JcJ
+442	Costume PvM
+443	Choisissez l'arme du costume :
+444	Cette action est irréversible.
+445	Vous avez obtenu une arme de costume
+446	Annulé.
+447	Choisissez l'arme du costume :
+448	Ailes PvP
+449	Ailes PvM
+450	Choisissez des ailes :
+451	Vous avez obtenu des ailes, un animal de compagnie et une monture !
+452	Réessayez dans 10 secondes.
+453	Cela ne peut pas être fait en donjon.
+454	Vous n'avez pas assez d'espace dans votre inventaire.
+455	Easter Valley
+456	You can enter the Easter Valley again in:
+457	(Character restriction)
+458	Do you want to teleport to the Easter Valley?
+459	 - You can enter the map once every 6 hours (CHAR + HWID)
+460	 - Cooldown starts from the moment you enter the map
+461	 - You can stay in the map for a maximum of 30 minutes
+462	The Easter Valley is currently unavailable.
+463	(HWID restriction)
+464	Easter Crafting

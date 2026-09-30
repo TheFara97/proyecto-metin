@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output dizini sonda bir eğik çizgiyle bitmiyor. Output dizininin düzgün değerlendirilmesi için bu eğik çizgi gerekli olduğundan bu oluşturma örneği eğik çizgiyi ekleyecek.
+  PythonNetworkStreamModule.cpp
+  python27-static.lib(modsupport.obj) : /GL ile derlenmiş MSIL .netmodule veya modül bulundu; bağlantı /LTCG ile yeniden başlatılıyor; bağlayıcı performansını artırmak için bağlantı komut satırına /LTCG ekleyin
+     ..\..\..\Elvion-client\client\Elvion.lib kitaplığı ve ..\..\..\Elvion-client\client\Elvion.exp nesnesi oluşturuluyor
+  Kod üretiliyor
+  Kodun üretilmesi tamamlandı
+  UserInterface.vcxproj -> C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-client\client\Elvion.exe

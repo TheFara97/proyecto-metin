@@ -1,0 +1,457 @@
+ACCEPT	OK
+ACCE_ABSORB	Absorción de bonificación
+ACCE_COMBINE	Combinación
+ACCE_MAIN	Faja 1
+ACCE_RESULT	Resultado
+ACCE_SERVE	Faja 2
+ATTACH_METIN_INFO	¿Quieres usar la Piedra Espiritual?
+ATTACH_METIN_TITLE	Usar piedra espiritual
+AURA_MAIN	Traje de aura
+AURA_SUB	Material
+CANCEL	Cancelar
+CHANGE_PASSWORD_CONFIRM	Confirmar nueva contraseña
+CHANGE_PASSWORD_NEW	Nueva contraseña
+CHANGE_PASSWORD_OLD	Contraseña anterior
+CHANGE_PASSWORD_TITLE	Cambio de contraseña
+CHARACTER_ACTION	Emoción
+CHARACTER_MAIN	Personaje
+CHARACTER_QUEST	Misiones
+CHARACTER_SKILL	Habilidad
+CHATTING_SETTING_CANCLE	Cancelar
+CHATTING_SETTING_CLEAR	Reiniciar
+CHATTING_SETTING_DEFAULT_TITLE	General
+CHATTING_SETTING_DETAIL	Configuración del sistema
+CHATTING_SETTING_DICE	Dados
+CHATTING_SETTING_DICE_SETTING	Configuración de dados
+CHATTING_SETTING_EXP	Experiencia
+CHATTING_SETTING_GOLD	Divisa
+CHATTING_SETTING_GUILD	Gremio
+CHATTING_SETTING_ITEM	Elementos
+CHATTING_SETTING_NOTICE	Mensaje
+CHATTING_SETTING_PARTY	Grupo
+CHATTING_SETTING_SAVE	Ahorrar
+CHATTING_SETTING_SHOUT	charla de gritos
+CHATTING_SETTING_SYSTEM	Sistema
+CHATTING_SETTING_TALKING	General
+CHATTING_SETTING_TITLE	Configuración de chat
+CLOSE	Cerca
+COSTUME_TITLE	Disfraces
+COSTUME_WINDOW_TITLE	Disfraces
+CREATE_ATT_GRADE	STR
+CREATE_CREATE	Crear
+CREATE_DEX_GRADE	DEX
+CREATE_HP	HP
+CREATE_MAN	Hombre
+CREATE_NAME	Nombre
+CREATE_NEXT	Próximo
+CREATE_PREV	Atrás
+CREATE_SEX	Género
+CREATE_SHAPE	Forma
+CREATE_SP	INT
+CREATE_WOMAN	Mujer
+CUBE_INFO_TITLE	Manual de refinamiento
+CUBE_RENEWAL_TITLE	Refinamiento
+CUBE_REQUIRE_MATERIAL	Materiales requeridos
+CUBE_REQUIRE_MATERIAL_OR	or
+CUBE_TITLE	Ventana de refinamiento
+DO_REFINE	Refinar
+DRAGONSOUL_REFINE_WINDOW_TITLE	Ventana de refinamiento
+DRAGONSOUL_TAP_TITLE_1	Dragón Diamante
+DRAGONSOUL_TAP_TITLE_2	Dragón Rubí
+DRAGONSOUL_TAP_TITLE_3	dragón jade
+DRAGONSOUL_TAP_TITLE_4	Dragón Zafiro
+DRAGONSOUL_TAP_TITLE_5	Granate Dragón
+DRAGONSOUL_TAP_TITLE_6	Dragón ónix
+DRAGONSOUL_TITLE	Alquimia de piedra de dragón
+EMPIRE_A	Shinsoo
+EMPIRE_B	Gracias
+EMPIRE_C	genio
+EMPIRE_EXIT	Salida
+EMPIRE_NEXT	Próximo
+EMPIRE_PREV	Atrás
+EMPIRE_SELECT	Elegir
+END_TIME	Evento activo
+EXCHANGE_TITLE	Comercio
+GAMEOPTION_TITLE	Opciones de juego
+GAME_EXIT_OBSERVER	Fin del modo observador
+GAME_HELP	Ayuda
+GAME_QUEST	Tareas
+GAME_SKILL_UP	Aumentar habilidades
+GAME_STAT_UP	Levantar estado
+GRADE	Clase
+GRADE_SELECT	Clase
+GUILD_BASENAME	Nombre base
+GUILD_BOARD_ID	Nombre
+GUILD_BOARD_REFRESH	Refrescar
+GUILD_BOARD_TEXT	Mensaje
+GUILD_BUILDING_CATEGORY_TITLE	Unidades de construcción
+GUILD_BUILDING_CHANGE	Cambiar
+GUILD_BUILDING_DIRECTION	Orientación
+GUILD_BUILDING_GRADE	Rango
+GUILD_BUILDING_INFO	Información sobre edificios y costos
+GUILD_BUILDING_LIST_TITLE	Lista de edificios
+GUILD_BUILDING_LOG	Trompa
+GUILD_BUILDING_NAME	Nombre del edificio
+GUILD_BUILDING_OPERATE	Funcionar
+GUILD_BUILDING_PLY	Madera contrachapada
+GUILD_BUILDING_POSITION	Posición
+GUILD_BUILDING_PREVIEW	Avance
+GUILD_BUILDING_PRICE	Precio
+GUILD_BUILDING_REFRESH	Refrescar
+GUILD_BUILDING_STONE	Piedra
+GUILD_BUILDING_TITLE	Edificio de la casa del gremio
+GUILD_CRYSTAL	Cristal
+GUILD_DEPOSIT	Depósito
+GUILD_DROP_RESOURCE1	Aquí
+GUILD_DROP_RESOURCE2	Soltar recurso
+GUILD_GEM	Joya
+GUILD_GRADE_CHANGE_GRADE_NAME	Nuevo nombre de rango
+GUILD_GRADE_NUM	Nro.
+GUILD_GRADE_PERMISSION_DELETE	Eliminar del gremio
+GUILD_GRADE_PERMISSION_JOIN	Puede aceptar jugadores en el gremio.
+GUILD_GRADE_PERMISSION_NOTICE	Puede redactar mensajes del gremio.
+GUILD_GRADE_PERMISSION_SKILL	Habilidades del gremio
+GUILD_GRADE_RANK	Rango
+GUILD_GRADE_WRITE	Escribir
+GUILD_INFO	Información del gremio
+GUILD_INFO_CUR_EXP	Experiencia
+GUILD_INFO_DECALRE_WAR	Declarar la guerra
+GUILD_INFO_ENEMY_GUILD	Gremio enemigo
+GUILD_INFO_ENEMY_GUILD_EMPTY	Ninguno
+GUILD_INFO_LEVEL	Nivel de gremio
+GUILD_INFO_MASTER	Líder
+GUILD_INFO_MASTER_VALUE	Líder
+GUILD_INFO_MEMBER_AVG_LEVEL	Nivel promedio
+GUILD_INFO_MEMBER_NUM	No. de miembros
+GUILD_INFO_NAME	nombre del gremio
+GUILD_INFO_NAME_VALUE	Este es el nombre de un gremio
+GUILD_INFO_OFFER_EXP	Invertir
+GUILD_INFO_REST_EXP	Exp. necesaria
+GUILD_INFO_UPLOAD_MARK	Subir logotipo
+GUILD_INFO_UPLOAD_SYMBOL	Subir bandera
+GUILD_MARK	Logotipo del gremio
+GUILD_MEMBER_JOB	Clase
+GUILD_MEMBER_KNIGHT	Co-líder
+GUILD_MEMBER_LEVEL	Nivel
+GUILD_MEMBER_NAME	Nombre
+GUILD_MEMBER_RANK	Rango
+GUILD_MEMBER_SPECIFIC_GRAVITY	Invertido
+GUILD_METIN_STONE	Piedra espiritual
+GUILD_MINENAL	Mineral
+GUILD_MONEY	Cual
+GUILD_NAME	Gremio
+GUILD_RESOURCE_INFO	Información de recursos
+GUILD_SKILL_ACTIVE	Activo
+GUILD_SKILL_PASSIVE	Pasivo
+GUILD_SKILL_POWER	Energía
+GUILD_SKILL_STATE	Habilidades del gremio
+GUILD_SKIlL_HEAL_GSP	Recuperar el poder
+GUILD_WAR_ACCEPT	Aceptar declaración de guerra
+GUILD_WAR_BATTLE_TYPE	Tipo de batalla
+GUILD_WAR_CTF	Bandera
+GUILD_WAR_DECLARE	Declarar la guerra entre gremios
+GUILD_WAR_ENEMY	Enemigo
+GUILD_WAR_NORMAL	Campo
+GUILD_WAR_WARP	Arena
+GUILD_WAR_WIN	Rondas
+GUILD_WATER	Agua
+GUILD_WATER_STONE	Piedra de agua
+GUILD_WITHDRAW	Llevar
+HELP_ATTACK	Activa ataques únicos por clic del mouse.
+HELP_ATTACK_KEY	Ataque: botón izquierdo del ratón o barra espaciadora
+HELP_CHANGE_PK_MODE	Cambiar modo de ataque: cambiar la configuración del botón izquierdo del mouse
+HELP_CHARACTER_BUTTON1	(Ventana de personaje, ventana de inventario,
+HELP_CHARACTER_BUTTON2	Lista de amigos y opciones)
+HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON	Vista de cámara predeterminada: botón central del mouse
+HELP_CONTROL_CAMERA_BY_RIGHTBUTTON	Vista de cámara alternativa: asignar al mouse derecho o izquierdo
+HELP_EXP	Experiencia
+HELP_FURY	Tienda de artículos dentro del juego
+HELP_GUILD_WINDOW	Abrir ventana de gremio: Alt + G
+HELP_HELP	Ayuda en pantalla: H
+HELP_HP	Puntos de vida (HP)
+HELP_MESSENGER_WINDOW	Abrir lista de amigos: Alt + M
+HELP_MOUSE_LEFT	Función del botón izquierdo del ratón
+HELP_MOUSE_RIGHT	Función del botón derecho del ratón
+HELP_MOVE_KEY	Panel: W, A, S, D o teclas de flecha
+HELP_OPEN_CHARACTER	Abrir ventana de personaje: C
+HELP_OPEN_CHAT	Abrir ventana de chat: Ingresar
+HELP_OPEN_INVENTORY	Abrir ventana de inventario: I
+HELP_OPEN_LOG	Abrir registro de chat: L
+HELP_OPEN_MINIMAP	Abrir mini mapa: Mayús + M
+HELP_OPEN_QUEST	Abrir ventana de tareas: N
+HELP_OPEN_SKILL	Abrir ventana de habilidad: V
+HELP_OPEN_WHISPER	Abrir ventana de Whisper: Shift + Enter
+HELP_OPEN_ZONEMAP	Abrir mapa grande: M
+HELP_PICK_ITEM	Recoger elementos: ` o Z o botón izquierdo del mouse
+HELP_QUICKSLOT	Campos de acceso rápido
+HELP_SCREEN_CAPTURE	Guardar captura de pantalla: Imprimir (se guardará en el archivo "Metin2\screenshot")
+HELP_SHOW_ALL_NAME	Nombres para mostrar: Alt
+HELP_SP	Puntos de hechizo (SP)
+HELP_SYSTEM_BUTTON	Botones del sistema
+INVENTORY_PAGE_BUTTON_TOOLTIP_1	1er inventario
+INVENTORY_PAGE_BUTTON_TOOLTIP_2	2do inventario
+INVENTORY_PAGE_BUTTON_TOOLTIP_3	3er inventario
+INVENTORY_PAGE_BUTTON_TOOLTIP_4	4to Inventario
+INVENTORY_TITLE	Inventario
+ITEM_MALL	Tienda de artículos
+KEYCHANGE_ACTION_WINDOW	Comportamiento
+KEYCHANGE_ATTACK	Ataque
+KEYCHANGE_AUTORUN	Ejecución automática
+KEYCHANGE_AUTO_WINDOW	Caza automática
+KEYCHANGE_BASEACTION	Teclas estándar
+KEYCHANGE_CAM_DOWN1	Cámara (abajo)
+KEYCHANGE_CAM_DOWN2	Cámara (abajo)
+KEYCHANGE_CAM_LEFT1	Cámara (izquierda)
+KEYCHANGE_CAM_LEFT2	Cámara (izquierda)
+KEYCHANGE_CAM_RIGHT1	Cámara (derecha)
+KEYCHANGE_CAM_RIGHT2	Cámara (derecha)
+KEYCHANGE_CAM_UP1	Cámara (arriba)
+KEYCHANGE_CAM_UP2	Cámara (arriba)
+KEYCHANGE_CAM_ZOOM_IN1	Cámara (acercar)
+KEYCHANGE_CAM_ZOOM_IN2	Cámara (acercar)
+KEYCHANGE_CAM_ZOOM_OUT1	Cámara (alejar)
+KEYCHANGE_CAM_ZOOM_OUT2	Cámara (alejar)
+KEYCHANGE_CHAT_WINDOW	Registro de chat
+KEYCHANGE_DDS_WINDOW	Alquimia del dragón
+KEYCHANGE_DOWN1	Hacia atrás
+KEYCHANGE_DOWN2	Hacia atrás
+KEYCHANGE_DRAGON_GATE	
+KEYCHANGE_EMOTION1	Emoción (triste)
+KEYCHANGE_EMOTION2	Emoción (Yang)
+KEYCHANGE_EMOTION3	Emoción (Música)
+KEYCHANGE_EMOTION4	Emoción (Corazón)
+KEYCHANGE_EMOTION5	Emoción (Corazones)
+KEYCHANGE_EMOTION6	Emoción (bomba)
+KEYCHANGE_EMOTION7	Emoción (idea)
+KEYCHANGE_EMOTION8	Emoción (tormenta)
+KEYCHANGE_EMOTION9	Emoción (lo siento)
+KEYCHANGE_GUILD_WINDOW	Gremio
+KEYCHANGE_HELP_WINDOW	Ayuda
+KEYCHANGE_IMPOSSIBLE_CHANGE	¡[CTRL], [ALT], [SHIFT] no están permitidos aquí!
+KEYCHANGE_INTERFACE	Ventana
+KEYCHANGE_INVENTORY_WINDOW	Inventario
+KEYCHANGE_KEY_SETTING	Configuración del teclado
+KEYCHANGE_LEFT1	Izquierda
+KEYCHANGE_LEFT2	Izquierda
+KEYCHANGE_MESSENGER_WINDOW	Amigos
+KEYCHANGE_MINIMAP_MINER	Minimapa (-)
+KEYCHANGE_MINIMAP_PLUS	Minimapa (+)
+KEYCHANGE_MINIMAP_WINDOW	Mapa grande
+KEYCHANGE_MONSTER_CARD_WINDOW	Tarjeta de monstruo
+KEYCHANGE_PARTY_MATCH_WINDOW	Búsqueda de grupo
+KEYCHANGE_QUEST_SCROLL_ONOFF	Pergaminos de misión
+KEYCHANGE_QUEST_WINDOW	Misiones
+KEYCHANGE_QUICKSLOT1	Nivel 1
+KEYCHANGE_QUICKSLOT2	Nivel 2
+KEYCHANGE_QUICKSLOT3	Nivel 3
+KEYCHANGE_QUICKSLOT4	Nivel 4
+KEYCHANGE_RIDE	Montar
+KEYCHANGE_RIDE_BYE	Descartar caballo
+KEYCHANGE_RIDE_HORSE	Montar
+KEYCHANGE_RIDE_PEED	caballo de alimentación
+KEYCHANGE_RIGHT1	Bien
+KEYCHANGE_RIGHT2	Bien
+KEYCHANGE_ROOT1	Levantar
+KEYCHANGE_ROOT2	Levantar
+KEYCHANGE_SAVE	Ahorrar
+KEYCHANGE_SCREENSHOT	Captura de pantalla
+KEYCHANGE_SHOW_NAME	Mostrar nombres
+KEYCHANGE_SKILL_WINDOW	Habilidades
+KEYCHANGE_SLOT1	Ranura 1
+KEYCHANGE_SLOT2	Ranura 2
+KEYCHANGE_SLOT3	Ranura 3
+KEYCHANGE_SLOT4	Ranura 4
+KEYCHANGE_SLOT5	Ranura 5
+KEYCHANGE_SLOT6	Ranura 6
+KEYCHANGE_SLOT7	Ranura 7
+KEYCHANGE_SLOT8	Ranura 8
+KEYCHANGE_SLOT_KET	Ranuras rápidas
+KEYCHANGE_STATUS_WINDOW	Personaje
+KEYCHANGE_UP1	Hacia adelante
+KEYCHANGE_UP2	Hacia adelante
+LANGUAGE_EN	Inglés
+LOAD_ERROR	El archivo está dañado. Instale uno nuevo. Presione ESC ahora.
+LOGIN_CONNECT	Conectar
+LOGIN_CONNECTING	Estarás conectado al servidor.
+LOGIN_DEFAULT_SERVERADDR	Nombre del servidor, canal 1
+LOGIN_EXIT	Salida
+LOGIN_ID	Nombre de usuario
+LOGIN_PASSWORD	Contraseña
+LOGIN_SELECT_BUTTON	Elegir
+LOGIN_SELECT_EXIT	Salida
+LOGIN_SELECT_TITLE	Elija servidor
+MALL_PASSWORD_TITLE	Contraseña
+MALL_TITLE	Almacén de la tienda de artículos
+MARKLIST_REFRESH	Refrescar
+MARKLIST_TITLE	Registrar signo de gremio
+MESSAGE	Este es un mensaje
+MESSENGER_ADD_FRIEND	Agregar amigo
+MESSENGER_DELETE_FRIEND	Borrar
+MESSENGER_MOBILE	Enviar mensaje de texto
+MESSENGER_OPEN_GUILD	Abrir ventana de gremio
+MESSENGER_TITLE	Amigos
+MESSENGER_WHISPER	Susurro
+MINIMIZE	Minimizar
+MINI_GAME_RUMI_DISCARD_TEXT	Modo seguro
+MINI_GAME_RUMI_EXIT	Fin
+MINI_GAME_RUMI_LBUTTON_DESC	Haga clic izquierdo para agregar tarjeta
+MINI_GAME_RUMI_RBUTTON_DESC	Haz clic derecho para descartar la tarjeta.
+MINI_GAME_RUMI_SCORE	Puntaje
+MINI_GAME_RUMI_START_TEXT	Comenzar
+MINI_GAME_RUMI_TITLE	Bueno juego de cartas
+MOUSEBUTTON_ATTACK	Ataque
+MOUSEBUTTON_AUTO_ATTACK	Atacar automáticamente
+MOUSEBUTTON_CAMERA	Cámara
+MOUSEBUTTON_SKILL	Habilidades
+MUSICLIST_TITLE	Opciones de música
+MYSHOP_DECO_SELECT_MODEL	Elige la apariencia de tu tienda.
+MYSHOP_DECO_SELECT_TITLE	Elige la apariencia de tu nombre.
+NO	No
+OK	OK
+OPTION_ALWAYS_SHOW_NAME	Nombre
+OPTION_ALWAYS_SHOW_NAME_OFF	Limitado
+OPTION_ALWAYS_SHOW_NAME_ON	Siempre
+OPTION_BLOCK	Bloquear
+OPTION_BLOCK_EXCHANGE	Comercio
+OPTION_BLOCK_FRIEND	Amigos
+OPTION_BLOCK_GUILD	Gremio
+OPTION_BLOCK_PARTY	Grupo
+OPTION_BLOCK_PARTY_REQUEST	Pedido
+OPTION_BLOCK_WHISPER	Susurro
+OPTION_CAMERA_DISTANCE	Cámara
+OPTION_CAMERA_DISTANCE_LONG	Lejos
+OPTION_CAMERA_DISTANCE_SHORT	Cerca
+OPTION_DELETE_MOBILE_BUTTON	Eliminar número de teléfono celular
+OPTION_EFFECT	Información de golpe
+OPTION_FOG	Niebla
+OPTION_FOG_DENSE	Denso
+OPTION_FOG_LIGHT	Luz
+OPTION_FOG_MIDDLE	Medio
+OPTION_INPUT_MOBILE_BUTTON	Ingrese el número de teléfono celular
+OPTION_MOBILE	Teléfono móvil
+OPTION_MOB_INFO	información del monstruo
+OPTION_MOB_INFO_AGGR	Agresivo
+OPTION_MOB_INFO_LEVEL	Nivel
+OPTION_MUSIC	Música
+OPTION_MUSIC_CHANGE	Cambiar
+OPTION_MUSIC_DEFAULT_THEMA	Música estándar de Metin2
+OPTION_NAME_COLOR	Nombre Color
+OPTION_NAME_COLOR_EMPIRE	Color del Reino
+OPTION_NAME_COLOR_NORMAL	Normal
+OPTION_NIGHT_MODE	Noche
+OPTION_NIGHT_MODE_OFF	Apagado
+OPTION_NIGHT_MODE_ON	En
+OPTION_PVPMODE	Modo PvP
+OPTION_PVPMODE_FREE	Gratis
+OPTION_PVPMODE_FREE_TOOLTIP	Puedes atacar a todos los jugadores.
+OPTION_PVPMODE_GUILD	Gremio
+OPTION_PVPMODE_GUILD_TOOLTIP	Puedes atacar a todos los jugadores excepto a los miembros de tu gremio.
+OPTION_PVPMODE_PEACE	Paz
+OPTION_PVPMODE_PEACE_TOOLTIP	No puedes atacar a jugadores de tu reino.
+OPTION_PVPMODE_REVENGE	Hostil
+OPTION_PVPMODE_REVENGE_TOOLTIP	Sólo puedes atacar a aquellos que tienen otro Ethos.
+OPTION_SALESTEXT	Nombre de la tienda
+OPTION_SALESTEXT_VIEW_OFF	Esconder
+OPTION_SALESTEXT_VIEW_ON	Espectáculo
+OPTION_SNOW_MODE	Nevada
+OPTION_SNOW_MODE_OFF	Apagado
+OPTION_SNOW_MODE_ON	En
+OPTION_SNOW_TEXTURE_MODE	Nieve
+OPTION_SNOW_TEXTURE_MODE_OFF	Apagado
+OPTION_SNOW_TEXTURE_MODE_ON	En
+OPTION_SOUND	Efectos sonoros
+OPTION_TARGET_BOARD	Menú de destino
+OPTION_TARGET_BOARD_NO_VIEW	Cerca
+OPTION_TARGET_BOARD_VIEW	Espectáculo
+OPTION_TITLE	Opciones
+OPTION_VIEW_CHAT	Línea de chat
+OPTION_VIEW_CHAT_OFF	Esconder
+OPTION_VIEW_CHAT_ON	Espectáculo
+PARTY_MEMBER_INFO_NAME	Nombre del miembro del grupo
+PASSWORD_DESC_1	Introduce tu contraseña
+PASSWORD_DESC_2	para abrir el almacén.
+PASSWORD_DESC_3	¿Ya cambiaste tu contraseña?
+PASSWORD_DESC_4	De lo contrario, su contraseña será '000000'.
+PASSWORD_DESC_5	Cambie su contraseña en el almacenamiento.
+PASSWORD_TITLE	Guardar contraseña
+PICK_MONEY_TITLE	Dividir
+PREMIUM_PRIVATE_SHOP	Tienda premium personal
+PREMIUM_PRIVATE_SHOP_MODIFY_BUTTON	Administrar
+PREMIUM_PRIVATE_SHOP_NOTICE_MODIFY	Actualmente se está gestionando la tienda personal.
+PREMIUM_PRIVATE_SHOP_NOTICE_NONE	La tienda personal no está abierta.
+PREMIUM_PRIVATE_SHOP_NOTICE_OPEN	La tienda personal está abierta.
+PREMIUM_PRIVATE_SHOP_REMAIN_TEXT_ICON	Tiempo restante
+PREMIUM_PRIVATE_SHOP_REOPEN_BUTTON	Abierto
+PREMIUM_PRIVATE_SHOP_SHOP_CLOSE_BUTTON	Cerrar tienda
+PREMIUM_PRIVATE_SHOP_TAX_ADJUSTMENT_BUTTON	Recolectar
+PREMIUM_PRIVATE_SHOP_TITLE	Tienda personal
+PREMIUM_PRIVATE_SHOP_WON_ICON	Ganado coleccionable
+PREMIUM_PRIVATE_SHOP_YANG_ICON	Yang coleccionable
+PRIVATESHOPSEARCH_BUY	Comprar
+PRIVATESHOPSEARCH_COUNT	Cantidad
+PRIVATESHOPSEARCH_ITEMNAME	Nombre
+PRIVATESHOPSEARCH_ITEMTYPE	Elementos
+PRIVATESHOPSEARCH_JOB	Clase
+PRIVATESHOPSEARCH_LEVEL	Nivel
+PRIVATESHOPSEARCH_PRICE	Precio
+PRIVATESHOPSEARCH_REFINE	Nivel de artículo
+PRIVATESHOPSEARCH_SEARCH	Buscar
+PRIVATESHOPSEARCH_SEARCH_BAR	Buscar
+PRIVATESHOPSEARCH_SELECT	Seleccionar
+PRIVATESHOPSEARCH_SELLER	Vendedor
+PRIVATE_SHOP_CLOSE_BUTTON	Cerrar tienda
+PRIVATE_SHOP_NAME	nombre de la tienda
+PRIVATE_SHOP_TITLE	Abrir tienda privada
+REFINE_COST	Costos de actualización: 0 Yang
+REFINE_INFO	Posibilidad de actualizar con éxito: 100%
+REFINE_TTILE	Actualizaciones
+RESTART_HERE	Reiniciar aquí
+RESTART_TOWN	Reiniciar en la ciudad
+SAFE_CHANGE_PASSWORD	Cambiar la contraseña
+SAFE_TITLE	Despensa
+SELECT_ATT_GRADE	STR
+SELECT_CREATE	Crear
+SELECT_DELETE	Borrar
+SELECT_DEX_GRADE	DEX
+SELECT_EMPIRE_NAME	Nombre del Reino
+SELECT_EXIT	Cerca
+SELECT_HP	HP
+SELECT_LEVEL	Nivel
+SELECT_METIN_STONE_TITLE	Seleccionar piedra espiritual
+SELECT_NAME	Nombre
+SELECT_NO_GUILD	Sin gremio
+SELECT_PLAYTIME	Recreo
+SELECT_SELECT	Comenzar
+SELECT_SP	SP
+SELECT_TITLE	Elige Título
+SHOP_BUY	Comprar
+SHOP_SELL	Vender
+SHOP_TITLE	Comercio
+STEP	Grado de claridad
+STEP_SELECT	Grado de claridad
+STRENGTH	Fortalecer
+STRENGTH_SELECT	Nivel
+SYSTEMOPTION_TITLE	Opciones del sistema
+SYSTEM_CHANGE	Cambiar personaje
+SYSTEM_EXIT	Salir del juego
+SYSTEM_HELP	Ayuda
+SYSTEM_LOGOUT	Finalizar la sesión
+SYSTEM_MALL	Tienda de artículos
+SYSTEM_MOVE_CHANNEL	Cambiar canal
+SYSTEM_OPTION	Opciones del sistema
+TASKBAR_CHARACTER	Character [C/V/B/N]
+TASKBAR_DISABLE	Desactivado
+TASKBAR_DRAGON_SOUL	Alquimia de piedra de dragón
+TASKBAR_EXPAND	Ampliar ventana
+TASKBAR_INVENTORY	inventario [yo]
+TASKBAR_MESSENGER	Amigos [Alt+M]
+TASKBAR_MONEY_EXPAND	Dinero
+TASKBAR_NEXT_QUICKSLOT	Siguiente campo de acceso rápido [Mayús+Número, Alt]
+TASKBAR_PREV_QUICKSLOT	Campo de acceso rápido anterior [Mayús+Número]
+TASKBAR_SYSTEM	Opciones[ESC]
+WHISPER_BAN	Bloquear
+WHISPER_NAME	Susurro
+WHISPER_REPORT	
+WHISPER_SEND	Enviar
+YES	Sí
+ZONE_MAP	Mapa grande

@@ -1,0 +1,3004 @@
+section
+npc	20016
+item	25044	10
+reward	25045	1
+gold	0
+won	0
+gem	100
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	27992	3
+item	27993	3
+item	27994	3
+reward	201000	1
+gold	5000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	180	1
+reward	201001	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	3160	1
+reward	201001	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	2170	1
+reward	201001	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	5120	1
+reward	201001	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	1130	1
+reward	201001	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89000	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89010	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89020	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89030	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89100	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89110	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89120	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89130	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89140	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	89150	1
+reward	201002	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	1
+end
+
+section
+npc	20016
+item	201001	5
+item	201002	10
+reward	89160	1
+gold	0
+won	2
+gem	0
+percent	100
+category	6
+end
+
+section
+npc	20016
+item	201001	5
+item	201002	10
+reward	32600	1
+gold	0
+won	2
+gem	0
+percent	100
+category	6
+end
+
+section
+npc	20016
+item	79011	1
+reward	79010	1
+gold	2000000
+won	0
+gem	0
+percent	100
+category	6
+end
+
+section
+npc	20016
+item	79010	1
+reward	79011	1
+gold	2000000
+won	0
+gem	0
+percent	100
+category	6
+end
+
+section
+npc	20016
+item	31077	10
+reward	203011	1
+gold	20000000
+won	0
+gem	0
+percent	100
+category	12
+end
+
+section
+npc	20016
+item	23000	1
+reward	31077	2
+gold	20000000
+won	0
+gem	0
+percent	100
+category	12
+end
+
+section
+npc	20016
+item	31077	2
+item	51001	10
+item	28961	500
+reward	79013	1
+gold	0
+won	5
+gem	0
+percent	100
+category	12
+end
+
+section
+npc	20016
+item	71051	10
+reward	71052	1
+gold	250000000
+won	0
+gem	50
+percent	100
+category	16
+end
+
+section
+npc	20001
+item	100300	100
+item	100500	25
+item	50259	100
+reward	100700	1
+gold	0
+won	20
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50259	1
+reward	51001	1
+gold	25000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50255	3
+reward	50256	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50255	3000
+reward	50256	1000
+gold	1000000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50256	3
+reward	50257	1
+gold	3000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50256	3000
+reward	50257	1000
+gold	3000000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50257	3
+reward	50258	1
+gold	5000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50257	3000
+reward	50258	1000
+gold	5000000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50258	3
+reward	50259	1
+gold	10000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20001
+item	50258	3000
+reward	50259	1000
+gold	10000000000
+won	0
+gem	0
+percent	100
+category	2
+end
+
+section
+npc	20011
+item	88092	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	50098	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88091	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88090	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88093	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88095	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88096	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88097	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88098	20
+reward	201241	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	201241	1
+reward	40017	1
+gold	50000000
+won	0
+gem	200
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	201241	1
+reward	40018	1
+gold	50000000
+won	0
+gem	200
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	201241	1
+reward	40019	1
+gold	50000000
+won	0
+gem	200
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	201241	1
+reward	40020	1
+gold	50000000
+won	0
+gem	200
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	201241	7
+reward	90029	1
+gold	50000000
+won	0
+gem	100
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88091	75
+reward	90037	1
+gold	50000000
+won	0
+gem	100
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88090	75
+reward	90037	1
+gold	50000000
+won	0
+gem	100
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88093	75
+reward	90038	1
+gold	50000000
+won	0
+gem	100
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88095	75
+reward	90039	1
+gold	50000000
+won	0
+gem	100
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88096	75
+reward	90039	1
+gold	50000000
+won	0
+gem	100
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88097	75
+reward	90040	1
+gold	50000000
+won	0
+gem	100
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	88098	75
+reward	90040	1
+gold	50000000
+won	0
+gem	100
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	90500	5
+item	51000	5
+reward	50835	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	90500	200
+item	51000	200
+item	34000	1
+reward	50841	1
+gold	50000000
+won	0
+gem	50000
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	71001	15
+item	71094	15
+item	50513	15
+reward	50837	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	71001	15
+item	71094	15
+item	50513	15
+reward	40024	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	71001	15
+item	71094	15
+item	50513	15
+reward	40025	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	71001	1000
+item	71094	1000
+item	50513	1000
+item	34000	2
+reward	50842	1
+gold	50000000
+won	0
+gem	50000
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	71001	15
+item	71094	15
+item	50513	15
+reward	50838	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	71001	1000
+item	71094	1000
+item	50513	1000
+item	34000	2
+reward	50843	1
+gold	50000000
+won	0
+gem	50000
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	71001	15
+item	71094	15
+item	50513	15
+reward	50839	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	71001	1000
+item	71094	1000
+item	50513	1000
+item	34000	2
+reward	50844	1
+gold	50000000
+won	0
+gem	50000
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	90030	5
+item	90031	4
+item	90032	3
+item	90033	2
+item	90034	1
+reward	50840	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20011
+item	90030	40
+item	90031	30
+item	90032	20
+item	90033	20
+item	90034	20
+reward	90050	1
+gold	0
+won	0
+gem	0
+percent	100
+category	3
+end
+
+section
+npc	20413
+item	50513	3
+item	80020	3
+reward	50495	1
+gold	10000000
+won	0
+gem	0
+percent	100
+category	14
+end
+
+section
+npc	20413
+item	71001	5
+reward	80024	1
+gold	15000000
+won	0
+gem	0
+percent	100
+category	14
+end
+
+section
+npc	20413
+item	71094	5
+reward	80025	1
+gold	15000000
+won	0
+gem	0
+percent	100
+category	14
+end
+
+section
+npc	20413
+item	71094	3
+reward	80023	1
+gold	15000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	71001	3
+reward	80022	1
+gold	15000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50335	2
+item	201000	5
+reward	50336	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50338	2
+item	201000	5
+reward	50339	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50341	2
+item	201000	5
+reward	50342	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50344	2
+item	201000	5
+reward	50345	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50347	2
+item	201000	5
+reward	50348	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50350	2
+item	201000	5
+reward	50351	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50353	2
+item	201000	5
+reward	50354	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50356	2
+item	201000	5
+reward	50357	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50359	2
+item	201000	5
+reward	50360	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50362	2
+item	201000	5
+reward	50363	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50365	2
+item	201000	5
+reward	50366	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50336	2
+item	51001	1
+reward	50337	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50339	2
+item	51001	1
+reward	50340	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50342	2
+item	51001	1
+reward	50343	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50345	2
+item	51001	1
+reward	50346	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50348	2
+item	51001	1
+reward	50349	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50351	2
+item	51001	1
+reward	50352	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50354	2
+item	51001	1
+reward	50355	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50357	2
+item	51001	1
+reward	50358	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50360	2
+item	51001	1
+reward	50361	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50363	2
+item	51001	1
+reward	50364	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20413
+item	50366	2
+item	51001	1
+reward	50367	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	10
+end
+
+section
+npc	20414
+item	71001	5
+item	51000	2
+reward	80026	1
+gold	30000000
+won	0
+gem	0
+percent	100
+category	8
+end
+
+section
+npc	20414
+item	71094	5
+item	51000	2
+reward	80027	1
+gold	30000000
+won	0
+gem	0
+percent	100
+category	8
+end
+
+section
+npc	20414
+item	71094	1
+item	71001	1
+item	50513	1
+item	50097	1
+item	51000	1
+reward	80033	1
+gold	30000000
+won	0
+gem	0
+percent	100
+category	8
+end
+
+section
+npc	20414
+item	71094	1
+item	71001	1
+item	50513	1
+item	90500	1
+item	50097	1
+reward	80056	1
+gold	100000000
+won	0
+gem	0
+percent	100
+category	8
+end
+
+section
+npc	20414
+item	71094	1
+item	71001	1
+item	50513	1
+item	90500	1
+item	50097	1
+item	80056	10
+reward	80057	1
+gold	100000000
+won	10
+gem	100
+percent	100
+category	8
+end
+
+section
+npc	20414
+item	80050	1
+item	80051	1
+item	80052	1
+item	80053	1
+item	80054	1
+reward	80055	1
+gold	1000000000
+won	0
+gem	0
+percent	100
+category	9
+end
+
+section
+npc	20414
+item	80050	1
+item	80051	1
+item	80052	1
+item	80053	1
+item	80054	1
+item	80055	1
+item	203028	1
+reward	203027	1
+gold	0
+won	10
+gem	500
+percent	100
+category	9
+end
+
+section
+npc	20414
+item	203000	3
+reward	203001	1
+gold	0
+won	1
+gem	25
+percent	100
+category	18
+end
+
+section
+npc	20414
+item	203001	3
+reward	203002	1
+gold	0
+won	2
+gem	50
+percent	100
+category	18
+end
+
+section
+npc	20414
+item	203002	3
+reward	203003	1
+gold	0
+won	3
+gem	75
+percent	100
+category	18
+end
+
+section
+npc	20414
+item	203003	3
+reward	203013	1
+gold	0
+won	6
+gem	75
+percent	100
+category	18
+end
+
+section
+npc	20414
+item	203013	3
+reward	203014	1
+gold	0
+won	6
+gem	75
+percent	100
+category	18
+end
+
+section
+npc	20414
+item	203004	25
+reward	202010	1
+gold	0
+won	5
+gem	1000
+percent	100
+category	18
+end
+
+section
+npc	20414
+item	203005	25
+reward	202000	1
+gold	0
+won	5
+gem	1000
+percent	100
+category	18
+end
+
+section
+npc	20414
+item	203006	25
+reward	202020	1
+gold	0
+won	5
+gem	1000
+percent	100
+category	18
+end
+
+section
+npc	60003
+item	80019	20
+reward	85001	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	15
+end
+
+section
+npc	60003
+item	80019	20
+reward	85005	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	15
+end
+
+section
+npc	60003
+item	80019	20
+reward	85011	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	15
+end
+
+section
+npc	60003
+item	80019	20
+reward	85015	1
+gold	50000000
+won	0
+gem	0
+percent	100
+category	15
+end
+
+section
+npc	60003
+item	80019	1000
+reward	90001	1
+gold	0
+won	5
+gem	0
+percent	100
+category	15
+end
+
+section
+npc	20091
+item	28530	20
+item	28630	20
+item	28730	20
+item	28830	20
+item	28900	20
+item	71016	10
+item	28961	300
+reward	28930	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28531	20
+item	28631	20
+item	28731	20
+item	28831	20
+item	28901	20
+item	71016	10
+item	28961	300
+reward	28931	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28532	20
+item	28632	20
+item	28732	20
+item	28832	20
+item	28902	20
+item	71016	10
+item	28961	300
+reward	28932	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28533	20
+item	28633	20
+item	28733	20
+item	28833	20
+item	28903	20
+item	71016	10
+item	28961	300
+reward	28933	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28534	20
+item	28634	20
+item	28734	20
+item	28834	20
+item	28904	20
+item	71016	10
+item	28961	300
+reward	28934	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28535	20
+item	28635	20
+item	28735	20
+item	28835	20
+item	28905	20
+item	71016	10
+item	28961	300
+reward	28935	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28536	20
+item	28636	20
+item	28736	20
+item	28836	20
+item	28906	20
+item	71016	10
+item	28961	300
+reward	28936	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28537	20
+item	28637	20
+item	28737	20
+item	28837	20
+item	28907	20
+item	71016	10
+item	28961	300
+reward	28937	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28538	20
+item	28638	20
+item	28738	20
+item	28838	20
+item	28908	20
+item	71016	10
+item	28961	300
+reward	28938	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28539	20
+item	28639	20
+item	28739	20
+item	28839	20
+item	28909	20
+item	71016	10
+item	28961	300
+reward	28939	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28540	20
+item	28640	20
+item	28740	20
+item	28840	20
+item	28910	20
+item	71016	10
+item	28961	300
+reward	28940	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28541	20
+item	28641	20
+item	28741	20
+item	28841	20
+item	28911	20
+item	71016	10
+item	28961	300
+reward	28941	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28542	20
+item	28642	20
+item	28742	20
+item	28842	20
+item	28912	20
+item	71016	10
+item	28961	300
+reward	28942	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	28543	20
+item	28643	20
+item	28743	20
+item	28843	20
+item	28913	20
+item	71016	10
+item	28961	300
+reward	28943	1
+gold	0
+won	30
+gem	1000
+percent	40
+category	7
+end
+
+section
+npc	20091
+item	25044	10
+item	25045	10
+reward	203023	1
+gold	0
+won	10
+gem	2000
+percent	100
+category	22
+end
+
+section
+npc	20091
+item	25044	10
+item	25045	10
+reward	203024	1
+gold	0
+won	10
+gem	2000
+percent	100
+category	22
+end
+
+section
+npc	61000
+item	201200	30
+reward	201203	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201201	20
+reward	201204	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201202	10
+reward	201205	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40549	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40550	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40551	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40552	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40553	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40554	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40555	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40556	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40557	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40558	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40559	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40560	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40561	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	40562	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	41990	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	41991	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	41992	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	41993	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	45986	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	45987	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	45988	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	45989	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	85534	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	35
+item	201204	25
+item	201205	15
+item	201213	10
+reward	85535	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	40
+item	201204	30
+item	201205	20
+item	201213	15
+reward	52923	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	40
+item	201204	30
+item	201205	20
+item	201213	15
+reward	52924	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	40
+item	201204	30
+item	201205	20
+item	201213	15
+reward	52925	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	350
+item	201204	250
+item	201205	150
+item	201213	20
+reward	53916	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	40
+item	201204	30
+item	201205	20
+item	201213	15
+reward	53917	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	40
+item	201204	30
+item	201205	20
+item	201213	15
+reward	53918	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	61000
+item	201203	40
+item	201204	30
+item	201205	20
+item	201213	15
+reward	53919	1
+gold	1000000
+won	0
+gem	0
+percent	100
+category	17
+end
+
+section
+npc	20015
+item	50000	100
+item	71001	10
+item	71094	10
+item	203007	3
+reward	50600	1
+gold	0
+won	0
+gem	30
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	71052	30
+item	50000	500
+item	71001	200
+item	71094	200
+item	203007	30
+reward	79015	1
+gold	0
+won	5
+gem	1000
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	71052	10
+item	50000	75
+item	71001	100
+item	71094	100
+item	50513	100
+item	203007	3
+item	50621	5
+reward	79016	1
+gold	500000000
+won	0
+gem	100
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	71052	10
+item	50000	75
+item	71001	100
+item	71094	100
+item	50513	100
+item	203007	3
+item	50639	5
+reward	79016	1
+gold	500000000
+won	0
+gem	100
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	71052	10
+item	50000	75
+item	71001	100
+item	71094	100
+item	50513	100
+item	203007	3
+item	50640	5
+reward	79016	1
+gold	500000000
+won	0
+gem	100
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	71052	10
+item	50000	75
+item	71001	100
+item	71094	100
+item	50513	100
+item	203007	3
+item	50641	5
+reward	79016	1
+gold	500000000
+won	0
+gem	100
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	71052	10
+item	50000	75
+item	71001	100
+item	71094	100
+item	50513	100
+item	203007	3
+item	50642	5
+reward	79016	1
+gold	500000000
+won	0
+gem	100
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	71052	10
+item	50000	75
+item	71001	100
+item	71094	100
+item	50513	100
+item	203007	3
+item	50643	5
+reward	79016	1
+gold	500000000
+won	0
+gem	100
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	71052	10
+item	50000	75
+item	71001	100
+item	71094	100
+item	50513	100
+item	203007	3
+item	50644	5
+reward	79016	1
+gold	500000000
+won	0
+gem	100
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	50601	200
+reward	50621	1
+gold	0
+won	1
+gem	50
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	50602	200
+reward	50639	1
+gold	300000000
+won	0
+gem	50
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	50603	200
+reward	50640	1
+gold	300000000
+won	0
+gem	50
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	50604	200
+reward	50641	1
+gold	300000000
+won	0
+gem	50
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	50605	200
+reward	50642	1
+gold	300000000
+won	0
+gem	50
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	50606	200
+reward	50643	1
+gold	300000000
+won	0
+gem	50
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	50607	200
+reward	50644	1
+gold	300000000
+won	0
+gem	50
+percent	100
+category	19
+end
+
+section
+npc	20015
+item	50646	200
+reward	50647	1
+gold	300000000
+won	0
+gem	50
+percent	100
+category	19
+end
+
+section
+npc	9009
+item	203009	3
+reward	50902	1
+gold	0
+won	0
+gem	100
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27803	1
+reward	80400	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27817	1
+reward	80401	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27810	1
+reward	80402	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27813	1
+reward	80403	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27814	1
+reward	80404	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27805	1
+reward	80405	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27807	1
+reward	80406	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27820	1
+reward	80407	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27804	1
+reward	80408	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27815	1
+item	203009	2
+reward	80418	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27816	1
+item	203009	2
+reward	80419	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27808	1
+item	203009	2
+reward	80420	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	27821	1
+item	203009	2
+reward	80421	1
+gold	0
+won	0
+gem	50
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80400	250
+reward	80409	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80401	250
+reward	80410	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80402	250
+reward	80411	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80403	250
+reward	80412	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80404	250
+reward	80413	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80405	250
+reward	80414	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80406	250
+reward	80415	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80407	250
+reward	80416	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	80408	250
+reward	80417	1
+gold	50000000
+won	0
+gem	10000
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	203009	3
+reward	91201	1
+gold	10000000
+won	0
+gem	0
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	203009	3
+reward	91202	1
+gold	10000000
+won	0
+gem	0
+percent	100
+category	20
+end
+
+section
+npc	9009
+item	203009	3
+reward	91205	1
+gold	10000000
+won	0
+gem	0
+percent	100
+category	20
+end
+
+section
+npc	200300
+item	201217	2
+item	201218	6
+item	201219	2
+item	201220	40
+reward	201221	1
+gold	0
+won	0
+gem	0
+percent	100
+category	23
+end
+
+section
+npc	200300
+item	201222	50
+reward	201232	1
+gold	0
+won	0
+gem	0
+percent	100
+category	23
+end
+
+section
+npc	200300
+item	201222	50
+reward	201230	1
+gold	0
+won	0
+gem	0
+percent	100
+category	23
+end
+
+section
+npc	200300
+item	201222	10
+reward	201223	1
+gold	0
+won	0
+gem	0
+percent	100
+category	23
+end
+
+section
+npc	200300
+item	201222	50
+reward	201225	1
+gold	0
+won	0
+gem	0
+percent	100
+category	23
+end
+
+section
+npc	200300
+item	201222	50
+reward	201226	1
+gold	0
+won	0
+gem	0
+percent	100
+category	23
+end
+
+section
+npc	200300
+item	201222	50
+reward	201227	1
+gold	0
+won	0
+gem	0
+percent	100
+category	23
+end
+
+section
+npc	200300
+item	201222	50
+reward	201228	1
+gold	0
+won	0
+gem	0
+percent	100
+category	23
+end
+
+section
+npc	200300
+item	201222	1500
+reward	41728	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	41729	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	41730	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	41731	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	46024	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	46025	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	46026	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	46027	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	85554	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	85555	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40300	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40301	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40302	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40303	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40304	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40305	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40306	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40307	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40308	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40309	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40310	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40311	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40312	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	40313	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	53928	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	53933	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	52942	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end
+
+section
+npc	200300
+item	201222	1500
+reward	52939	1
+gold	0
+won	0
+gem	0
+percent	100
+category	24
+end

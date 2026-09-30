@@ -1,0 +1,51 @@
+﻿  StdAfx.cpp
+  Deform.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterGrnLib\Deform.cpp(1,10): warning C4653: 'En iyileştirmeler (bir veya daha fazla /Oawstgp[y]) veya hata ayıklama denetimleri (bir veya daha fazla /GZ, /RTCcsu)' derleyici seçeneği önceden derlenmiş üstbilgiyle tutarsız; geçerli komut satırı seçeneği yoksayıldı
+  LODController.cpp
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+  ModelInstance.cpp
+  ModelInstanceCollisionDetection.cpp
+  ModelInstanceModel.cpp
+  ModelInstanceMotion.cpp
+  ModelInstanceRender.cpp
+  ModelInstanceUpdate.cpp
+  Motion.cpp
+  Thing.cpp
+  ThingInstance.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterGrnLib\ModelInstanceUpdate.cpp(11,59): warning C5055: '*' işleci: numaralandırmalar ile kayan nokta türleri arasında kullanım dışı
+  ('/ModelInstanceUpdate.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterGrnLib\ModelInstanceMotion.cpp(101,36): warning C4244: 'bağımsız değişken': 'float' - 'granny_int32x' dönüşümü; veri kaybı olabilir
+  ('/ModelInstanceMotion.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterGrnLib\ModelInstanceMotion.cpp(168,36): warning C4244: 'bağımsız değişken': 'float' - 'granny_int32x' dönüşümü; veri kaybı olabilir
+  ('/ModelInstanceMotion.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/ModelInstanceRender.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('/Thing.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('/Thing.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('/ThingInstance.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('/ThingInstance.cpp' kaynak dosyası derleniyor)
+  
+  Util.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/Material.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(56,25): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('/Material.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\SphereLib\frustum.h(57,22): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('/Material.cpp' kaynak dosyası derleniyor)
+  
+  eterGrnLib.vcxproj -> C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterGrnLib\Release\eterGrnLib.lib

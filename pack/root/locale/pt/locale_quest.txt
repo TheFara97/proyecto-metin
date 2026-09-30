@@ -1,0 +1,464 @@
+1	Criar guilda
+2	Você realmente quer criar uma guilda - 1 Won?
+3	Preço:
+4	Sim
+5	Não
+6	O nome não deve conter caracteres especiais e seu comprimento deve estar entre 3 e 11 caracteres!
+7	Você realmente quer criar uma guilda com este nome?[ENTER]
+8	Você não tem Yang suficiente.
+9	Você já está em uma guilda.
+10	[Sistema] O nome da guilda é inválido (strlen <2 ou >11!)
+11	[Sistema] O nome da guilda é inválido (contém caracteres especiais!)
+12	[Sistema] Guilda não foi criada (o nome já está em uso ou você já é membro da guilda)
+13	A Guilda [Sistema] foi criada.
+14	[Sistema] O jogador já é membro da guilda
+15	[Sistema] O jogador já é um líder de guilda
+16	Mestre: Restringir.
+17	Digite o nome da pessoa que você deseja restringir!
+18	Jogadores como:
+19	não existe!
+20	GM: Verifique.
+21	Tem guilda:
+22	É mestre:
+23	Reino:
+24	NPC do Reino:
+25	Sair da guilda
+26	Você realmente quer sair da guilda?
+27	Você saiu da guilda.
+28	Dissolver guilda
+29	Você realmente quer dissolver a guilda?
+30	A guilda foi dissolvida.
+31	Não é possível criar uma guilda, você já faz parte de uma!
+32	Você realmente quer criar uma guilda - 1 Won?
+33	Você não tem o item necessário para criar uma guilda.
+34	Você não tem dinheiro suficiente para criar uma guilda.
+35	Você não tem um nível de liderança suficiente.
+36	Você deve esperar um pouco mais antes de enviar outro item.
+37	Este item tinha ótima qualidade!
+38	Você completou a missão do biólogo.
+39	Este item tinha uma qualidade muito ruim!
+40	Você não tem o item necessário para pesquisa.
+41	Seu nível está muito baixo.
+42	Você completou a missão de colecionador.
+43	[Caverna de Gelo] Mate 50 monstros e use o selo!
+44	[Caverna de Gelo] Destrua todas as pedras!
+45	[Caverna de Gelo] Mate 3 mini-chefes!
+46	[Caverna de Gelo] Mate o chefe!
+47	Entre na Caverna de Gelo (125+)
+48	Guardião:
+49	Olá!
+50	Eu entendi corretamente? Você quer entrar na Caverna de Gelo?
+51	Sem os itens necessários
+52	e nivelado, não vou deixar você passar.
+53	Número de entradas hoje:
+54	O limite será redefinido em:
+55	%d horas e %d minutos.
+56	0 horas e 0 minutos.
+57	Você precisa de:
+58	Item obrigatório
+59	Você quer continuar?
+60	Claro!
+61	Prefiro não.
+62	O teletransporte não é possível no momento!
+63	Você não tem o item necessário!
+64	[Caverna de Gelo] Bem-vindo à masmorra!
+65	[Caverna de Gelo] Monstros apareceram!
+66	Mate 50 monstros
+67	[Caverna de Gelo] Use o selo para prosseguir!
+68	[Caverna de Gelo] Sucesso!
+69	[Caverna de Gelo] O próximo objetivo aparecerá em 5 segundos!
+70	[Caverna de Gelo] Pedregulhos apareceram!
+71	Destrua 8 pedras
+72	[Caverna de Gelo] Ótimo trabalho!
+73	[Caverna de Gelo] Ainda restante:
+74	pedras!
+75	Mate 3 mini-chefes
+76	[Caverna de Gelo] Você matou com sucesso os mini chefes!
+77	Destrua 4 pedras
+78	[Caverna de Gelo] O chefe apareceu!
+79	Mate o chefe!
+80	[Caverna de Gelo] Você matou o chefe com sucesso!
+81	[Caverna de Gelo] Você será teletransportado para fora da masmorra em um minuto!
+82	|cFFf7dd83%s|r |cFFc5ff8c(Nv. %d)|r concluído |cFFf7dd83Caverna de Gelo |cFFc5ff8c(Nv. 125)|r a tempo: |cFFf7b983%s!
+83	Classificação geral
+84	Classificação de pontos
+85	Baek-Go
+86	Artesanato
+87	Artesanato - pedras da alma
+88	Artesanato - elixires
+89	Crafting - habilidades de autobuff
+90	Classificação, animal de estimação, montaria
+91	Níveis para pontos de conquista
+92	Loja de pontos de conquista
+93	Nível de condenação
+94	Aumentar o nível de condenação (teste)
+95	Coleção de pesca
+96	Comprar
+97	Peixe
+98	Relíquias e fundição
+99	Itens de Páscoa
+100	[Desfiladeiro do Imperador] Mate 50 monstros!
+101	[Desfiladeiro do Imperador] O Servo do Imperador apareceu!
+102	[Desfiladeiro do Imperador] Destrua 6 pedras!
+103	[Desfiladeiro do Imperador] Mate 4 djinns!
+104	[Desfiladeiro do Imperador] O Naga Imperial apareceu!
+105	Entre na Garganta do Imperador (Nv. 160+)
+106	Eu entendi corretamente? Você quer entrar na Garganta do Imperador?
+107	[Desfiladeiro do Imperador] Bem-vindo ao Desfiladeiro do Imperador!
+108	[Desfiladeiro do Imperador] Monstros apareceram!
+109	Mate os monstros no desfiladeiro.
+110	[Desfiladeiro do Imperador] Você matou todos os monstros!
+111	[Desfiladeiro do Imperador] O Servo do Imperador está despertando...
+112	[Desfiladeiro do Imperador] Monstros restantes:
+113	Reduza o HP do servo para menos de 66%
+114	[Desfiladeiro do Imperador] O servo convocou pedras!
+115	Destrua todas as 6 pedras
+116	[Desfiladeiro do Imperador] Todas as pedras foram destruídas!
+117	[Desfiladeiro do Imperador] Continue lutando contra o servo!
+118	Reduza o HP do servo para menos de 33%
+119	[Desfiladeiro do Imperador] Pedregulhos restantes:
+120	[Desfiladeiro do Imperador] O servo está convocando reforços!
+121	Mate 4 gênios.
+122	[Desfiladeiro do Imperador] Você derrotou todos os djinns!
+123	[Desfiladeiro do Imperador] Mate o Servo do Imperador!
+124	Mate o Servo do Imperador
+125	[Desfiladeiro do Imperador] Djinns restantes:
+126	[Desfiladeiro do Imperador] Servo do Imperador!
+127	[Desfiladeiro do Imperador] Mas espere... algo não está certo...
+128	Mate o Naga Imperial!
+129	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r concluído |cFFf7dd83Desfiladeiro do Imperador |cFFc5ff8c(Lv. 150)|r a tempo: |cFFf7b983%s!
+130	Isso não pode ser feito agora.
+131	Você não tem habilidades.
+132	Não pode ser usado em uma masmorra.
+133	Pedra da Alma:
+134	Usar este item removerá
+135	o efeito do Pergaminho de Exorcismo.
+136	Você não tem nenhuma habilidade no nível G.
+137	Selecione a habilidade que deseja treinar:
+138	Deixar
+139	O treinamento de habilidades foi bem-sucedido.
+140	Dragon Souls - período de defeso
+141	Dragon Souls estão temporariamente indisponíveis.
+142	Você já atingiu o limite de hoje.
+143	Você pode iniciar uma nova temporada de coleção Dragon Soul.
+144	Almas de Dragão
+145	Você não pode coletar mais Dragon Souls hoje.
+146	Uma nova temporada de coleção Dragon Soul começou!
+147	Almas de Dragão - refinamento
+148	Aqui você pode refinar suas Dragon Souls.
+149	Alquimia Mítica: Mudança de bônus
+150	Você realmente deseja abrir a janela de alteração de bônus?
+151	Loja da Alma do Dragão
+152	Bem-vindo à Loja Alma do Dragão!
+153	[Santuário do Demônio] Mate 50 monstros e use o selo!
+154	[Santuário do Demônio] Destrua todas as pedras!
+155	[Santuário do Demônio] Mate 3 mini-chefes!
+156	[Santuário do Demônio] Mate o chefe!
+157	Entre no Santuário do Demônio (75+)
+158	Eu entendi corretamente? Você quer entrar no Santuário do Demônio?
+159	[Santuário do Demônio] Bem-vindo à masmorra!
+160	[Santuário do Demônio] Monstros apareceram!
+161	[Santuário do Demônio] Use o selo para prosseguir!
+162	[Santuário do Demônio] Pedregulhos apareceram!
+163	[Santuário do Demônio] Ótimo trabalho!
+164	[Santuário do Demônio] Ainda restante:
+165	[Santuário do Demônio] Você matou com sucesso os mini chefes!
+166	[Santuário do Demônio] O chefe apareceu!
+167	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r concluído |cFFf7dd83Santuário do Demônio |cFFc5ff8c(Lv. 75)|r a tempo: |cFFf7b983%s!
+168	Voltar para a masmorra
+169	Você quer voltar para a masmorra?
+170	[Toca da Rainha Aranha] Mate 50 monstros e depois use o selo!
+171	[Toca da Rainha Aranha] Destrua todas as pedras!
+172	[Toca da Rainha Aranha] Mate 3 mini-chefes!
+173	[Toca da Rainha Aranha] Mate o chefe!
+174	Entre no Covil da Rainha Aranha (50+)
+175	Eu entendi corretamente? Você quer entrar no Covil da Rainha Aranha?
+176	[Toca da Rainha Aranha] Bem-vindo à masmorra!
+177	[Covil da Rainha Aranha] Monstros apareceram!
+178	[Spider Queen's Lair] Use o selo para prosseguir!
+179	[Covil da Rainha Aranha] Pedregulhos apareceram!
+180	Destrua 5 pedras
+181	[Covil da Rainha Aranha] Ótimo trabalho!
+182	[Covil da Rainha Aranha] Ainda restante:
+183	[Spider Queen's Lair] Você matou com sucesso os mini chefes!
+184	[Spider Queen's Lair] O chefe apareceu!
+185	[Spider Queen's Lair] Você será teletransportado para fora da masmorra em 20 segundos!
+186	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r concluído |cFFf7dd83Covil da Rainha Aranha |cFFc5ff8c(Lv. 50)|r a tempo: |cFFf7b983%s!
+187	[Masmorra de Páscoa] Mate 150 monstros e depois use o selo!
+188	[Masmorra de Páscoa] Destrua todas as pedras!
+189	[Masmorra de Páscoa] Mate 3 mini-chefes!
+190	[Masmorra de Páscoa] Mate o chefe!
+191	Masmorra de Páscoa
+192	Eu entendi corretamente? Você quer entrar na Masmorra de Páscoa?
+193	Sem os itens necessários, não vou deixar você passar.
+194	[Masmorra de Páscoa] Bem-vindo à masmorra!
+195	[Masmorra de Páscoa] Monstros apareceram!
+196	Mate 150 monstros
+197	[Masmorra de Páscoa] Use o selo para prosseguir!
+198	[Masmorra de Páscoa] Pedregulhos apareceram!
+199	[Masmorra de Páscoa] Ótimo trabalho!
+200	[Masmorra de Páscoa] Ainda restante:
+201	[Masmorra de Páscoa] Você matou com sucesso os mini chefes!
+202	[Masmorra de Páscoa] O chefe apareceu!
+203	[Masmorra de Páscoa] Você será teletransportado para fora da masmorra em 20 segundos!
+204	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r concluído |cFFf7dd83Masmorra de Páscoa |cFFc5ff8c|r a tempo: |cFFf7b983%s!
+205	Mapa de Páscoa
+206	Bem-vindo!
+207	Você quer se teletransportar para o Mapa da Páscoa?
+208	- Você pode entrar no mapa uma vez a cada 4 horas
+209	- Você pode permanecer no mapa por no máximo 1 hora.
+210	Teleporte
+211	Agora não
+212	O Mapa de Páscoa não está disponível no momento.
+213	Você pode entrar novamente no Mapa de Páscoa em:
+214	hora(s) e
+215	minuto(s).
+216	Seu tempo expirou. Você será teletransportado de volta para a cidade.
+217	Funções bloqueadas:
+218	Troca
+219	Convites de guilda
+220	Convites de amigos
+221	Convites para festas
+222	Pedidos de festa
+223	Sussurrando
+224	[Portões do Inferno] Mate 50 monstros e depois use o selo!
+225	[Portões do Inferno] Destrua todas as pedras!
+226	[Portões do Inferno] Mate 3 mini-chefes!
+227	[Portões do Inferno] Mate os mini-chefes!
+228	[Portões do Inferno] Mate o chefe!
+229	Entre nos Portões do Inferno (150+)
+230	Eu entendi corretamente? Você quer entrar nos Portões do Inferno?
+231	[Portões do Inferno] Bem-vindo à masmorra!
+232	[Portões do Inferno] Monstros apareceram!
+233	[Portões do Inferno] Use o selo para prosseguir!
+234	[Portões do Inferno] Pedregulhos apareceram!
+235	[Portões do Inferno] Ótimo trabalho!
+236	[Portões do Inferno] Ainda resta:
+237	[Portões do Inferno] Você matou com sucesso os mini chefes!
+238	Mate os mini-chefes
+239	[Portões do Inferno] O chefe apareceu!
+240	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r concluído |cFFf7dd83Portões do Inferno |cFFc5ff8c(Lv. 150)|r a tempo: |cFFf7b983%s!
+241	Artesanato - Ferradura
+242	Feitiço de Mudança de Gênero
+243	Não é possível mudar de gênero enquanto estiver usando uma fantasia do sexo oposto!
+244	Você deve estar pelo menos no nível 50!
+245	Não é possível mudar de sexo enquanto você estiver casado!
+246	Não é possível mudar de gênero enquanto estiver transformado!
+247	Você deve esperar 24 horas!
+248	Tempo restante:
+249	Você realmente quer mudar seu gênero?
+250	O gênero foi alterado.
+251	Para concluir o processo, saia e faça login novamente.
+252	[Cupom AP] Isso não pode ser feito agora.
+253	[Cupom AP] Você não tem o cupom necessário!
+254	Os pontos de conquista foram aumentados em
+255	Seu nível é muito alto para estar neste mapa.
+256	Criação de fragmentos
+257	Deokbae:
+258	Esta picareta tem poucos pontos.
+259	Você realmente quer atualizar a picareta?
+260	A atualização falhou...
+261	Parece muito melhor agora.
+262	Infelizmente, a atualização da picareta falhou.
+263	A picareta agora tem um nível inferior.
+264	[Mudança do Império] Isso não pode ser feito agora.
+265	Mudança de Império:
+266	Com este item você pode mudar seu império,
+267	mas não é de graça - tudo tem um preço.
+268	Você pode mudar seu império a cada 3 dias,
+269	e você também precisará de 1.000.000.000 de Yang.
+270	Você quer mudar seu império?
+271	[Mudança de Império] Você não tem 1.000.000.000 de Yang.
+272	[Mudança de Império] O item está desativado no momento.
+273	[Mudança de Império] Você deve deixar sua guilda primeiro.
+274	[Empire Change] Você deve se divorciar primeiro.
+275	Selecione um novo império
+276	Shinsoo
+277	Jinno
+278	Cancelar
+279	[Mudança de Império] Você já está neste império.
+280	[Mudança do Império] O Império mudou! Você deve sair e fazer login novamente para que as alterações tenham efeito.
+281	Desistir
+282	Cancelar
+283	Você desistiu dessa missão
+284	Nem todos os membros do grupo estão neste mapa!
+285	Alguns membros do grupo não possuem o nível exigido:
+286	Você não tem nível suficiente para entrar nesta masmorra!
+287	Alguns jogadores não possuem o passe necessário:
+288	Alguns jogadores não podem ser teletransportados:
+289	Você estava tentando roubar o guarda?...
+290	Número de entrada
+291	%d seg.
+292	%d min. %d seg.
+293	%d h. %d m.
+294	%d d. %d h.
+295	Esta vara de pescar não tem pontos suficientes!
+296	Sua vara de pescar já está no nível máximo!
+297	Você realmente quer atualizar esta vara de pescar?
+298	A atualização falhou.
+299	A atualização da vara de pescar foi bem-sucedida!
+300	Tente novamente mais tarde!
+301	[Selva Antiga] Mate 50 monstros e depois use o selo!
+302	[Selva Antiga] Destrua todas as pedras!
+303	[Selva Antiga] Mate 3 mini-chefes!
+304	[Selva Antiga] Mate os mini-chefes!
+305	[Selva Antiga] Mate o chefe!
+306	Entre na Selva Antiga (175+)
+307	Eu entendi corretamente? Você quer entrar na Selva Antiga?
+308	[Selva Antiga] Bem-vindo à masmorra!
+309	[Selva Antiga] Monstros apareceram!
+310	[Selva Antiga] Use o selo para prosseguir!
+311	[Selva Antiga] Pedregulhos apareceram!
+312	[Selva Antiga] Ótimo trabalho!
+313	[Selva Antiga] Ainda restante:
+314	[Ancient Jungle] Você matou com sucesso os mini chefes!
+315	[Selva Antiga] O chefe apareceu!
+316	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r concluído |cFFf7dd83Selva Antiga |cFFc5ff8c(Lv. 175)|r a tempo: |cFFf7b983%s!
+317	Combinação
+318	Você quer combinar faixas?
+319	Absorção de itens
+320	Você quer absorver uma arma na faixa?
+321	[Ruínas do Escorpião] Mate 50 monstros e depois use o selo!
+322	[Ruínas do Escorpião] Destrua todas as pedras!
+323	[Ruínas do Escorpião] Mate 3 mini-chefes!
+324	[Ruínas do Escorpião] Mate o chefe!
+325	Entre nas Ruínas do Escorpião (100+)
+326	Eu entendi corretamente? Você quer entrar nas Ruínas do Escorpião?
+327	Esta masmorra não pode ser inserida em grupo.
+328	[Ruínas do Escorpião] Bem-vindo à masmorra!
+329	[Ruínas do Escorpião] Monstros apareceram!
+330	[Ruínas do Escorpião] Use o selo para prosseguir!
+331	[Ruínas do Escorpião] Pedregulhos apareceram!
+332	Destrua 6 pedras
+333	[Ruínas do Escorpião] Você matou o chefe com sucesso!
+334	[Ruínas do Escorpião] Você será teletransportado para fora da masmorra em um minuto!
+335	|cFFf7dd83%s|r |cFFc5ff8c(Nv. %d)|r concluído |cFFf7dd83Ruínas do Escorpião |cFFc5ff8c(Nv. 100)|r a tempo: |cFFf7b983%s!
+336	Treinamento de habilidades
+337	Corpo
+338	Mental
+339	Adagas
+340	Arco
+341	WP
+342	BM
+343	Buff
+344	Curador
+345	Selecione habilidades:
+346	Escolha sua especialização.
+347	Escolha mais tarde
+348	Você escolheu sua especialização!
+349	Seleção de fantasias:
+350	Selecione o tipo de fantasia:
+351	Traje JxJ
+352	Traje PvM
+353	Você recebeu uma fantasia PvP!
+354	Selecione uma arma fantasia PvP:
+355	Não há caminho de volta após a seleção.
+356	Você recebeu uma fantasia PvM!
+357	Selecione uma arma fantasia PvM:
+358	Seleção cancelada.
+359	Selecione a arma fantasia:
+360	Tente novamente em 10 segundos.
+361	Você não tem espaço suficiente em seu inventário.
+362	Artigo inválido.
+363	Você pode treinar a habilidade novamente em
+364	minutos ou use um Pergaminho de Exorcismo.
+365	Você pode treinar a habilidade novamente em 8 horas.
+366	O treinamento de habilidades falhou.
+367	O treinamento de habilidades não é 100%.
+368	Redefinição de habilidade
+369	Bem-vindo,
+370	Se você quiser redefinir suas habilidades
+371	e escolher uma nova especialização, isso lhe custará alguma coisa.
+372	Preço: 1.000.000.000 Yang.
+373	Você quer redefinir suas habilidades?
+374	Esta mudança não pode ser desfeita!
+375	[Velha Senhora] Você não tem 1.000.000.000 de Yang.
+376	[Velha Senhora] Você não pode fazer isso agora.
+377	[Velha Senhora] Você não tem habilidades.
+378	Fantasias de Dia dos Namorados de graça!
+379	Olá!
+380	Aqui estão seus itens gratuitos da Loja de Itens para o Dia dos Namorados!
+381	Eles contêm bônus completos e duram 3 dias.
+382	OK
+383	Agora não
+384	Armazém
+385	Loja de itens
+386	[Navio Fantasma] Destrua a pedra
+387	[Navio Fantasma] Mate todos os monstros (em uma montaria)
+388	[Navio Fantasma] Destrua a pedra no chão.
+389	[Navio Fantasma] Mate todos os monstros
+390	[Navio Fantasma] Destrua todas as pedras!
+391	[Navio Fantasma] Mate o chefe!
+392	[Navio Fantasma] Destrua o baú do capitão!
+393	Entre no Navio Fantasma (Nv. 149)
+394	Eu entendi corretamente? Você quer entrar no Navio Fantasma?
+395	- Festa (2 jogadores)
+396	[Navio Fantasma] Você deve ter pelo menos 1 outro jogador por perto.
+397	[Navio Fantasma] Você não é o líder do grupo!
+398	[Navio Fantasma] Você não tem nível suficiente!
+399	[Navio Fantasma] Seu nível é muito alto!
+400	[Navio Fantasma] O líder não tem passes suficientes! (x2)
+401	[Navio Fantasma] Bem-vindo à masmorra!
+402	Você não conseguiu completar a masmorra a tempo. Todos serão teletransportados para fora da masmorra!
+403	[Navio Fantasma] Uma pedra apareceu!
+404	[Navio Fantasma] Um baú apareceu!
+405	[Navio Fantasma] Você destruiu o baú!
+406	[Navio Fantasma] Todos serão teletransportados para fora da masmorra em um minuto!
+407	|cFFf7dd83%s|r |cFFc5ff8c(Nv. %d)|r concluído |cFFf7dd83Navio Fantasma (I) |cFFc5ff8c(Nv. 149)|r a tempo: |cFFf7b9
+408	Entre no Navio Fantasma (Nv. 200)
+409	Eu entendi corretamente? Você quer entrar no Navio Fantasma?
+410	[Navio Fantasma] Você não tem nível suficiente!
+411	[Navio Fantasma] Seu nível é muito alto!
+412	[Navio Fantasma] O líder não tem passes suficientes! (x2)
+413	[Navio Fantasma] Você matou o chefe com sucesso!
+414	|cFFf7dd83%s|r |cFFc5ff8c(Nv. %d)|r concluído |cFFf7dd83Navio Fantasma (II) |cFFc5ff8c(Nv. 200)|r a tempo: |cFFf7b98
+415	[Montanhas Wukong] Mate 50 monstros e use o selo!
+416	[Montanhas Wukong] Destrua todas as pedras!
+417	[Montanhas Wukong] Mate 3 mini-chefes!
+418	Entre nas montanhas Wukong (75+)
+419	Eu entendi corretamente? Você quer entrar nas montanhas Wukong?
+420	[Montanhas Wukong] Bem-vindo à masmorra!
+421	[Montanhas Wukong] Monstros apareceram!
+422	[Montanhas Wukong] Use o selo para prosseguir!
+423	[Montanhas Wukong] Pedregulhos apareceram!
+424	[Montanhas Wukong] Você matou com sucesso os mini chefes!
+425	[Montanhas Wukong] Você matou o chefe com sucesso!
+426	[Montanhas Wukong] Você será teletransportado para fora da masmorra em um minuto!
+427	|cFFf7dd83%s|r |cFFc5ff8c(Lv. %d)|r concluído |cFFf7dd83Montanhas Wukong |cFFc5ff8c(Lv. 75)|r a tempo: |cFFf7b983%s!
+428	Artesanato
+429	Artesanato - Pedras da Alma
+430	Artesanato - Poções
+431	Artesanato - Habilidades de Autobuff
+432	Crafting - Classificação, animais de estimação, montarias
+433	Níveis de realização
+434	Loja - Pontos de conquista
+435	Coleção de peixes
+436	Loja
+437	Peixes
+438	Relíquias e derretimentos
+439	Escolha o traje:
+440	Escolha o tipo de fantasia:
+441	Fantasia JxJ
+442	Traje PvM
+443	Escolha a arma fantasia:
+444	Esta ação é irreversível.
+445	Você obteve arma fantasia
+446	Cancelado.
+447	Escolha a arma fantasia:
+448	Asas JxJ
+449	Asas PvM
+450	Escolha asas:
+451	Você obteve asas, animal de estimação e montaria!
+452	Tente novamente em 10 segundos.
+453	Isso não pode ser feito na masmorra.
+454	Você não tem espaço suficiente no inventário.
+455	Easter Valley
+456	You can enter the Easter Valley again in:
+457	(Character restriction)
+458	Do you want to teleport to the Easter Valley?
+459	 - You can enter the map once every 6 hours (CHAR + HWID)
+460	 - Cooldown starts from the moment you enter the map
+461	 - You can stay in the map for a maximum of 30 minutes
+462	The Easter Valley is currently unavailable.
+463	(HWID restriction)
+464	Easter Crafting

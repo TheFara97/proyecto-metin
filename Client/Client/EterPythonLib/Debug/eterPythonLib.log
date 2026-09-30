@@ -1,0 +1,17 @@
+﻿  StdAfx.cpp
+  PythonGraphic.cpp
+  PythonGraphicImageModule.cpp
+  PythonGraphicModule.cpp
+  PythonGraphicTextModule.cpp
+  PythonGraphicThingModule.cpp
+  PythonGridSlotWindow.cpp
+  PythonSlotWindow.cpp
+  PythonWindow.cpp
+  PythonWindowManager.cpp
+  PythonWindowManagerModule.cpp
+F:\Elvion\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /PythonGraphic.cpp)
+  
+  PythonOfflineShopGrid.cpp
+F:\Elvion\Elvion-core\Client\eterPythonLib\PythonOfflineShopGrid.cpp(1,10): warning C4652: Parametr kompilátoru Generovat informace o prohlížeči není konzistentní s předkompilovanou hlavičkou; aktuální parametr příkazového řádku přepíše ten, který je definovaný v předkompilované hlavičce.
+  eterPythonLib.vcxproj -> F:\Elvion\Elvion-core\Client\eterPythonLib\Debug\eterPythonLib.lib

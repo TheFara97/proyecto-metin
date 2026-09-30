@@ -1,0 +1,45 @@
+ASLAN_BUFF_TITLE_MAIN_BOARD	Autobuff
+ASLAN_BUFF_TITLE_CREATE_BOARD	Autobuff
+ASLAN_BUFF_TITLE_LEARN_GRANDMASTER	Szkolenie Umiejêtnoœci
+ASLAN_BUFF_TITLE_RESET_SKILL	Reset Umiejêtnoœci
+ASLAN_BUFF_TITLE_CHANGE_NAME	Zmieñ nazwê
+ASLAN_BUFF_BUTTON_SUMMON	Przywo³aj
+ASLAN_BUFF_BUTTON_UNSUMMON	Odwo³aj
+ASLAN_BUFF_BUTTON_EXPORT	Eksportuj
+ASLAN_BUFF_TITLE_SKILLS	Umiejêtnoœci
+ASLAN_BUFF_SKILLPOINTS	Punkty umiejêtnoœci: %d
+ASLAN_BUFF_INTELLIGENCE	INT: %d
+ASLAN_BUFF_TITLE_IMPROVE_CHANGE	Zmiana i rozwój
+ASLAN_BUFF_BUTTON_TEXT_USE	U¿yj
+ASLAN_BUFF_INPUT_NAME_TITLE	Wpisz nazwê
+ASLAN_BUFF_CHANGE_NAME	Zmieñ nazwê
+ASLAN_BUFF_CHANGE_SEX	Change sex
+ASLAN_BUFF_RESET_SKILL	Resetuj umiejêtnoœci
+ASLAN_BUFF_HOVER_EXP_INFO	Zkušenosti: %s / %s (%.2f%%)
+ASLAN_BUFF_CHAT_INFO_NAME_IS_EMPTY	Musisz wpisaæ nazwê.
+ASLAN_BUFF_SELECT_SKILL	Wybierz umiejêtnoœæ
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_1	Powodzenie!
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_2	Umiejêtnoœæ %s zosta³a zwiêkszona! (Powodzenie)
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_1	Umiejetnoœæ %s nie zosta³a zwiêkszona! (Niepowodzenie)
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_2	Odliczono Ci tylko po³owê kosztów.
+ASLAN_BUFF_POPUP_GRANDMASTER_NO_SKILLS	Nie posiadasz umiejêtnoœci na poziomie G. (GrandMaster)
+ASLAN_BUFF_POPUP_NOT_ACTIVE_SHAMAN	Nie posiadasz aktywnego pomocnika.
+ASLAN_BUFF_POPUP_RESET_SKILL_1	Umiejêtnoœæ %s dezaktywowana.
+ASLAN_BUFF_POPUP_RESET_SKILL_2	Umiejêtnoœæ %s aktywowana.
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_1	Jesteœ pewien, ¿e chcesz eksportowaæ pomocnika?
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_2	Koszt eksportu wynosi %s.
+ASLAN_BUFF_QUESTION_BEFORE_CHANGE_SEX	Czy na pewno chcesz zmieniæ p³eæ pomocnika?
+ASLAN_BUFF_CHAT_NO_SKILL_ITEM	Brak odpowiedniej ksiêgi lub kamienia.
+ASLAN_BUFF_CHAT_NO_CHANGE_NAME_ITEM	Musisz posiadaæ Olejek Nazwy [Buff], aby zmieniæ nazwê pomocnika.
+ASLAN_BUFF_CHAT_NO_CHANGE_SEX_ITEM	Musisz posiadaæ Zaklêcie Modyfikacji [Buff], aby zmieniæ nazwê pomocnika.
+ASLAN_BUFF_CHAT_NO_RESET_SKILL_ITEM	Musisz posiadaæ Zwój Powrotu Um. [Buff], aby zresetowaæ umiejêtnoœæ pomocnika.
+ASLAN_BUFF_SKILLBOARD_COST	Koszt: %s
+ASLAN_BUFF_SKILLBOARD_COST_EMPTY	Koszt: ----
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS	Punkty umiejêtnoœci: %d
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS_EMPTY	Punkty umiejêtnoœci: ----
+ASLAN_BUFF_TOOLTIP_WITH_SOCKET_ZERO	Pieczêæ nie zosta³a jeszcze u¿yta. B¹dŸ pierwsz¹ osob¹, która uwolni z niej pomocnika.
+ASLAN_BUFF_TOOLTIP_MALE	Mê¿czyzna
+ASLAN_BUFF_TOOLTIP_FEMALE	Kobieta
+ASLAN_BUFF_TOOLTIP_LEVEL	Level: %s
+ASLAN_BUFF_TOOLTIP_SKILLPOINTS	Punkty umiejêtnoœci: %s
+ASLAN_BUFF_TOOLTIP_INTELLIGENCE	Inteligencja: %s

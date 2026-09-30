@@ -1,0 +1,16 @@
+﻿  StdAfx.cpp
+  PythonGridSlotWindow.cpp
+  PythonOfflineShopGrid.cpp
+  PythonSlotWindow.cpp
+  PythonWindow.cpp
+  PythonWindowManager.cpp
+  PythonWindowManagerModule.cpp
+  PythonGraphic.cpp
+  PythonGraphicImageModule.cpp
+  PythonGraphicModule.cpp
+  PythonGraphicTextModule.cpp
+  PythonGraphicThingModule.cpp
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterLib\StateManager.h(167,13): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+  ('/PythonGraphic.cpp' kaynak dosyası derleniyor)
+  
+  eterPythonLib.vcxproj -> C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\eterPythonLib\Release\eterPythonLib.lib

@@ -1,0 +1,69 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Content List:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. List of all events
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_boss.tga; X=10; Y=138]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=110]Double Drop Boss:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 30 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*Chance that the drop from bosses will be doubled
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_stone.tga; X=10; Y=237]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Double Drop Metinstones:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 30 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*Chance that the drop from metinstones will be doubled
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_double_ap.tga; X=10; Y=334]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Double Achievement Points:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 30 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*Achievement points obtained by killing bosses and metinstones are doubled
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_double_ore.tga; X=10; Y=430]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Double Ore Drop:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 30 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*Ores obtained by mining veins are doubled
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_average_damage.tga; X=10; Y=530]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Chance to Switch 63% Average Damage:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 15 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*When this event is active, you have a chance to roll 63% average damage
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*Also the chance for higher average damage rolls is increased
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_rare.tga; X=10; Y=636]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Higher 6/7 Rolls:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 15 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*When this event is active you always get maximum 6/7 bonus values
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_relics.tga; X=10; Y=736]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Higher Chance For Tier 3 Relics:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 15 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*When this event is active, you have higher chance for tier 3 relics when switching relics
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_star.tga; X=10; Y=832]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Higher Chance For Fish Star:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 30 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*When this event is active, you have higher chance to drop Fish Star while fishing
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_mining_chest.tga; X=10; Y=928]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Chance to Drop Mining Chest:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 30 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*When this event is active, you have a chance to drop mining chest while mining
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_moonlight.tga; X=10; Y=1030]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Moonlight Chests:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 30 minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*When this event is active, you have a chance to drop Moonlight Chest
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*Drops only from mobs which are +-25 levels from you character
+
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/icon_event_exp.tga; X=10; Y=1135]
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=35;X_PADDING=110]Experience Event:
+[Y_PADDING=8;X_PADDING = 110;FONT_SIZE=13]*Average event duration: 2 hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 110;FONT_SIZE=13]*When this event is active, the experience you gain is increased by 100%

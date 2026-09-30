@@ -1,0 +1,26 @@
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+
+[IMG=d:/ymir work/ui/game/wiki/dungeons/dungeons_bg.png;x = -1;y = 0;anchor_name = section1]
+[IMG=d:/ymir work/ui/game/wiki/dungeons/find_more.png;x = 220;y = 150;anchor_name = section1;hyperlink=mvnum?693]
+[model=693;w = 154;h = 145;x = 400;y = 14;anchor_name = section1]
+
+[Y_PADDING = -22;X_PADDING = 275;COLOR=0xad9985;OUTLINE;FONT_SIZE=14] Drop:
+[Y_PADDING = -14;X_PADDING = 38;COLOR=0xd99259;OUTLINE] Information:
+[Y_PADDING = 16;X_PADDING = 38;COLOR=0xdac0a3] Dungeon Limit: 70
+[Y_PADDING = 16;X_PADDING = 38;COLOR=0xdac0a3] Race: Orc
+[Y_PADDING = 16;X_PADDING = 38;COLOR=0xdac0a3] Element: None
+[Y_PADDING = 16;X_PADDING = 38;COLOR=0xdac0a3] Level required: 50 - 75
+
+[item=80007;count=10;anchor_name = section1;x = 197;y = 52]
+[item=80006;count=10;anchor_name = section1;x = 244;y = 52]
+[item=80005;count=10;anchor_name = section1;x = 291;y = 52]
+[item=90058;count=12;anchor_name = section1;x = 338;y = 52]
+[item=27994;anchor_name = section1;x = 197;y = 99]
+[item=27993;anchor_name = section1;x = 244;y = 99]
+[item=27992;anchor_name = section1;x = 291;y = 99]
+
+[Y_PADDING = 60;X_PADDING=135;COLOR=0xd99259;OUTLINE;FONT_SIZE=20;CENTER_ALIGN]~ Stages ~
+[Y_PADDING = 10;X_PADDING=135;COLOR=0xdac0a3;OUTLINE;FONT_SIZE=15;CENTER_ALIGN]1. Kill 60 Orc Warriors and collect War Relics
+[Y_PADDING = 10;X_PADDING=135;COLOR=0xdac0a3;OUTLINE;FONT_SIZE=15;CENTER_ALIGN]2. Use 3 Orc War Relics on the Obelisk to charge it
+[Y_PADDING = 10;X_PADDING=135;COLOR=0xdac0a3;OUTLINE;FONT_SIZE=15;CENTER_ALIGN]3. Destroy 4 War Stones to weaken the Orc Warlord, then defeat him
+[Y_PADDING = 10;X_PADDING=135;COLOR=0xdac0a3;OUTLINE;FONT_SIZE=15;CENTER_ALIGN]4. Defeat the Orc Chief

@@ -1,0 +1,5 @@
+﻿  ActorInstanceCollisionDetection.cpp
+F:\Elvion\Elvion-core\Client\eterlib\StateManager.h(167,13): warning C4101: y: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /ActorInstanceCollisionDetection.cpp)
+  
+  gamelib.vcxproj -> F:\Elvion\Elvion-core\Client\GameLib\Debug\gamelib.lib

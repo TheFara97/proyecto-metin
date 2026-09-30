@@ -1,0 +1,2224 @@
+1	Wkrótce wszyscy zostan¹ teleportowani do miasta.
+2	Ten element nie istnieje.
+3	Skrzynia nagle eksplodowa³a! Straci³eœ punkty zdrowia (HP).
+4	[Gildia] Sprzeda¿ terytorium gildii nie powiod³a siê.
+5	[Gildia] Sprzeda¿ terytorium gildii nie mo¿e zostaæ zakoñczona, poniewa¿ w skarbcu gildii nie ma wystarczaj¹cej iloœci Yang.
+6	[Gildia] Nie mo¿esz opuœciæ gildii, gdy aktywne jest g³osowanie.
+7	[Gildia] Gracz jest offline lub na innej mapie.
+8	[Gildia] Nie mo¿esz g³osowaæ na wojowników, gdy gildia jest w stanie wojny.
+9	[Gildia] Nie mo¿esz rozpocz¹æ kolejnego g³osowania, gdy jedno ju¿ trwa.
+10	[Gildia] Ta akcja nie jest mo¿liwa podczas wojny.
+11	[Gildia] Nie mo¿na ulepszaæ, gdy skarbiec gildii jest pe³ny.
+12	[Gildia] Nie mo¿esz korzystaæ z magazynu gildii, gdy aktywne jest g³osowanie.
+13	Jeœli wdychasz zielony dym wydobywaj¹cy siê z klatki piersiowej, trucizna rozprzestrzeni siê po twoim ciele!
+14	[Gildia] Nie mo¿esz wykonaæ tej akcji, gdy magazyn gildii jest otwarty.
+15	[Gildia] Nie mo¿na zmieniæ lidera gildii podczas wojny.
+16	[Gildia] %s u¿y³a %s.
+17	[Gildia] Nie masz uprawnieñ do korzystania z umiejêtnoœci gildii.
+18	[Gildia] Jesteœ w trybie obserwatora, poniewa¿ wyczerpa³eœ ju¿ limit odrodzenia.
+19	[Gildia] Proszê o sprawdzenie cz³onków i dowódców.
+20	[Gildia] Proszê o sprawdzenie wrogich cz³onków i dowódców.
+21	[Gildia] Niektórzy cz³onkowie s¹ offline lub na innej mapie.
+22	[Gildia] Niektórzy wrogowie s¹ offline lub na innej mapie.
+23	[Gildia] Nie ma wystarczaj¹cej liczby uczestników online.
+24	Otrzyma³eœ %s, %d sztuk
+25	[Gildia] Nie mo¿esz wykonaæ tej akcji podczas wojny.
+26	[Gildia] Mo¿na u¿yæ w ci¹gu 10 sekund.
+27	[Gildia] Twoja postaæ musi mieæ co najmniej 40 poziom, aby zostaæ dowódc¹.
+28	[Gildia] %s wygra³.
+29	[Gildia] Remis
+30	[Gildia] Nie mo¿esz usun¹æ nikogo z gildii podczas wojny.
+31	[Gildia] Nie mo¿esz rozpocz¹æ g³osowania nad usuniêciem lidera gildii.
+32	[Gildia] Nie mo¿esz rozpocz¹æ g³osowania nad usuniêciem siê z gildii.
+33	[Gildia] Do przeniesienia gildii potrzebny jest Pierœcieñ Sukcesji.
+34	[Gildia] Nie ma wystarczaj¹cej iloœci miejsca w skarbcu gildii.
+35	W skrzyni znajduje siê %s.
+36	[Gildia] Po skorzystaniu z magazynu gildii nale¿y odczekaæ co najmniej 12 godzin przed opuszczeniem gildii.
+37	Gildia [%s]! Pojawi³ siê ostateczny cel. Zniszcz wszystkie cele, aby wygraæ tê wojnê!
+38	[Gildia] Wojna koñczy siê za 5 minut.
+39	[Gildia] Wojna koñczy siê za 1 minutê.
+40	[Gildia] Nie ma gildii z og³oszeniem.
+41	[Gildia] ¯adna gildia nie pokona³a jeszcze smoka.
+42	[Gildia] Aktualizacja rang.
+43	[Gildia] Rozpoczyna siê walka z Królow¹ Smoków Meley.
+44	[Gildia] Bramy do legowiska Meley s¹ otwarte. Limit czasu w labiryncie wynosi jedn¹ godzinê.
+45	[Gildia] Pokona³eœ Królow¹ Smoków Meley!
+46	Wygl¹da na to, ¿e klucz nie pasuje do zamka.
+47	[Gildia] Wymagany czas: %d min. %d sek.
+48	[Gildia] Dla w³asnego bezpieczeñstwa zostaniesz teleportowany z gniazda za 10 minut.
+49	[Gildia] Czas min¹³.
+50	[Gildia] Bramy do legowiska Meleya s¹ ponownie zamkniête.
+51	[Gildia] Dla w³asnego bezpieczeñstwa zostaniesz teleportowany z gniazda za 1 minutê.
+52	[Gildia] Legowisko zostanie zamkniête za %d minut.
+53	[Gildia] Przerwa³eœ walkê w legowisku Meley.
+54	[Gildia] Nie mo¿esz wypowiedzieæ wojny walcz¹c w smoczej jaskini.
+55	[Gildia] Wroga gildia walczy obecnie w smoczej jaskini.
+56	Nic nie otrzyma³eœ.
+57	[Gildia] Pomyœlna rejestracja w legowisku Meley.
+58	[Gildia] OdwiedŸ smoczego stra¿nika Dolnarra, aby wejœæ do smoczej jaskini.
+59	Rozpoczê³o siê Letnie Wydarzenie. OdwiedŸ lato w mieœcie. Podaruje ci smaczne przek¹ski.
+60	Letnie wydarzenie wkrótce siê zakoñczy. Lato zapewni miastu smakowity poczêstunek na kolejne 7 dni.
+61	Efekt jest ju¿ aktywny.
+62	[Gildia] Mo¿esz dokonaæ jednej transakcji co 10 sekund.
+63	[Gildia] Skarbiec gildii jest u¿ywany przez innego cz³onka.
+64	[Gildia] Gildia [%s] przegra³a wojnê z gildi¹ [%s].
+65	Osi¹gniêto limit konta. Nie mo¿esz otworzyæ tej skrzyni.
+66	[Gildia] Twoja gildia nie ma wystarczaj¹cej iloœci Yang na swoim koncie. Wp³aæ wiêcej Yang i spróbuj ponownie.
+67	Nie masz wystarczaj¹cej iloœci Yang, aby ulepszyæ ten przedmiot.
+68	[Gildia] Obiekt zosta³ pomyœlnie przeniesiony.
+69	[Gildia] Nie mo¿esz u¿ywaæ tego emblematu gildii. Spróbuj ponownie.
+70	[Transformacja] Nie mo¿esz u¿yæ przemienionego przedmiotu, poniewa¿ jest on przeznaczony dla p³ci przeciwnej.
+71	[Transformacja] Nie mo¿esz u¿yæ przekszta³conego przedmiotu, poniewa¿ jest on przeznaczony dla innego typu postaci.
+72	[Karta potwora] Poziom misji: %d. Pokona³eœ potwora: %s.
+73	[Karta potwora] Ukoñczy³eœ misjê. Teraz zbierz Kartê Potwora.
+74	[Karta potwora] Nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+75	[Karta potwora] [%s] Ukoñczono aktualizacjê poziomu.
+76	[Karta potwora] Mo¿esz teraz ogl¹daæ animacje ruchu potwora.
+77	[Karta potwora] Mo¿esz teraz przemieniæ siê w tego potwora.
+78	Obni¿y³eœ poziom swoich umiejêtnoœci.
+79	[Karta potwora] Mo¿esz teraz teleportowaæ siê do lokalizacji potwora.
+80	[Gildia] Jako uczestnik nie mo¿esz obserwowaæ wojny swojej w³asnej gildii.
+81	[Gildia] Gildia ustali³a minimalny poziom wymagany dla kandydatów (min. poziom: %d).
+82	[Gildia] Mo¿esz dokonaæ jednej transakcji co 10 sekund.
+83	[Gildia] Gildia %s zakupi³a terytorium.
+84	[Gildia] Bitwa o Œwi¹tyniê Smoka odbywa siê na innym kanale.
+85	[Gildia] Serwer logów jest aktualnie w trakcie konserwacji.
+86	[Gildia] Serwer logów jest aktualnie w trakcie konserwacji.
+87	[Gildia] Ziemia nale¿y do innego gracza.
+88	Nie mo¿esz obni¿yæ poziomu swoich umiejêtnoœci.
+89	Aby wejœæ do strefy bitwy, musisz mieæ co najmniej poziom %d.
+90	Nie mo¿esz wejœæ do strefy bitwy z tej mapy.
+91	Musisz zamkn¹æ wszystkie okna przed wejœciem lub opuszczeniem strefy bitwy.
+92	Nie mo¿esz opuœciæ strefy bitwy bêd¹c martwym.
+93	Wejœcie w strefê bitwy. Proszê czekaæ.
+94	Opuszczenie strefy bitwy. Proszê czekaæ.
+95	Nastêpny wpis bêdzie dostêpny za %d minut.
+96	Nastêpny wpis bêdzie dostêpny za %d sekund.
+97	Nie mo¿esz tutaj u¿yæ tego przedmiotu.
+98	Nie mo¿esz tutaj u¿yæ tego przedmiotu.
+99	Efekt jest ju¿ aktywny.
+100	Aby uzyskaæ natychmiastowe odrodzenie, potrzebujesz przedmiotu Reinkarnacja.
+101	Strefa bitwy jest ju¿ otwarta.
+102	Strefa bitwy jest teraz zamkniêta.
+103	Strefa bitwy zostanie otwarta za %d minut.
+104	Strefa bitwy zostanie zamkniêta za %d minut.
+105	Wydarzenie jest aktywne, wiêc otrzymasz podwójne punkty.
+106	Wydarzenie w strefie bitwy dobieg³o koñca.
+107	Zg³osi³eœ swoj¹ ucieczkê ze strefy bitwy i mo¿esz j¹ opuœciæ w ci¹gu %d minut.
+108	Gracz zg³osi³ swoj¹ ucieczkê. Zabij ich, aby zdobyæ wiêcej punktów.
+109	Twój raport o ucieczce zosta³ anulowany.
+110	Nie mo¿esz otrzymaæ nagrody, poniewa¿ Twój ekwipunek jest pe³ny.
+111	Tego przedmiotu mo¿na u¿ywaæ wy³¹cznie w kafejce internetowej.
+112	Twój raport o ucieczce jest aktywny.
+113	W tej chwili nie mo¿esz wejœæ do strefy bitwy.
+114	Dobra robota! Za osi¹gniêcie rangi %d w rankingu strefy bitwy otrzymasz specjalny medal.
+115	Obecnie masz %d punktów. Twój ³¹czny wynik to %d.
+116	Nie mo¿esz u¿yæ tego przedmiotu podczas ucieczki ze strefy bitwy.
+117	Nie mo¿esz wypowiedzieæ wojny w strefie bitwy.
+118	Ta akcja nie jest mo¿liwa na tej mapie.
+119	Pozosta³a kwota: %d
+120	[Gildia] Skarbiec gildii jest na maksymalnym poziomie.
+121	[Gildia] Nie mo¿esz wyp³aciæ ¿adnego Yang, poniewa¿ masz wiêcej ni¿ 2 biliony Yang.
+122	To przekracza limit.
+123	[Gildia] Nie mo¿esz wycofaæ Yang, gdy otwarte jest inne okno.
+124	Wypowiedzenie wojny gildii wygaœnie za 3 minuty.
+125	Wejdziesz do strefy bitwy za %d sekund.
+126	Opuœcisz strefê bitwy za %d sekund.
+127	Straci³eœ %d punktów. Pozosta³e punkty: %d.
+128	Niestety, nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+129	Za tego gracza nie otrzymasz ¿adnych punktów.
+130	Zg³osi³eœ swoje opuszczenie strefy bitwy i mo¿esz j¹ opuœciæ w ci¹gu %d sekund.
+131	Wydarzenie rozpoczê³o siê!
+132	U¿ywane ciastko ksiê¿ycowe lub nasiona.
+133	Aby kontynuowaæ, usuñ %s ze swojej listy znajomych.
+134	%s jest teraz zablokowany.
+135	%s nie jest ju¿ zablokowany.
+136	%s jest ju¿ zablokowany.
+137	Nie mo¿esz blokowaæ wspó³ma³¿onka.
+138	Aby kontynuowaæ, odblokuj %s.
+139	%s Ciê zablokowa³.
+140	Pojawi³ siê potwór z bie¿¹cego wydarzenia.
+141	Nie masz wystarczaj¹cej liczby flag rocznicowych.
+142	Wydarzenie rocznicowe rozpoczête!
+143	Nie mo¿esz nosiæ obr¹czki, jeœli nie jesteœ ¿onaty.
+144	Wydarzenie rocznicowe zakoñczy siê za %d minut.
+145	Nie mo¿esz u¿ywaæ tego przedmiotu, maj¹c na sobie inny kostium.
+146	Nie mo¿esz u¿ywaæ tego przedmiotu, maj¹c na sobie strój œlubny lub smoking.
+147	Nie mo¿esz tego zrobiæ, gdy przedmiot jest u¿ywany.
+148	[Gildia] Nie mo¿esz wp³aciæ ani wyp³aciæ Yang ze skarbca gildii, gdy otwarte jest inne okno.
+149	[Gildia] Nie mo¿esz wykonaæ tej akcji podczas deponowania lub wycofywania Yang ze skarbca gildii.
+150	[Guild] The deposit/withdraw Yang window is already open.
+151	[Gildia] Nie mo¿esz zdeponowaæ ani wyp³aciæ Yang ze skarbca gildii, gdy masz przywo³anego zwierzaka.
+152	%s pojawi siê tutaj: %s
+153	Dolina Seungryong
+154	Z tej lokalizacji nie mo¿na korzystaæ z Detektora zdarzeñ.
+155	Góra Sohan
+156	Pustynia Yongbi
+157	Doyyumhwan
+158	Wydarzenie Ramadan rozpoczê³o siê!
+159	Wydarzenie Ramadan dobieg³o koñca.
+160	Nie mo¿na zmieniaæ kana³ów.
+161	Proszê czekaæ. Zmiana kana³u...
+162	Ten przedmiot nie mo¿e zostaæ wch³oniêty.
+163	Tego elementu nie mo¿na przekszta³ciæ.
+164	Nie mo¿na u¿yæ przedmiotu zaklêcia na tym przedmiocie.
+165	Detektor Zdarzeñ znikn¹³ w magicznym blasku.
+166	Przedmiot ulepszaj¹cy nie mo¿e zostaæ u¿yty na tym przedmiocie.
+167	Tym przedmiotem mo¿na handlowaæ tylko na tej samej mapie.
+168	Nie mo¿na teraz po³¹czyæ siê z tym kana³em. Spróbuj ponownie póŸniej.
+169	[Impreza] Nie mo¿esz tego zrobiæ, gdy aktywne jest dopasowywanie dru¿yny.
+170	[Gaya] Nie masz wystarczaj¹cej liczby Lœni¹cych Kamieni.
+171	[Gaya] Nie masz wystarczaj¹cej iloœci Yang, aby wyci¹æ Lœni¹ce Kamienie.
+172	[Gaya] Masz ju¿ maksymaln¹ iloœæ Gai.
+173	[Gaya] Ciêcie siê powiod³o.
+174	[Gaya] Ciêcie nie powiod³o siê.
+175	[Gaya] Lista przedmiotów zosta³a odœwie¿ona.
+176	Detektor zdarzeñ znikn¹³.
+177	[Gaya] Nie masz wystarczaj¹cej iloœci Gai.
+178	[Gaya] Nie mo¿esz kupiæ tego przedmiotu.
+179	[Gaya] Nie ma ju¿ miejsca w ekwipunku.
+180	[Gaya] Nie masz wystarczaj¹cej liczby przedmiotów, aby odœwie¿yæ rynek Gaya.
+181	[Gaya] Najpierw otwórz targ Gaya.
+182	[Gaya] Nie mo¿esz odblokowaæ kolejnego miejsca na rynku Gaya.
+183	[Gaya] Nie masz wystarczaj¹cej iloœci %s. Potrzebujesz %d wiêcej, aby odblokowaæ kolejne miejsce.
+184	[Gaya] Rynek Gaya jest obecnie niedostêpny.
+185	[Gaya] Targ Gaya jest ju¿ otwarty.
+186	[Gaya] Mo¿esz otworzyæ Gaya Market tylko wtedy, gdy zamkniesz wszystkie pozosta³e okna.
+187	Kamienny kompas Metin nie dzia³a pod ziemi¹.
+188	[Impreza] Bitwa siê rozpoczê³a.
+189	[Impreza] Masz 1 godzinê na ukoñczenie labiryntu.
+190	[Impreza] Wykona³eœ swoje zadanie z wyró¿nieniem!
+191	[Impreza] Czas do teleportacji: %d min. %d sek.
+192	[Impreza] Za 10 minut zostaniesz teleportowany z labiryntu.
+193	[Impreza] Zarejestrowa³eœ siê w legowisku Meley.
+194	[Impreza] Porozmawiaj z odpowiednim NPC, aby wejœæ.
+195	[Impreza] Przyzna³eœ siê.
+196	[Impreza] Za 1 minutê zostaniesz teleportowany do miasta.
+197	OdwiedŸ %s i odbierz swoje nagrody!
+198	Kamienny Kompas Metin znikn¹³ w magicznym blasku.
+199	[Impreza] Rankingi grupowe w legowisku Meleya s¹ teraz przeliczane.
+200	[Impreza] W tej chwili nie mo¿esz opuœciæ labiryntu.
+201	[Grupa] Twój czas w labiryncie dobieg³ koñca.
+202	[Grupa] Opuœci³eœ labirynt.
+203	[Grupa] Labirynt zamknie siê za %d minut.
+204	Otrzymasz: %s - %d
+205	Nie mo¿esz otworzyæ sklepu bêd¹c przemienionym w kamieñ.
+206	Nie mo¿esz u¿ywaæ przedmiotów, gdy jesteœ przemieniony w kamieñ.
+207	Tego polecenia mo¿na u¿yæ tylko w Œwi¹tyni Zodiaku.
+208	Nie masz wystarczaj¹cej liczby insygniów.
+209	Kompas z Kamienia Metin znikn¹³.
+210	Nie ukoñczy³eœ jeszcze wszystkich zadañ.
+211	Aby otrzymaæ nagrodê, potrzebujesz wiêcej skarbów Awenturynu i Aureolinu.
+212	Otrzyma³eœ %s.
+213	Zosta³eœ wskrzeszony przez %s.
+214	Nie masz wystarczaj¹cej liczby przedmiotów, aby o¿ywiæ.
+215	Zosta³eœ o¿ywiony.
+216	Nie mo¿esz tego tutaj u¿yæ.
+217	Nie mo¿esz teraz z tego skorzystaæ.
+218	%s zosta³ przywrócony.
+219	Pierwszy poziom ukoñczony. Wróæ do mnicha Milbona.
+220	Wygra³eœ %s przedmiot.
+221	W muszli znajdziesz tylko kawa³ek kamienia.
+222	Wszyscy cz³onkowie grupy zostali zamienieni w kamieñ. Zadanie nie powiod³o siê.
+223	Wszystkie poziomy ukoñczone. Zostaniesz teraz przeniesiony na poziom bonusowy.
+224	Zadanie ukoñczone. Gdy lider grupy kliknie przycisk, zostaniesz przeniesiony bezpoœrednio na poziom %d.
+225	Zadanie nie zosta³o pomyœlnie ukoñczone.
+226	Wysiadaæ! Jeœli w ci¹gu minuty nikt nie zostanie o¿ywiony, Twoja przygoda w labiryncie dobiegnie koñca.
+227	Czas min¹³.
+228	Nastêpnego dnia bramy tej œwi¹tyni zostan¹ otwarte.
+229	Aby wzi¹æ udzia³, wszyscy cz³onkowie grupy musz¹ znajdowaæ siê na tej samej mapie.
+230	Nie jesteœ liderem grupy.
+231	W okolicy znajduje siê %d Œwi¹tyñ Zodiaku. WprowadŸ odpowiednie polecenie, które ma zostaæ przes³ane do jednego z nich (1-%d).
+232	W skorupie nie by³o nic.
+233	Na tej mapie nie ma Œwi¹tyni Zodiaku.
+234	Zniszcz Kamienie Metin.
+235	Poziom bonusowy: Zniszcz Kamienie Metin.
+236	Zniszcz Kamienie Metin.
+237	Zniszcz Kamienie Metin.
+238	Pokonaj 5 bossów Zodiaku.
+239	Poziom bonusowy: Masz 5 minut na wymianê i zakup zapasów.
+240	Zniszcz Kamienie Metin.
+241	Zniszcz Kamienie Metin.
+242	Zniszcz wszystkie kamienie Metin.
+243	W muszli znajduje siê Bia³a Per³a.
+244	Zniszcz wszystkie Kamienie Metin i pokonaj bossa Zodiaka.
+245	Zniszcz wszystkie kamienie Metin.
+246	Pokonaj wszystkie potwory.
+247	Pokonaj wszystkie potwory.
+248	Pokonaj potwory.
+249	Pokonaj potwory.
+250	Pokonaj wszystkie potwory.
+251	W³aœnie straci³eœ poziom bonusowy.
+252	Pokonaj wszystkich bossów Zodiaku.
+253	W muszli znajduje siê B³êkitna Per³a.
+254	Pokonaj bossa Zodiaka.
+255	Pokonaj bossa Zodiaka.
+256	Pokonaj bossa Zodiaka, nie gin¹c.
+257	Pokonaj wszystkie potwory, nie umieraj¹c.
+258	Czas min¹³. Powodzenia przy kolejnej próbie.
+259	Pokonaj bossa Zodiaka.
+260	Pokonaj bossa Zodiaka.
+261	Poziom bonusowy: Zniszcz Kamienie Metin.
+262	Zniszcz Kamienie Metin. Jeœli siê powiedzie, otrzymasz dodatkowe wzmocnienie.
+263	Pozosta³o %d minut na rejestracjê do turnieju PvP!
+264	W muszli znajduje siê Krwawoczerwona Per³a.
+265	Nie mo¿esz wejœæ na arenê turnieju PvP.
+266	Nie mo¿esz dokonaæ transformacji podczas turnieju PvP.
+267	Pozosta³o %d do rozpoczêcia bitwy!
+268	Bitwa siê rozpoczê³a.
+269	Winner: %s / Loser: %s
+270	%s opuœci³ arenê. %s wygra³.
+271	Rejestracja do turnieju PvP zakoñczona.
+272	Turniej PvP rozpoczyna siê za %d minut.
+273	Fina³
+274	Nie jest ³atwo zrozumieæ tê ksi¹¿kê.
+275	Pó³fina³
+276	Okr¹g³y %lu
+277	¯adnego zwyciêzcy
+278	Turniej PvP dobieg³ koñca.
+279	%s jest zwyciêzc¹ turnieju!
+280	Uczestnicy: %s
+281	Pozostali uczestnicy: %lu
+282	Obecni uczestnicy: %lu
+283	Zarejestrowa³eœ siê do turnieju PvP.
+284	Ta ksi¹¿ka ci nie pomo¿e.
+285	Nie jesteœ zarejestrowany do turnieju PvP.
+286	Tego polecenia mo¿na u¿yæ wy³¹cznie na mapie turnieju PvP.
+287	Yutnori jeszcze siê nie rozpoczê³o!
+288	Zbieraj ga³êzie brzozy, stwórz planszê dla Yutnoriego i zagraj w ekscytuj¹c¹ minigrê.
+289	Fantastyczne nagrody czekaj¹!
+290	Koniec Yutnori!
+291	PodejdŸ do sto³u Yutnori i wybierz nagrodê.
+292	Nie masz wystarczaj¹cej liczby wymaganych przedmiotów, aby zagraæ w Yutnori.
+293	[System Dusz] U¿yj %s, aby otrzymaæ efekt.
+294	[Soul System] %s jest ju¿ na najwy¿szym poziomie.
+295	Aby zrozumieæ tê ksi¹¿kê, musisz mieæ co najmniej 30 poziom.
+296	[System Dusz] Dusza jest aktywna.
+297	Podczas korzystania z systemu ulepszeñ nie mo¿esz karmiæ swojego zwierzaka.
+298	[Akcja Zabijania Potworów] Mapa %s zg³asza obserwacjê %s.
+299	Hrabstwo Yayang
+300	Hrabstwo Bokjung
+301	Hrabstwo Bakra
+302	Œwi¹tynia Hwang
+303	Kuahlo Dong (Paj¹kowy Loch)
+304	Labirynt paj¹ków 2
+305	Aby zrozumieæ tê ksi¹¿kê, musisz mieæ co najmniej 50 poziom.
+306	Klif Gautamy
+307	Jadeitowa Zatoka
+308	Burzliwe Góry
+309	Przeklêty Las
+310	Jaskinia Wygnania
+311	Jaskinia Wygnañców 2
+312	Nie mo¿na wejœæ podczas jazdy!
+313	Nie mo¿na tego u¿yæ na aktualnie wyposa¿onych przedmiotach!
+314	Czerwony Las
+315	Pole Wê¿a
+316	Nie mo¿esz trenowaæ wiêcej kombinacji.
+317	Nadal potrzebujesz %d %s.
+318	Wydarzenie dobieg³o koñca. Nie mo¿esz ju¿ u¿ywaæ tego przedmiotu.
+319	Osi¹gniêto maksymalny poziom.
+320	Sukces! Efekt %s zosta³ zwiêkszony do poziomu %d.
+321	Awaria! Próba ulepszenia efektu %s do poziomu %d nie powiod³a siê.
+322	Sukces! Efekt %s jest teraz aktywny.
+323	Awaria! Próba zmiany efektu %s nie powiod³a siê.
+324	Sukces! Efekt %s jest teraz aktywny.
+325	Awaria! Efekt %s nie zosta³ aktywowany.
+326	Wydarzenie Flower Power rozpoczê³o siê!
+327	Gildia %s zdoby³a flagê gildii %s!
+328	Mówisz ju¿ biegle tym jêzykiem.
+329	Wydarzenie Flower Power dobieg³o koñca.
+330	Musisz chwilê poczekaæ zanim ponownie otworzysz skrzynkê pocztow¹.
+331	Przed otwarciem skrzynki pocztowej musisz zamkn¹æ inne okna.
+332	Twoja skrzynka pocztowa jest pe³na.
+333	Usuñ wiadomoœci ze skrzynki pocztowej, aby otrzymaæ nowe.
+334	Nie mo¿esz teraz z tego skorzystaæ.
+335	[Gildia] Nie mo¿esz u¿ywaæ zdolnoœci gildii podczas wojny gildii.
+336	[Gildia] Mo¿na tego u¿yæ tylko podczas wojny gildii.
+337	Otrzyma³eœ %d wygranych.
+338	[Gildia] Zapisano: %d Yang
+339	Nie mo¿na ju¿ ulepszaæ tej umiejêtnoœci.
+340	[Gildia] Zakup anulowany, poniewa¿ posiadasz ju¿ terytorium gildii.
+341	[Gildia] Zakup anulowany, poniewa¿ Twoja gildia posiada ju¿ terytorium gildii.
+342	[Zdob¹dŸ króla] Nie masz dobrego wyniku, jeœli chodzi o nagrodê.
+343	[Zdob¹dŸ króla] Zagraj w Zdob¹dŸ króla ju¿ teraz!
+344	[Wydarzenie Okey] Zabijaj potwory, zbieraj karty i graj w Okey.
+345	[Wydarzenie Okey] Niesamowite nagrody czekaj¹!
+346	[Zdob¹dŸ króla] Gra w Zdob¹dŸ króla dobieg³a koñca!
+348	[Schwytaj króla] Nie masz Królewskiej Kolekcji ani wystarczaj¹cej iloœci Yang.
+349	[Zdob¹dŸ króla] %s zdoby³ %d punktów w Zdob¹dŸ króla!
+350	Aby zrozumieæ tê ksi¹¿kê, musisz zdobyæ wy¿szy poziom.
+351	U¿y³eœ ju¿ Eliksiru Badacza!
+352	Labirynt "Obrona statku" jest gotowy. Rybak pozwoli Ci teraz wejœæ na pok³ad.
+353	Potwory morskie atakuj¹ nas! Przygotuj siê do bitwy!
+354	Znów atakuj¹! Przygotuj broñ!
+355	Wyl¹duj na horyzoncie! Uda³o Ci siê obroniæ maszt i po d³ugiej podró¿y dotar³eœ na nowy kontynent. PrzejdŸ do portalu.
+356	Twój maszt zosta³ zniszczony. Walczy³eœ dzielnie, ale bitwa zosta³a przegrana.
+357	Musisz opuœciæ statek za %d sekund.
+358	Musisz opuœciæ statek za %d minut.
+359	Bitwa morska rozpoczyna siê za %d sekund.
+360	Ta ksi¹¿ka jest zbyt trudna do nauczenia siê.
+361	Spieszyæ siê! Masz %d minut na przejœcie przez portal na kontynent.
+362	Musisz teraz opuœciæ statek, poniewa¿ nie rozpocz¹³eœ bitwy morskiej.
+363	Jeœli w ci¹gu 1 minuty nie rozpoczniesz bitwy morskiej, bêdziesz musia³ opuœciæ statek.
+364	%s HP: %d%%
+365	SOS! Twój maszt zosta³ zniszczony, a statek tonie. Zostaniesz teraz przeniesiony do Dragon Fire Bay.
+366	Fala %d: Przez %d sekund musisz chroniæ %s z ca³ych si³.
+367	Fala %d: Chroni¹c %s, pokonaj %s.
+368	Uda³o Ci siê obroniæ maszt. Kontynuowaæ! Przygotuj siê na nastêpn¹ falê.
+369	Nastêpna fala nadejdzie za %d sekund.
+370	%s
+371	Z t¹ ksi¹¿k¹ nie da siê dalej trenowaæ.
+372	Mo¿esz opuœciæ bitwê za %d sekund.
+373	Nie mo¿esz teraz wykonaæ tej akcji.
+374	Po otwarciu skrzynki pocztowej musisz odczekaæ %d sekund przed zmian¹ kana³u lub teleportacj¹.
+375	Podatki ustawione na %d%%.
+376	Aby trenowaæ jazdê konn¹, musisz mieæ co najmniej 50 poziom.
+377	Unikn¹³eœ kl¹twy z³ego ducha za pomoc¹ zwoju egzorcyzmu.
+378	Nie mo¿na przeczytaæ wiêcej przewodników jeŸdzieckich.
+379	Punkty jazdy konnej otrzymujesz po przeczytaniu poradnika jazdy konnej.
+380	Mo¿esz wykorzystaæ ten punkt do doskonalenia swoich umiejêtnoœci jeŸdzieckich.
+381	Flaga gildii %s zosta³a skradziona przez gracza %s.
+382	Nie zrozumia³eœ przewodnika po jeŸdziectwie.
+383	Twój umys³ jest czysty. Mo¿esz teraz dobrze siê skupiæ.
+384	Twoja ranga wzros³a o %d punktów.
+385	Nie mo¿esz farbowaæ ani odbarwiaæ swojej obecnej fryzury.
+386	Aby ponownie pofarbowaæ fryzurê, musisz osi¹gn¹æ poziom %d.
+387	Ten przedmiot mo¿e otworzyæ tylko osoba p³ci przeciwnej.
+388	Nie mo¿esz tego u¿ywaæ z tej pozycji.
+389	Nie mo¿esz u¿yæ Zwoju Lokacji, poniewa¿ jesteœ gotowy do teleportacji.
+390	Zosta³eœ przeniesiony z powrotem do punktu pocz¹tkowego.
+391	%s%s nie mo¿e byæ u¿yte w lochu.
+392	[Misja] Otrzyma³eœ ju¿ nagrodê.
+393	to
+394	to
+395	Nie ma od³amków kamienia do usuniêcia.
+396	Nie mo¿esz zmieniæ ulepszeñ tego przedmiotu.
+397	Nie masz ¿adnych ulepszeñ, które mo¿na zmieniæ.
+398	Mo¿na to zrobiæ tylko %d minut po aktualizacji. (pozosta³o %d minut)
+399	Zmieni³eœ aktualizacjê.
+400	Aktualizacja zosta³a pomyœlnie dodana.
+401	Ulepszenie przedmiotu nie zosta³o dodane.
+402	Aby dodaæ kolejny bonus, musisz u¿yæ B³ogos³awieñstwa Marmuru.
+403	Nie mo¿esz tego u¿yæ na tej arenie.
+404	Tego przedmiotu nie mo¿na ju¿ ulepszyæ. Osi¹gniêto maksymaln¹ liczbê bonusów.
+405	Jeœli przedmiot ma ju¿ 4 bonusy, mo¿esz go ulepszyæ tylko za pomoc¹ B³ogos³awieñstwa Marmuru.
+406	Gniazdo zosta³o pomyœlnie dodane.
+407	Gniazdo nie zosta³o dodane.
+408	Do tego elementu nie mo¿na dodaæ wiêcej gniazd.
+409	Ten przedmiot nie mo¿e mieæ wiêcej gniazd.
+410	Zaklêcie powiod³o siê.
+411	Zaklêcie nie powiod³o siê.
+412	Najpierw musisz dodaæ gniazdo. U¿yj do tego diamentu.
+413	Nie ma tu ¿adnych gniazd na klejnoty.
+414	Mo¿esz to zrobiæ tylko maj¹c na sobie maskê emocji.
+415	Aby u¿yæ diamentu, musisz dodaæ nasadkê.
+416	Do tego przedmiotu nie mo¿na dodaæ wiêcej klejnotów.
+417	Elementy te nie mog¹ byæ u¿ywane razem.
+418	Podczas ³owienia nie mo¿na zmieniaæ przynêty.
+419	Zast¹pi³eœ swoj¹ obecn¹ przynêtê %s.
+420	Przymocowa³eœ %s do haczyka jako przynêtê.
+421	Nie masz wszystkich sk³adników do wytworzenia eliksiru.
+422	Nie masz wystarczaj¹cej iloœci sk³adników (%s).
+423	Nie masz wystarczaj¹cej liczby pustych butelek.
+424	Mieszanie eliksiru nie powiod³o siê.
+425	Mog¹ to zrobiæ tylko kobiety.
+426	Nie mo¿na dodaæ wiêcej kamieni tego samego typu.
+427	Tego kamienia duchowego nie mo¿na dodaæ do przedmiotu tego typu.
+428	Tego kamienia duchowego nie mo¿na dodaæ do broni.
+429	Kamieñ ducha zosta³ pomyœlnie dodany.
+430	Kamieñ duchowy pêk³ podczas dodawania.
+431	Brak wolnych gniazdek.
+432	Aktualnie ta funkcja nie jest tutaj dostêpna.
+433	Nie mo¿esz u¿ywaæ Zwoju Lokacji podczas bitwy o królestwo.
+434	Nie mo¿esz u¿yæ Zwoju Lokacji %d sekund po otwarciu magazynu.
+435	Nie mo¿esz u¿ywaæ Zwoju Lokacji, gdy otwarte jest inne okno.
+436	Ta osoba nie istnieje.
+437	Nie mo¿esz u¿yæ przewijania %d sekund po dokonaniu transakcji.
+438	Nie mo¿esz u¿yæ Zwoju Lokacji %d sekund po otwarciu magazynu.
+439	Nie mo¿esz u¿yæ Zwoju Lokacji, poniewa¿ odleg³oœæ jest za ma³a.
+440	Po wymianie nie mo¿esz u¿ywaæ Zwoju Lokacji przez %d sekund.
+441	Nie mo¿esz otworzyæ magazynu, jeœli otwarte jest ju¿ inne okno.
+442	Nie mo¿esz upuœciæ tego przedmiotu.
+443	Upuszczony przedmiot zniknie za 5 minut.
+444	Otrzymano %s.
+445	Masz za du¿o przedmiotów w ekwipunku.
+446	%s otrzymuje %s.
+447	Wkrótce wszyscy zostan¹ teleportowani do miasta.
+448	Jesteœ zbyt blisko.
+449	Handel przedmiotami: %s, %s
+450	Podczas transformacji nie mo¿esz zmieniaæ wyposa¿onych przedmiotów.
+451	Musisz byæ nieruchomy, aby wyposa¿yæ ten przedmiot.
+452	Zio³a ma³py nie s¹ przeznaczone do karmienia ¿ywych koni. S³u¿¹ do o¿ywiania martwych koni.
+453	Nie mo¿esz nakarmiæ martwego konia.
+454	Karmi³eœ konie zio³ami.
+455	Nakarmi³eœ konia.
+456	Twój poziom jest zbyt niski, aby nosiæ tê fryzurê.
+457	Masz ju¿ tê fryzurê.
+458	Ju¿ jesteœ przemieniony.
+459	Jesteœ za daleko.
+460	To niew³aœciwy przedmiot do transformacji.
+461	Nie mo¿esz przekszta³ciæ siê w potwora z wy¿szym poziomem ni¿ twój.
+462	Twój poziom jest zbyt niski, aby nosiæ ten przedmiot.
+463	Nie jesteœ wystarczaj¹co silny, aby nosiæ ten przedmiot.
+464	Nie masz wystarczaj¹cej inteligencji, aby nosiæ ten przedmiot.
+465	Nie masz wystarczaj¹cej zrêcznoœci, aby za³o¿yæ ten przedmiot.
+466	Nie masz wystarczaj¹cej witalnoœci, aby nosiæ ten przedmiot.
+467	Nie mo¿esz u¿ywaæ tego przedmiotu, poniewa¿ nie jesteœ ¿onaty.
+468	Tego przedmiotu nie mo¿na za³o¿yæ dwa razy.
+469	Czas pozosta³y do usuniêcia gniazda z %s: %d
+470	Mo¿e to zrobiæ tylko p³eæ przeciwna.
+471	Klejnot osadzony w %s znikn¹³.
+472	[Gildia] Nazwa gildii jest nieprawid³owa.
+473	[Gildia] Ta nazwa gildii jest ju¿ zajêta.
+474	[Gildia] Nie mo¿esz stworzyæ gildii.
+475	%s gildia wypowiedzia³a wojnê %s gildii!
+476	[Gildia] %s nie zaakceptowa³a wojny gildii.
+477	Wojna gildii pomiêdzy %s i %s rozpocznie siê za kilka sekund!
+478	Rozpoczê³a siê wojna pomiêdzy %s i %s!
+479	Wojna pomiêdzy %s i %s zakoñczy³a siê remisem.
+480	Gildia %s wygra³a wojnê z gildi¹ %s.
+481	Potrzebujesz do tego zgody swojego kolegi z dru¿yny.
+482	[Gildia] Wojna gildii zosta³a anulowana.
+483	Wojna pomiêdzy gildi¹ %s a gildi¹ %s zosta³a anulowana.
+484	Zamkn¹æ
+485	Odwo³any. Przyst¹pi³eœ do bitwy.
+486	Ktoœ zalogowa³ siê na Twoje konto. Zostaniesz roz³¹czony.
+487	Z drzewa wydobywa siê tajemnicze œwiat³o.
+488	Do Twojego konta dodano %d czasu gry. (Numer p³atnoœci %d)
+489	Mo¿esz wzi¹æ udzia³ w bitwie gildii jako widz.
+490	Podczas wyboru postaci pojawi siê ikona.
+491	Nie ma wrogów.
+492	Rozpoczê³a siê bitwa z %s!
+493	Jeœli nie zostanie znaleziony ¿aden wróg, wojna gildii zakoñczy siê automatycznie.
+494	Poniewa¿ wojna gildii zakoñczy³a siê przedwczeœnie, zostanie ona uznana za remis.
+495	Energiê odzwierciedla b³ogos³awieñstwo cesarza.
+496	Za %d sekund mo¿esz skorzystaæ z b³ogos³awieñstwa cesarza.
+497	Niewystarczaj¹ce dochody podatkowe: %d.
+498	[TEST_ONLY]Podatek: %d
+499	B³¹d podczas transformacji.
+500	W pe³ni nauczy³eœ siê transformacji.
+501	Proszê najpierw zadzwoniæ do konia.
+502	Odes³a³eœ konia z powrotem.
+503	%s wyzwa³ Ciê na pojedynek!
+504	Musisz zsi¹œæ z konia.
+505	Nie mo¿esz karmiæ konia podczas jazdy!
+506	Da³eœ %s%s koniowi.
+507	Potrzebujesz %s.
+508	%d sekund do wy³¹czenia.
+509	Gra zakoñczy siê za %d sekund.
+510	%d sekund do wy³¹czenia.
+511	Twoje wylogowanie zosta³o anulowane.
+512	Powrót do okna logowania. Proszê czekaæ.
+513	Zosta³eœ roz³¹czony z serwerem. Proszê czekaæ.
+514	Wyzwa³eœ %s na pojedynek.
+515	Zmieni³eœ charakter. Proszê czekaæ.
+516	Nowy start nie jest w tej chwili mo¿liwy. Poczekaj %d sekund.
+517	Ponowne uruchomienie nie jest mo¿liwe. Poczekaj kolejne %d sekund.
+518	Ponowne uruchomienie nie jest mo¿liwe. Poczekaj kolejne %d sekund.
+519	Ponowne uruchomienie w mieœcie nadal nie jest mo¿liwe. Poczekaj kolejne %d sekund.
+520	Straci³eœ szansê na odrodzenie. Wrócisz do miasta.
+521	Nie mo¿esz zmieniæ swojego statusu podczas transformacji.
+522	Gracz aktualnie toczy bitwê.
+523	[Gildia] To nie nale¿y do gildii.
+524	[Gildia] Nie masz uprawnieñ do zmiany poziomu umiejêtnoœci gildii.
+525	Wybór jest nieprawid³owy.
+526	[Magazyn] Wpisa³eœ z³e has³o.
+527	[Magazyn] Magazyn jest ju¿ otwarty.
+528	[Magazyn] Musisz poczekaæ 10 sekund, aby ponownie otworzyæ magazyn.
+529	[Magazyn] Jesteœ za daleko, aby otworzyæ magazyn.
+530	[Grupa] Serwer nie mo¿e przetworzyæ ¿¹dania grupy.
+531	[Grupa] Nie mo¿esz tutaj opuœciæ grupy.
+532	[Grupa] Opuœci³eœ grupê.
+533	[Gildia] Twoja gildia jest ju¿ w trakcie kolejnej wojny.
+534	[Gildia] Nie kwalifikuje siê do wojny gildii.
+535	[Gildia] Gildia o tej nazwie nie istnieje.
+536	Tutaj jest ju¿ kandydatura.
+537	[Gildia] Ta gildia ju¿ uczestniczy w wojnie.
+538	[Gildia] Za ma³o Yang, aby wzi¹æ udzia³ w wojnie gildii.
+539	[Gildia] Gildia nie ma wystarczaj¹cej liczby Yang, aby wzi¹æ udzia³ w wojnie gildii.
+540	[Gildia] Ta gildia jest ju¿ zarejestrowana do innej wojny gildii.
+541	[Gildia] Ta gildia bierze ju¿ udzia³ w kolejnej wojnie.
+542	[Gildia] Poziom gildii jest zbyt niski, aby braæ udzia³ w wojnie gildii.
+543	[Gildia] Co najmniej %d graczy musi zarejestrowaæ siê do wojny gildii.
+544	[Gildia] Gildia nie posiada wystarczaj¹cej liczby punktów, aby wzi¹æ udzia³ w wojnie.
+545	[Gildia] Gildia nie ma wystarczaj¹cej liczby cz³onków, aby wzi¹æ udzia³ w wojnie.
+546	Aby zarejestrowaæ numer telefonu komórkowego, Twój poziom musi byæ wy¿szy ni¿ 20.
+547	Nie masz mo¿liwoœci zostania cesarzem.
+548	%s odrzuci³ zaproszenie.
+549	Nie mo¿esz przyj¹æ zaproszenia, poniewa¿ jesteœ ju¿ w grupie.
+550	Tylko cesarz mo¿e z tego skorzystaæ.
+551	Czas oczekiwania oko³o %d sekund.
+552	Niewystarczaj¹ce podatki. Obecny kapita³: %u brakuj¹cy kapita³: %u
+553	Polecenie: warpto <nazwa znaku>
+554	Nie mo¿na teleportowaæ siê do nieznanego gracza.
+555	Dodawanie gracza %d do kana³u. (Bie¿¹cy kana³ %d)
+556	Transport do %s.
+557	Nie mo¿esz dzwoniæ do nieznanych graczy.
+558	[Gildia] Punkty doœwiadczenia za polowanie nie licz¹ siê podczas wojny gildii.
+559	Jeœli u¿yjesz b³ogos³awieñstwa cesarza, %s HP i MP zostanie ponownie przywrócone.
+560	Ma informacje o cesarzu
+561	[%sW³adca]: %s W³aœciciel Yang %lld
+562	[%sLinijka]: %s
+563	Informacje o cesarzu
+564	Tylko cesarz mo¿e z tego korzystaæ
+565	Wybierz liczbê od 1 do 50.
+566	Podatki ustawione na %d %%.
+567	Nie mo¿na przywo³aæ potwora. SprawdŸ numer moba.
+568	Punkty zdrowia +%d
+569	Punkty many +%d
+570	B³ogos³awieñstwo cesarza jest aktywne.
+571	Wytrzyma³oœæ +%d
+572	Inteligencja +%d
+573	Si³a +%d
+574	Zrêcznoœæ +%d
+575	Szybkoœæ ataku +%d
+576	Prêdkoœæ ruchu %d
+577	Czas odnowienia -%d
+578	Regeneracja zdrowia +%d
+579	Regeneracja many +%d
+580	Truj¹cy atak %d
+581	Przygotowanie. Mo¿na u¿ywaæ po %d.
+582	Gwiazdka +%d
+583	Powolna redukcja +%d
+584	Szansa na atak krytyczny %d%%
+585	Szansa na przeszywaj¹cy atak %d%%
+586	Si³a ataku gracza przeciwko potworom +%d%%
+587	Si³a ataku konia przeciwko potworom +%d%%
+588	Zwiêkszenie ataku przeciwko Wonggui + %d%%
+589	Zwiêkszenie ataku przeciwko Milgyo + %d%%
+590	Zwiêkszenie ataku przeciwko Zombie + %d%%
+591	Zwiêkszenie ataku przeciwko diab³om + %d%%
+592	Od cesarza Sa-Za-Hu gracz otrzyma³ %s z 10%% wiêksz¹ si³¹ ataku na 3 minuty.
+593	Absorpcja ¿ycia %d%% przy ataku.
+594	Mana (MP) poch³ania %d%% przy ataku.
+595	Szansa %d%% na kradzie¿ PM wrogowi.
+596	Szansa na absorpcjê MP %d%%
+597	%d%% szansy na zablokowanie ataku wrêcz.
+598	%d%% szansy na zablokowanie ataku dystansowego.
+599	Obrona przed mieczami jednorêcznymi %d%%
+600	Obrona przed mieczami dwurêcznymi %d%%
+601	Obrona przed mieczami dwurêcznymi %d%%
+602	Obrona przed dzwonkiem %d%%
+603	Od cesarza Geum-Gang-Gwona gracz otrzymuje %s z 10%% wiêkszym pancerzem na 3 minuty.
+604	Obrona przed wentylatorem %d%%
+605	Odpornoœæ na atak dystansowy %d%%
+606	Odpornoœæ na ogieñ %d%%
+607	Odpornoœæ na pioruny %d%%
+608	Odpornoœæ na magiê %d%%
+609	Odpornoœæ na wiatr %d%%
+610	Odbicie bezpoœredniego trafienia: %d%%
+611	Odbicie kl¹twy: %d%%
+612	Odpornoœæ na truciznê %d%%
+613	Jeœli wygrasz, MP (MB) zostanie zwiêkszone do %d%%.
+614	Wydarzenie ju¿ trwa (flaga: %d)
+615	Doœwiadczenie zostanie zwiêkszone do %d%%, jeœli wygrasz z wrogiem.
+616	Zwiêksz Yang o %d%%, jeœli wygrasz z wrogiem.
+617	Zwiêksz liczbê ³upów o %d%%, jeœli wygrasz z wrogiem.
+618	Zwiêksz si³ê o %d%% po wypiciu eliksiru.
+619	%d%% szansy na uzupe³nienie punktów zdrowia, jeœli wygrasz.
+620	Brak zawrotów g³owy %d%%
+621	Brak spowolnienia %d%%
+622	Brak spadania %d%%
+623	Si³a ataku +%d
+624	Pancerz +%d
+625	Nie mo¿na za³adowaæ skryptu OX Quiz.
+626	Magiczny atak +%d
+627	Obrona magiczna + %d
+628	Maksymalna wytrzyma³oœæ + %d
+629	Si³a przeciwko Wojownikom + %d%%
+630	Si³a przeciwko Ninja + %d%%
+631	Si³a przeciwko Surom + %d%%
+632	Si³a przeciwko Szamanom + %d%%
+633	Si³a przeciwko potworom + %d%%
+634	Atak + %d%%
+635	Obrona + %d%%
+636	Za³adowano skrypt OX Quiz.
+637	Doœwiadczenie %d%%
+638	Szansa na znalezienie przedmiotu %. 1f
+639	Szansa na znalezienie Yang%. 1f
+640	Maksymalny limit HP +%d%%
+641	Maksymalny limit HP +%d%%
+642	Obra¿enia umiejêtnoœci %d%%
+643	Obra¿enia od trafienia %d%%
+644	Odpornoœæ na obra¿enia umiejêtnoœci %d%%
+645	Odpornoœæ na obra¿enia od trafienia %d%%
+646	%d%% odpornoœæ na atak wojownika
+647	Witamy w Metin2.
+648	%d%% odpornoœæ na atak ninja
+649	%d%% odpornoœæ na atak sura
+650	%d%% odpornoœæ na atak szamana
+651	(Procedura: %d r- %d m - %d d)
+652	Twój czat jest zablokowany.
+653	Aby przywo³aæ, potrzebujesz wy¿szego poziomu.
+654	Aby przywo³aæ, potrzebujesz co najmniej poziomu %d.
+655	Nie jesteœ w tej grupie.
+656	Nie do³¹czy³eœ do tej gildii.
+657	Gracz odmówi³ dodania do Twojej listy znajomych.
+658	Rozpoczê³y siê zawody OX.
+659	[Lista znajomych] Nie mo¿esz dodaæ GM'a do swojej listy znajomych.
+660	%s nie jest w grze.
+661	Po zakoñczeniu handlu mo¿esz otworzyæ swój stragan w ci¹gu %d sekund.
+662	Mo¿esz ponownie dokonaæ transakcji za %d sekund.
+663	Masz ponad 2 biliony Yang. Nie mo¿esz handlowaæ.
+664	Nie mo¿na otworzyæ prywatnego stoiska, gdy otwarte jest inne okno.
+665	Gracz ma ponad 2 biliony Yang. Nie mo¿na z nimi handlowaæ.
+666	[Magazyn] Brak mo¿liwoœci przeniesienia.
+667	[Magazyn] Nie mo¿na przechowywaæ przedmiotu.
+668	[Grupa] Gracz, który zaprosi³, nie jest online.
+669	Bitwa gildyjna nie mo¿e siê rozpocz¹æ, poniewa¿ serwer nie jest online.
+670	Za pozwoleniem Uriela mo¿esz wejœæ.
+671	[Grupa] Tylko lider grupy mo¿e to zmieniæ.
+672	[Grupa] Cel nie jest cz³onkiem Twojej grupy.
+673	[Grupa] Nie mo¿esz tutaj wyrzuciæ gracza z grupy.
+674	[Grupa] Nie mo¿esz tutaj wyrzuciæ gracza z grupy.
+675	[Grupa] Zosta³eœ wyrzucony z grupy.
+676	[Grupa] Nie mo¿esz tutaj opuœciæ grupy.
+677	[Grupa] Nie mo¿esz wyrzucaæ cz³onków grupy.
+678	[Gildia] Po usuniêciu gildii nie mo¿esz utworzyæ nowej przez %d dni.
+679	[Gildia] Po opuszczeniu gildii nie mo¿esz za³o¿yæ nowej przez %d dni.
+680	Nazwa gildii jest nieprawid³owa.
+681	Proœba o udzia³ wielu graczy.
+682	[Gildia] [%s] gildia zosta³a utworzona.
+683	[Gildia] Tworzenie gildii nie powiod³o siê.
+684	[Grupa] Tylko lider grupy mo¿e korzystaæ z umiejêtnoœci grupowych.
+685	[Grupa] Nie znaleziono celu.
+686	[Gildia] Nieprawid³owa iloœæ Yang.
+687	[Gildia] Nie masz wystarczaj¹cej iloœci Yang.
+688	[Gildia] Nie mo¿na odnaleŸæ poszukiwanej osoby.
+689	[Gildia] Ta osoba nie jest w tej samej gildii.
+690	[Gildia] Nie mo¿esz wyrzucaæ cz³onków gildii.
+691	[Gildia] Cz³onek gildii %s zosta³ wyrzucony z gildii.
+692	Konkurs OX jeszcze siê nie zakoñczy³, wyst¹pi³y b³êdy. (flaga: %d)
+693	[Gildia] Wykopa³eœ cz³onka gildii.
+694	[Gildia] Nie mo¿esz zmieniæ nazwy swojej rangi.
+695	[Gildia] Nie mo¿na zmieniæ uprawnieñ lidera gildii.
+696	[Gildia] Nazwa rangi jest nieprawid³owa.
+697	[Gildia] Nie mo¿esz zmieniæ swojej pozycji.
+698	[Gildia] Nie mo¿na zmieniæ uprawnieñ lidera gildii.
+699	[Gildia] Wykorzystano %u doœwiadczenia.
+700	[Gildia] U¿ycie doœwiadczenia nie powiod³o siê.
+701	[Gildia] Nie masz wystarczaj¹cej iloœci Yang w skarbcu gildii!
+702	[Gildia] Smoczy duch nie zosta³ przywrócony.
+703	Zawody OX wkrótce rozpoczn¹ siê ponownie.
+704	[Gildia] Nie mo¿esz sk³adaæ deklaracji.
+705	[Gildia] Nie mo¿esz zmieniæ pozycji.
+706	[Gildia] Rangi lidera gildii nie mo¿na zmieniæ.
+707	[Gildia] Nie mo¿esz zostaæ przywódc¹ gildii.
+708	[Gildia] Nie mo¿esz wybraæ lidera gildii.
+709	[Gildia] Nie mo¿esz wybraæ wielu liderów.
+710	Nie mo¿esz handlowaæ tym przedmiotem.
+711	Wykryto nielegalne oprogramowanie. Gra zostanie zakoñczona.
+712	Masz ponad 2 biliony Yang. Nie mo¿esz handlowaæ.
+713	Nieprawid³owy Yang.
+714	Bie¿¹ce wydarzenie jest ograniczone tylko do jednego obszaru.
+715	Rozpocznij ruletkê przedmiotów.
+716	Uruchom ruletkê.
+717	Gracz jest online. U¿ywaj szeptu do czatowania.
+718	Numer telefonu komórkowego nie jest zarejestrowany.
+719	Aby wysy³aæ wiadomoœci tekstowe, musisz mieæ co najmniej 20 poziom.
+720	Aby wys³aæ wiadomoœæ tekstow¹, potrzebujesz 2000 DT.
+721	Twoja wiadomoœæ tekstowa zosta³a wys³ana.
+722	%s gildii %s wzrós³ do %d%%!
+723	%s gildii %s wróci³o do normy.
+724	%s: %s zwiêkszone o %d%%!
+725	Zawody OX dobiegn¹ koñca.
+726	%s %s wróci³o do normy.
+727	Twoje punkty wydobycia wzros³y do maksimum. (%D).
+728	Twoje punkty wydobycia wzros³y do najwy¿szego poziomu.
+729	Mo¿esz ulepszyæ swój kilof przy pomocy drwala Deokbae.
+730	Zwiêkszy³y siê Twoje punkty wydobycia! (%d/%d)
+731	Nie da siê kopaæ bez kilofa.
+732	Tu nie ma co kopaæ.
+733	Kopanie zakoñczy³o siê sukcesem.
+734	Kopanie nie powiod³o siê.
+735	[Lista znajomych] Doda³eœ %s jako znajomego.
+736	Gracz wkrótce zostanie przetransportowany do miasta.
+737	[Lista znajomych] Usun¹³eœ %s z listy.
+738	Krytyczny b³¹d serwera. Serwer uruchomi siê ponownie automatycznie.
+739	Za 10 sekund zostaniesz roz³¹czony.
+740	Mo¿esz ponownie po³¹czyæ siê za 5 minut.
+741	(%s) Gildia utworzona. [Tymczasowy]
+742	Gildia jest w stanie wojny.
+743	%s: Ta gildia nie istnieje.
+744	Gildia o tej nazwie lub numerze nie istnieje.
+745	Ten budynek nie istnieje.
+746	Budynek tego typu mo¿na zbudowaæ tylko raz.
+747	Najpierw zamknij zak³adkê z konkursami OX. (Flaga: %d)
+748	Najpierw nale¿y zbudowaæ podstawowy budynek.
+749	Budowa nie powiod³a siê z powodu niew³aœciwych kosztów budowy.
+750	Twoja gildia nie ma wystarczaj¹cej liczby Yang, aby zbudowaæ ten budynek.
+751	Nie masz wystarczaj¹cych zasobów dla tego budynku.
+752	W tej lokalizacji nie mo¿na zbudowaæ budynku.
+753	Ta postaæ nie istnieje.
+754	Pojedynek nie odwo³any.
+755	Pojedynek pomyœlnie anulowany.
+756	Pojedynek pomyœlnie siê rozpocz¹³.
+757	B³¹d podczas rozpoczynania pojedynku.
+758	Nie wyst¹pi³y ¿adne b³êdy.
+759	Tu nie ma wojowników.
+760	Brak pozosta³ych punktów statystyk cia³a.
+761	Zbyt ma³o pozosta³ych punktów statystyk cia³a.
+762	Wpisa³eœ nieprawid³ow¹ wartoœæ.
+763	Podporz¹dkowanie dowództwa jest niewa¿ne.
+764	Anulowany kontrakt pomiêdzy graczem %d a graczem %d.
+765	Zakrêæ ruletk¹ dla %d Yang.
+766	Rekord pozycji zapisany w dzienniku systemowym.
+767	Informacje dla królestwa
+768	Wybierz informacje o mapie Ziemi Œwiêtej %d wpis %d %d %d
+769	Wyst¹pi³ b³¹d.
+770	%s zabójstw %d zabitych potworów %d zabitych bossów %d Numer Ziemi Œwiêtej %d
+771	Informacje o stanie bitwy o królestwo
+772	Twoja proœba jest przetwarzana. Proszê czekaæ.
+773	Nie mo¿esz otworzyæ Magazynu, gdy otwarte jest inne okno.
+774	[Magazyn] Has³o magazynu zosta³o zmienione.
+775	[Magazyn] Wpisa³eœ z³e has³o.
+776	Twój czas gry wygaœnie za %d minut.
+777	Prawid³owo zag³osowano.
+778	Ju¿ zag³osowa³em.
+779	Gracz %s ju¿ wzi¹³ udzia³ w g³osowaniu.
+780	Wypowiedzia³eœ wojnê tej gildii.
+781	Konkurs OX zakoñczy³ siê, nie wyst¹pi³y ¿adne b³êdy. (Flaga: %d)
+782	Nie mo¿na zostaæ wybranym.
+783	%s nadal ma %u Yanga.
+784	%s nadal ma %d Yanga
+785	Nie masz wystarczaj¹cej iloœci Yang.
+786	%s zosta³ usuniêty jako kandydat na cesarza.
+787	%s nie jest kandydatem na cesarza.
+788	%s zosta³ nominowany na cesarza.
+789	%s nie mo¿e byæ nominowany na cesarza.
+790	Cesarz %s zosta³ wydalony.
+791	Cesarz %s nie mo¿e zostaæ wydalony.
+792	Wydarzenia OX nie mog¹ mieæ wiêkszej liczby uczestników.
+793	Królestwo Shinsoo
+794	Królestwo Chunjo
+795	Królestwo Jinno
+796	Twoje punkty po³owowe wzros³y! (%d/%d)
+797	Osi¹gn¹³eœ maksymaln¹ liczbê punktów po³owowych.
+798	Ulepsz swoj¹ wêdkê z pomoc¹ rybaka.
+799	Straci³eœ przynêtê.
+800	Z³apa³eœ rybê! (%S)
+801	D³ugoœæ z³owionej ryby wynosi %.2fcm.
+802	Impreza wêdkarska "Najlepszy wêdkarz"
+803	OX Na liœcie znajduj¹ siê pozostali uczestnicy wydarzenia.
+804	Impreza wêdkarska "Cierpliwoœæ przynosi ró¿e".
+805	%s: %d
+806	Uda³o Ci siê z³apaæ %d z %d.
+807	Ryba zniknê³a w bezkresnych g³êbinach...
+808	Wewn¹trz ryby znajduje siê muszla.
+809	Wewn¹trz ryby znajduje siê robak.
+810	Pieczesz %s nad ogniem.
+811	Nie mo¿esz handlowaæ, poniewa¿ nosisz wiêcej ni¿ 2 biliony Yang.
+812	Nie mo¿esz nadaæ swojemu magazynowi nieprawid³owej nazwy.
+813	Nie mo¿esz sprzedawaæ przedmiotów ze sklepu z akcesoriami na prywatnym straganie.
+814	OX Pozostali uczestnicy wydarzenia nie s¹ wymienieni.
+815	Kopanie zakoñczone.
+816	WeŸ kilof.
+817	Wybierz swoj¹ wêdkê.
+818	Najpierw za³ó¿ przynêtê na haczyk.
+819	Bez wêdki nie mo¿na ³owiæ.
+820	[Grupa] Nie mo¿esz wys³aæ proœby, poniewa¿ lider grupy nie jest online.
+821	[Grupa] Nie mo¿esz stworzyæ grupy z graczami z innych królestw.
+822	[Grupa] Nie mo¿esz tutaj zapraszaæ graczy do grupy.
+823	[Grupa] Nie mo¿esz zapraszaæ graczy w trybie obserwatora.
+824	[Grupa] Mo¿na zapraszaæ tylko graczy z ró¿nic¹ poziomów pomiêdzy -30 a +30.
+825	Liczba dodatkowych uczestników: %d
+826	[Grupa] Nie mo¿esz zaprosiæ tego gracza; ich poziom jest zbyt niski.
+827	[Grupa] Nie mo¿esz zaprosiæ tego gracza; ich poziom jest zbyt wysoki.
+828	[Grupa] Nie mo¿esz zaprosiæ wiêkszej liczby graczy do swojej grupy.
+829	Czy chcesz do³¹czyæ do grupy gracza %s?
+830	Ten gracz nie znajduje siê w tej grupie.
+831	[Grupa] Nie mo¿esz do³¹czyæ do tej grupy; jest ju¿ pe³ny.
+832	[Grupa] Nie masz prawa kogoœ zapraszaæ.
+833	[Grupa] %s odrzuci³ zaproszenie do Twojej grupy.
+834	[Grupa] %s jest ju¿ w grupie.
+835	[Grupa] Nie mo¿esz tutaj przyj¹æ zaproszenia.
+836	Konkurs OX dobieg³ koñca.
+837	[Grupa] Nie mo¿esz przyj¹æ zaproszenia.
+838	[Grupa] %s odrzuci³ Twoje zaproszenie.
+839	[Grupa] %s do³¹czy³ do Twojej grupy.
+840	[Grupa] %s do³¹czy³ do Twojej grupy.
+841	Nie mo¿esz teraz korzystaæ z prywatnego straganu.
+842	Ten gracz ju¿ z kimœ handluje.
+843	Numer potwierdzenia Metin2: %s
+844	Twój numer potwierdzenia jest nieprawid³owy. Spróbuj ponownie.
+845	Numer telefonu komórkowego jest zarejestrowany.
+846	Nie mo¿esz teleportowaæ siê do gracza.
+847	Nagroda w konkursie OX zosta³a przyznana. Identyfikator: %d Iloœæ: %d
+848	Gracz nie jest online.
+849	Gracz jest na kanale %d. (Jesteœ na kanale %d.)
+850	Nie mo¿esz siê nigdzie ruszyæ przez %d sekund po otwarciu magazynu.
+851	Nie mo¿esz siê ruszyæ natychmiast po dokonaniu transakcji.
+852	Nie mo¿esz siê nigdzie ruszyæ przez %d sekund po dokonaniu transakcji.
+853	Pojedynek zakoñczy³ siê; twój myœliwiec znikn¹³.
+854	Brak limitu eliksirów.
+855	Mo¿esz u¿yæ do %d eliksirów.
+856	Pojedynek rozpocznie siê za 10 sekund.
+857	Rozpocz¹³ siê pojedynek.
+858	TRUE
+859	Pojedynek zakoñczy³ siê z powodu problemu z aren¹.
+860	Pojedynek siê skoñczy³, czas min¹³.
+861	Za 10 sekund zostaniesz przeniesiony do miasta.
+862	Pojedynek zakoñczy³ siê z powodu problemu z aren¹.
+863	Twój przeciwnik ma problemy. Pojedynek dobiega koñca.
+864	Pojedynek zakoñczy³ siê z powodu problemów z przeciwnikiem.
+865	%s wygra³ pojedynek.
+866	%s wygra³.
+867	Za 10 sekund zostaniesz przeniesiony do miasta.
+868	Nastêpna runda rozpocznie siê za 10 sekund.
+869	FALSE
+870	Przeciwnik roz³¹czy³ siê. Pojedynek zakoñczy³ siê.
+871	Szansa na wypadniêcie wynosi obecnie +%d%%
+872	Limit zrzutu Yang wynosi obecnie +%d%%
+873	Obecna szansa na spadek Yang jest wiêksza o %d%%.
+874	Bonus doœwiadczenia stanowi obecnie dodatkowy %d%%.
+875	Wersja klienta gry jest nieprawid³owa. Zainstaluj najnowsz¹ ³atkê.
+876	Nie mo¿esz handlowaæ, gdy otwarte jest inne okno.
+877	Jesteœ zbyt daleko od sklepu, aby dokonaæ zakupu.
+878	Jesteœ zbyt daleko od sklepu, aby sprzedawaæ.
+879	Nie mo¿esz handlowaæ, poniewa¿ nosisz wiêcej ni¿ 2 biliony Yang.
+880	Ca³kowita liczba quizów: %d
+881	Podatek od sprzeda¿y: %d%%.
+882	Podczas transformacji nie mo¿esz jeŸdziæ konno.
+883	Nie mo¿esz jeŸdziæ konno, jeœli masz na sobie sukniê œlubn¹ lub smoking.
+884	Nie masz konia.
+885	Twój koñ nie ¿yje.
+886	Wytrzyma³oœæ Twojego konia jest zbyt niska.
+887	Wo³anie konia nie powiod³o siê.
+888	Koñ
+889	Œlub wkrótce siê zakoñczy.
+890	Zostanie automatycznie opuszczony.
+891	Wojna ju¿ siê zakoñczy³a.
+892	Wynik bêdzie znany za 10 sekund.
+893	Nie mo¿esz handlowaæ, obserwuj¹c.
+894	Jeœli okno jest otwarte, nie mo¿esz handlowaæ z innymi.
+895	Druga osoba jest obecnie zajêta, wiêc nie mo¿esz teraz z ni¹ handlowaæ.
+896	Druga osoba anulowa³a transakcjê.
+897	Niewystarczaj¹ca iloœæ Yang lub miejsca w ekwipunku.
+898	Druga osoba nie ma wystarczaj¹cej iloœci Yang lub miejsca w ekwipunku.
+899	Druga osoba nie ma wystarczaj¹cej iloœci miejsca w ekwipunku.
+900	Handel z %s zakoñczy³ siê sukcesem.
+901	Dziêki b³ogos³awieñstwu Boga-Smoka nie straci³eœ ¿adnego doœwiadczenia.
+902	Obecny wynik: Shinsoo: %d, Chunjo: %d, Jinno: %d
+903	Prawid³owa odpowiedŸ to:
+904	%s liczba martwych %d Imperium %d liczba zabójstw %d (Cel %d) liczba zabójstw %d, RegenFlag %d
+905	Diabe³ œwiêtego miejsca: [ENTER][ENTER]
+906	, nie masz prawa tu byæ. To jest œwiête miejsce. Wyjechaæ! Cz³onkowie Twojego królestwa opuszcz¹ œwiête miejsce za 10 sekund.
+907	Królestwo %s zosta³o pokonane i opuœci³o bitwê o królestwo.
+908	Liczba potworów w Bitwie o Królestwo:
+909	Jeœli pokonasz stra¿nika œwiêtego miejsca, staniesz siê jego w³aœcicielem.
+910	Dziêki ochronie Smoczego Boga nie straci³eœ ¿adnych przedmiotów.
+911	Dodatkowe obra¿enia od broni przebijaj¹cej %d
+912	%s blok! (%D%%)
+913	%s unik! (%D%%)
+914	Tak (O)
+915	%s[%d]s Pozycja ataku: %d %d
+916	Proszê wpisaæ ca³e polecenie.
+917	Nie mo¿na tego zrobiæ jad¹c konno.
+918	Nie mo¿esz tego robiæ le¿¹c na ziemi.
+919	W moich snach? Co?
+920	Wstañ pierwszy.
+921	To polecenie nie istnieje.
+922	[Grupa] Grupa zosta³a rozwi¹zana.
+923	[Grupa] Nie mo¿esz przywo³aæ celu.
+924	[Grupa] Nie mo¿esz przyzywaæ cz³onków grupy do swojej bie¿¹cej lokalizacji.
+925	Nie (X)
+926	Grupa dobrze wspó³pracuje, a pobliscy cz³onkowie otrzymuj¹ premiê doœwiadczenia.
+927	Lider
+928	Cz³onek
+929	[Gildia] Dostarczone doœwiadczenie przekracza pozosta³e doœwiadczenie.
+930	[Gildia] Nie mo¿na usun¹æ wiadomoœci.
+931	[Gildia] Za ma³o Smoczego Ducha. (%d,%d)
+932	[Gildia] Nie mo¿esz jeszcze u¿ywaæ umiejêtnoœci gildii.
+933	[Gildia] U¿yto %d-umiejêtnoœci (%d, %d) na %u.
+934	[Gildia] Gracz jest na kanale %d. (Bie¿¹cy kana³: %d)
+935	[Gildia] Gracz nie jest online.
+936	Za 5 sekund wszyscy, którzy odpowiedzieli b³êdnie, zostan¹ wyeliminowani.
+937	[Gildia] Z tej umiejêtnoœci gildii mo¿na korzystaæ tylko podczas wojny.
+938	[Gildia] Przywrócono %u punktów Dragon Spirit.
+939	[Gildia] Tylko mistrz gildii mo¿e wybraæ Yanga.
+940	[Gildia] Gracz odrzuci³ zaproszenie do gildii.
+941	[Gildia] Nie mo¿esz nikogo przyj¹æ do gildii.
+942	[Gildia] Nie mo¿esz przyj¹æ do gildii gracza z innego królestwa.
+943	[Gildia] Ten gracz mo¿e zostaæ ponownie zaproszony za %d dni.
+944	[Gildia] Po reorganizacji mo¿esz ponownie przyj¹æ cz³onków za %d dni.
+945	[Gildia] Ta osoba jest ju¿ cz³onkiem innej gildii.
+946	[Gildia] Pojemnoœæ gildii osi¹gnê³a maksymalny poziom.
+947	Gotowy na nastêpne pytanie?
+948	Nie mo¿esz trenowaæ tej umiejêtnoœci.
+949	Nie mo¿esz wyszkoliæ tej umiejêtnoœci do poziomu arcymistrza.
+950	Jesteœ ju¿ mistrzem tej umiejêtnoœci. Nie mo¿esz go dalej trenowaæ.
+951	Twój poziom umiejêtnoœci nie jest wystarczaj¹co wysoki, aby trenowaæ na arcymistrza.
+952	Ups, to nie zadzia³a³o. Do cholery!
+953	Szkolenie nie powiod³o siê. Spróbuj ponownie póŸniej.
+954	Moje cia³o jest pe³ne si³y!
+955	Wygl¹da na to, ¿e trening przynosi efekty...
+956	Pomyœlnie ukoñczy³eœ szkolenie z ksi¹¿k¹.
+957	Nie mo¿esz tego przeczytaæ; masz za ma³o doœwiadczenia.
+958	Pytanie.
+959	Nie da siê ju¿ trenowaæ tej umiejêtnoœci za pomoc¹ ksi¹¿ki.
+960	Ta umiejêtnoœæ nie jest na tyle wysoka, aby mo¿na j¹ by³o trenowaæ za pomoc¹ ksi¹¿ki.
+961	Jest coraz lepiej, ale nadal nie wszystko rozumiem.
+962	Trudno jest zrozumieæ instrukcje. Muszê siê wiêcej uczyæ.
+963	Rozumiem ten rozdzia³. Ale musia³em ciê¿ko pracowaæ.
+964	Pomyœlnie ukoñczy³eœ szkolenie z ksi¹¿k¹.
+965	Teleportacja nie powiod³a siê.
+966	Nie ma tu ¿adnego konia. Zapytaj s³u¿¹cego.
+967	U¿yj przedmiotu, aby przywo³aæ konia.
+968	%s Zu¿ycie SB: %d
+969	Jeœli jest poprawnie, przejdŸ do O. Jeœli jest Ÿle, przejdŸ do X.
+970	P³onie w œrodku, ale to uspokaja moje cia³o. Moje Chi musi siê ustabilizowaæ.
+971	Powoli... ale wci¹¿... bez zatrzymywania siê!
+972	Tak, czujê siê œwietnie. Moje cia³o jest pe³ne Chi.
+973	przeczyta³em to! Teraz Chi przep³ywa przez moje cia³o.
+974	Szkolenie zakoñczone.
+975	Jestem na ostatniej stronie ksi¹¿ki! Szkolenie ju¿ prawie zakoñczone!
+976	Prawie gotowe! Jeszcze trochê!
+977	Jestem oœwiecony! Prawie przeczyta³em ca³oœæ!
+978	Jeszcze tylko kilka stron i przeczytam ca³oœæ.
+979	Czujê siê odœwie¿ony.
+980	Prawid³owy!
+981	Teraz rozumiem!
+982	Dobrze, powinienem siê skupiæ.
+983	Czytam w kó³ko ten sam wiersz.
+984	Nie chcê uczyæ siê niczego innego.
+985	To jest bardziej skomplikowane ni¿ myœla³em.
+986	Nie mogê siê odpowiednio skupiæ. Powinienem zrobiæ sobie przerwê.
+987	Twój czat zosta³ tymczasowo zablokowany z powodu spamu.
+988	Twoja blokada czatu zosta³a zniesiona.
+989	Okno rzemios³a jest ju¿ otwarte.
+990	You cannot craft if another shop/warehouse window is open.
+991	Dalsza poprawa nie jest mo¿liwa.
+992	Okno rzemios³a nie jest otwarte.
+993	Nie masz odpowiedniego materia³u.
+994	[Gildia] Spróbuj ponownie póŸniej.
+995	Aby ulepszyæ tê umiejêtnoœæ, musisz przeczytaæ %d wiêcej ksi¹¿ek.
+996	[Gildia] Spróbuj ponownie póŸniej.
+997	Z tej funkcji mo¿na korzystaæ wy³¹cznie w zamku.
+998	TEST: Sztabki z³ota zosta³y zwrócone do skarbca Twojego królestwa.
+999	TEST: Skarbiec Twojego królestwa zawiera: %d
+1000	TEST: Nie mo¿esz wp³aciæ sztabek z³ota z powrotem do skarbca swojego królestwa.
+1001	[Gildia] Zdobyto %d punktów.
+1002	Tego przedmiotu nie mo¿na ulepszyæ.
+1003	Darmowe ulepszenia broni mo¿na zastosowaæ tylko do broni do poziomu 20.
+1004	Nie mo¿esz u¿yæ tego przedmiotu, poniewa¿ nie masz wystarczaj¹cych kwalifikacji.
+1005	Nie mo¿esz u¿yæ tego przedmiotu, poniewa¿ nie jesteœ odpowiedniej p³ci.
+1006	Zastosowanie: transfer <nazwa>
+1007	Z tej funkcji mo¿e korzystaæ wy³¹cznie cesarz.
+1008	Nie mo¿esz rekrutowaæ graczy z innego królestwa.
+1009	Gracz %s jest obecnie na kanale %d. (Twój kana³: %d)
+1010	Zrekrutowa³eœ %s graczy.
+1011	Nie istnieje ¿aden u¿ytkownik o tej nazwie.
+1012	Nie mo¿esz rekrutowaæ siebie.
+1013	Twój poziom jest zbyt niski; nie mo¿esz u¿yæ tego przedmiotu.
+1014	Nie mo¿esz niczego uaktualniaæ, gdy otwarte jest inne okno.
+1015	Cesarz %s zosta³ zmieniony na %s.
+1016	Trwa wojna o rozpalenie sygna³u w %s.
+1017	%s pomyœlnie siê obroni³.
+1018	Za 30 minut gracz %s mo¿e otrzymaæ nagrodê za zniszczenie ognia sygna³owego.
+1020	W %s rozpalono ognie sygna³owe, aby zaalarmowaæ o bitwie.
+1021	%s zniszczy³ ogieñ sygna³owy.
+1022	%s przegra³ wojnê. Nie byli w stanie obroniæ zamku.
+1023	%s zniszczy³ wszystkie po¿ary sygna³owe.
+1024	Niewystarczaj¹cy Yang do modernizacji.
+1025	Mo¿esz otworzyæ stragan tylko wtedy, gdy jesteœ rozebrany.
+1026	Nie mo¿na tego u¿ywaæ podczas jazdy konnej.
+1027	Potrzebujesz: %s do tej akcji.
+1028	Pozosta³o %d godzin, %d minut i %d sekund bloku czatu.
+1029	Pozosta³o %d godzin i %d sekund bloku czatu.
+1030	Pozosta³o %d minut i %d sekund bloku czatu.
+1031	Szybkoœæ spadania
+1032	Brak kamienia do usuniêcia.
+1033	Nie mo¿na u¿ywaæ.
+1034	Up³yn¹³ przydzielony czas na serwerze testowym.
+1035	Nie masz odpowiedniego materia³u do wytworzenia tego przedmiotu.
+1036	Nie mo¿na ju¿ zwiêkszaæ punktów rangi.
+1037	Wszystkie królestwa
+1038	Czêstotliwoœæ wypadania przedmiotów
+1039	Szybkoœæ spadania
+1040	Procentowa stawka punktów doœwiadczenia
+1041	Nie mo¿esz czytaæ ksi¹¿ki bêd¹c przemienionym.
+1042	Pozosta³o %d sekund bloku czatu.
+1043	Jad¹c konno nie da siê wyraziæ emocji.
+1044	Nie mo¿esz wyra¿aæ emocji graczowi jad¹cemu na koniu.
+1045	Zwój Wojenny nie dzia³a na przedmiotach +4 i wy¿szych.
+1046	%s rzuci³ kostk¹. Wynik: %d (%d-%d).
+1047	Rzuci³eœ kostk¹. Masz %d (%d-%d).
+1048	[Gildia] Lider wrogiej gildii jest offline.
+1049	Na konia nie mo¿na wsi¹œæ le¿¹c na ziemi :)
+1050	[Gildia] Ta gildia bierze obecnie udzia³ w wojnie.
+1051	Nie mo¿na tu ³owiæ ryb.
+1052	[Gildia] Twoja gildia osi¹gnê³a maksymalny poziom.
+1053	Nie mo¿esz siê zmieniaæ podczas jazdy.
+1054	Ju¿ jedziesz. Najpierw zsi¹dŸ.
+1055	Nie mo¿esz dodaæ gracza stoj¹cego naprzeciw Ciebie do listy znajomych.
+1056	Nie mo¿esz ulepszyæ tego zwoju.
+1057	Element zniknie za %d minut.
+1058	[Gildia] Gracz stoj¹cy naprzeciw ciebie nie mo¿e zostaæ zaproszony.
+1059	Nie mo¿esz sprzedaæ przedmiotu, którego u¿ywasz.
+1060	Na stoisku nie mo¿na sprzedawaæ przedmiotów bêd¹cych w u¿yciu.
+1061	[Magazyn] Nie mo¿esz przenieœæ tego przedmiotu do magazynu.
+1062	Nie mo¿esz jeszcze upuszczaæ z³ota.
+1063	Twój ekwipunek jest pe³ny. Nie mo¿na odebraæ przedmiotu.
+1064	Poziom przedmiotu jest zbyt wysoki.
+1065	Mo¿na go u¿ywaæ tylko na broni lub zbroi.
+1066	Tego Smoczego Kamienia nie mo¿na na³adowaæ.
+1067	Za zadanie Demon Tower mo¿esz zostaæ nagrodzony tylko raz.
+1068	Smoczy Kamieñ zosta³ usuniêty.
+1069	Nie mo¿na przenieœæ elementu w oknie udoskonalania.
+1070	Aktualizacja przedmiotu nie powiod³a siê.
+1071	Na tej mapie nie ma kamienia Metin.
+1072	Pozosta³y czas Smoczego Kamienia zosta³ usuniêty.
+1073	Nie uda³o siê usun¹æ pozosta³ego czasu.
+1074	Nie uda³o siê usun¹æ Smoczego Kamienia. Otrzyma³eœ jednak nastêpuj¹c¹ informacjê: %s
+1075	Nie uda³o siê usun¹æ Smoczego Kamienia.
+1076	Ten przedmiot nie jest potrzebny do ulepszenia czystoœci.
+1077	Tego przedmiotu nie mo¿na ulepszyæ w ten sposób.
+1078	Aktualizacja czystoœci powiod³a siê.
+1079	Udoskonalenie o jeden poziom nie powiod³o siê.
+1080	Ten element nie jest potrzebny do udoskonalenia.
+1081	Smoczego Kamienia nie mo¿na u¿ywaæ do uszlachetniania.
+1082	Udoskonalenie o jeden poziom zakoñczy³o siê sukcesem.
+1083	Aktualizacja czystoœci nie powiod³a siê.
+1084	Nie masz wszystkich materia³ów potrzebnych do ulepszenia Smoczego Kamienia.
+1085	Smoczego Kamienia nie mo¿na u¿ywaæ do ulepszania.
+1086	Nie mo¿na ³¹czyæ identycznych zwojów ulepszeñ.
+1087	Ulepszenie powiod³o siê.
+1088	Ulepszanie nie powiod³o siê.
+1089	Smoczy Kamieñ nie jest aktywowany.
+1090	Nosisz ju¿ Smoczy Kamieñ tego typu.
+1091	Smoczego Kamienia nie mo¿na usun¹æ.
+1092	Masz ju¿ ten typ Smoczego Kamienia w swoim ekwipunku.
+1093	Dodano %d sekund.
+1094	Przed otwarciem Cor Draconis musisz ukoñczyæ zadanie Smoczy Kamieñ i aktywowaæ Alchemiê Smoczego Kamienia.
+1095	Pasek mo¿na zdj¹æ tylko wtedy, gdy nie zawiera ¿adnych przedmiotów.
+1096	Mo¿esz ³¹czyæ Magiczny Kamieñ i B³ogos³awiony Zwój.
+1097	Nie mo¿esz dodaæ tego przedmiotu do swojego paska.
+1098	Nie mo¿esz jeŸdziæ w tym labiryncie.
+1099	Jednorazowo mo¿esz u¿yæ maksymalnie 200 sk³adników.
+1100	Przedmioty zwi¹zane z dusz¹ nie mog¹ byæ sprzedawane na straganie.
+1101	Atrybutów przedmiotów zwi¹zanych z dusz¹ nie mo¿na zmieniæ.
+1102	Nie mo¿esz u¿ywaæ przedmiotu zwi¹zanego z dusz¹.
+1103	Nie mo¿esz upuœciæ przedmiotu zwi¹zanego z dusz¹.
+1104	Nie mo¿esz podarowaæ przedmiotu zwi¹zanego z dusz¹.
+1105	Na tym serwerze nie mo¿na powi¹zaæ przedmiotu z dusz¹.
+1106	Nie mo¿esz powi¹zaæ tego przedmiotu ze swoj¹ dusz¹.
+1107	Zainwestowa³eœ %d Yang.
+1108	Brak kamienia do odbioru.
+1109	Ten przedmiot jest ju¿ powi¹zany z dusz¹.
+1110	WiêŸ duszna tego przedmiotu zostaje usuniêta.
+1111	Ten przedmiot nie jest powi¹zany z dusz¹.
+1112	Nie mo¿esz ulepszyæ przedmiotu zwi¹zanego z dusz¹.
+1113	Nie mo¿esz sprzedaæ przedmiotu zwi¹zanego z dusz¹.
+1114	Nie mo¿esz otworzyæ tej skrzyni; niewystarczaj¹ca przestrzeñ magazynowa.
+1115	Nie mo¿esz otworzyæ prywatnego straganu podczas handlu z innymi.
+1116	Nie mo¿esz u¿ywaæ tego przedmiotu podczas handlu.
+1117	Nie mo¿esz u¿ywaæ Zwoju Lokacji, gdy okno Szerpów jest otwarte.
+1118	Nie mo¿esz handlowaæ, gdy otwarte jest inne okno.
+1119	Nie mo¿esz zapisaæ tej pozycji.
+1120	Mo¿esz u¿ywaæ Szerpów jak broni i zbroi.
+1121	Przeci¹gnij elementy do okna.
+1122	To zosta³o ju¿ dostosowane.
+1123	Szerpa nie mo¿e ju¿ otrzymaæ ¿adnych bonusów.
+1124	Mo¿esz u¿ywaæ tylko Szerpów.
+1125	Tych Szerpów nie mo¿na ³¹czyæ.
+1126	Przegrany!
+1127	Udany!
+1128	Nie masz wystarczaj¹cej iloœci pieniêdzy na po³¹czenie.
+1129	Nie mo¿esz u¿yæ tego przedmiotu, jeœli okna ³¹czenia i absorpcji s¹ otwarte.
+1130	Za ma³o miejsca w ekwipunku.
+1131	%s siê powiod³o! Wspó³czynnik absorpcji %d%% na nowych %s. Gratulacje!
+1132	Nie mo¿esz u¿ywaæ przedmiotów zwi¹zanych z dusz¹.
+1133	Nie mo¿esz sprzedawaæ przedmiotów, których aktualnie u¿ywasz, na prywatnym straganie.
+1134	Nie mo¿esz u¿ywaæ tego etui podczas jazdy.
+1135	Czas min¹³. Pierwsza runda dobieg³a koñca.
+1136	Czas min¹³. Druga runda dobieg³a koñca.
+1137	Pozosta³y czas do koñca pierwszej rundy: %d minut.
+1138	Pozosta³y czas do koñca drugiej rundy: %d minut.
+1139	Bezpieczna strefa zosta³a w³aœnie dezaktywowana.
+1140	Pozosta³y czas do dezaktywacji bezpiecznej strefy: %d minut.
+1141	Nie mo¿esz teleportowaæ siê do bezpiecznego miejsca w innym królestwie.
+1142	OdpowiedŸ zostanie wyœwietlona za 20 sekund.
+1143	Za 15 sekund wszyscy, którzy odpowiedzieli b³êdnie, zostan¹ usuniêci.
+1144	Twój poziom jest zbyt niski, aby przywo³aæ zwierzaka.
+1145	
+1146	Przyzwa³eœ: %s.
+1147	Odrzuci³eœ: %s.
+1148	%s osi¹gn¹³ poziom %d!
+1149	%s jest obecnie œpi¹cy.
+1150	%s w³aœnie siê wyklu³!
+1151	Twój pupil z pe³nym entuzjazmem zaatakowa³ batonik proteinowy.
+1152	Za ma³o ciœnienia.
+1153	%s obudzi³ siê i zacz¹³ jeœæ pyszne jedzenie.
+1154	%s jest teraz w skrzynce transportowej.
+1155	%s wyskoczy³ ze skrzyni transportowej.
+1156	%s zmieniony na %s! Doskona³y!
+1157	%s nie chcia³ niczego zjeœæ!
+1158	Wydarzenie zakoñczy³o siê i nikt z królestwa nie bra³ w nim udzia³u.
+1159	Pomyœlnie przenios³eœ bonusy.
+1160	Nie masz wystarczaj¹cej iloœci Yang, aby ze mn¹ handlowaæ.
+1161	Proszê wpisaæ inn¹ nazwê.
+1162	Nie masz wystarczaj¹cej liczby punktów magii (MB) do wykorzystania.
+1163	Nie mo¿esz handlowaæ, gdy Inkubator Twojego partnera jest otwarty.
+1164	You cannot open the Incubator if trading or storage/private stall window is open.
+1165	Nie mo¿esz otworzyæ prywatnego straganu, gdy przywo³ane jest zwierzê.
+1166	Nie mo¿esz handlowaæ podczas przywo³ywania zwierzaka.
+1167	Nie mo¿esz handlowaæ, gdy twój partner przywo³uje zwierzaka.
+1168	Twoje zwierzê zdoby³o wystarczaj¹ce doœwiadczenie. Potrzebuje teraz przedmiotu, aby przejœæ do nastêpnego etapu ewolucji.
+1169	Twoje zwierzê jest gotowe na ewolucjê. U¿yj ksi¹¿ek o zwierzêtach do rozwoju.
+1170	Twoje zwierzê osi¹gnê³o ju¿ najwy¿szy etap ewolucji.
+1171	Wprowadzona nazwa jest za krótka.
+1172	Dotrzesz do celu %d sekund po wykonaniu.
+1173	Nie masz wystarczaj¹cej iloœci Yang.
+1174	Dobrze wyszkoli³eœ swojego zwierzaka! Bardzo szybko uczy siê nowych umiejêtnoœci!
+1175	Doœwiadczenie zwiêkszone do %d punktów.
+1176	Twoje zwierzê nauczy³o siê ju¿ tej umiejêtnoœci i nie chce uczyæ siê jej ponownie.
+1177	Aktywowano zdolnoœæ %s. BP zwiêkszone o %d.
+1178	Aby wys³aæ swojego zwierzaka na bohaterskie szkolenie, musisz zdobyæ Ksiêgê Dzielnych Zwierz¹t.
+1179	Twoje zwierzê musi mieæ poziom %d, aby móc trenowaæ i ewoluowaæ do nastêpnego etapu ewolucji.
+1180	Aby mo¿liwe by³o wyszkolenie i ewolucja do nastêpnego etapu ewolucji, Twoje zwierzê musi mieæ %d dni.
+1181	Twoje zwierzê musi mieæ 100% doœwiadczenia w szkoleniu i ewolucji do nastêpnego etapu ewolucji.
+1182	Efekt %s aktywowany.
+1183	Twój poziom jest zbyt niski, aby u¿yæ tego przedmiotu.
+1184	Efekt %s nie zosta³ aktywowany.
+1185	Aktywowano zdolnoœæ %s. Jesteœ teraz odporny na obra¿enia.
+1186	Aktywowano zdolnoœæ %s. Usuniêto efekty spowolnienia, trucizny i krwawienia.
+1187	Otrzymujesz bonusy.
+1188	Okno jest ju¿ otwarte.
+1189	Penetracja zaklêæ %d%%.
+1190	%s odnawia siê po wyczerpaniu.
+1191	Nie mo¿esz tutaj u¿yæ tego przedmiotu.
+1192	Nie mo¿esz przywo³aæ zwierzaka podczas handlu.
+1193	Nie mo¿esz otworzyæ prywatnego stoiska.
+1194	Mo¿esz u¿yæ Ciasteczka Ksiê¿ycowego tylko co 5 sekund.
+1195	Nie masz wystarczaj¹cej liczby %s. Potrzebujesz %d do nastêpnego etapu ewolucji.
+1196	Poziom zwierzaka nie mo¿e przekraczaæ poziomu gracza.
+1197	Poziom: M³ody
+1198	Poziom: dziki
+1199	Poziom: Odwa¿ny
+1200	Poziom: Heroiczny
+1201	@*** Throwing for this item: %s ***
+1202	@*** ->%*s - score: %4d ***
+1203	$*** Item %s winner is: %s ***
+1204	Nowy wspó³czynnik absorpcji: %d
+1205	Nie mo¿esz u¿ywaæ tego przedmiotu podczas walki.
+1206	Osi¹gniêto maksymaln¹ szybkoœæ wch³aniania.
+1207	Nauczy³eœ siê ju¿ tej umiejêtnoœci.
+1208	Nie znaleziono ¿adnych elementów spe³niaj¹cych kryteria wyszukiwania.
+1209	Zebrano wystarczaj¹c¹ liczbê lampionów dyniowych.
+1210	Zapytaj Sama Dyni, czy zas³ugujesz na nagrodê.
+1211	Wydarzenie Halloweenowe rozpoczête!
+1212	IdŸ porozmawiaæ z Samem Dyni¹!
+1213	Event Halloweenowy dobieg³ koñca. Nie zapomnij odebraæ nagród!
+1214	Dostarczono latarnie dyniowe: %d
+1215	£¹czna liczba latarni dyniowych: %d
+1216	Wygra³eœ %d Yang.
+1217	Nie mo¿na tu rozpalaæ ogniska.
+1218	Ten gracz obecnie handluje z kimœ innym.
+1219	Najpierw musisz wyposa¿yæ siê w broñ.
+1220	Tego kostiumu nie mo¿na u¿ywaæ z t¹ broni¹.
+1221	Jeœli chcesz zamieniæ broñ, musisz najpierw usun¹æ wygl¹d broni.
+1222	Nie masz wystarczaj¹cej iloœci Yang, aby rozpocz¹æ grê Okey.
+1223	Nie masz %s, aby rozpocz¹æ grê Okey.
+1224	Twoja gra w Okey siê rozpoczê³a!
+1225	Nie mo¿esz rozdaæ wiêcej kart.
+1226	Nie mo¿esz odrzucaæ kart, gdy niektóre s¹ oznaczone.
+1227	Nie mo¿esz rozdaæ wiêkszej liczby kart, gdy niektóre s¹ oznaczone.
+1228	Nie mo¿na rozpalaæ ogniska pod wod¹... to by³oby nierozs¹dne.
+1229	Twój ekwipunek jest pe³ny.
+1230	Nagrodê otrzymasz tylko wtedy, gdy zwolnisz miejsce w swoim ekwipunku.
+1231	%s w Okey zdoby³ %d punktów.
+1232	Nie mo¿esz rozpocz¹æ gry Okey podczas handlu.
+1233	Okey wydarzenie rozpoczête!
+1234	OK, wydarzenie dobieg³o koñca!
+1235	[Okey Event] Jeœli uda Ci siê dostaæ na najwy¿sz¹ lokatê, masz 7 dni na odebranie nagrody.
+1236	Nie mo¿esz tego zrobiæ podczas gry w Okey.
+1237	Zamkniête. Powinieneœ znaleŸæ klucz.
+1238	Kamienia Rytualnego mo¿na u¿ywaæ tylko na przedmiotach powy¿ej poziomu 80.
+1239	Nie mo¿esz handlowaæ, poniewa¿ przekroczono maksymalny limit %d Won.
+1240	Nie masz wystarczaj¹cej iloœci Yang.
+1241	Nie masz wystarczaj¹cej liczby wygranych.
+1242	Nie mo¿esz kontynuowaæ handlu, poniewa¿ maksymalny limit wygranych zosta³by przekroczony.
+1243	Nie mo¿esz kontynuowaæ handlu, poniewa¿ maksymalny limit Yang zosta³by przekroczony.
+1244	Nie mo¿esz otworzyæ prywatnego straganu, poniewa¿ mo¿e on przekroczyæ maksymaln¹ kwotê %d Won.
+1245	Nie mo¿esz rozszerzaæ ekwipunku podczas handlu.
+1246	Okey wydarzenie rozpoczête!
+1247	OK, wydarzenie dobieg³o koñca!
+1248	Tego przedmiotu nie mo¿na otworzyæ kluczem.
+1249	Potwory pojawi³y siê w Dolinie Seungryong, Górze Sohan, Doyyumhwan i Pustyni Yongbi!
+1250	PrzejdŸ przez obszary i zabij ich. Zbieraj trafienia i wymieniaj je na skrzynie.
+1251	Wydarzenie Boss Reaper zakoñczy siê za %d minut.
+1252	Pan B i bossowie znikn¹ za %d minut.
+1253	Osi¹gn¹³eœ swój dzienny cel - wybierz nagrodê.
+1254	Nie mo¿esz u¿ywaæ wygl¹du broni, maj¹c na sobie sukniê œlubn¹ lub smoking.
+1255	Druga osoba jest obecnie zajêta, wiêc nie mo¿esz teraz z ni¹ handlowaæ.
+1256	Nie mo¿esz nosiæ sukni œlubnej ani smokingu, jeœli u¿ywasz wygl¹du broni.
+1257	Rozpoczyna siê runda %d.
+1258	To jest w³aœciwy klucz.
+1259	[Gildia] Wp³aci³eœ ju¿ maksymaln¹ kwotê BZK.
+1260	[Gildia] Rozpoczê³o siê og³oszenie gildii.
+1261	[Gildia] Rozszerzona reklama gildii.
+1262	[Gildia] Lista jest aktualizowana. Spróbuj ponownie póŸniej.
+1263	[Gildia] Nie znaleziono gildii.
+1264	[Gildia] Wys³a³eœ ju¿ proœbê do tej gildii.
+1265	[Gildia] Twoja proœba zosta³a zarejestrowana.
+1266	[Gildia] Gracz %s poprosi³ o do³¹czenie do gildii.
+1267	[Gildia] Lista jest aktualizowana. Spróbuj ponownie póŸniej.
+1268	[Gildia] Brak dostêpnych og³oszeñ gildii.
+1269	Otrzyma³eœ %d Yang.
+1270	[Gildia] Brak próœb.
+1271	[Gildia] Reklama gildii bêdzie wyœwietlana przez %s.
+1272	[Gildia] Reklama gildii wkrótce siê zakoñczy.
+1273	[Gildia] Otrzymano %d Yang.
+1274	[Gildia] Po opodatkowaniu %d%% otrzymasz %d Yang.
+1275	[Gildia] Nie mo¿esz wypowiedzieæ wojny, gdy aktywne jest g³osowanie.
+1276	[Gildia] Nie mo¿esz rozwi¹zaæ gildii, gdy aktywne jest g³osowanie.
+1277	[Gildia] Nie mo¿esz zaprosiæ kogoœ do gildii, gdy aktywne jest g³osowanie.
+1278	[Gildia] Mo¿esz zbudowaæ tylko jeden magazyn gildii.
+1279	Z tej skrzyni wydobywa siê tajemniczy blask.
+1280	[Gildia] Spróbuj ponownie za 10 sekund.
+1281	[Gildia] To jest u¿ywane przez innego cz³onka.
+1282	[Gildia] Magazyn gildii nadal zawiera przedmioty.
+1283	[Gildia] G³osowa³eœ przeciw.
+1284	[Gildia] G³osowa³eœ na.
+1285	[Gildia] Cz³onek jest obecnie offline.
+1286	[Gildia] Nie trwa g³osowanie.
+1287	[Gildia] Rozpoczyna siê g³osowanie na zmianê lidera.
+1288	[Gildia] Rozpoczyna siê g³osowanie "Usuñ cz³onka".
+1289	[Gildia] Rozpoczyna siê g³osowanie "Sprzedaj terytorium gildii".
+1290	Otrzyma³eœ %d punktów doœwiadczenia.
+1291	[Gildia] Rozpoczyna siê g³osowanie "Opuœæ terytorium gildii".
+1292	[Gildia] Trwa g³osowanie na zmianê lidera.
+1293	[Gildia] Trwa g³osowanie "Usuñ cz³onka".
+1294	[Gildia] Trwa g³osowanie "Sprzedaj terytorium gildii".
+1295	[Gildia] Trwa g³osowanie "Opuœæ terytorium gildii".
+1296	[Gildia] Magazyn gildii jest obecnie w u¿yciu.
+1297	[Gildia] Musisz poczekaæ 10 sekund zanim ponownie otworzysz magazyn gildii.
+1298	[Gildia] Twoja gildia nie posiada magazynu.
+1299	Zobacz, co wypad³o ze skrzyni!
+1300	[Gildia] G³osowanie na tego gracza nie powiod³o siê. Spróbuj ponownie za %d miesiêcy, %d dni, %d godzin i %d minut.
+1301	[Gildia] Cz³onek zosta³ usuniêty z gildii z powodu braku aktywnoœci.
+1302	[Gildia] Bra³eœ udzia³ w bie¿¹cym g³osowaniu.
+1303	[Gildia] Nie mo¿esz rozpocz¹æ g³osowania na swoj¹ postaæ.
+1304	[Gildia] Nie mo¿na rozpocz¹æ g³osowania podczas wojny.
+1305	[Gildia] Nie mo¿esz sprzedaæ sobie terytorium gildii.
+1306	[Gildia] Ta gildia nie istnieje.
+1307	[Gildia] Nie mo¿na rozpocz¹æ g³osowania podczas wojny.
+1308	[Gildia] Poziom gildii jest zbyt niski.
+1309	[Gildia] Cz³onek gildii odrzuci³ ostatnie g³osowanie. Spróbuj ponownie za %d miesiêcy, %d dni, %d godzin i %d minut.
+1310	Jeœli wdychasz czerwony dym ze skrzyni, bêdziesz poruszaæ siê szybciej!
+1311	[Gildia] Nie mo¿na rozpocz¹æ g³osowania podczas wojny.
+1312	[Gildia] Cz³onek gildii odrzuci³ ostatnie g³osowanie. Spróbuj ponownie za %d miesiêcy, %d dni, %d godzin i %d minut.
+1313	[Gildia] Musisz g³osowaæ przed sprzeda¿¹ terytorium gildii.
+1314	[Gildia] Ta gildia nie jest brana pod uwagê w g³osowaniu.
+1315	[Gildia] Cz³onek gildii odrzuci³ ostatni g³os na sprzeda¿. Spróbuj ponownie.
+1316	[Gildia] Nie mo¿esz sprzedaæ sobie terytorium gildii.
+1317	[Gildia] Lider gildii jest offline lub na innej mapie.
+1318	[Gildia] Gildia jest ju¿ w³aœcicielem terytorium.
+1319	[Gildia] Nie znaleziono terytorium gildii.
+1320	[Gildia] Sprzeda¿ terytorium gildii zakoñczona.
+1321	Tego przedmiotu mo¿na u¿yæ tylko podczas bie¿¹cego wydarzenia.
+1322	Wyst¹pi³ b³¹d. Bonusów nie mo¿na by³o zmieniæ.
+1323	Nie mo¿esz teraz przywo³aæ swojego zwierzêcia.
+1330	Nie mo¿esz u¿yæ dodatkowego Szerpy jako celu.
+1331	Jako Ÿród³a nie mo¿esz u¿ywaæ Szerpów niebêd¹cych bonusami.
+1332	Nie mo¿esz przenieœæ bonusu, poniewa¿ Szerpowie maj¹ ró¿ne wspó³czynniki absorpcji.
+1333	Nie mo¿esz przenieœæ bonusu, poniewa¿ Szerpowie maj¹ ró¿ne poziomy.
+1334	Awaria! Szybkoœæ wch³aniania spad³a o 1%.
+1335	Czêœciowy sukces! Szybkoœæ wch³aniania spad³a o 1%.
+1336	Sukces! Bonus zosta³ pomyœlnie przes³any.
+1337	Nie mo¿esz odrzuciæ przedmiotów podczas transferu bonusowego.
+1338	Podczas transferu bonusowego nie mo¿na przenosiæ przedmiotów.
+1339	Nie mo¿esz sprzedawaæ przedmiotów podczas transferu bonusowego.
+1340	Niemo¿liwe podczas transferu bonusowego.
+1341	Nie jest to mo¿liwe, poniewa¿ drugi gracz przekazuje bonusy.
+1342	Aby okreœliæ los zwierzaków, potrzebujesz kamienia losu zwierzaka.
+1343	Najpierw musisz aktywowaæ zwierzaka.
+1344	Nie mo¿esz handlowaæ, sprzedawaæ przedmiotów ani korzystaæ z magazynu podczas modyfikowania atrybutów zwierzaka.
+1345	Nie mo¿esz u¿ywaæ przedmiotów podczas modyfikowania atrybutów zwierzaka.
+1346	Nie mo¿esz upuszczaæ przedmiotów podczas modyfikowania atrybutów zwierzaka.
+1347	Nie mo¿esz przenosiæ przedmiotów podczas modyfikowania atrybutów zwierzaka.
+1348	Nie mo¿esz handlowaæ, gdy twój partner modyfikuje atrybuty zwierzaka.
+1349	Nie mo¿esz rozmawiaæ z NPC-ami podczas modyfikowania atrybutów zwierzaka.
+1350	Atrybuty Twojego zwierzaka zosta³y zmienione.
+1351	Mo¿esz otworzyæ to 3 sekundy po zamkniêciu menu modyfikacji atrybutów zwierzaka.
+1352	Wszystkie stanowiska s¹ zajête.
+1399	Gracz nie mo¿e w tej chwili przyj¹æ Twojego zaproszenia.
+1400	Po u¿yciu Nalewki Królestwa nie mo¿esz ju¿ przyjmowaæ zaproszeñ w tym królestwie.
+1401	Zdolnoœci zwierzaka zosta³y aktywowane. %S. %s u¿ywa miêkkiego kroku.
+1403	Ta nazwa jest ju¿ u¿ywana.
+1404	Proszê usun¹æ Smoczy Kamieñ przed u¿yciem tego przedmiotu.
+1405	Nie mo¿esz tutaj wypowiedzieæ wojny gildii.
+1406	Nagroda
+1407	Nagrody za ranking %d
+1408	Szef zosta³ pokonany! Wkrótce zostaniesz teleportowany z powrotem do Œwi¹tyni Zodiaku.
+1409	Niestety nie uda³o siê zatrzymaæ apokalipsy. Wkrótce zostaniesz teleportowany z powrotem do Œwi¹tyni Zodiaku.
+1410	Wszed³eœ do labiryntu %s z trudnoœci¹ %d. Bitwa rozpoczyna siê za %d sekund.
+1411	Nie mo¿esz rozmawiaæ z NPC, gdy skrzynia szczêœcia jest otwarta.
+1412	Nie mo¿esz u¿ywaæ przedmiotów, gdy Szczêœliwa Skrzynia jest otwarta.
+1413	Nie mo¿esz odrzucaæ przedmiotów, gdy Szczêœliwa Skrzynia jest otwarta.
+1414	Nie mo¿esz przenosiæ przedmiotów, gdy Szczêœliwa Skrzynia jest otwarta.
+1415	Nie mo¿esz handlowaæ, gdy Szczêœliwa Skrzynia jest otwarta.
+1416	Nie mo¿esz handlowaæ, jeœli twój partner ma otwart¹ skrzyniê szczêœcia.
+1417	Wszed³eœ do labiryntu %s. Bitwa rozpoczyna siê za %d sekund.
+1418	Zodiak Apokalipsa nie jest obecnie aktywna.
+1419	Zodiakalna Apokalipsa ju¿ siê rozpoczê³a.
+1420	Twój bonus Smoczego Kamienia zosta³ zmieniony.
+1421	[Z³ap króla] Zabijaj potwory i zbieraj karty królewskie. Do Królewskiej Kolekcji potrzeba ³¹cznie 25 kart.
+1422	[Z³ap króla] Czeka na Ciebie mnóstwo nagród!
+1423	[Z³ap króla] Jeœli osi¹gniesz wysok¹ pozycjê w rankingu, otrzymasz wspania³¹ nagrodê ze sto³u do gry.
+1426	Otrzyma³eœ premiê magazynow¹ w wysokoœci %d%% BZK.
+1427	Otrzyma³eœ premiê magazynow¹ w wysokoœci %d obrony.
+1428	Otrzyma³eœ premiê magazynow¹ w wysokoœci %d%% HP.
+1429	Otrzyma³eœ premiê magazynow¹ w wysokoœci %d%% obra¿eñ od potworów.
+1430	Przed ³owieniem upewnij siê, ¿e masz wystarczaj¹co du¿o miejsca w ekwipunku.
+1431	Nie mo¿esz przenosiæ przedmiotów, gdy otwarte jest okno zmiany bonusu.
+1432	Przepraszamy, w rybie nie by³o ¿adnego skarbu.
+1433	Nie mo¿esz ³owiæ ryb, próbuj¹c wykluæ zwierzaka.
+1434	Nie mo¿esz ³owiæ ryb, maj¹c przywo³anego zwierzaka.
+1435	Nie mo¿esz ³owiæ ryb, gdy otwarte jest okno zmiany bonusu.
+1436	Nie mo¿esz wykonaæ tej akcji, gdy okno ³¹czenia lub absorpcji Szerpów jest otwarte.
+1437	Nie mo¿esz wykonaæ tej akcji, gdy otwarte jest okno transferu bonusu Sherpa.
+1438	Nie mo¿esz wykonaæ tej akcji, gdy okno transferu bonusu jest otwarte.
+1439	Nie mo¿na ³owiæ ryb, gdy inne okna s¹ otwarte.
+1440	Nie mo¿esz wykonaæ tej akcji podczas ³owienia ryb.
+1441	Pozosta³y czas: %.2f | Trudnoœæ ryb: %lu | Redukcja trudnoœci: %d
+1442	Wszystkie rankingi Strefy Bitwy zosta³y zresetowane.
+1443	Zapewnia wygl¹d broni w u¿yciu.
+1444	Twój ekwipunek jest pe³ny.
+1450	Ulepszenie %s nie powiod³o siê.
+1451	Ulepszenie %s powiod³o siê.
+1452	Pojawi³ siê O³tarz Krwi.
+1453	Schwyta³eœ duszê.
+1454	[Krwawy Rytua³] Niestety, nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+1455	[Krwawy Rytua³] Niestety, nie masz wystarczaj¹cej liczby dusz.
+1456	[Rytua³ Krwi] Niestety, nie masz wystarczaj¹cej iloœci Yang.
+1457	Rozpocz¹³ siê Rytua³ Krwi. Kupuj specjalne przedmioty, aby uzyskaæ lepsze nagrody.
+1458	Rytua³ Krwi dobieg³ koñca. Spróbuj ponownie innym razem.
+1459	Udoskonalenie zmiany nie powiod³o siê.
+1460	Ten przedmiot jest dostêpny tylko w Meley's Den.
+1461	U¿yto kompasu, ale nie odnaleziono Stra¿nika.
+1462	Nie mo¿esz tego zrobiæ w trakcie wykonywania innej akcji.
+1463	Nie mo¿esz tego zrobiæ w trakcie wykonywania innej akcji.
+1464	Nie mo¿esz ulepszyæ broni, maj¹c przywo³anego zwierzaka.
+1465	Aby otworzyæ skrzyniê, potrzebujesz %d miejsc w ekwipunku.
+1466	Przepraszamy, nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+1467	[Przechowywanie] Nie mo¿na przechowywaæ aktualnie u¿ywanego przedmiotu.
+1468	[Aura] Nie dzia³a na przedmiot zwi¹zany z dusz¹.
+1469	[Aura] Nie dzia³a z kostiumem aury, do którego przeniesiono ju¿ przedmiot.
+1470	[Aura] Kostium Aury osi¹gn¹³ maksymalny poziom.
+1471	[Aura] Nie mo¿esz ewoluowaæ Kostiumu Aury przed jego ulepszeniem.
+1472	[Aura] Mo¿na zastosowaæ tylko do kostiumu aury.
+1473	[Aura] Mo¿na w³o¿yæ tylko kostium, naszyjnik, kolczyki lub bransoletkê z aur¹.
+1474	[Aura] Nie mo¿na ulepszyæ.
+1475	[Aura] Mo¿na kontynuowaæ tylko wtedy, gdy w³o¿ony jest Kostium Aury.
+1476	[Aura] Iloœæ wk³adanych materia³ów zosta³a dostosowana, aby osi¹gn¹æ wymagan¹ iloœæ.
+1477	[Aura] Nie mo¿e ewoluowaæ.
+1478	[Aura] Nie mo¿esz ewoluowaæ Kostiumu Aury przed jego ulepszeniem.
+1479	[Aura] Musisz w³o¿yæ przedmioty!
+1480	[Aura] Ulepszenie powiod³o siê. Ewolucja jest teraz mo¿liwa.
+1481	[Aura] Ulepszenie powiod³o siê!
+1482	[Aura] Za ma³o pieniêdzy, aby wyewoluowaæ Kostium Aury.
+1483	[Aura] Ewolucja siê powiod³a!
+1484	[Aura] Sukces!
+1485	[Gildia] %d BZK zosta³o przekazane.
+1486	Nie mo¿esz karmiæ zwierzaka, gdy okno udoskonalania jest otwarte.
+1487	Rozpoczê³a siê bitwa Piêciu O³tarzy! Bêdzie trwaæ %d dni.
+1488	Bitwa Piêciu O³tarzy dobieg³a koñca. Nastêpna bitwa rozpocznie siê za %d godzin.
+1489	Interfejsu nie mo¿na otworzyæ podczas jazdy na wierzchowcu.
+1490	Wydarzenie nie jest obecnie aktywne.
+1491	Nie mo¿esz handlowaæ, przenosiæ ani upuszczaæ przedmiotów podczas przywo³ywania wierzchowca.
+1492	Bitwa zosta³a przerwana z powodu nieprzewidzianych okolicznoœci.
+1493	Bitwa Piêciu O³tarzy koñczy siê za %d minut.
+1494	Potrzebujesz %s x %d wiêcej.
+1495	Poziom %d Smoczego Portalu zosta³ otwarty. Atakuj labirynt!!
+1496	Mo¿esz teraz wejœæ na poziom %d Smoczego Portalu.
+1497	Pokonaliœmy bossa!
+1498	[Gildia] Otrzymano %d BZK!
+1499	Czas na wejœcie do Smoczego Portalu min¹³!
+1500	Labirynt zostanie zamkniêty, jeœli nie wejdziesz w ci¹gu %d minut.
+1501	Bitwa nie zosta³a rozpoczêta. Labirynt zamkniêty.
+1502	%s zajêty %s!
+1503	Nie mo¿esz przekazywaæ darowizn, maj¹c przywo³anego zwierzaka.
+1504	Postaæ ta nie jest dostêpna do walki.
+1505	Spoœród %d prezentów mo¿esz otworzyæ %d.
+1506	Nastêpny prezent mo¿esz otworzyæ za %d minut.
+1507	%s atakuje %s!
+1508	%s osi¹gn¹³ osobisty wynik %d!
+1509	Nagroda za Rytua³ Krwi
+1510	Zapasy pe³ne. Nagroda zostanie wys³ana na Twoj¹ skrzynkê pocztow¹.
+1511	Cz³onek dru¿yny jest zbyt daleko, aby odebraæ przedmiot.
+1512	Gildia osi¹gnê³a maksymalny poziom. Nie ma ju¿ mo¿liwoœci przekazania darowizn.
+1513	[Bitwa wró¿ki] Rozpoczê³a siê bitwa wró¿ki!
+1514	[Fortune Teller Battle] Otrzymasz zadanie do mini-gry.
+1515	[Bitwa wró¿ki] Czekaj¹ bogate nagrody!
+1516	[Bitwa wró¿ki] Bitwa wró¿ki dobieg³a koñca.
+1517	[Bitwa wró¿ki] SprawdŸ swój ranking i wybierz nagrody.
+1518	[Bitwa wró¿ki] Nie masz wystarczaj¹cej liczby monet szczêœcia.
+1519	[FT] Nagroda za miejsce
+1520	[Bitwa wró¿ki] Zwiêkszy³eœ liczbê darowizn o 1.
+1521	Nie mo¿esz u¿yæ tego przedmiotu na przedmiocie zwi¹zanym z dusz¹!
+1522	Nie mo¿esz braæ udzia³u w Bitwach Królewskich.
+1524	Najpierw musisz opuœciæ imprezê.
+1525	Nie mo¿esz wejœæ, poniewa¿ odliczanie ju¿ siê rozpoczê³o.
+1527	Oto zwyciêzca Królewskiej Bitwy: %s
+1528	%s zabity %s.
+1529	Odliczanie rozpoczê³o siê. Królewska bitwa rozpoczyna siê za %d sekund.
+1530	Bitwa Królewska nie mo¿e siê rozpocz¹æ z powodu niewystarczaj¹cej liczby uczestników.
+1531	Rozpoczê³a siê Królewska Bitwa. Pierwsza strefa zostanie wyœwietlona za %d sekund.
+1532	Strefa Bitwy zosta³a zaktualizowana. Zamknie siê za %d sekund.
+1533	Strefa Bitwy zostanie zamkniêta za %d sekund.
+1534	Pole elektryczne przesta³o dzia³aæ. Nastêpna Strefa Bitwy pojawi siê za %d sekund.
+1535	Królewska bitwa koñczy siê za %d sekund.
+1536	Nie mo¿esz tego zrobiæ podczas Królewskiej Bitwy.
+1537	Nie mo¿esz zarejestrowaæ siê na tej mapie.
+1538	Nie mo¿esz zarejestrowaæ siê w tym celu na serwerze Royal Battle.
+1540	Nie mo¿esz tego anulowaæ na serwerze Royal Battle.
+1541	Rozpoczê³a siê Królewska Bitwa!!!
+1542	Królewska Bitwa dobieg³a koñca!!!
+1543	Nigdy wiêcej Stref Bitwy. Ca³y obszar zostanie zamkniêty za %d sekund.
+1544	Obecnie nie masz ¿adnych negatywnych wzmocnieñ.
+1545	Aby wzi¹æ udzia³, potrzebujesz Royal Battle Pass.
+1546	Gdzieœ umieszczono specjaln¹ paczkê z zaopatrzeniem.
+1547	[Premia za relikt] Nosisz ju¿ relikt duszy.
+1548	Nie mo¿esz tego tutaj u¿yæ.
+1549	Teleportacja na Pierwotny P³askowy¿ nie powiod³a siê.
+1550	Nie mo¿esz ju¿ z tego korzystaæ.
+1551	Nie masz doœæ Gai.
+1552	Status uczestników Królewskiej Bitwy: (%u/%u)
+1553	Rejestracja do Royal Battle zosta³a zakoñczona.
+1554	Spróbuj ponownie póŸniej.
+1555	Nie mo¿esz tego zrobiæ w trakcie wykonywania innej akcji.
+1556	Turniej PvP
+1557	Nagrody za wygran¹ rundê
+1558	Nagrody za wygrane turnieje
+1559	Nagrody za bitwê wró¿ki
+1560	Twój ekwipunek jest pe³ny. Twoja nagroda zostanie dostarczona poczt¹.
+1561	Nagroda za bitwê Fortune Teller zostanie wys³ana poczt¹, poniewa¿ Twój ekwipunek jest pe³ny.
+1562	Otrzyma³eœ %lu BZK na poziom Champion.
+1574	Spróbuj ponownie póŸniej.
+1575	Królewska Bitwa
+1576	Nagroda za sezon Królewskiej Bitwy. Umieszczenie: %d
+1577	Ogólna nagroda za Królewsk¹ Bitwê.
+1578	Nagroda za grê Royal Battle. Umieszczenie: %d
+1579	Nagroda bojowa za bitwê królewsk¹. Zabito wiêcej ni¿ %d przeciwników
+1580	Nie mo¿esz teraz odebraæ osi¹gniêcia.
+1581	Nie mo¿esz teraz u¿ywaæ ¿adnych emotek.
+1582	Spalony
+1583	Gildia %s zakupi³a terytorium w obszarze %s na pozycji %d,%d za %d wygran¹.
+1584	Twój przywódca gildii zarejestrowa³ siê na aukcji terytorium w obszarze %s na pozycji %d,%d.
+1585	Z³o¿y³eœ ju¿ swoj¹ ofertê.
+1586	Mo¿esz wyp³aciæ oferowane wygrane.
+1587	Nie ma nic do zbierania.
+1588	Osi¹gniêto ju¿ maksymaln¹ kwotê wygranej.
+1589	Wyp³aci³eœ %d zaoferowanych wygranych.
+1590	Tylko lider gildii lub cz³onek z dostêpem do skarbca mo¿e p³aciæ czynsz.
+1591	Nie trzeba p³aciæ czynszu.
+1592	Gildia nie ma wystarczaj¹cej iloœci Yang.
+1593	[Terytorium gildii] IdŸ do stra¿nika i zap³aæ %d Yang za czynsz za terytorium gildii.
+1594	Zap³aci³eœ %lu Yang za wynajem terytorium gildii.
+1595	Nie mo¿esz tego zrobiæ podczas trwaj¹cej aukcji terytorium gildii.
+1596	Nie jesteœ zarejestrowany na ¿adnej aukcji terytorium gildii.
+1597	Nie nale¿ysz do ¿adnej gildii.
+1598	Jesteœ ju¿ zarejestrowany na aukcji terytorium gildii.
+1599	Tylko lider gildii mo¿e zarejestrowaæ siê na aukcjê.
+1600	Rejestrowaæ mog¹ siê tylko gildie na poziomie %d lub wy¿szym.
+1601	Twoja gildia ma ju¿ terytorium gildii.
+1602	Obecnie nie jest prowadzona ¿adna aukcja terytorium gildii.
+1603	Maksymalna kwota to %d wygranej.
+1604	Nie masz wystarczaj¹cej liczby wygranych.
+1605	Twoja gildia nie jest zarejestrowana na aukcji.
+1606	Licytowaæ mo¿esz tylko jeœli jesteœ cz³onkiem gildii d³u¿ej ni¿ 24 godziny.
+1607	Nie zap³acono czynszu za terytorium gildii. Terytorium gildii zosta³o opuszczone.
+1608	¯adna gildia nie zarejestrowa³a siê na aukcji terytorium gildii.
+1609	Zaoferowa³eœ %d wygranej.
+1610	Ta gildia nie istnieje.
+1611	Równina Dong Gwang
+1612	Mo¿esz odzyskaæ zaoferowane wygrane od stra¿nika wioski.
+1613	Doskona³y! Pomyœlnie doda³eœ Kamieñ Duchowy i teraz otrzymujesz podwójn¹ premiê do wartoœci.
+1614	Joanna
+1615	Pyungmoo
+1616	Jungranga
+1617	Waryong
+1618	Zniszczenie
+1619	Miriam
+1620	Songpa
+1621	Daeyami
+1622	[World Boss] Wydarzenie rozpoczê³o siê
+1623	[Boss Œwiata] Wydarzenie zakoñczone
+1624	[World Boss] Na kanale %d zauwa¿ono, ¿e %s terroryzuje obszar %s. Polujmy!
+1625	[World Boss] Szef œwiata na kanale %d zosta³ zaatakowany. Do³¹cz do polowania!
+1626	[Œwiatowy Boss] Doskonale: %s zosta³ pokonany i przywrócony zosta³ pokój... na razie.
+1627	[World Boss] Szef œwiata uciek³! Powodzenia nastêpnym razem.
+1628	[World Boss] Nie mo¿esz teraz odebraæ nagrody.
+1629	[Szef Œwiata] Œwietnie! Oto twoja nagroda. Do³¹cz tak¿e nastêpnym razem!
+1630	[World Boss] Nie mo¿esz odebraæ nagrody, poniewa¿ nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+1631	[World Boss] Nagroda za zdobycie I poziomu ³upów za ranking: %d
+1632	[World Boss] Nagroda za ³upy na poziomie II za ranking: %d
+1633	[World Boss] Nagroda za ³up na poziomie III za ranking: %d
+1634	[World Boss] Nagroda za IV poziom ³upów za ranking: %d
+1635	[Flower Power] Nie masz wystarczaj¹cej iloœci kie³ków.
+1636	[Flower Power] Nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+1637	[Flower Power] Zdoby³eœ Nasiona Kwiatów.
+1638	[Flower Power] Nie masz wystarczaj¹cej liczby Nasion Kwiatów.
+1639	[Flower Power] Otrzyma³eœ kie³ki chryzantemy.
+1640	[Flower Power] Otrzyma³eœ kie³ki konwalii.
+1641	[Flower Power] Otrzyma³eœ kie³ki narcyza.
+1642	[Flower Power] Otrzyma³eœ kie³ki lilii.
+1643	[Flower Power] Otrzyma³eœ kie³ki s³onecznika.
+1644	[World Boss] Uwaga: wkrótce pojawi siê boss œwiata!
+1645	[Flower Power] Tego przedmiotu nie mo¿na ju¿ u¿ywaæ.
+1646	W tej chwili nie mo¿esz siê przemieniæ.
+1647	Zabij wszystkie potwory w wyznaczonym czasie!
+1648	Portal do nastêpnego pomieszczenia jest otwarty.
+1649	Unikaj wszystkich ataków!
+1650	Portal do nastêpnego poziomu jest otwarty.
+1651	%s ukoñczy³ poziom %u w Wie¿y Sung Mahi!
+1652	£up z wie¿y Sung Mahi zosta³ wys³any na Twoj¹ skrzynkê pocztow¹.
+1653	Wie¿a Sung Mahi: Poziom %d
+1654	£up za ukoñczenie Wie¿y Sung Mahi
+1655	Bitwa rozpoczyna siê za %d sekund.
+1656	Jesteœ na poziomie %d.
+1657	Zabij niedopasowane pary potworów!
+1658	Zaatakowa³eœ niew³aœciwego potwora. Zabij wszystkie potwory!
+1659	Zabij wszystkie potwory w wyznaczonym czasie!
+1660	Zniszczy³eœ niew³aœciwy kamieñ Metin. Pokonaj wszystkie potwory.
+1661	Zniszcz w³aœciwy kamieñ Metin!
+1662	ZnajdŸ odpowiedni klucz do ucieczki!
+1663	ZnajdŸ Kamieñ Pieczêci, aby z³amaæ pieczêæ!
+1664	[Wie¿a Sung Mahi] Zabij wszystkie potwory w wyznaczonym czasie!
+1665	[Wie¿a Sung Mahi] Zakoñczono bie¿¹cy cykl rankingowy.
+1666	[Wie¿a Sung Mahi] Rozpocz¹³ siê nowy cykl rankingowy.
+1667	Nagroda sezonowa za 1. miejsce w wie¿y Sung Mahi na poziomie %d.
+1668	Nagroda sezonowa w Wie¿y Sung Mahi
+1669	Nie jesteœ przeklêty.
+1670	Twoja kl¹twa zosta³a zdjêta.
+1671	Czas min¹³. Zostaniesz teleportowany.
+1672	[Wie¿a Sung Mahi] Zniszcz Kamieñ Demona!
+1673	[Wie¿a Sung Mahi] Klucz nie pasuje. ZnajdŸ inny i spróbuj ponownie.
+1674	[Wie¿a Sung Mahi] Z³am pieczêæ za pomoc¹ Kamienia Pieczêci Sung Mahi!
+1675	[Wie¿a Sung Mahi] Najpierw musisz z³amaæ pierwsz¹ pieczêæ!
+1676	Mo¿esz teraz za³o¿yæ rêkawiczki.
+1677	Nie mo¿esz jeszcze za³o¿yæ rêkawiczek.
+1678	Ta funkcja jest niedostêpna, poniewa¿ wykryto nielegalne oprogramowanie.
+1679	[Wie¿a Sung Mahi] Ukoñczy³eœ ten poziom w %d sekund.
+1680	Nie mo¿esz braæ udzia³u w aukcji terytorium gildii w dniu jej utworzenia.
+1681	Opanowa³eœ Smocz¹ Bramê %s %s.
+1683	Nie masz przedmiotu resetuj¹cego Smocz¹ Bramê.
+1684	Otrzyma³eœ %d punktów Smoczej Bramy.
+1685	Nie uda³o siê rozpuœciæ rozpuszczalnika.
+1686	WejdŸ na wy¿szy poziom w wie¿y Sung Mahi!
+1687	[Osobisty Sklep Premium] Nie mo¿esz z tego korzystaæ. IdŸ do Administratora Sklepu w wiosce.
+1688	Wszed³eœ na obszar pod wp³ywem Sung Mahi i czujesz skutki kl¹twy.
+1689	%s nadal ma %d zasad. (%d/%d)
+1690	%s zbudowa³ wszystkie bazy i kontrola nad Sung Mahi rozpocznie siê za %d minut.
+1691	Zbudowano bazy Sung Mahi.
+1692	Bazy Sung Mahi zosta³y zniszczone.
+1693	Wszystkie bazy w %s zosta³y zniszczone, a obszar nie jest ju¿ pod kontrol¹ Sung Mahi.
+1694	Pustkowia Seo Gwanga
+1695	Otch³añ Nam Gwang
+1696	Ulepszenie powiod³o siê!
+1697	Przepraszamy, ulepszenie nie powiod³o siê.
+1698	Dziêki b³ogos³awieñstwu odpornoœci, obecnoœæ Sung Mahi nie ma na ciebie wp³ywu.
+1699	Twoja odpornoœæ wygas³a i ponownie jesteœ dotkniêty obecnoœci¹ i kl¹tw¹ Sung Mahi.
+1700	Jeœli u¿ytkownik korzysta z nielegalnego oprogramowania, nie mo¿esz tego zrobiæ.
+1701	Nie masz wystarczaj¹cej iloœci materia³u do ulepszenia. (Nie mo¿na u¿ywaæ przedmiotów zwi¹zanych z dusz¹)
+1702	Twoje terytorium gildii zostanie automatycznie anulowane za %d godzin. Wszystkie przedmioty w magazynie gildii zostan¹ zniszczone.
+1703	[Gildia] Nie mo¿esz kopn¹æ lidera gildii.
+1704	[Gildia] Nie mo¿esz siê kopn¹æ.
+1705	[Gildia] Nie mo¿esz zostaæ przywódc¹ gildii.
+1706	[Gildia] Opcja dostêpna tylko dla lidera gildii (jeœli terytorium gildii zosta³o anulowane).
+1707	[Gildia] Nie mo¿esz opuœciæ terytorium gildii podczas bitwy gildii.
+1708	Nie mo¿esz tym handlowaæ.
+1709	Wydarzenie w wie¿y zosta³o aktywowane.
+1710	Mo¿esz siê tego nauczyæ dopiero po osi¹gniêciu poziomu Czempiona.
+1711	[Osobisty sklep premium] Nie mo¿esz tego otworzyæ, poniewa¿ nadal masz pieni¹dze do odebrania.
+1712	[Osobisty Sklep Premium] Nie mo¿esz tego otworzyæ, poniewa¿ nadal masz przedmioty do zebrania.
+1713	[Osobisty sklep premium] Otworzy³eœ ju¿ swój osobisty sklep premium.
+1714	[Osobisty Sklep Premium] Sklep jest teraz w przygotowaniu.
+1715	[Osobisty sklep premium] Nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+1716	[Osobisty sklep premium] Mo¿esz zbieraæ przedmioty ze swojego osobistego sklepu premium.
+1717	[Osobisty sklep premium] Mo¿esz zbieraæ pieni¹dze ze swojego osobistego sklepu premium.
+1718	[Osobisty sklep premium] Sprzedane: %s Odbierz teraz swoje pieni¹dze.
+1719	[Osobisty sklep premium] Nie mo¿na ponownie otworzyæ sklepu %d sekund po zamkniêciu.
+1720	Nie mo¿esz tego zrobiæ podczas tworzenia labiryntu.
+1721	Nie mo¿esz ju¿ siê o¿ywiæ. Zostaniesz teleportowany z labiryntu.
+1722	Otrzyma³eœ ju¿ nagrodê. Jeœli chcesz spróbowaæ jeszcze raz, przyjdŸ póŸniej. Pozosta³y czas: %d h %d m
+1723	Nadal mo¿esz o¿ywiæ %dx.
+1724	Mo¿esz ju¿ wejœæ do Œwi¹tyni Wê¿a. Wykorzystaj do tego Statuê Wê¿a.
+1725	Zniszczony Metin nie odpowiada. Wszystkie Metiny odrodzi³y siê.
+1726	Zniszczony Metin nie odpowiada. Wszystkie Metiny odrodzi³y siê.
+1727	Zniszczy³eœ Metina %d. Teraz zniszcz Metina %d.
+1728	Czas min¹³. Zostaniesz teleportowany z labiryntu.
+1729	Jest to dostêpne za %d minut.
+1730	Nie mo¿na ju¿ wyd³u¿aæ czasu labiryntu.
+1731	Czas labiryntu zosta³ wyd³u¿ony o 1 minutê.
+1732	Zabi³eœ wszystkie potwory. Zostaniesz przeniesiony na poziom %d. Pozosta³y czas: %d sekund.
+1733	Zniszczy³eœ wszystkie Metiny. Zostaniesz przeniesiony na poziom %d. Pozosta³y czas: %d sekund.
+1734	Do g³owy wê¿a dodano kawa³ek. Ale nic siê nie sta³o.
+1735	Wszystkie Komory Wê¿a zosta³y odblokowane. %d poziomów w %d sekund.
+1736	Pojawi³ siê specjalny Kowal Œwi¹tyni Wê¿a!
+1737	Pojawi³ siê Kowal Œwi¹tyni Wê¿a!
+1738	Zabi³eœ wszystkie potwory i mo¿esz awansowaæ na poziom bossa.
+1739	Ukoñczy³eœ Œwi¹tyniê Wê¿a. Zostaniesz teleportowany z labiryntu za %d sekund.
+1740	Zniszcz kamienie Metin w odpowiedniej kolejnoœci.
+1741	Zabij wszystkie potwory.
+1742	Aby odblokowaæ Kolumnê Wê¿a, musisz zebraæ klucz od potworów.
+1743	Doda³eœ kawa³ek do G³owy Wê¿a.
+1744	Zabij szefa.
+1745	Pomyœlnie otwarte!
+1746	Najpierw musisz odblokowaæ kolejny filar.
+1747	Wiêzienie zosta³o odblokowane. Kowal uœmiecha siê do ciebie.
+1748	Ten klucz do wiêzienia nie otworzy³ siê i nie uratowa³ kowala.
+1749	Ten element nie pasuje do g³owy wê¿a.
+1750	Nie mo¿esz wykorzystaæ wiêcej ni¿ 999 999 punktów Smoczej Bramy.
+1751	Nie mo¿esz zresetowaæ, poniewa¿ liczba punktów Smoczej Bramy przekracza limit.
+1752	Aby osi¹gn¹æ poziom mistrza, musisz wype³niæ co najmniej 1 marmurowy BZK na poziomie 120.
+1753	Najpierw musisz ukoñczyæ labirynt "Obrona statku".
+1754	Osi¹gn¹³eœ ju¿ poziom Championa.
+1755	[Osobisty sklep premium] Nie mo¿esz u¿ywaæ tego przedmiotu podczas otwierania osobistego sklepu premium.
+1756	[Osobisty Sklep Premium] Nie mo¿esz tego zrobiæ podczas zarz¹dzania przedmiotami.
+1757	[Osobisty sklep premium] Nie mo¿esz korzystaæ ze swojego osobistego sklepu premium, gdy otwarte jest inne okno.
+1758	[Osobisty Sklep Premium] Nie mo¿esz tego zrobiæ podczas zarz¹dzania przedmiotami.
+1759	Wykorzysta³eœ %d punktów Smoczej Bramy.
+1760	[Premia Reliktu] Ta akcja nie jest mo¿liwa, gdy okno Reliktu Duszy jest otwarte.
+1761	%s cz³onków dru¿yny opuœci³o bitwê.
+1762	Pozosta³y czas: %d minut.
+1763	[Osobisty Sklep Premium] Nie mo¿esz tu walczyæ.
+1764	[Osobisty sklep premium] Pieni¹dze, które mo¿na zebraæ, nie bêd¹ aktualizowane podczas zarz¹dzania przedmiotami.
+1765	Pojawi³ siê najwy¿szy boss Œwi¹tyni Wê¿a.
+1766	[Osobisty Sklep Premium] Sklep by³ ju¿ tutaj otwarty. ZnajdŸ inn¹ lokalizacjê, aby otworzyæ swój sklep.
+1767	Nie mo¿esz tego ulepszyæ, maj¹c przywo³anego ewoluuj¹cego zwierzaka.
+1768	<G³êbokoœæ Northwind> Pozosta³y czas: %d minut.
+1769	<Northwind Depths> Jeœli nie rozpoczniesz bitwy w ci¹gu 3 minut, instancja zakoñczy siê.
+1770	<G³êbokoœæ Northwind> Czas min¹³. Zostaniesz teleportowany z labiryntu.
+1771	Jest on dostêpny po ukoñczeniu zadania edukacyjnego Smocza Brama.
+1772	<G³êbokoœci Northwind> Wygenerowano instancjê dla Schronienia Northwind.
+1773	HP
+1774	Obrona
+1775	Lider
+1776	Tugyi
+1777	EXP
+1778	Odpornoœæ (Ogieñ)
+1779	Odpornoœæ (lód)
+1780	Opór (elektryczny)
+1781	Opór (wiatr)
+1782	Opór (Ziemia)
+1783	Opór (ciemnoœæ)
+1784	STR
+1785	Si³a (ogieñ)
+1786	Si³a (lód)
+1787	Si³a (elektryczna)
+1788	Si³a (wiatr)
+1789	Si³a (Ziemia)
+1790	Si³a (ciemnoœæ)
+1791	Ocena
+1792	Sung Ma (STR)
+1793	Sung ma (opór)
+1794	Sung Ma (VIT)
+1795	Sung Ma (INT)
+1796	<Northwind Depths> Pokona³eœ Alastora! Za 20 sekund zostaniesz teleportowany z labiryntu.
+1797	<Northwind Depths> Alastor wkrótce uwolni swój lodowaty gniew!
+1798	<Northwind Depths> Alastor uwolni swój lodowaty gniew na poziomie %d!
+1799	<Northwind Depths> Uda³o ci siê odeprzeæ lodowaty gniew Alastora.
+1800	<G³êbiny Pó³nocnego Wiatru> Jeœli nie zniszczysz Jaja Bia³ego Smoka w ci¹gu %d sekund, zabójczy mróz Alastora uderzy w schron!
+1801	To nie jest dostêpne tutaj.
+1802	Bêdzie to dostêpne po rozpoczêciu bitwy.
+1803	<Northwind Depths> Instancja zakoñczy³a siê, poniewa¿ nie rozpocz¹³eœ bitwy w wyznaczonym czasie.
+1804	Nie jest dostêpny, gdy Smocza Brama jest otwarta.
+1807	Nie mo¿esz u¿ywaæ systemu Dragon Gate.
+1808	Zdoby³eœ %d punktów doœwiadczenia na poziomie mistrza.
+1809	Zdoby³eœ %d punktów doœwiadczenia.
+1810	Straci³eœ %d punktów doœwiadczenia.
+1811	Straci³eœ %d punktów doœwiadczenia na poziomie mistrza.
+1812	Nie mo¿esz tego zrobiæ podczas handlu.
+1813	Rozpoczê³o siê wydarzenie Metin Fever!
+1814	Wype³nij listê zadañ, zniszcz kamienie Metin i odbierz nagrody.
+1815	Wydarzenie Gor¹czka Metin nie jest obecnie aktywne.
+1816	[Œwi¹tynia Smoka] Wygenerowa³eœ instancjê Œwi¹tyni Smoka.
+1817	[Œwi¹tynia Smoka] Jeœli nie rozpoczniesz bitwy w ci¹gu 3 minut, instancja zakoñczy siê.
+1818	[Œwi¹tynia Smoka] Beran-Setaou zosta³ pokonany. Zostaniesz teleportowany z labiryntu za %d sekund.
+1819	[Œwi¹tynia Smoka] Pozosta³y czas: %d minut.
+1820	[Œwi¹tynia Smoka] Instancja zakoñczy³a siê, poniewa¿ bitwa nie zosta³a rozpoczêta.
+1821	[Œwi¹tynia Smoka] Czas min¹³. Wszyscy gracze zostan¹ teleportowani z labiryntu.
+1822	[Œwi¹tynia Smoka] Wygenerowa³eœ instancjê Œwi¹tyni Smoka.
+1823	[Œwi¹tynia Smoka] Jeœli nie rozpoczniesz bitwy w ci¹gu 3 minut, instancja zakoñczy siê.
+1824	[Œwi¹tynia Smoka] Instancja zosta³a uruchomiona.
+1825	[Œwi¹tynia Smoka] Podda³eœ siê i instancja siê zakoñczy³a.
+1829	[Œwi¹tynia Smoka] Labirynt zostanie zamkniêty, jeœli nikt nie wejdzie w ci¹gu %d sekund.
+1830	[Œwi¹tynia Smoka] Labirynt zosta³ zamkniêty, poniewa¿ nikt nie wszed³ w wymaganym czasie.
+1838	Nie mo¿esz siê blokowaæ.
+1839	Nie mo¿esz dodaæ siebie.
+1840	Akcja %s zosta³a w³¹czona.
+1844	Nakarmi³eœ konia: %d paszy. Zdobyto %d doœwiadczenia.
+1845	Za ma³o stylu i Yang.
+1846	Tej umiejêtnoœci jazdy konnej nie da siê nauczyæ.
+1847	[Œwi¹tynia Enigmy] Tylko lider dru¿yny mo¿e u¿ywaæ tego zwoju.
+1848	[Œwi¹tynia Enigmy] Tylko lider dru¿yny mo¿e u¿ywaæ tego zwoju.
+1849	[Œwi¹tynia Enigmy] %s jest poza zasiêgiem.
+1850	[Œwi¹tynia Enigmy] Nie mo¿esz u¿ywaæ tego zwoju na swoim poziomie.
+1851	[Œwi¹tynia Enigmy] %s wymaga wy¿szego poziomu, aby wejœæ.
+1852	[Œwi¹tynia Enigmy] %s odmówi³ wejœcia.
+1853	[Œwi¹tynia Enigmy] Labirynt zamknie siê za 1 minutê, jeœli nie rozpoczniesz bitwy.
+1854	[Œwi¹tynia Enigmy] Utworzono portal do Œwi¹tyni Enigmy.
+1855	[Œwi¹tynia Enigmy] Zniszcz prawdziwy Kamieñ Metin.
+1856	[Œwi¹tynia Enigmy] To jest fa³szywy kamieñ Metin. ZnajdŸ prawdziwy Kamieñ Metin!
+1857	[Œwi¹tynia Enigmy] Zdoby³eœ skrzyniê skarbów z Kamienia Metin.
+1858	[Œwi¹tynia Enigmy] Nadal musisz znaleŸæ prawdziwy Kamieñ Metin. Skorzystaj z portalu i spróbuj ponownie.
+1859	[Œwi¹tynia Enigmy] Zadanie ukoñczone. ZnajdŸ sekretny pokój.
+1860	[Œwi¹tynia Enigmy] ZnajdŸ prawdziwego potwora i pokonaj go! Nie dajcie siê zwieœæ iluzji.
+1861	[Œwi¹tynia Enigmy] Nie znalaz³eœ prawdziwego potwora. Skorzystaj z portalu i spróbuj ponownie.
+1862	[Œwi¹tynia Enigmy] SprawdŸ skrzyniê skarbów.
+1863	[Œwi¹tynia Enigmy] Witamy w sekretnym pokoju.
+1864	[Œwi¹tynia Enigmy] Twój czas min¹³! Wszyscy zostan¹ teleportowani z labiryntu.
+1865	[Œwi¹tynia Enigmy] W nagrodê otrzyma³eœ B³ogos³awieñstwo Œwi¹tyni Enigmy.
+1866	[Œwi¹tynia Enigmy] Nie otrzyma³eœ nagrody. Czas do nastêpnej nagrody: %d godzin i %d minut
+1867	Nagroda za Œwi¹tyniê Enigmy
+1868	[Œwi¹tynia Enigmy] Œwi¹tynia Enigmy zniknê³a, poniewa¿ skoñczy³ siê czas.
+1869	[Œwi¹tynia Enigmy] Masz 4 minuty na rozpoczêcie bitwy za pomoc¹ Portalu Enigmy.
+1870	[Œwi¹tynia Enigmy] B³ogos³awieñstwo Œwi¹tyni Enigmy gwarantuje ci kolejn¹ skrzyniê skarbów.
+1871	[Œwi¹tynia Enigmy] Otrzyma³eœ nagrodê Enigmy. SprawdŸ swoj¹ skrzynkê pocztow¹, aby j¹ otrzymaæ.
+1872	%s zosta³ usuniêty.
+1873	Zdoby³eœ %s umiejêtnoœci. Mo¿esz to sprawdziæ w zak³adce umiejêtnoœci.
+1874	Za ma³o Gai
+1876	Spróbuj ponownie póŸniej.
+1878	Czas min¹³. Wkrótce zostaniesz przeniesiony do miasta.
+1879	Nie mo¿esz ju¿ zostaæ wskrzeszony.
+1880	Pomyœlnie wykona³eœ zadanie i zostaniesz teleportowany za %d minut.
+1881	Pokona³eœ wszystkich pos³añców. IdŸ do Stra¿nika Hae-Tae, aby wejœæ w Kl¹twê.
+1882	Nie mo¿esz u¿yæ wiêkszej liczby przedmiotów ni¿ maksymalna.
+1883	Podró¿ do innego œwiata dobieg³a koñca i nie mo¿esz ju¿ znaleŸæ P³omieni Œmierci.
+1884	Rozpoczê³a siê podró¿ do innego œwiata. P³omienie Œmierci znajdziesz zabijaj¹c potwory.
+1885	Podró¿ do innego œwiata dobieg³a koñca.
+1886	Rozpoczê³a siê podró¿ do innego œwiata. Mo¿esz teraz skorzystaæ z portalu do Innego Œwiata w Zatoce Dragon Fire.
+1887	U¿y³eœ %dx Wody ¯ycia. Pozosta³o Ci %dx Wód ¯ycia.
+1888	Otrzymasz %d P³omienie Œmierci.
+1895	Pokona³eœ Pos³añca Ziemi.
+1896	Pokona³eœ Nocnego Pos³añca.
+1897	Pokona³eœ Pos³añca Burzy.
+1898	Pokona³eœ Pos³añca Powietrza.
+1899	Labirynt zostanie zamkniêty za %d minut.
+1900	Nie masz wystarczaj¹co du¿o miejsca na wiêcej P³omieni Œmierci.
+1901	Musisz poczekaæ przed ponown¹ prób¹. Pozosta³y czas: %d godzin i %d minut
+1902	Po wejœciu do Œwi¹tyni Smoka nie mo¿na ju¿ zmieniæ dru¿yny.
+1903	Nie mo¿esz mieæ wiêcej najemników.
+1904	Wytrzyma³oœæ przekroczona
+1905	[Œwi¹tynia Enigmy] Zniszcz Metin Enigmy, aby przejœæ do nastêpnego poziomu.
+1916	Nauczy³eœ siê ju¿ tej umiejêtnoœci.
+1917	Nie mo¿esz nauczyæ siê tej umiejêtnoœci, dopóki twój koñ nie osi¹gnie poziomu 31.
+1918	Nie mo¿na ju¿ nabyæ tej umiejêtnoœci.
+1919	Nie mo¿esz nauczyæ siê tej umiejêtnoœci, dopóki twój koñ nie osi¹gnie poziomu 21.
+1921	<Sekretny Loch> Nie mo¿esz wejœæ do lochu. Wymagany poziom nie jest spe³niony.
+2200	Poczekaj %.2f sekund.
+2201	Musisz wezwaæ swoje wzmocnienie.
+2202	Aby uzyskaæ premiê, najpierw usuñ swój sprzêt.
+2203	Nie masz wystarczaj¹cej liczby WON, aby ulepszyæ ten przedmiot.
+2204	Nie masz wystarczaj¹cej liczby AP, aby ulepszyæ ten przedmiot.
+2205	VIP jest ju¿ aktywny.
+2206	Dodano opcjê Oczekiwanie (VIP).
+2207	Poczekaj przed wykonaniem tej czynnoœci!
+2208	Zamknij wszystkie okna!
+2209	Masz ju¿ ten tytu³.
+2210	Tytu³ zosta³ dodany do okna tytu³owego!
+2211	Tego tytu³u w rzeczywistoœci nie mo¿na u¿ywaæ.
+2212	Aktywowa³eœ ju¿ prze³¹cznik przedmiotów.
+2213	Otrzyma³eœ %d punktów osi¹gniêæ.
+2214	Otrzyma³eœ %d Smoczych Monet.
+2215	Aby u¿yæ tego przedmiotu, musisz mieæ przywo³anego zwierzaka!
+2216	Mikstury tej mo¿na u¿ywaæ wy³¹cznie na poziomach 40-70.
+2217	Mikstury tej mo¿na u¿ywaæ wy³¹cznie na poziomach 70-110.
+2218	Twój szaman jest aktywowany.
+2219	Szaman zosta³ wezwany.
+2220	VIP jest ju¿ aktywny.
+2221	VIP zosta³ aktywowany. Proszê zalogowaæ siê ponownie.
+2222	SYS: Czas skrzynki VIP nie jest ustawiony w bazie danych.
+2223	VIP jest ju¿ aktywny.
+2224	VIP zosta³ aktywowany. Proszê zalogowaæ siê ponownie.
+2225	SYS: Czas skrzynki VIP nie jest ustawiony w bazie danych.
+2226	VIP jest ju¿ aktywny.
+2227	VIP zosta³ aktywowany. Proszê zalogowaæ siê ponownie.
+2228	SYS: Czas skrzynki VIP nie jest ustawiony w bazie danych.
+2229	Zamknij swój obecny sklep osobisty przed otwarciem nowego.
+2230	Ten obszar mapy nie pozwala na otwarcie prywatnego sklepu.
+2231	Wybierz umiejêtnoœæ, któr¹ chcesz trenowaæ.
+2232	Szkolenie umiejêtnoœci zosta³o pomyœlnie zakoñczone.
+2233	Trening umiejêtnoœci nie powiód³ siê.
+2234	Twój poziom jest za niski!
+2235	Tê umiejêtnoœæ ju¿ opanowa³eœ.
+2236	Ta ksi¹¿ka nie jest ³atwa do zrozumienia...
+2237	Nie mo¿esz ju¿ studiowaæ tej ksi¹¿ki.
+2238	Osi¹gn¹³eœ maksymalny poziom umiejêtnoœci dla tego zwierzaka!
+2239	Poziom umiejêtnoœci tego zwierzaka nie jest zgodny z poziomem w ksi¹¿ce szkoleniowej.
+2240	Trening umiejêtnoœci przebieg³ pomyœlnie!
+2241	Pozosta³o Ci %d ksi¹¿ek do szkolenia umiejêtnoœci.
+2242	Trening umiejêtnoœci nie powiód³ siê.
+2243	Wybierz umiejêtnoœæ, któr¹ chcesz trenowaæ.
+2244	Nie mo¿esz ju¿ zwiêkszaæ swojej rangi.
+2245	Punkty rankingowe zwiêkszone o %d.
+2246	Najpierw dodaj 5 podstawowych bonusów do tego przedmiotu!
+2247	Element osi¹gn¹³ maksymalny wk³ad!
+2248	Dodanie bonusu nie powiod³o siê!
+2249	Dodanie bonusu powiod³o siê!
+2250	Przedmiot nie posiada bonusów, które mo¿na zmieniæ.
+2251	Dodanie bonusu powiod³o siê!
+2252	Dodanie bonusu nie powiod³o siê!
+2253	Przedmiot posiada maksymaln¹ liczbê bonusów!
+2254	Zmiana bonusów zakoñczy³a siê sukcesem!
+2255	Nie masz ¿adnych bonusów, które mo¿na zmieniæ.
+2256	Bonusów nie mo¿na zmieniæ, jeœli rêkawica zostanie ulepszona.
+2261	Sherpa zosta³ ulepszony!
+2262	Sherpa zosta³ ju¿ ulepszony!
+2263	Szerpa ma zbyt niski poziom wch³aniania. Wymagane: 30%
+2264	Rêkawiczki zosta³y ulepszone!
+2265	Rêkawiczki zosta³y ju¿ ulepszone!
+2266	Rêkawiczki musz¹ mieæ 5 bonusów!
+2267	Mo¿na u¿ywaæ tylko na rêkawicach +5.
+2268	Przedmiot zosta³ zaktualizowany!
+2269	Przedmiot zosta³ ju¿ zaktualizowany!
+2270	Mo¿na u¿yæ tylko na przedmiotach +9.
+2271	The Rune has been upgraded!
+2272	The Rune has already been upgraded!
+2273	Can only be used on +5 runes.
+2274	You cannot move items while your personal shop window is open.
+2275	This item is not suitable.
+2276	Your shaman is not summoned.
+2277	This item is not meant for shamans.
+2278	This item is not for this gender.
+2279	This item cannot be removed.
+2280	You do not have this title.
+2281	This title is already active.
+2282	You cannot do this while the wheel is spinning.
+2283	The accessory window is already open.
+2284	You must first close the accessory absorption window.
+2285	You must first close the accessory combination window.
+2286	You cannot add locked items.
+2287	This accessory already has the maximum absorption chance.
+2288	Bonuses can only be absorbed from weapons.
+2289	Not enough Yang.
+2290	Not enough checks.
+2291	You do not have the required items.
+2292	Wait %d seconds.
+2293	You received "%s" x%d from the wheel.
+2294	Changing channel in %d.
+2295	Channel change canceled.
+2296	You need %s to change your pet's name.
+2297	Not enough checks.
+2298	You cannot continue because the amount of Yang exceeds the limit.
+2299	Exchange was successful.
+2300	Not enough Yang, aby kontynuowaæ wymianê.
+2301	Nie mo¿esz kontynuowaæ, poniewa¿ liczba kontroli przekroczy³aby limit.
+2302	Wprowadzony kod jest ju¿ nieaktywny.
+2303	Wprowadzony kod promocyjny mo¿na wykorzystaæ od poziomu postaci %d.
+2304	Wpisany kod promocyjny mo¿na wykorzystaæ a¿ do poziomu postaci %d.
+2305	Wpisany kod promocyjny zawiera³: %s w iloœci %d.
+2306	Przekroczy³oby to dozwolon¹ iloœæ Yang.
+2307	Otrzyma³eœ %d Yang.
+2308	Otrzyma³eœ %d Smoczych Monet.
+2309	Otrzyma³eœ %d poziomów.
+2310	Zdobywanie doœwiadczenia jest mo¿liwe tylko powy¿ej poziomu 30.
+2311	Za ma³o Yang i czeków.
+2312	Czas alchemii zosta³ wyd³u¿ony.
+2313	Zdobywanie doœwiadczenia zosta³o w³¹czone.
+2314	Zdobywanie doœwiadczenia zosta³o wy³¹czone.
+2315	Bezpoœrednie przyjêcie towaru do magazynu: dozwolone.
+2316	Bezpoœrednie przyjêcie towaru do magazynu: zabronione.
+2317	Artyku³ zosta³ dodany do kolekcji.
+2318	Wszystkie elementy tego typu zosta³y ju¿ dodane.
+2319	Nie masz tego przedmiotu.
+2320	Ukoñczy³eœ ju¿ tê misjê.
+2321	Pomyœlne: %d, niepowodzenie: %d.
+2322	Przedmiot mia³ s³ab¹ jakoœæ.
+2323	Nie mo¿esz przekazywaæ doœwiadczenia gildii, jeœli jest ona zablokowana.
+2324	[BattlePass] Misja: %s zosta³a ukoñczona.
+2325	[BattlePass] Odebra³eœ nagrodê.
+2326	Nie masz przedmiotu, aby aktywowaæ karnet bojowy premium.
+2327	Szansa na zg³oszenie jest ju¿ maksymalna.
+2328	Skrócono czas oczekiwania na przes³anie przedmiotu.
+2329	Czas oczekiwania na z³o¿enie wniosku jest praktycznie zerowy.
+2330	Szansa na przes³anie przedmiotu zosta³a zwiêkszona o 25%.
+2331	Aktualna szansa: %d
+2332	Nie jesteœ w lochu!
+2333	Lider dru¿yny nie ma wystarczaj¹cej liczby przepustek w ekwipunku.
+2334	Gracz w Twojej grupie musi znajdowaæ siê na tej samej mapie.
+2335	Nie masz przepustki!
+2336	Nie ukoñczy³eœ jeszcze lochu!
+2337	Ten kod zosta³ ju¿ wykorzystany na tym koncie!
+2338	Wpisany kod nie istnieje!
+2339	Zapasy specjalne s¹ pe³ne!
+2340	Aby na³o¿yæ skórê, musisz mieæ wyposa¿onego Szerpê!
+2341	Twoje zwierzê osi¹gnê³o maksymalny poziom! Z tym przedmiotem nie mo¿esz zdobyæ wiêcej doœwiadczenia.
+2342	Zmiana bonusów dla przedmiotu zosta³a zatrzymana. Nie masz wystarczaj¹cej liczby zaklêtych przedmiotów.
+2343	Zmiana bonusów dla przedmiotu zosta³a zatrzymana. Nie masz wystarczaj¹cej iloœci yang.
+2344	Nie masz wystarczaj¹cej liczby monet, aby zakrêciæ ko³em fortuny.
+2345	Pomyœlnie utworzy³eœ pomocnika o nazwie %s.
+2346	Jesteœ ju¿ w lochu.
+2347	Twój poziom jest zbyt niski.
+2348	Nie posiadasz wymaganej przepustki.
+2349	Nie jesteœ liderem partii.
+2350	Za ma³o graczy w dru¿ynie.
+2351	Cz³onek dru¿yny nadal ma czas odnowienia w tym lochu.
+2352	Nie masz przedmiotu wymaganego do skrócenia czasu odnowienia lochów.
+2353	Czas odnowienia lochów zosta³ pomyœlnie usuniêty.
+2354	Nie masz ¿adnego czasu odnowienia w tym lochu.
+2355	Nie mo¿na zapisaæ lokalizacji w lochu.
+2356	Musisz chwilê poczekaæ.
+2357	Musisz poczekaæ %d sekund.
+2358	Nie mo¿na teleportowaæ siê do tej lokalizacji, poniewa¿ jest ona zbyt blisko.
+2359	Z pude³ka wysz³o tajemnicze œwiat³o.
+2360	Otrzyma³eœ %d punktów doœwiadczenia.
+2361	Z pude³ka wyszed³ potwór!
+2362	Z pude³ka wysz³a truj¹ca chmura, spowalniaj¹c ciê.
+2363	Pude³ko zosta³o otwarte! Straci³eœ kilka punktów ¿ycia.
+2364	Pude³ko zosta³o otwarte! Zosta³eœ otruty trucizn¹ ze skrzynki.
+2365	Skrzynia wydaje siê byæ pusta.
+2366	Zorganizuj przestrzeñ w oknie alchemii przed otwarciem kolejnego rdzenia.
+2367	Musisz poczekaæ %d sekund przed nastêpn¹ teleportacj¹.
+2368	Teleportacja nie jest dozwolona na tej mapie.
+2369	Wêdki nie mo¿na teraz u¿ywaæ.
+2370	Wiadomoœæ offline zosta³a wys³ana.
+2371	Musisz poczekaæ %d sekund.
+2372	Ta skórka transformacji jest ju¿ odblokowana.
+2373	Skórka transformacji zosta³a pomyœlnie odblokowana.
+2374	Nie mo¿na zmieniæ skóry podczas transformacji.
+2375	Ta skóra jest ju¿ aktywna.
+2376	Nie mo¿na zmieniæ skórki na nie odblokowan¹.
+2377	Najpierw musisz odblokowaæ sklep transformacji.
+2378	Tej akcji nie mo¿na teraz wykonaæ.
+2379	Nie masz wymaganych elementów.
+2380	Nie mo¿esz otworzyæ sklepu poza pierwszymi miastami.
+2381	Osi¹gniêto maksymaln¹ liczbê sklepów na tej mapie.
+2382	Cena jest wartoœci¹ ujemn¹.
+2383	Cz³onek dru¿yny nie mo¿e otworzyæ sklepu offline.
+2384	Masz ju¿ otwarty sklep offline.
+2385	Zwrot produktów ze sklepu offline.
+2386	Aby otworzyæ sklep offline na ten czas, potrzebujesz %s (x%d)!
+2387	Aby otworzyæ sklep offline na ten czas, potrzebujesz %lld yang!
+2388	Wyst¹pi³ b³¹d podczas otwierania sklepu.
+2389	Nazwa sklepu offline jest za krótka.
+2390	Nazwa sklepu zawiera zabronione s³owa.
+2391	Tego przedmiotu nie mo¿na przenieœæ do sklepu offline.
+2392	Tego elementu nie mo¿na przenieœæ.
+2393	Czas
+2394	Up³yn¹³ czas trwania Twojego sklepu offline.
+2395	W tej chwili nie mo¿na wykonaæ tej czynnoœci.
+2396	Zbyt wiele elementów w wyszukiwaniu.
+2397	Najpierw zamknij wszystkie okna.
+2398	Nie mo¿na kupowaæ przedmiotów we w³asnym sklepie.
+2399	Cz³onek dru¿yny nie mo¿e kupowaæ przedmiotów w sklepach offline.
+2400	Musisz poczekaæ przed wykonaniem tej akcji.
+2401	Sklep offline jest pusty.
+2402	Sklep offline zosta³ zamkniêty na kanale %d.
+2403	Przedmiot %s zosta³ pomyœlnie usuniêty ze sklepu offline.
+2404	Ta funkcja jest obecnie niedostêpna.
+2405	Na tym kanale nie mo¿na utworzyæ sklepu offline.
+2406	Nie mo¿esz przenieœæ przedmiotu, który masz na sobie, do sklepu.
+2407	Jesteœ zbyt daleko od sklepu.
+2408	Cena jest zbyt wysoka.
+2409	Przedmiot zosta³ znaleziony w %d sklepach.
+2410	Nie masz wystarczaj¹cej iloœci yang do wytwarzania.
+2411	Nie masz wystarczaj¹cej iloœci wygranych do wytwarzania.
+2412	Nie masz wystarczaj¹cej liczby punktów osi¹gniêæ do wytwarzania.
+2413	Tego przedmiotu nie mo¿na u¿ywaæ w lochach.
+2414	Nie mo¿na wyposa¿yæ broni kostiumowej w ten typ broni.
+2415	Nie mo¿na zdj¹æ broni kostiumowej, poniewa¿ nie ma wystarczaj¹cej iloœci miejsca w ekwipunku.
+2416	Przed kolejnym wyszukiwaniem nale¿y odczekaæ 5 sekund.
+2417	To ostatni przedmiot w sklepie, zamknij sklep.
+2418	Zamknij wszystkie pozosta³e okna.
+2419	Musisz poczekaæ %d sekund przed t¹ akcj¹.
+2420	Nie masz wystarczaj¹cej iloœci Yang, aby stworzyæ sklep offline. Potrzebujesz %d Yang.
+2421	Sklep offline mo¿na za³o¿yæ wy³¹cznie na kanale globalnym (pierwsze miasta).
+2422	Aby za³o¿yæ sklep, musisz byæ w pierwszych miastach.
+2423	Ten przedmiot jest zamkniêty, wyposa¿ony lub aktualnie przedmiotem wymiany.
+2424	Tego przedmiotu nie mo¿na sprzedaæ w sklepie stacjonarnym.
+2425	Jednoczeœnie mo¿na za³adowaæ tylko jeden typ tabeli liderów.
+2426	[SERWER TESTOWY] Twoja tabela wyników jest aktualna.
+2427	[SERWER TESTOWY] Brak wpisu tej postaci w tabeli liderów.
+2428	[TEST_SERVER] Tygodniowa kategoria liderów %u doda³a punkty %u.
+2429	Nie mo¿na wykonaæ tej akcji przy otwartym oknie transformacji.
+2430	Skórka transformacji zosta³a odblokowana.
+2431	Gracz %s otrzyma³ skrzyniê rybaka wydarzenia.
+2432	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You received|cfffce35b 2|r |cfffce35bbonus points|r |cfffff0a0into your fishing rod.|r
+2433	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Points in your fishing rod have increased (|cfffce35b%d|r/|cfffce35b%d|r).|r
+2434	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPoints in your fishing rod are at the maximum level.|r
+2435	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe fishing rod can be upgraded at the fisherman.|r
+2436	|Eemoji/info|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a[VIP] You received additional achievement points %d.|r
+2437	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0To catch the fish, you must press the |cfffce35bspacebar %dx|r.|r
+2438	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The spacebar was pressed too few times.|r
+2439	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The spacebar was pressed too many times.|r
+2440	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou grilled |cff87fa8b%s|r.|r
+2441	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Fishing is allowed only on the fishing map.|r
+2442	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have the required fish in your inventory.|r
+2443	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aFish successfully submitted. It was of excellent quality.|r
+2444	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Failed to submit the fish. It was of poor quality.|r
+2445	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This item can only be used on a |cfffa7a7afishing rod|r.|r
+2446	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item already has the maximum number of bonuses.|r
+2447	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Your fishing rod already contains this bonus.|r
+2448	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe bonus was successfully added.|r
+2449	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot add an item to the item lottery right now. Please wait.|r
+2450	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPlayer %s won the item lottery.|r
+2451	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Thanks to the bonus, you received |cfffce35b%d|r |cfffff0a0more ore.|r
+2452	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Thanks to the bonus, you received |cfffce35b 2|r |cfffce35bbonus points|r |cfffff0a0into your pickaxe.|r|r
+2453	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Points in your pickaxe have increased (|cfffce35b%d|r/|cfffce35b%d|r|cfffff0a0).|r|r
+2454	|Eemoji/check|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou successfully mined ore.|r
+2455	|Eemoji/uncheck|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This time, you mined nothing.|r
+2456	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Relics can only be added to helmets, shields, and boots.|r
+2457	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe relic was successfully added to the item.|r
+2458	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Failed to add the relic to the item.|r
+2459	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item already contains the maximum number of relics.|r
+2460	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The item must contain 3 relics to reroll them.|r
+2461	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aRelic change in the item was successful.|r
+2462	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis action cannot be performed while transformed or mounted.|r
+2463	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNo mineral vein was found.|r
+2464	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou started mining.|r
+2465	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou must move closer to the vein.|r
+2466	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0It looks like the vein has disappeared.|r
+2061	|Eemoji/info|e|cffb9b8b8[|r|cffdee356WorldBoss|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aWorldBoss %s is alive.|r
+2062	|Eemoji/info|e|cffb9b8b8[|r|cffdee356WorldBoss|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323WorldBoss %s will spawn in %01.0f:%02.0f %s.|r
+4000	Gracz %s otrzyma³ %d szt. z %d.
+4001	Gracz %s otrzyma³ %d.
+10008	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You must dismount from your mount.|r
+10009	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe mount has been summoned.|r
+10010	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe mount has been dismissed.|r
+10011	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You must wait a moment before mounting again.|r
+10012	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You cannot ride a mount while wearing a dress or a tuxedo.|r
+10013	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The mount’s level is too low.|r
+10014	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This action cannot be performed while fishing or mining.|r
+10015	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This feed can be used on a mount with a minimum level of |cffff6363%d.|r|r
+10016	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This feed can be used on a mount with a maximum level of |cffff6363%d.|r|r
+10017	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot change the mount’s appearance while riding it.|r
+10018	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot summon a mount on this map.|r
+10019	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot dismount from the mount at this moment.|r
+10020	|Eemoji/feed_4|e|cffb9b8b8[|r|cff54ffc0Riding|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Your mount’s experience points increased by |cfffce35b%d.|r|r
+10021	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot read a book while transformed.|r
+10022	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis skill is already at the maximum level.|r
+10023	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have the required items to increase the level.|r
+10024	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have enough yang to increase the level.|r
+10025	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe level was successfully increased.|r
+10026	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You are really unlucky today—give it up.|r
+10027	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Additional bonus has just started.|r
+10028	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Additional bonus has just ended.|r
+10029	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop from bosses has just started.|r
+10030	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop from bosses has just ended.|r
+10031	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop from rocks has just started.|r
+10032	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop from rocks has just ended.|r
+10033	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Moonlight Chest drops have just started.|r
+10034	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Moonlight Chest drops have just ended.|r
+10035	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Easier 6/7 bonus rolling has just started.|r
+10036	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Easier 6/7 bonus rolling has just ended.|r
+10037	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Chance to roll 63% average damage has just started.|r
+10038	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Chance to roll 63% average damage has just ended.|r
+10039	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Easier relic rerolling has just started.|r
+10040	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Easier relic rerolling has just ended.|r
+10041	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double drop of achievement points from bosses and rocks has just started.|r
+10042	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double drop of achievement points from bosses and rocks has just ended.|r
+10043	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Chance for a mining chest drop from ores has just started.|r
+10044	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Chance for a mining chest drop from ores has just ended.|r
+10045	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Double ore drop has just started.|r
+10046	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Double ore drop has just ended.|r
+10047	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aEvent – Increased chance for a fishing star has just started.|r
+10048	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Event – Increased chance for a fishing star has just ended.|r
+10049	Zmiana kana³u zosta³a anulowana.
+10050	Jesteœ ju¿ na tym kanale.
+10051	Jesteœ ju¿ na tym kanale.
+10052	Nie mo¿na zmieniaæ kana³ów na kanale globalnym.
+10053	Nie mo¿esz zmieniaæ kana³ów w lochach.
+10054	Nale¿y poczekaæ przed ponown¹ zmian¹ kana³ów.
+10055	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0Player |cfffce35b%s|r picked up the item |cfffce35b%s|r from the ground for you.|r
+10056	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You picked up the item |cfffce35b%s|r from the ground for player |cfffce35b%s|r.|r
+10057	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You cannot train autobuff skills while your autobuff is dismissed.|r
+10058	|Eemoji/mining|e|cffb9b8b8[|r|cff54ffc0Mining|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffff0a0You received an event mining chest.|r
+10059	|Eemoji/fish|e|cffb9b8b8[|r|cff54ffc0Fishing|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the event, you received a fishing star.|r
+10060	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe gloves were cleansed of legendary enhancement.|r
+10061	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The gloves do not contain a legendary enhancement.|r
+10062	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Cleansing can only be used on +5 gloves.|r
+10063	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The Battle Pass has already expired. Wait for the next season.|r
+10064	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You must have at least character level 30 to use this item.|r
+10065	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You have already reached the maximum Battle Pass level.|r
+10066	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The maximum number of uses for this item in one Battle Pass season has been reached (7/7).|r
+10067	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received %d Battle Pass experience points! Current level: %d (Used: %d/7).|r
+10068	Ten element zosta³ wy³¹czony.
+10069	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aOnly excellent legendary alchemy can be refined into mythical.|r
+10070	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item can only be used to upgrade items of level 201 or higher.|r
+10071	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item cannot be used to upgrade these items. Visit Seon-Pyeong.|r
+10072	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour level is too low to teleport to this location! (Required: %d+).|r
+10073	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour level is too high to teleport to this location! (Max: %d).|r
+10074	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTeleportation successful!|r
+10075	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aUnknown location index!|r
+10076	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aInvalid index! Use a numeric index.|r
+10077	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAfter actions such as trading and others, you must wait a moment.|r
+10078	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2axxx.|r
+10079	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2axxx1.|r
+10080	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You do not have enough yang.|r
+10081	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou crafted %d items.|r
+10082	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Item crafting failed.|r
+10083	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aShop duration can only be extended if it is less than 4 days.|r
+10084	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need item %s x%d for crafting.|r
+10085	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis is an invalid crafting recipe.|r
+10086	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have enough materials for crafting.|r
+10087	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis item cannot be moved to the special inventory.|r
+10088	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCrafting was successful.|r
+10089	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe shop duration has been extended by 4 days.|r
+10090	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the Lagoon Ring, you gained double drop.|r
+10091	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have the required item to spin.|r
+10092	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou must wait a moment before spinning again.|r
+10093	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received sugar needed to craft a pass to the Shimmering Lagoon.|r
+10094	|Eemoji/summer|e|cffb9b8b8[|r|cffdee356Summer Event|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received a pineapple needed to craft a pass to the Shimmering Lagoon.|r
+10095	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThe limited item was successfully purchased.|r
+10096	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis limited item has already been sold out.|r
+10097	|Eemoji/info|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou purchased item %s – %d pcs.|r
+10098	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have enough won. You need %d.|r
+10099	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have already received one of the main rewards in the Wheel of Fortune. You can no longer spin.|r
+10100	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aBoth main rewards have already reached the maximum spin limit (5). If you hit one of the chests, you will receive an alternative reward.|r
+10101	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou spun item %u, but it has already reached the maximum server limit. An alternative reward spin was performed.|r
+10102	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou received item %u x%u as compensation for one of the main rewards.|r
+10103	|Eemoji/info|e|cffb9b8b8[|r|cffdee356Wheel of Fortune|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCongratulations! You received one of the main rewards! Remaining count: Reaper’s Chest (I): %d/5, Reaper’s Chest (II): %d/5.|r
+10104	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have successfully added a 1–5 bonus to the Elemental Heart.|r
+10105	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You cannot add another bonus to the Elemental Heart.|r
+10106	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This enhancement cannot be used on this item.|r
+10107	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aChanging 1–5 bonuses in the Talisman Heart was successful.|r
+10108	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323There are not enough bonuses in the Elemental Heart to reroll.|r
+10109	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323The Elemental Heart already has the maximum number of 6/7 bonuses.|r
+10110	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aAdding 6–7 bonuses to the Talisman Heart was successful.|r
+10111	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This cannot be performed.|r
+10112	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Adding 6–7 bonuses to the Elemental Heart is only possible from +20.|r
+10113	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323There are not enough 6/7 bonuses in the Elemental Heart to reroll.|r
+10114	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aChanging 6/7 bonuses in the Talisman Heart was successful.|r
+10115	|Eemoji/talisman|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323Changing 6/7 bonuses in the Elemental Heart is only possible from +20.|r
+10116	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the active title "Relic Hunter", this reroll cost you nothing.|r
+10117	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThanks to the active title "Relic Hunter", this reroll cost you nothing.|r
+10118	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cannot do this without guild.|r
+10119	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou do not have sufficient rights to upgrade guild guardian items.|r
+10120	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need to be on guild map in order to refine guardian items.|r
+10121	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYour guild dont have enough guild money for this refine.|r
+10122	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have to wait.|r
+10123	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNot enough raid tickets.|r
+10124	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou cant change guild notes that often.|r
+10125	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild notes need to be at least 4 characters long.|r
+10126	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou can not do this now. Close all windows and wait 10 seconds.|r
+10127	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou can equip guardian items only if they are placed inside inventory.|r
+10128	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis guardian item is still soulbinded to another guild.|r
+10129	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aNot enough space in inventory.|r
+10130	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou dont have a ticket to buy extra daily raid for your guild.|r
+10131	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou dont have enough dragon coins to buy extra daily raid.|r
+10132	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild log is empty.|r
+10133	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aGuild logs are already up to date.|r
+10134	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You have to wait %.2f seconds to change title again.|r
+10135	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have unlocked a new title!|r
+10136	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTitle has been activated!|r
+10137	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aTitle has been removed.|r
+10138	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou already have this title active!|r
+10139	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou haven't unlocked this title yet!|r
+10140	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title is already active in your premium slot!|r
+10141	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title cannot be used together with your premium title!|r
+10142	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need active premium to use the second title slot!|r
+10143	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou already have this title active in premium slot!|r
+10144	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou haven't unlocked this title yet!|r
+10145	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aThis title cannot be used together with your primary title!|r
+10146	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPremium title has been activated!|r
+10147	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aPremium title has been removed.|r
+10148	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323You are already a VIP member.|r
+1957	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCannot add additional 6/7 bonuses!|r
+1958	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2a6/7 bonus was successfully added!|r
+1959	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aCannot add 6/7 bonuses to this item!|r
+10149	Przedmiot tego typu jest ju¿ wyposa¿ony.
+10150	Zmiana bonusu w przedmiocie: %s (Slot: %d) powiod³a siê.
+10151	Nie mo¿esz dosi¹œæ wierzchowca podczas PvP. Poczekaj %d sekund.

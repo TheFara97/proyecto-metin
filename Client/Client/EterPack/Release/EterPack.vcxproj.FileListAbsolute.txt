@@ -1,0 +1,3 @@
+D:\Zaris2\zariscore\Client\EterPack\Release\EterPack.lib
+F:\Elvion\Elvion-core\Client\EterPack\Release\EterPack.lib
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\EterPack\Release\EterPack.lib

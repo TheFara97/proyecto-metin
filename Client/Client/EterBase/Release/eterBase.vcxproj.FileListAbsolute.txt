@@ -1,0 +1,3 @@
+D:\Zaris2\zariscore\Client\EterBase\Release\eterBase.lib
+F:\Elvion\Elvion-core\Client\EterBase\Release\eterBase.lib
+C:\Users\yigit\Desktop\Elvion Project\Elvion (3)\Elvion-core\Client\EterBase\Release\eterBase.lib

@@ -1,0 +1,464 @@
+1	Utwórz gildiê
+2	Czy na pewno chcesz za³o¿yæ gildiê - 1 Won?
+3	Cena:
+4	Tak
+5	NIE
+6	Nazwa nie mo¿e zawieraæ znaków specjalnych, a jej d³ugoœæ musi wynosiæ od 3 do 11 znaków!
+7	Czy na pewno chcesz stworzyæ gildiê o tej nazwie?[ENTER]
+8	Nie masz doœæ Yang.
+9	Jesteœ ju¿ w gildii.
+10	[System] Nazwa gildii jest nieprawid³owa (strlen <2 lub >11!)
+11	[System] Nazwa gildii jest nieprawid³owa (zawiera znaki specjalne!)
+12	[System] Gildia nie zosta³a utworzona (nazwa jest ju¿ zajêta lub jesteœ ju¿ cz³onkiem gildii)
+13	[System] Gildia zosta³a utworzona.
+14	[System] Gracz jest ju¿ cz³onkiem gildii
+15	[System] Gracz jest ju¿ przywódc¹ gildii
+16	GM: Ogranicz.
+17	Wpisz imiê i nazwisko osoby, któr¹ chcesz ograniczyæ!
+18	Gracz taki jak:
+19	nie istnieje!
+20	GM: SprawdŸ.
+21	Posiada gildiê:
+22	Czy mistrz:
+23	Królestwo:
+24	Królestwo NPC:
+25	Opuœæ gildiê
+26	Czy naprawdê chcesz opuœciæ gildiê?
+27	Opuœci³eœ gildiê.
+28	Rozwi¹zaæ gildiê
+29	Czy naprawdê chcesz rozwi¹zaæ gildiê?
+30	Gildia zosta³a rozwi¹zana.
+31	Nie mo¿esz za³o¿yæ gildii, ju¿ w niej jesteœ!
+32	Czy na pewno chcesz za³o¿yæ gildiê - 1 Won?
+33	Nie masz przedmiotu wymaganego do utworzenia gildii.
+34	Nie masz wystarczaj¹cej iloœci pieniêdzy, aby stworzyæ gildiê.
+35	Nie masz wystarczaj¹cego poziomu przywództwa.
+36	Zanim wyœlesz kolejny przedmiot, musisz poczekaæ trochê d³u¿ej.
+37	Ten przedmiot mia³ œwietn¹ jakoœæ!
+38	Ukoñczy³eœ misjê biologa.
+39	Ten przedmiot mia³ bardzo s³ab¹ jakoœæ!
+40	Nie masz przedmiotu wymaganego do badañ.
+41	Twój poziom jest zbyt niski.
+42	Ukoñczy³eœ misjê kolekcjonersk¹.
+43	[Jaskinia Lodowa] Zabij 50 potworów, a nastêpnie u¿yj pieczêci!
+44	[Jaskinia Lodowa] Zniszcz wszystkie g³azy!
+45	[Jaskinia Lodowa] Zabij 3 minibossów!
+46	[Jaskinia Lodowa] Zabij bossa!
+47	WejdŸ do jaskini lodowej (125+)
+48	Opiekun:
+49	Czeœæ!
+50	Czy dobrze rozumiem? Chcesz wejœæ do Jaskini Lodowej?
+51	Bez wymaganych elementów
+52	i poziom, nie pozwolê ci przejœæ.
+53	Liczba wpisów dzisiaj:
+54	Limit zostanie zresetowany za:
+55	%d godzin i %d minut.
+56	0 godzin i 0 minut.
+57	Potrzebujesz:
+58	Wymagany przedmiot
+59	Czy chcesz kontynuowaæ?
+60	Jasne!
+61	Wola³bym nie.
+62	Teleportacja nie jest obecnie mo¿liwa!
+63	Nie masz wymaganego przedmiotu!
+64	[Jaskinia Lodowa] Witamy w lochu!
+65	[Jaskinia Lodowa] Pojawi³y siê potwory!
+66	Zabij 50 potworów
+67	[Jaskinia Lodowa] U¿yj pieczêci, aby przejœæ dalej!
+68	[Jaskinia Lodowa] Sukces!
+69	[Jaskinia Lodowa] Nastêpny cel pojawi siê za 5 sekund!
+70	[Jaskinia Lodowa] Pojawi³y siê g³azy!
+71	Zniszcz 8 g³azów
+72	[Jaskinia Lodowa] Œwietna robota!
+73	[Jaskinia Lodowa] Wci¹¿ pozosta³o:
+74	g³azy!
+75	Zabij 3 minibossów
+76	[Jaskinia Lodowa] Uda³o Ci siê zabiæ minibossów!
+77	Zniszcz 4 g³azy
+78	[Jaskinia Lodowa] Boss siê pojawi³!
+79	Zabij szefa!
+80	[Jaskinia Lodowa] Uda³o Ci siê zabiæ bossa!
+81	[Jaskinia Lodowa] Za minutê zostaniesz teleportowany z lochu!
+82	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Jaskinia Lodowa |cFFc5ff8c(Poz. 125)|r w czasie: |cFFf7b983%s!
+83	Ogólny ranking
+84	Ranking punktowy
+85	Baek-Go
+86	Rzemios³o
+87	Rzemios³o - kamienie duszy
+88	Rzemios³o - eliksiry
+89	Rzemios³o - umiejêtnoœci autobuffowania
+90	Ranga, zwierzak, wierzchowiec
+91	Poziomy za punkty osi¹gniêæ
+92	Sklep z punktami osi¹gniêæ
+93	Poziom potêpienia
+94	Zwiêksz poziom potêpienia (test)
+95	Kolekcja wêdkarska
+96	Sklep
+97	Ryba
+98	Relikty i wytapianie
+99	Artyku³y wielkanocne
+100	[W¹wóz Cesarza] Zabij 50 potworów!
+101	[W¹wóz Cesarza] Pojawi³ siê S³uga Cesarza!
+102	[W¹wóz Cesarza] Zniszcz 6 g³azów!
+103	[W¹wóz Cesarza] Zabij 4 d¿iny!
+104	[W¹wóz Cesarza] Pojawi³y siê Imperialne Nagi!
+105	WejdŸ do W¹wozu Cesarza (poz. 160+)
+106	Czy dobrze rozumiem? Chcesz wejœæ do W¹wozu Cesarza?
+107	[W¹wóz Cesarza] Witamy w W¹wozie Cesarza!
+108	[W¹wóz Cesarza] Pojawi³y siê potwory!
+109	Zabij potwory w w¹wozie.
+110	[W¹wóz Cesarza] Zabi³eœ wszystkie potwory!
+111	[W¹wóz Cesarza] S³uga Cesarza budzi siê...
+112	[W¹wóz Cesarza] Pozosta³e potwory:
+113	Zmniejsz HP s³ugi poni¿ej 66%
+114	[W¹wóz Cesarza] S³uga przywo³a³ g³azy!
+115	Zniszcz wszystkie 6 ska³
+116	[W¹wóz Cesarza] Wszystkie g³azy zosta³y zniszczone!
+117	[W¹wóz Cesarza] Kontynuuj walkê ze s³ug¹!
+118	Zmniejsz HP s³ugi poni¿ej 33%
+119	[W¹wóz Cesarza] Pozosta³e g³azy:
+120	[W¹wóz Cesarza] S³uga wzywa posi³ki!
+121	Zabij 4 d¿iny.
+122	[W¹wóz Cesarza] Pokona³eœ wszystkie d¿iny!
+123	[W¹wóz Cesarza] Zabij s³ugê cesarza!
+124	Zabij s³ugê cesarza
+125	[W¹wóz Cesarza] Pozosta³e d¿iny:
+126	[W¹wóz Cesarza] S³uga Imperatora!
+127	[W¹wóz Cesarza] Ale czekaj... coœ jest nie tak...
+128	Zabij Imperialne Nagi!
+129	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83W¹wóz Cesarza |cFFc5ff8c(Poz. 150)|r w czasie: |cFFf7b983%s!
+130	Nie mo¿na tego zrobiæ w tej chwili.
+131	Nie masz ¿adnych umiejêtnoœci.
+132	Nie mo¿na u¿ywaæ w lochach.
+133	Kamieñ Duszy:
+134	U¿ycie tego elementu spowoduje usuniêcie
+135	efekt Zwoju Egzorcyzmu.
+136	Nie masz ¿adnych umiejêtnoœci na poziomie G.
+137	Wybierz umiejêtnoœæ, któr¹ chcesz trenowaæ:
+138	Wyjechaæ
+139	Trening umiejêtnoœci przebieg³ pomyœlnie.
+140	Dragon Souls - sezon zamkniêty
+141	Dragon Souls s¹ chwilowo niedostêpne.
+142	Osi¹gn¹³eœ ju¿ dzisiejszy limit.
+143	Mo¿esz rozpocz¹æ nowy sezon zbierania Dragon Soul.
+144	Dusze Smoków
+145	Nie mo¿esz dzisiaj zebraæ wiêcej Smoczych Dusz.
+146	Rozpocz¹³ siê nowy sezon kolekcji Dragon Soul!
+147	Dragon Souls - udoskonalenie
+148	Tutaj mo¿esz udoskonaliæ swoje Smocze Dusze.
+149	Mityczna Alchemia: Zmiana premii
+150	Czy na pewno chcesz otworzyæ okno zmiany bonusu?
+151	Sklep z Dusz¹ Smoka
+152	Witamy w sklepie Dragon Soul!
+153	[Kapliczka Demonów] Zabij 50 potworów, a nastêpnie u¿yj pieczêci!
+154	[Œwi¹tynia Demonów] Zniszcz wszystkie g³azy!
+155	[Kapliczka Demonów] Zabij 3 minibossów!
+156	[Kapliczka Demonów] Zabij bossa!
+157	WejdŸ do Œwi¹tyni Demonów (75+)
+158	Czy dobrze rozumiem? Czy chcesz wejœæ do Œwi¹tyni Demonów?
+159	[Œwi¹tynia Demonów] Witamy w lochach!
+160	[Œwi¹tynia Demonów] Pojawi³y siê potwory!
+161	[Kapliczka Demonów] U¿yj pieczêci, aby przejœæ dalej!
+162	[Œwi¹tynia Demonów] Pojawi³y siê g³azy!
+163	[Œwi¹tynia Demonów] Œwietna robota!
+164	[Œwi¹tynia Demonów] Wci¹¿ pozosta³o:
+165	[Kapliczka Demonów] Uda³o Ci siê zabiæ minibossów!
+166	[Œwi¹tynia Demonów] Pojawi³ siê boss!
+167	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83 Kapliczka Demonów |cFFc5ff8c(Poz. 75)|r w czasie: |cFFf7b983%s!
+168	Wróæ do lochu
+169	Chcesz wróciæ do lochu?
+170	[Spider Queen's Lair] Zabij 50 potworów, a nastêpnie u¿yj pieczêci!
+171	[Legowisko Królowej Paj¹ków] Zniszcz wszystkie g³azy!
+172	[Spider Queen's Lair] Zabij 3 minibossów!
+173	[Spider Queen's Lair] Zabij bossa!
+174	WejdŸ do legowiska pajêczej królowej (50+)
+175	Czy dobrze rozumiem? Czy chcesz wejœæ do Legowiska Pajêczej Królowej?
+176	[Spider Queen's Lair] Witamy w lochach!
+177	[Legowisko Królowej Paj¹ków] Pojawi³y siê potwory!
+178	[Spider Queen's Lair] U¿yj pieczêci, aby przejœæ dalej!
+179	[Legowisko Królowej Paj¹ków] Pojawi³y siê g³azy!
+180	Zniszcz 5 g³azów
+181	[Legowisko Królowej Paj¹ków] Œwietna robota!
+182	[Legowisko Królowej Paj¹ków] Pozosta³o jeszcze:
+183	[Spider Queen's Lair] Uda³o Ci siê zabiæ minibossów!
+184	[Spider Queen's Lair] Boss siê pojawi³!
+185	[Spider Queen's Lair] Za 20 sekund zostaniesz teleportowany z lochu!
+186	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Gnata Królowej Paj¹ków |cFFc5ff8c(Poz. 50)|r w czasie: |cFFf7b983%s!
+187	[Wielkanocny Loch] Zabij 150 potworów, a nastêpnie u¿yj pieczêci!
+188	[Wielkanocny Loch] Zniszcz wszystkie g³azy!
+189	[Wielkanocny Loch] Zabij 3 minibossów!
+190	[Wielkanocny Loch] Zabij bossa!
+191	Wielkanocny Loch
+192	Czy dobrze rozumiem? Czy chcesz wejœæ do Wielkanocnego Lochu?
+193	Bez wymaganych przedmiotów nie przepuszczê Ciê.
+194	[Wielkanocny Loch] Witamy w lochu!
+195	[Wielkanocny Loch] Pojawi³y siê potwory!
+196	Zabij 150 potworów
+197	[Wielkanocny Loch] U¿yj pieczêci, aby przejœæ dalej!
+198	[Wielkanocny Loch] Pojawi³y siê g³azy!
+199	[Wielkanocny Loch] Œwietna robota!
+200	[Wielkanocny Loch] Wci¹¿ pozosta³o:
+201	[Wielkanocny Loch] Uda³o Ci siê zabiæ minibossów!
+202	[Wielkanocny Loch] Boss siê pojawi³!
+203	[Wielkanocny Loch] Za 20 sekund zostaniesz teleportowany z lochu!
+204	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Wielkanocny Loch |cFFc5ff8c|r w czasie: |cFFf7b983%s!
+205	Mapa Wielkanocna
+206	Powitanie!
+207	Czy chcesz teleportowaæ siê na Mapê Wielkanocn¹?
+208	- Na mapê mo¿na wejœæ raz na 4 godziny
+209	- Mo¿esz pozostaæ na mapie maksymalnie przez 1 godzinê.
+210	Teleportowaæ
+211	Nie teraz
+212	Mapa Wielkanocna jest obecnie niedostêpna.
+213	Mo¿esz ponownie wejœæ na Mapê Wielkanocn¹ w:
+214	godzina (godziny) i
+215	protokó³).
+216	Twój czas min¹³. Zostaniesz teleportowany z powrotem do miasta.
+217	Zablokowane funkcje:
+218	Handel
+219	Zaproszenia do Gildii
+220	Zaproszenia znajomych
+221	Zaproszenia na imprezê
+222	¯¹dania partii
+223	Szeptanie
+224	[Bramy piek³a] Zabij 50 potworów, a nastêpnie u¿yj pieczêci!
+225	[Bramy piek³a] Zniszcz wszystkie g³azy!
+226	[Bramy piek³a] Zabij 3 minibossów!
+227	[Bramy piek³a] Zabij minibossów!
+228	[Bramy piek³a] Zabij bossa!
+229	WejdŸ do bram piekielnych (150+)
+230	Czy dobrze rozumiem? Czy chcesz wejœæ do bram piekielnych?
+231	[Bramy piek³a] Witamy w lochach!
+232	[Bramy piek³a] Pojawi³y siê potwory!
+233	[Bramy piek³a] U¿yj pieczêci, aby przejœæ dalej!
+234	[Bramy piek³a] Pojawi³y siê g³azy!
+235	[Bramy Piekie³] Œwietna robota!
+236	[Bramy piekielne] Wci¹¿ pozostaj¹:
+237	[Bramy piek³a] Uda³o Ci siê zabiæ minibossów!
+238	Zabij minibossów
+239	[Bramy piek³a] Boss siê pojawi³!
+240	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Bramy piek³a |cFFc5ff8c(Poz. 150)|r w czasie: |cFFf7b983%s!
+241	Rzemios³o - Podkowa
+242	Zaklêcie zmiany p³ci
+243	Nie mo¿na zmieniæ p³ci, maj¹c na sobie kostium dla p³ci przeciwnej!
+244	Musisz mieæ co najmniej 50 poziom!
+245	Nie mo¿esz zmieniæ p³ci bêd¹c w zwi¹zku ma³¿eñskim!
+246	Nie mo¿na zmieniæ p³ci podczas transformacji!
+247	Musisz poczekaæ 24 godziny!
+248	Pozosta³y czas:
+249	Czy naprawdê chcesz zmieniæ p³eæ?
+250	P³eæ zosta³a zmieniona.
+251	Aby zakoñczyæ proces, wyloguj siê i zaloguj ponownie.
+252	[Kupon AP] Nie mo¿na tego teraz zrobiæ.
+253	[Kupon AP] Nie masz wymaganego kuponu!
+254	Liczba punktów osi¹gniêæ zosta³a zwiêkszona o
+255	Twój poziom jest zbyt wysoki, aby znaleŸæ siê na tej mapie.
+256	Tworzenie od³amków
+257	Deokbae:
+258	Ten kilof ma za ma³o punktów.
+259	Czy na pewno chcesz ulepszyæ kilof?
+260	Aktualizacja nie powiod³a siê...
+261	Teraz wygl¹da to du¿o lepiej.
+262	Niestety, ulepszenie kilofa nie powiod³o siê.
+263	Kilof ma teraz ni¿szy poziom.
+264	[Zmiana Imperium] Nie mo¿na tego teraz zrobiæ.
+265	Zmiana Imperium:
+266	Dziêki temu przedmiotowi mo¿esz zmieniæ swoje imperium,
+267	ale to nie jest darmowe - wszystko ma swoj¹ cenê.
+268	Mo¿esz zmieniaæ swoje imperium co 3 dni,
+269	bêdziesz tak¿e potrzebowaæ 1 000 000 000 Yang.
+270	Chcesz zmieniæ swoje imperium?
+271	[Zmiana Imperium] Nie masz 1 000 000 000 Yang.
+272	[Zmiana Imperium] Przedmiot jest obecnie wy³¹czony.
+273	[Zmiana Imperium] Najpierw musisz opuœciæ swoj¹ gildiê.
+274	[Zmiana Imperium] Najpierw musisz siê rozwieœæ.
+275	Wybierz nowe imperium
+276	Shinsoo
+277	d¿inno
+278	Anulowaæ
+279	[Zmiana Imperium] Jesteœ ju¿ w tym imperium.
+280	[Zmiana Imperium] Imperium siê zmieni³o! Aby zmiany zaczê³y obowi¹zywaæ, musisz siê wylogowaæ i zalogowaæ ponownie.
+281	Poddaæ siê
+282	Anulowaæ
+283	Podda³eœ siê z tym zadaniem
+284	Nie wszyscy cz³onkowie dru¿yny znajduj¹ siê na tej mapie!
+285	Niektórzy cz³onkowie dru¿yny nie maj¹ wymaganego poziomu:
+286	Nie masz wystarczaj¹cego poziomu, aby wejœæ do tego lochu!
+287	Niektórzy gracze nie maj¹ wymaganej przepustki:
+288	Niektórych graczy nie mo¿na teleportowaæ:
+289	Czy próbowa³eœ oszukaæ stra¿nika?...
+290	WprowadŸ numer
+291	%d sek.
+292	%d min. %d sek.
+293	%d h. %d m.
+294	%d d. %d h.
+295	Ta wêdka nie ma wystarczaj¹cej liczby punktów!
+296	Twoja wêdka jest ju¿ na maksymalnym poziomie!
+297	Czy naprawdê chcesz ulepszyæ tê wêdkê?
+298	Aktualizacja nie powiod³a siê.
+299	Ulepszenie wêdki zakoñczy³o siê sukcesem!
+300	Spróbuj ponownie póŸniej!
+301	[Staro¿ytna D¿ungla] Zabij 50 potworów i u¿yj pieczêci!
+302	[Staro¿ytna D¿ungla] Zniszcz wszystkie g³azy!
+303	[Staro¿ytna D¿ungla] Zabij 3 minibossów!
+304	[Staro¿ytna D¿ungla] Zabij minibossów!
+305	[Staro¿ytna D¿ungla] Zabij bossa!
+306	WejdŸ do staro¿ytnej d¿ungli (175+)
+307	Czy dobrze rozumiem? Chcesz wejœæ do Staro¿ytnej D¿ungli?
+308	[Staro¿ytna D¿ungla] Witamy w lochach!
+309	[Staro¿ytna D¿ungla] Pojawi³y siê potwory!
+310	[Staro¿ytna D¿ungla] U¿yj pieczêci, aby przejœæ dalej!
+311	[Staro¿ytna D¿ungla] Pojawi³y siê g³azy!
+312	[Staro¿ytna D¿ungla] Œwietna robota!
+313	[Staro¿ytna D¿ungla] Wci¹¿ pozosta³o:
+314	[Staro¿ytna D¿ungla] Uda³o Ci siê zabiæ minibossów!
+315	[Staro¿ytna D¿ungla] Boss siê pojawi³!
+316	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Staro¿ytna D¿ungla |cFFc5ff8c(Poz. 175)|r w czasie: |cFFf7b983%s!
+317	Po³¹czenie
+318	Chcesz po³¹czyæ szarfy?
+319	Absorpcja przedmiotu
+320	Chcesz wch³on¹æ broñ w szarfê?
+321	[Ruiny Skorpiona] Zabij 50 potworów, a nastêpnie u¿yj pieczêci!
+322	[Ruiny Skorpiona] Zniszcz wszystkie g³azy!
+323	[Ruiny Skorpiona] Zabij 3 minibossów!
+324	[Ruiny Skorpiona] Zabij bossa!
+325	WejdŸ do ruin Skorpiona (100+)
+326	Czy dobrze rozumiem? Czy chcesz wejœæ do Ruin Skorpiona?
+327	Do tego lochu nie mo¿na wejœæ w dru¿ynie.
+328	[Ruiny Skorpiona] Witamy w lochach!
+329	[Ruiny Skorpiona] Pojawi³y siê potwory!
+330	[Ruiny Skorpiona] U¿yj pieczêci, aby przejœæ dalej!
+331	[Ruiny Skorpiona] Pojawi³y siê g³azy!
+332	Zniszcz 6 g³azów
+333	[Ruiny Skorpiona] Uda³o Ci siê zabiæ bossa!
+334	[Ruiny Skorpiona] Za minutê zostaniesz teleportowany z lochu!
+335	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Ruiny Skorpiona |cFFc5ff8c(Poz. 100)|r w czasie: |cFFf7b983%s!
+336	Trening umiejêtnoœci
+337	Cia³o
+338	Psychiczny
+339	Sztylety
+340	Uk³on
+341	WP
+342	BM
+343	Polerowaæ
+344	Uzdrowiciel
+345	Wybierz umiejêtnoœci:
+346	Wybierz swoj¹ specjalizacjê.
+347	Wybierz póŸniej
+348	Wybra³eœ swoj¹ specjalizacjê!
+349	Wybór kostiumu:
+350	Wybierz rodzaj kostiumu:
+351	Kostium PvP
+352	Kostium PvM
+353	Otrzyma³eœ kostium PvP!
+354	Wybierz broñ kostiumow¹ PvP:
+355	Po dokonaniu selekcji nie ma ju¿ odwrotu.
+356	Otrzyma³eœ kostium PvM!
+357	Wybierz broñ kostiumow¹ PvM:
+358	Wybór anulowany.
+359	Wybierz broñ kostiumow¹:
+360	Spróbuj ponownie za 10 sekund.
+361	Nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+362	Nieprawid³owy element.
+363	Mo¿esz ponownie trenowaæ tê umiejêtnoœæ w
+364	minut lub u¿yj Zwoju Egzorcyzmu.
+365	Mo¿esz wyszkoliæ tê umiejêtnoœæ ponownie za 8 godzin.
+366	Trening umiejêtnoœci nie powiód³ siê.
+367	Trening umiejêtnoœci nie daje 100%.
+368	Reset umiejêtnoœci
+369	Powitanie,
+370	Jeœli chcesz zresetowaæ swoje umiejêtnoœci
+371	i wybierz now¹ specjalizacjê, bêdzie Ciê to trochê kosztowaæ.
+372	Cena: 1 000 000 000 Yang.
+373	Chcesz zresetowaæ swoje umiejêtnoœci?
+374	Tej zmiany nie mo¿na cofn¹æ!
+375	[Starsza Pani] Nie masz 1 000 000 000 Yang.
+376	[Starsza Pani] Nie mo¿esz tego teraz zrobiæ.
+377	[Starsza Dama] Nie masz umiejêtnoœci.
+378	Kostiumy walentynkowe gratis!
+379	Czeœæ!
+380	Oto darmowe przedmioty z Item Shop na Walentynki!
+381	Zawieraj¹ pe³ne bonusy i trwaj¹ 3 dni.
+382	OK
+383	Nie teraz
+384	Magazyn
+385	Sklep z przedmiotami
+386	[Statek widmo] Zniszcz g³az
+387	[Statek widmo] Zabij wszystkie potwory (na wierzchowcu)
+388	[Statek widmo] Zniszcz g³az na ziemi.
+389	[Statek widmo] Zabij wszystkie potwory
+390	[Statek widmo] Zniszcz wszystkie g³azy!
+391	[Statek widmo] Zabij bossa!
+392	[Statek widmo] Zniszcz skrzyniê kapitana!
+393	WejdŸ na statek widmo (poz. 149)
+394	Czy dobrze rozumiem? Czy chcesz wejœæ na statek widmo?
+395	- Impreza (2 graczy)
+396	[Statek widmo] Musisz mieæ w pobli¿u co najmniej 1 innego gracza.
+397	[Statek widmo] Nie jesteœ przywódc¹ dru¿yny!
+398	[Statek widmo] Nie masz wystarczaj¹cego poziomu!
+399	[Statek widmo] Twój poziom jest za wysoki!
+400	[Statek widmo] Lider nie ma wystarczaj¹cej liczby przepustek! (x2)
+401	[Statek widmo] Witamy w lochu!
+402	Nie uda³o Ci siê ukoñczyæ lochu na czas. Wszyscy zostan¹ teleportowani z lochu!
+403	[Statek widmo] Pojawi³ siê g³az!
+404	[Statek widmo] Pojawi³a siê skrzynia!
+405	[Statek widmo] Zniszczy³eœ skrzyniê!
+406	[Statek widmo] Za minutê wszyscy zostan¹ teleportowani z lochu!
+407	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Statek widmo (I) |cFFc5ff8c(Poz. 149)|r w czasie: |cFFf7b9
+408	WejdŸ na statek widmo (poz. 200)
+409	Czy dobrze rozumiem? Czy chcesz wejœæ na statek widmo?
+410	[Statek widmo] Nie masz wystarczaj¹cego poziomu!
+411	[Statek widmo] Twój poziom jest za wysoki!
+412	[Statek widmo] Lider nie ma wystarczaj¹cej liczby przepustek! (x2)
+413	[Statek widmo] Uda³o ci siê zabiæ bossa!
+414	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Statek widmo (II) |cFFc5ff8c(Poz. 200)|r w czasie: |cFFf7b98
+415	[Góry Wukong] Zabij 50 potworów, a nastêpnie u¿yj pieczêci!
+416	[Góry Wukong] Zniszcz wszystkie g³azy!
+417	[Góry Wukong] Zabij 3 minibossów!
+418	WejdŸ do gór Wukong (75+)
+419	Czy dobrze rozumiem? Chcesz wejœæ w góry Wukong?
+420	[Góry Wukong] Witamy w lochach!
+421	[Góry Wukong] Pojawi³y siê potwory!
+422	[Góry Wukong] U¿yj pieczêci, aby przejœæ dalej!
+423	[Góry Wukong] Pojawi³y siê g³azy!
+424	[Góry Wukong] Uda³o ci siê zabiæ minibossów!
+425	[Góry Wukong] Uda³o ci siê zabiæ bossa!
+426	[Góry Wukong] Za minutê zostaniesz teleportowany z lochu!
+427	|cFFf7dd83%s|r |cFFc5ff8c(Poz. %d)|r ukoñczono |cFFf7dd83Góry Wukong |cFFc5ff8c(Poz. 75)|r w czasie: |cFFf7b983%s!
+428	Rzemios³o
+429	Rzemios³o - Kamienie Duszy
+430	Rzemios³o - Mikstury
+431	Rzemios³o - Umiejêtnoœci autobuffów
+432	Rzemios³o - Ranga, zwierzaki, wierzchowce
+433	Poziomy osi¹gniêæ
+434	Sklep - Punkty osi¹gniêæ
+435	Kolekcja ryb
+436	Sklep
+437	Ryby
+438	Relikty i topniej¹
+439	Wybierz kostium:
+440	Wybierz rodzaj kostiumu:
+441	Kostium PvP
+442	Kostium PvM
+443	Wybierz broñ kostiumow¹:
+444	To dzia³anie jest nieodwracalne.
+445	Zdoby³eœ broñ kostiumow¹
+446	Odwo³any.
+447	Wybierz broñ kostiumow¹:
+448	Skrzyd³a PvP
+449	Skrzyd³a PvM
+450	Wybierz skrzyd³a:
+451	Zdoby³eœ skrzyd³a, zwierzaka i wierzchowca!
+452	Spróbuj ponownie za 10 sekund.
+453	Nie da siê tego zrobiæ w lochach.
+454	Nie masz wystarczaj¹cej iloœci miejsca w ekwipunku.
+455	Easter Valley
+456	You can enter the Easter Valley again in:
+457	(Character restriction)
+458	Do you want to teleport to the Easter Valley?
+459	 - You can enter the map once every 6 hours (CHAR + HWID)
+460	 - Cooldown starts from the moment you enter the map
+461	 - You can stay in the map for a maximum of 30 minutes
+462	The Easter Valley is currently unavailable.
+463	(HWID restriction)
+464	Easter Crafting

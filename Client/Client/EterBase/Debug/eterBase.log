@@ -1,0 +1,23 @@
+﻿  StdAfx.cpp
+  CPostIt.cpp
+  CRC32.cpp
+  Debug.cpp
+  FileBase.cpp
+  FileDir.cpp
+  FileLoader.cpp
+  MappedFile.cpp
+  Random.cpp
+  Stl.cpp
+  TempFile.cpp
+  Timer.cpp
+  Utils.cpp
+  cipher.cpp
+  error.cpp
+  grid.cc
+  lzo.cpp
+  Base.cpp
+  Poly.cpp
+  SymTable.cpp
+  Symbol.cpp
+  tea.cpp
+  eterBase.vcxproj -> F:\Elvion\Elvion-core\Client\EterBase\Debug\eterBase.lib

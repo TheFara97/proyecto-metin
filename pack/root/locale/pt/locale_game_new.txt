@@ -1,0 +1,1817 @@
+ITEMSHOP_WHEEL_CHEQUE_TEXT	|Eemoji/cheque_icon|e Wons Wheel
+TOOLTIP_BONUS_PET	Passive skills of pet are enchanted
+TOOLTIP_BONUS_PASSIVE_SKILLS	All passive skill at P - You received additional bonuses
+SAVE_LOCATION_REMOVE_LOCATION_QUESTION	Voce realmente deseja excluir este local?
+SAVE_LOCATION_ENTER_NAME	Insira o nome:
+SPECIAL_ATTR_EMPTY_ATTR_SOCKET	[Empty Bonus]
+MULTI_FARM_TITLE	Multi Farm Block
+MULTI_FARM_TEXT	|Eemoji/key_lclick|e You need click for active/deactive drop for this character.
+MULTI_FARM_ACTIVE_TEXT	Do you want open this character drop?
+MULTI_FARM_DEACTIVE_TEXT	Do you want close this character drop?
+MULTI_FARM_ACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFFYou can get drop.|r 
+MULTI_FARM_DEACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFFYou cant get drop.|r 
+MULTI_FARM_PREMIUM_EFFECT	Increase multi farm account count: +%d	SA
+DUNGEON_PROGRESSBAR_CRIMSON_BLUE	Azul:
+DUNGEON_PROGRESSBAR_CRIMSON_RED	Vermelho:
+EXPANDEDTASKBAR_WIKI	Wikipédia
+STARTER_PACKAGE_CONTAINS	Contém:
+STARTER_PACKAGE_SMALL_1	• Elvion Premium (3D)
+STARTER_PACKAGE_SMALL_2	• Luvas de LadrÃ£o (1h)
+STARTER_PACKAGE_SMALL_3	• Anel de Experiência (1h)
+BATTLEPASS_PACKAGE_1	• Battlepass Premium
+BATTLEPASS_PACKAGE_2	• Passe de batalha para subir de nível 7x
+STARTER_PACKAGE_MEDIUM_1	• Elvion Premium (14D)
+STARTER_PACKAGE_MEDIUM_2	• Pequeno El (animal de estimação)
+STARTER_PACKAGE_MEDIUM_3	• Luvas de LadrÃ£o (1h)
+STARTER_PACKAGE_MEDIUM_4	• Anel de Experiência (1h)
+STARTER_PACKAGE_BIG_1	• Elvion Premium (30D)
+STARTER_PACKAGE_BIG_2	• Pacote Anjo (Pacote Completo)
+STARTER_PACKAGE_BIG_3	• Traje W. Aprimoramento (PVM)
+STARTER_PACKAGE_BIG_4	• Cavalo Anjo (Montaria)
+STARTER_PACKAGE_BIG_5	• Luvas de LadrÃ£o (1h)
+STARTER_PACKAGE_BIG_6	• Anel de Experiência (1h)
+COSTUME_BOOST_PACKAGE_1	• Aprimoramento de animais de estimação (PVM)
+COSTUME_BOOST_PACKAGE_2	• Aprimoramento de Fantasia (PVM)
+COSTUME_BOOST_PACKAGE_3	• Melhoramento capilar (PVM)
+COSTUME_BOOST_PACKAGE_4	• Traje W. Aprimoramento (PVM)
+COSTUME_BOOST_PACKAGE_5	• Aprimoramento de faixa (PVM)
+TOOLTIP_REMAINING	Restante: %.2f%%
+OFFLINESHOP_EXTEND_SHOP_TIME	Você deseja estender o tempo para 1.000.000.000 yang?
+OFFLINESHOP_EXTEND_TIME_NOT_POSSIBLE	Atualmente você não pode estender o tempo da sua loja offline.
+DUNGEON_PROGRESSBAR_EMERALD	Alma Esmeralda
+DUNGEON_PROGRESSBAR_GORGON	Oxigênio restante -
+INVENTORY_OPEN_VOTESHOP	Abra a loja Vote4buff
+INVENTORY_OPEN_WORLDBOSS	Abra a Loja Worldboss
+AUTOBUFF_BONUS_1	Bônus: |cFF82cf36+15,0% |r(|cFFffce47
+AUTOBUFF_BONUS_2	Bônus: |cFF82cf36+15,0% |r(|cFFffce47
+AUTOBUFF_BONUS_3	Bônus: |cFF82cf36+120,0 |r(|cFFffce47
+AUTOBUFF_CHANCE	Chance de acerto crítico: |cFFffce47+
+AUTOBUFF_ATTACK_VALUE	Valor de ataque: |cFFffce47+
+EVENTCALENDAR_PERSONAL_EVENTS	Eventos ativos
+WHISPER_BUTTON_OPEN	Sussurrar
+REFINEWINDOW_FIND_WIKI	Encontre na Wikipédia
+GOLDBAR_DESC_PER	/ Bar
+GOLDBAR_DESC_WARNING	* 1 barra permanecerá após o uso.
+AUTOSKILL_0_1	Treine a força do seu corpo	
+AUTOSKILL_0_2	Treine a resistência do seu corpo	
+AUTOSKILL_1_1	Afie suas adagas para matar	
+AUTOSKILL_1_2	Use seu arco para lutar	
+AUTOSKILL_2_1	Ame suas armas	
+AUTOSKILL_2_2	Brinque com magia negra	
+AUTOSKILL_3_1	Use a força para ajudar	
+AUTOSKILL_3_2	Use a luz para curar	
+BATTLEPASS_CURRENT_STAGE	Estágio atual: {}
+BATTLEPASS_PREMIUM_QUESTION_1	Você realmente deseja ativar o Battlepass Premium?
+BATTLEPASS_MISSION_MISSING	Missões ausentes {}
+BATTLEPASS_EXP_ENDED	Terminou
+BATTLEPASS_EXPIRED	O passe de batalha expirou
+MISSIONS_BONUS_ATTBONUS_MONSTER	Forte contra monstros +%d%%	SA
+MISSIONS_BONUS_ATT_GRADE_BONUS	Valor de ataque +%d	SA
+MISSIONS_BONUS_ATTBONUS_RULER	Forte contra governantes +%d%%	SA
+MISSIONS_BONUS_TOTAL_DAMAGE	Dano total +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_DEVIL	Forte contra demônios +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE_PVM	Dano da habilidade PVM +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE_RESIST	Resistência a dano de habilidade +%d	SA
+MISSIONS_BONUS_AVG_DAMAGE	Dano médio +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_ORC	Forte contra orcs +%d%%	SA
+MISSIONS_BONUS_SKILL_DAMAGE	Dano de habilidade +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_ELEMENT	Forte contra elementos +%d%%	SA
+MISSIONS_BONUS_ELEMENT_RESIST	Resistência contra elementos +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_HUMAN	Forte contra humanos +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_STONE	Forte contra pedras +%d%%	SA
+MISSIONS_BONUS_DUNGEON_POWER	Poder nas masmorras +%d%%	SA
+MISSIONS_BONUS_ATTBONUS_BOSS	Forte contra chefes +%d%%	SA
+MISSIONS_BONUS_NONE	-
+MISSIONS_REQUIRED_LEVEL	Nível necessário:
+COMPANION_PET_EXP_WITH_CHAR	|cffc99573|H|hExp clássica|H|h
+COMPANION_PET_FEED_ITEM_1	|cffc99573|H|h(Nv. 40-70)|H|h
+COMPANION_PET_FEED_ITEM_2	|cffc99573|H|h(Nv. 70-110)|H|h
+COMPANION_PET_FEED_ITEM_3	|cffc99573|H|h(Nv. 110-150)|H|h
+TOOLTIP_ATT_GRADE_PVM	Valor de Ataque PvM +%d	SA
+SKILL_PVM_LINKED_TO	|cFFcabdabEmparelhado com:|r |cFFc79e65%s|r
+SKILL_PVM_STRENGTHENED_BY	|cFFcabdabImpulsionado por|r |cFFc79e65%s|r
+SKILL_PVM_LEVEL_FIXED	O nível de habilidade é fixo - o poder vem da habilidade emparelhada.
+SKILL_PVM_ATK_VALUE	|cFFcabdabValor de ataque PvM:|r |cFFc79e65+%d|r
+SKILL_PVM_ATK_VALUE_ZERO	|cFFcabdabValor de ataque PvM: +0 (treine sua habilidade emparelhada primeiro)|r
+SKILL_PVM_NOT_AVAILABLE	Não disponível para esta turma.
+VIP_CONVERT_QUESTION	Você gostaria de converter seu tempo premium restante em um item?
+VIP_TOOLTIP	Prêmio	SNA
+VIP_ITEM_SUBTITLE	Ativa premium
+VIP_SECTION_BENEFITS	Benefícios:
+VIP_METIN_QUEUE	• Metin fila atÃ© 7 pedras
+VIP_AUTO_PICKUP	• Recolha automática
+VIP_EXP_BONUS	• +50% de experiência adquirida
+VIP_TITLE	• Permite equipar um tÃtulo no slot premium
+VIP_SAVE_LOCATION	• +1 pÃ¡gina extra em locais salvos
+VIP_MINING_HEADER	Mineração
+VIP_MINING_1	• +5% de chance de extrair minério
+VIP_MINING_2	• +5% de chance de obter mais minério
+VIP_MINING_3	• +5% de chance de ganhar mais pontos de picareta
+VIP_MINING_4	• DurÃ£o da mineraÃ§Ã£o reduzida em 1 segundo
+VIP_FISHING_HEADER	Pesca
+VIP_FISHING_1	• +10% de chance de pegar um peixe
+VIP_FISHING_2	• +10% de chance de captura instantânea
+VIP_FISHING_3	• +10% de chance de pegar um peixe maior
+VIP_FISHING_4	• +25% mais yang dos peixes
+VIP_FISHING_5	• 50% de chance de ganhar pontos AP em dobro ao pescar
+VIP_WARNING_HEADER	Dica:
+VIP_TEXT_WARNING_1	Premium pode ser removido clicando no ícone premium
+VIP_TEXT_WARNING_2	no canto superior esquerdo. Após a remoção, você receberá o prêmio de volta
+VIP_TEXT_WARNING_3	em seu inventário com a duração restante.
+DO_YOU_BUY_ITEM_NORMAL	Você quer comprar %s por %d?
+ITEM_PRICE_TITLE	Preço:
+ITEM_IS_FREE	Livre
+WORLDBOSS_LESS_THAN_MINUTE	Menos de um minuto
+DO_YOU_BUY_ITEM_AP1	Você quer comprar %s por %s?
+DO_YOU_BUY_ITEM_AP2	Você quer comprar %s (%s peças) por %s?
+VOTE4BUFF_QUESTION1	Você realmente deseja selecionar este bônus?
+VOTE4BUFF_QUESTION2	Você realmente deseja alterar o bônus de %s?
+VOTE4BUFF_TIME_LEFT	Tempo restante: %s
+VOTE4BUFF_BONUS_SELECTION	Você pode selecionar um bônus agora!
+VOTE4BUFF_VOTE_REWARDS	Recompensas por Votação
+VOTE4BUFF_BONUS_TITLE	Bônus
+VOTE4BUFF_WARNING_MSG1	Você deve votar antes de selecionar um bônus!
+VOTE4BUFF_WARNING_MSG2	Clique no botão de votação novamente depois de votar
+VOTE4BUFF_AVAILABLE	Vote 4 Buff está disponível!
+VOTE4BUFF_VOTE_INFORMATION	Clique aqui para votar!
+VOTE4BUFF_AFFECT_TITLE	Vote4Buff
+SKILL_MINING_CHANCE	Chance de extrair minério +%d%%
+SKILL_MINING_CHANCE_MORE_ORE	Chance de mais minério +%d%%
+SKILL_MINING_LESS_TIME	Tempo de mineração reduzido em -%dsec.
+SKILL_MINING_RELIC_CHANCE	Chance de extrair núcleo de relíquia +%d%%
+SKILL_MINING_ORE_COUNT	Minérios Minerados: %s
+SKILL_FISHES_CAUGHT	Peixes capturados: %s
+WIKI_CUBE_PERCENT	{}%
+WIKI_CUBE	Artesanato
+WIKI_EQUIPMENT_RUNES	Runas
+WIKI_EQUIPMENT_PET_EQ	Equipamento para animais de estimação
+WIKI_EQUIPMENT_MOUNT_EQ	Equipamento de montagem
+EXTRA_BONUS_ITEM_TITLE	Desbloqueador de bônus extra
+EXTRA_BONUS_ITEM_DESC	Desbloqueie e aprimore bônus especiais em itens específicos.
+EXTRA_BONUS_COMPATIBLE_ITEMS	Itens compatíveis:
+EXTRA_BONUS_SASH_INFO	Faixa
+EXTRA_BONUS_SASH_EFFECT	Aumenta a absorção de 30% para 45%
+EXTRA_BONUS_GLOVES_INFO	Luvas Poderosas +9
+EXTRA_BONUS_GLOVES_EFFECT	Aumenta os últimos 2 bônus em +20%
+EXTRA_BONUS_PET_INFO	Equipamento para animais de estimação +9
+EXTRA_BONUS_PET_EFFECT	Desbloqueia bônus adicionais
+EXTRA_BONUS_RUNE_INFO	Runas Lendárias
+EXTRA_BONUS_RUNE_EFFECT	Desbloqueia bônus adicionais
+EXTRA_BONUS_REQUIREMENTS	Requisitos:
+EXTRA_BONUS_REQ_SASH	• Faixa com absorÃ§Ã£o > 30%
+EXTRA_BONUS_REQ_GLOVES	• Power Gloves +9 com 5 bônus
+EXTRA_BONUS_REQ_PET	• Equipamento para animais de estimação +9
+EXTRA_BONUS_REQ_RUNE	• Runas +5
+EXTRA_BONUS_WARNING	Só pode ser usado uma vez por item!
+FISHWIKI_FISH_27802	Valor de Ataque +20
+FISHWIKI_FISH_27803	Força +5
+FISHWIKI_FISH_27804	Inteligência +5
+FISHWIKI_FISH_27805	Destreza +5
+FISHWIKI_FISH_27806	Bônus de EXP +25%
+FISHWIKI_FISH_27807	Chance Crítica +20%
+FISHWIKI_FISH_27808	Chance de perfuração +20%
+FISHWIKI_FISH_27809	Forte contra Orcs +20%
+FISHWIKI_FISH_27810	Dano de Habilidade +5%
+FISHWIKI_FISH_27811	Resistência a danos de habilidade +5%
+FISHWIKI_FISH_27812	Forte contra demônios +10%
+FISHWIKI_FISH_27813	Forte contra animais +10%
+FISHWIKI_FISH_27814	Forte contra místicos +10%
+FISHWIKI_FISH_27815	Forte contra Orcs +10%
+FISHWIKI_FISH_27816	Valor de Ataque +30
+FISHWIKI_FISH_27817	Valor de ataque +50
+FISHWIKI_FISH_27818	HP máximo: +2.000
+FISHWIKI_FISH_27819	HP máximo: +3000
+FISHWIKI_FISH_27820	HP máximo: +4000
+FISHWIKI_FISH_27821	Dano médio +3%
+FISHWIKI_FISH_27822	Forte contra lendas +15%
+FISHWIKI_FISH_27823	Forte contra Metinstones +10%
+FISHWIKI_FISHINGPOLE_GRADE	Vara de pesca +0 a +15
+FISHWIKI_NOTIFICATION	Peixe novo!
+FISHWIKI_HIDE_WINDOW	Ocultar janela
+FISHWIKI_NOTIFICATION_TEXT	Vá até o pescador e confira sua coleção!
+MISSIONS_WINDOW_BIOLOG	Pesquisa biológica
+MISSIONS_WINDOW_COLLECTOR	Coletor
+MISSIONS_WINDOW_HUNTING	Caça
+MISSIONS_WINDOW_BOSSOLOGY	Bossologia
+MISSIONS_WINDOW_STONEOLOGY	Stoneologia
+MISSIONS_WINDOW_LOCATION	|cFFf1e6c0Localização: |r
+MISSIONS_WINDOW_NOT_POSSIBLE	Esta opção está disponível apenas para colecionadores.
+NOTIFICATION_CATEGORY_SPECIAL_ITEM_EXPIRED_DESCRIPTION	A duração do item expirou!
+NOTIFICATION_CATEGORY_BIOLOG_MISSION_READY_DESCRIPTION	Você pode entregar o próximo item para o biolog!
+NOTIFICATION_CATEGORY_ALCHEMY_EXPIRED_DESCRIPTION	A duração de uma de suas alquimias expirou!
+NOTIFICATION_CATEGORY_MELT_EXPIRED_DESCRIPTION	O tempo de derretimento do seu acessório expirou!
+TOOLTIP_WIKI	 - Wikipedia
+TOOLTIP_SEARCH	|Eemoji/key_ctrl|e + |Eemoji/key_shift|e + |Eemoji/key_lclick|e - Shop Search
+RANKING_DAMAGE_BOSS_POSITION	Posição
+RANKING_DAMAGE_PLAYER_NAME	Nome do jogador
+RANKING_DAMAGE_PLAYER_LEVEL	Nível do jogador
+RANKING_DAMAGE_PLAYER_DAMAGE_DONE	Dano causado
+RANKING_DAMAGE_BOSS	Classificação dos 15 melhores causadores de danos
+EXPANDEDTASKBAR_OFFLINESHOP	Loja offline
+EXPANDEDTASKBAR_COMPANION	Companheiros
+EXPANDEDTASKBAR_SHOPSEARCH	Pesquisa de loja
+EXPANDEDTASKBAR_BONUSES	Janela de bônus
+EXPANDEDTASKBAR_SWITCHBOT	Robô de comutação
+EXPANDEDTASKBAR_AUTOBUFF	Buff automático
+EXPANDEDTASKBAR_RANKING	Classificação
+EXPANDEDTASKBAR_BIN	Destruir itens
+EXPANDEDTASKBAR_RUNE	Runas
+EXPANDEDTASKBAR_ARTEFAKT	Artefatos
+EXPANDEDTASKBAR_CHANGEEQUIPMENT	Trocar equipamento
+EXPANDEDTASKBAR_STORAGE	Armazenar
+EXPANDEDTASKBAR_SAVELOCATION	Salvar localização
+EXPANDEDTASKBAR_POTIONS	Usar poções
+ATLAS_WINDOW_NAME	|cFFc79e65Nome:|r |cFFcabdab%s|r
+ATLAS_WINDOW_COORDINATES	|cFFc79e65Coordenadas:|r |cFFcabdab(%d, %d)|r
+ATLAS_WINDOW_RESPAWN	|cFFc79e65Respawn:|r |cFFcabdab%s|r
+ATLAS_WINDOW_COOLDOWN	|cFFc79e65Recarga:|r |cFFcabdab%s|r
+ATLAS_WINDOW_WIKI	|Eemoji/key_alt|e + |Eemoji/key_lclick|e - |cFFcabdabOpen in Wikipedia|r
+MINIMAP_BUTTON_DUNGEON	Masmorras
+MINIMAP_BUTTON_WARP	Teleporte
+MINIMAP_BUTTON_MISSIONS	Missões
+MINIMAP_BUTTON_COLLECTION	Coleção
+MINIMAP_BUTTON_TITLE	Títulos de conquista
+MINIMAP_BOSS_TOOLTIP	[Tempo de reaparecimento: %s]
+WARP_WINDOW_MAPS_LOW	Mapas baixos
+WARP_WINDOW_MAPS_HIGH	Mapas altos
+WARP_WINDOW_MAPS_SPECIAL	Mapas especiais
+WARP_WINDOW_SEARCH_MAPS	Pesquisar mapas...
+WARP_WINDOW_MAP_1	Reino Jinno
+WARP_WINDOW_MAP_2	Cobre
+WARP_WINDOW_MAP_3	Reino Shinsoo
+WARP_WINDOW_MAP_4	Querido
+WARP_WINDOW_MAP_6	Montanha Sohan
+WARP_WINDOW_MAP_7	Vale dos Orcs
+WARP_WINDOW_MAP_8	Floresta
+WARP_WINDOW_MAP_9	Caverna da Aranha
+WARP_WINDOW_MAP_10	Vale Sagrado
+WARP_WINDOW_MAP_11	Deserto Antigo
+WARP_WINDOW_MAP_12	Paisagem gelada
+WARP_WINDOW_MAP_13	Deserto Ardente
+WARP_WINDOW_MAP_14	Floresta Encantada
+WARP_WINDOW_MAP_15	Mina Oculta
+WARP_WINDOW_MAP_16	Costa de Pesca
+WARP_WINDOW_MAP_17	Guild Map
+WARP_WINDOW_MAP_18	Vale Amaldiçoado
+WARP_WINDOW_MAP_19	Easter Valley
+WARP_WINDOW_UNDEAD	|cff544661Morto-vivo|r
+WARP_WINDOW_DEVIL	|cffb783e6Diabo|r
+WARP_WINDOW_ANIMAL	|cff8ad47fAnimal|r
+WARP_WINDOW_ORC	|cffbaa079Orc|r
+WARP_WINDOW_MYSTICS	|cffee73f0Místico|r
+WARP_WINDOW_ICE	|cff6ccbebIce|r
+WARP_WINDOW_DARK	|cff7e07e0Escuridão|r
+WARP_WINDOW_EARTH	|cffccd977Terra|r
+WARP_WINDOW_WIND	|cff59d961Vento|r
+WARP_WINDOW_FIRE	|cffe35c44Fogo|r
+DUNGEON_TRACK_DUNGEON_1	Acampamento Presa de Poeira
+DUNGEON_TRACK_DUNGEON_2	Torre do Diabo
+DUNGEON_TRACK_DUNGEON_3	Santo de Azrael
+DUNGEON_TRACK_DUNGEON_4	Templo Hwang
+DUNGEON_TRACK_DUNGEON_5	Covil Esmeralda
+DUNGEON_TRACK_DUNGEON_6	Profundezas da Górgona
+DUNGEON_TRACK_DUNGEON_7	Profundezas Sedosas
+DUNGEON_TRACK_DUNGEON_8	Profundezas da Forja Infernal
+DUNGEON_TRACK_DUNGEON_9	Fortaleza Carmesim
+DUNGEON_TRACK_DUNGEON_10	Calabouço 10
+DUNGEON_TRACK_DUNGEON_11	Masmorra 11
+DUNGEON_TRACK_TITLE_DUNGEONS	Masmorras
+DUNGEON_TRACK_TITLE_MAPS	Mapas
+DUNGEON_TRACK_NOTIFICATION	%s#está disponível
+DUNGEON_TRACK_CHECKBOX	Enviar notificação quando disponível
+DUNGEON_TRACK_LEVEL_INFO	Nível necessário:
+DUNGEON_TRACK_DAILY_LIMIT_INFO	Limite diário:
+DUNGEON_TRACK_GROUP_INFO	Solicitação de grupo:
+DUNGEON_TRACK_COOLDOWN_INFO	Esfriar:
+DUNGEON_TRACK_TICKET_INFO	Bilhete de Passagem
+DUNGEON_TRACK_SHOP_INFO	Loja de masmorras
+DUNGEON_TRACK_TELEPORT_ENTER	Teletransporte-se para a masmorra.
+DUNGEON_TRACK_WARP	Teleporte-se para o NPC de entrada da masmorra.
+DUNGEON_TRACK_TEST	Teste se você consegue matar o chefe da masmorra, sem pagar o ingresso. O Polymorph Marble pode ser usado gratuitamente.
+DUNGEON_TRACK_PERSONAL_STATISTICS	Estatísticas Pessoais
+DUNGEON_TRACK_RANK_COMPLETED	Classificações: Total Concluído
+DUNGEON_TRACK_RANK_FASTEST	Classificações: tempo mais rápido
+DUNGEON_TRACK_RANK_DMG	Classificações: Max Dmg To Boss
+DUNGEON_TRACK_COMPLETED	Concluído
+DUNGEON_TRACK_FASTEST	Mais rápido
+DUNGEON_TRACK_DMG	Dano
+DUNGEON_TRACK_SLOW_INFO	Por favor, seja lento.
+DUNGEON_TRACK_TRUE	Verdadeiro
+DUNGEON_TRACK_FALSE	Falso
+DUNGEON_TRACK_MOVE_UP	Subir
+DUNGEON_TRACK_MOVE_DOWN	Mover para baixo
+DUNGEON_TRACK_HIDE	Esconder
+DUNGEON_TRACK_DEACTIVE	Desativo
+DUNGEON_TRACK_ACTIVE	Disponível
+DUNGEON_TRACK_WHISPER_MESSAGE	%s está pronto.
+DUNGEON_TRACK_HIGH_LEVEL	Alto nível
+DUNGEON_TRACK_LOW_LEVEL	Baixo nível
+DUNGEON_TRACK_BONUS	Bônus
+DUNGEON_TRACK_RANK_INDEX	Classificação
+DUNGEON_TRACK_RANK_NAME	Nome
+DUNGEON_TRACK_RANK_LEVEL	Nível
+DUNGEON_TRACK_RANK_COMPLETED_TITLE	Total concluído
+DUNGEON_TRACK_RANK_FASTEST_TITLE	Tempo mais rápido
+DUNGEON_TRACK_RANK_DMG_TITLE	Máximo de dano ao chefe
+DUNGEON_TRACK_DAILY_INFO	Entradas Diárias:
+DUNGEON_TRACK_RESET_INFO	Redefinir em:
+DUNGEON_TRACK_DAILY_LIMIT_REACHED	Limite Diário
+DUNGEON_TRACK_DAILY_LIMIT_MESSAGE	Limite diário alcançado
+TITLE_ACHIEVEMENT_NEED_PREMIUM	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou need to have activated premium to use second title.|r
+TITLE_ACHIEVEMENT_ACTIVATED_PREMIUM_TITLE	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have activated the second premium title.|r
+TITLE_ACHIEVEMENT_REMOVED_FROM_FAVOURITES	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have removed this title from favourite section.|r
+TITLE_ACHIEVEMENT_ADDED_TO_FAVOURITES	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have added this title to favourite section.|r
+TITLE_ACHIEVEMENT_TOOLTIP_ACTIVATE	|Eemoji/key_lclick|e - Activate (Primary Slot)
+TITLE_ACHIEVEMENT_TOOLTIP_ACTIVATE_PREMIUM	|Eemoji/key_rclick|e - Activate (Premium Slot)
+TITLE_ACHIEVEMENT_TOOLTIP_ADD_FAVOURITE	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Add to favourite titles
+TITLE_ACHIEVEMENT_ACTIVATED_PRIMARY	|cff00ff00Ativo no Slot Primário|r
+TITLE_ACHIEVEMENT_ACTIVATED_PREMIUM	|cffffaa00Ativo no Slot Premium|r
+TITLE_ACHIEVEMENT_NOT_UNLOCKED_YET	|Eemoji/check|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have not unlocked this title yet.|r
+TITLE_ACHIEVEMENT_TITLE_ACTIVE_IN_PREMIUM	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This title is currently activate in premium slot.|r
+TITLE_ACHIEVEMENT_TITLE_ACTIVE_IN_PRIMARY	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This title is already active in your primary slot!|r
+TITLE_ACHIEVEMENT_TITLE_CANNOT_ACTIVATE_TOGETHER_PRIMARY	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This title cannot be activated together with your primary title!|r
+TITLE_ACHIEVEMENT_TITLE_CANNOT_ACTIVATE_TOGETHER	|Eemoji/uncheck|e|cffb9b8b8[|r|cffdee356System|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cfffa2323This title cannot be activated together with your premium title!|r
+TITLE_ACHIEVEMENT_SEARCH_TITLES	Pesquisar títulos...
+TITLE_ACHIEVEMENT_UNLOCKED_STATUS	Estado: Desbloqueado
+TITLE_ACHIEVEMENT_UNLOCKED	Desbloqueado
+TITLE_ACHIEVEMENT_PROGRESS	Progresso: %s / %s
+TITLE_ACHIEVEMENT_WINDOW_TITLEBAR	Títulos de conquista
+TITLE_ACHIEVEMENT_WINDOW_ALL_TITLES	Todos os títulos
+TITLE_ACHIEVEMENT_WINDOW_UNLOCKED_TITLES	Desbloqueado
+TITLE_ACHIEVEMENT_WINDOW_FAVOURITE_TITLES	Favorito
+TITLE_ACHIEVEMENT_WINDOW_TITLES	Lista de títulos
+TITLE_ACHIEVEMENT_1	Destruidor I
+TITLE_ACHIEVEMENT_2	Destruidor II
+TITLE_ACHIEVEMENT_3	Destruidor III
+TITLE_ACHIEVEMENT_4	Assassino eu
+TITLE_ACHIEVEMENT_5	Assassino II
+TITLE_ACHIEVEMENT_6	Assassino III
+TITLE_ACHIEVEMENT_7	Aventureiro
+TITLE_ACHIEVEMENT_8	Mestre do Switchbot
+TITLE_ACHIEVEMENT_9	Grande Mestre do Switchbot
+TITLE_ACHIEVEMENT_10	Caçador de Relíquias
+TITLE_ACHIEVEMENT_11	Estrategista
+TITLE_ACHIEVEMENT_12	Alquimista
+TITLE_ACHIEVEMENT_13	Mineiro
+TITLE_ACHIEVEMENT_14	Mineiro Veterano
+TITLE_ACHIEVEMENT_15	Mestre Mineiro
+TITLE_ACHIEVEMENT_16	Pescador
+TITLE_ACHIEVEMENT_17	Pescador habilidoso
+TITLE_ACHIEVEMENT_18	Mestre pescador
+TITLE_ACHIEVEMENT_19	???
+TITLE_ACHIEVEMENT_20	???
+TITLE_ACHIEVEMENT_21	O Ininterrupto
+TITLE_ACHIEVEMENT_22	Soberano da Masmorra
+TITLE_ACHIEVEMENT_23	Sem vida
+TITLE_ACHIEVEMENT_24	Intocável
+TITLE_ACHIEVEMENT_COMPLETE_TASK	Conclua a tarefa
+TITLE_ACHIEVEMENT_INFO_BONUS_1	Forte contra pedras +5%
+TITLE_ACHIEVEMENT_INFO_BONUS_2	Forte contra pedras +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_3	Forte contra pedras +20%
+TITLE_ACHIEVEMENT_INFO_BONUS_4	Forte contra chefes +5%
+TITLE_ACHIEVEMENT_INFO_BONUS_5	Forte contra chefes +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_6	Forte contra chefes +20%
+TITLE_ACHIEVEMENT_INFO_BONUS_7	Limite de +5 masmorras
+TITLE_ACHIEVEMENT_INFO_BONUS_8	1-5 rolos mais altos
+TITLE_ACHIEVEMENT_INFO_BONUS_9	Higher average/skill damage rolls
+TITLE_ACHIEVEMENT_INFO_BONUS_10	+5% de chance de preservar Encantar Relíquia
+TITLE_ACHIEVEMENT_INFO_BONUS_11	+5% de chance de atualizar o item
+TITLE_ACHIEVEMENT_INFO_BONUS_12	+5% de chance de atualizar a alquimia
+TITLE_ACHIEVEMENT_INFO_BONUS_13	+5% para mineração bem-sucedida
+TITLE_ACHIEVEMENT_INFO_BONUS_14	+10% para mineração bem-sucedida
+TITLE_ACHIEVEMENT_INFO_BONUS_15	+15% para mineração bem-sucedida
+TITLE_ACHIEVEMENT_INFO_BONUS_16	+5% de chance de pegar um peixe
+TITLE_ACHIEVEMENT_INFO_BONUS_17	+10% de chance de pegar um peixe
+TITLE_ACHIEVEMENT_INFO_BONUS_18	+15% de chance de pegar um peixe
+TITLE_ACHIEVEMENT_INFO_BONUS_19	"O fracasso apenas endurece a vontade."
+TITLE_ACHIEVEMENT_INFO_BONUS_20	"Você aprendeu... eventualmente."
+TITLE_ACHIEVEMENT_INFO_BONUS_21	+7% de chance de atualizar o item
+TITLE_ACHIEVEMENT_INFO_BONUS_22	Strong against emperors +10%
+TITLE_ACHIEVEMENT_INFO_BONUS_23	"Tempo bem desperdiçado."
+TITLE_ACHIEVEMENT_INFO_BONUS_24	"A dor é para os camponeses."
+TITLE_ACHIEVEMENT_INFO_OBJECT_1	Destrua 1.000 Metastones
+TITLE_ACHIEVEMENT_INFO_OBJECT_2	Destrua 20.000 Metastones
+TITLE_ACHIEVEMENT_INFO_OBJECT_3	Destrua 100.000 Metastones
+TITLE_ACHIEVEMENT_INFO_OBJECT_4	Mate 1.000 chefes
+TITLE_ACHIEVEMENT_INFO_OBJECT_5	Mate 2.000 chefes
+TITLE_ACHIEVEMENT_INFO_OBJECT_6	Mate 20.000 chefes
+TITLE_ACHIEVEMENT_INFO_OBJECT_7	Segure #1 vez em qualquer masmorra
+TITLE_ACHIEVEMENT_INFO_OBJECT_8	Use 50.000 itens de encantamento
+TITLE_ACHIEVEMENT_INFO_OBJECT_9	Use 500.000 itens de encantamento
+TITLE_ACHIEVEMENT_INFO_OBJECT_10	Use 1.000 Encantar Relíquia
+TITLE_ACHIEVEMENT_INFO_OBJECT_11	Refinar 1.000 itens
+TITLE_ACHIEVEMENT_INFO_OBJECT_12	Refinar 1.000 Alquimia do Dragão
+TITLE_ACHIEVEMENT_INFO_OBJECT_13	Extrair 20.000 minérios
+TITLE_ACHIEVEMENT_INFO_OBJECT_14	Extrair 200.000 minérios
+TITLE_ACHIEVEMENT_INFO_OBJECT_15	Extrair 1.000.000 Minérios
+TITLE_ACHIEVEMENT_INFO_OBJECT_16	Pegue 1.000 peixes
+TITLE_ACHIEVEMENT_INFO_OBJECT_17	Pegue 10.000 peixes
+TITLE_ACHIEVEMENT_INFO_OBJECT_18	Pegue 100.000 peixes
+TITLE_ACHIEVEMENT_INFO_OBJECT_19	Este é um título secreto
+TITLE_ACHIEVEMENT_INFO_OBJECT_20	Este é um título secreto
+TITLE_ACHIEVEMENT_INFO_OBJECT_21	Falhar 30 atualizações seguidas
+TITLE_ACHIEVEMENT_INFO_OBJECT_22	Mate 1.000 chefes de masmorra
+TITLE_ACHIEVEMENT_INFO_OBJECT_23	Jogue 2.000 horas
+TITLE_ACHIEVEMENT_INFO_OBJECT_24	Termine a masmorra sem sofrer nenhum dano
+TITLE_ACHIEVEMENT_UNKNOWN_TITLE	Título desconhecido
+TITLE_ACHIEVEMENT_UNKNOWN_TITLE_NUM	Título desconhecido %d
+TOOLTIP_FISHING_SKILL_BONUS_STARFISH	Chance de queda de estrela +%d%%
+COMMUNITY_FRIEND_SECTION	Amigos
+COMMUNITY_GUILD_SECTION	Guilda
+COMMUNITY_BLOCKED_SECTION	Bloqueado
+COMMUNITY_TEAM_SECTION	Equipe
+COMMUNITY_FAVOURITE_SECTION	Favorito
+COMMUNITY_NO_GUILD	Sem guilda
+MESSENGER_SUPPORT	Apoiar
+MESSENGER_TITLE	Mensageiro
+MESSENGER_ADD_FRIEND	Adicionar amigo
+MESSENGER_WHISPER	Sussurrar
+MESSENGER_DELETE_FRIEND	Excluir amigo
+MESSENGER_MOBILE	Móvel
+MESSENGER_OPEN_GUILD	Guilda aberta
+PURCHASES_ACCOUNTID	Conta de identificação	
+PURCHASES_DATE	Data	
+PURCHASES_IP	IP	
+PURCHASES_ITEMBOUGHT	Objeto adquirido	
+PURCHASES_PRICE	Preço	
+PURCHASES_PRICE_TEXT	|cfffaf8f5%s |cfffaf8f5Moedas de dragão	
+CATEGORY_0_NAME	Ofertas limitadas
+CATEGORY_0_SUB_0_NAME	Ofertas limitadas
+CATEGORY_0_SUB_1_NAME	Ofertas limitadas
+CATEGORY_0_SUB_2_NAME	Ofertas limitadas
+CATEGORY_1_NAME	Pacotes
+CATEGORY_2_NAME	Cosméticos
+CATEGORY_2_SUB_0_NAME	Auto-buff de Fantasia
+CATEGORY_2_SUB_1_NAME	Armadura de fantasia
+CATEGORY_2_SUB_2_NAME	Penteados de fantasia
+CATEGORY_2_SUB_3_NAME	Habilidades de fantasia
+CATEGORY_2_SUB_4_NAME	Montagens de fantasia
+CATEGORY_2_SUB_5_NAME	Pacotes de fantasias
+CATEGORY_3_NAME	Animais de estimação e montarias
+CATEGORY_3_SUB_0_NAME	Montagens
+CATEGORY_3_SUB_2_NAME	Animais de estimação
+CATEGORY_4_NAME	Cupons
+CATEGORY_5_NAME	Especial
+CATEGORY_5_SUB_0_NAME	Armas de fantasia
+CATEGORY_5_SUB_1_NAME	Armadura de fantasia
+CATEGORY_5_SUB_2_NAME	Penteados de fantasia
+CATEGORY_5_SUB_3_NAME	Montagens de fantasia
+CATEGORY_5_SUB_4_NAME	Faixas de fantasia
+CATEGORY_5_SUB_5_NAME	Efeitos
+CATEGORY_6_NAME	Pacotes Especiais
+CATEGORY_7_NAME	Anéis
+CATEGORY_8_NAME	Reforços de fantasia
+ITEMSHOP_3RDSHOP_COIN	APs	
+ITEMSHOP_3RDSHOP_COINS	%d APs	
+ITEMSHOP_3RDSHOP_NAME	Outra loja	
+ITEMSHOP_ACCEPT_CHANGE_PRICE	OK	
+ITEMSHOP_ADD_DISCOUNT_DISCOUNT_TITLE	Desconto:	
+ITEMSHOP_ADD_DISCOUNT_HOUR	h	
+ITEMSHOP_ADD_DISCOUNT_MINUTE	m	
+ITEMSHOP_ADD_DISCOUNT_SECOND	s	
+ITEMSHOP_ADD_DISCOUNT_TITLE1	Aplicar desconto a todas as categorias:	
+ITEMSHOP_ADD_ITEM_ACCEPT_TEXT_BUTTON	ACCEPT	
+ITEMSHOP_ADD_ITEM_BONUS_TITLE	Bônus	
+ITEMSHOP_ADD_ITEM_CATEGORY_TITLE	Categoria:	
+ITEMSHOP_ADD_ITEM_PRICE_TITLE	Preço:	
+ITEMSHOP_ADD_ITEM_RESET_TEXT_BUTTON	Reiniciar	
+ITEMSHOP_ADD_ITEM_STONE_TITLE	Pedra	
+ITEMSHOP_ADD_ITEM_VALUE_TITLE	Valor	
+ITEMSHOP_ADD_ITEM_VNUM_TITLE	11:	
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TEXT_BUTTON	Adicionar descontos	
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TOOLTIP_BUTTON	Adicione descontos com tempo a um item.	
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TEXT_BUTTON	Adicionar itens	
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TOOLTIP_BUTTON	Adicione novos itens à loja.	
+ITEMSHOP_ADMIN_PANEL_NAME	Zona GM	
+ITEMSHOP_ADMIN_PANEL_RETURN_TOOLTIP_BUTTON	Retornar	
+ITEMSHOP_ADMIN_PANEL_TITLE	Administração	
+ITEMSHOP_BEST_WHEEL_PRIZES	Melhores prêmios	
+ITEMSHOP_BUY	Comprar	
+ITEMSHOP_BUY_BUTTON	Comprar	
+ITEMSHOP_BUY_ITEM_WITHOUT_AMOUNT_QUESTION	Você quer comprar %s por %d %s?	
+ITEMSHOP_BUY_ITEM_WITH_AMOUNT_QUESTION	Você quer comprar %sx %s por %d %s?	
+ITEMSHOP_BUY_TEXT	Você quer comprar |cffF7BD48%s|r ?	
+ITEMSHOP_BUY_TEXT_COUNT	Você quer comprar |cffF7BD48%sx%d|r ?	
+ITEMSHOP_CANCEL_CHANGE_PRICE	Cancelar	
+ITEMSHOP_CATEGORY_DISCOUNT_QUESTION	Tem certeza que deseja aplicar um desconto de %d%% nesta categoria %dH, %dM e %dS?	
+ITEMSHOP_CHANGE_PRICE_QUESTION	Tem certeza de que deseja alterar o preço deste artigo?	
+ITEMSHOP_CHANGE_PRICE_TOOLTIP_BUTTON	Alterar preço	
+ITEMSHOP_COINS	Moedas:	
+ITEMSHOP_COUNT	Quantia	
+ITEMSHOP_DATE	Data: %s	
+ITEMSHOP_DELETE_ITEM_QUESTION	Tem certeza de que deseja eliminar este elemento?	
+ITEMSHOP_DELETE_ITEM_TOOLTIP_BUTTON	Eliminar elemento	
+ITEMSHOP_DISCOUNT_WEEK	Descontos da semana	
+ITEMSHOP_DRAGONCOINT	Moedas	
+ITEMSHOP_DRSSHOP_COIN	VC's	
+ITEMSHOP_DRSSHOP_NAME	-	
+ITEMSHOP_HOME_NAME	home	
+ITEMSHOP_HOTITEMS	Roda	
+ITEMSHOP_PROMOCODE	Voucher
+ITEMSHOP_PROMOCODE_TOOLTIP_TITLE	Como funcionam os códigos de voucher
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE1	Passo 1: Na Itemshop clique no botão "Comprar" ao lado das moedas
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE2	Passo 2: Faça login em nosso site e clique no botão do carrinho de compras
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE3	Etapa 3: você será redirecionado para elvion.mentra.gg - Selecione o valor
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE4	Passo 4: Após a compra você receberá seu código de voucher da Mentra
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE5	Etapa 5: Insira o código do voucher recebido na itemshop
+ITEMSHOP_PROMOCODE_TOOLTIP_LINE6	Passo 6: Clique no botão "resgatar", reabra a Itemshop e pronto!
+ITEMSHOP_HOUR	Horas	
+ITEMSHOP_HOURS_MINUTES_SECONDS	%dH %dM %dS	
+ITEMSHOP_ISHOP_COIN	Médicos	
+ITEMSHOP_ISHOP_NAME	Comprar	
+ITEMSHOP_ITEMSEARCH_DEFAULT_TEXT	Pesquise na loja de itens...	
+ITEMSHOP_ITEM_AMOUNT	Você.	
+ITEMSHOP_ITEM_DISCOUNT_QUESTION	Tem certeza de que deseja aplicar um desconto de %de % a %s para %dH, %dM e %dS?	
+ITEMSHOP_LAST_COUNT	Valor restante: %d	
+ITEMSHOP_LAST_DISCOUNTS	Últimos descontos	
+ITEMSHOP_LOAD	Carregando dados...	
+ITEMSHOP_LOGS_NAME	Registros	
+ITEMSHOP_MAIN_BUTTON	Começar	
+ITEMSHOP_MOST_BOUGHT_ITEMS	Itens mais comprados	
+ITEMSHOP_NEW_PRICE_TITLE	Novo preço:	
+ITEMSHOP_OFFERS	|Eishop/offer|e OFFERS	
+ITEMSHOP_PRICE	Preço	
+ITEMSHOP_PRICE_NEW	%s Moedas
+ITEMSHOP_PRICE_ONLY_TEXT	%s Moedas
+ITEMSHOP_PRICE_TITLE_BOX	Preço: %d %s	
+ITEMSHOP_PRICE_WITH_DISCOUNT	|Eemoji/itemshop/mini_coin|e |cffFF7B7B%s Coins (%d%%)	
+ITEMSHOP_SEARCH_TEXT	Procurar...	
+ITEMSHOP_SEARCH_TOOLTIP_BUTTON	Procurar	
+ITEMSHOP_SHOP_BUTTON	Loja de itens	
+ITEMSHOP_SHOP_TITLE	Comprar:	
+ITEMSHOP_TITLE_NAME	Loja de itens	
+ITEMSHOP_TITLE_PANEL	Loja de itens	
+ITEMSHOP_TOP_SELL	Objetos mais vendidos	
+ITEMSHOP_UPDATE_COINS_TOOLTIP_BUTTON	Atualizar moedas	
+ITEMSHOP_WHEEL_BACK_ISHOP	Itemshop voltar	
+ITEMSHOP_WHEEL_COIN_TEXT	 |Eishop/coin|e    Price: 120 Coins	
+ITEMSHOP_WHEEL_COIN_TEXT_INFO	Você usará |cffF7BD48120 Coins|r para girar.	
+ITEMSHOP_WHEEL_NAME	Roda do destino	
+ITEMSHOP_WHEEL_PRICE1	Preço	
+ITEMSHOP_WHEEL_PRICE2	10 moedas	
+ITEMSHOP_WHEEL_PURCHASE	|Eishop/wheel_icon|e  |cffF7BD48Fortune roulette|r	
+ITEMSHOP_WHEEL_SKIP_ANIMATION	Pular animação	
+ITEMSHOP_WHEEL_TICKET_TEXT	|Eishop/wheel_ticket|e Luck Wheel Token	
+ITEMSHOP_WHEEL_TICKET_TEXT_INFO	Your are using |cffF7BD48Luck Wheel Token|r to spin.	
+ITEMSHOP_WHEEL_CHEQUE_TEXT_INFO	You will use |cffF7BD48150 Wons|r to spin.	
+ITEMSHOP_BUY_COIN	Lar
+ITEMSHOP_WHEEL	Comprar
+ITEMSHOP_PURCHASES	História
+ITEMSHOP_CURRENCY_COIN	|cffF8BE47COIN|r
+ITEMSHOP_CURRENCY_JETON	|cffd6c8a9Moedas do Promotor|r
+ITEMSHOP_CURRENCY_COINS	|cffd6c8a9Moedas|r
+ITEMSHOP_CURRENCY_JETONS	|cffd6c8a9Moedas do Promotor|r
+ITEMSHOP_PRICE_COINS	|cffd6c8a9%s|r |cffd6c8a9Moedas|r
+ITEMSHOP_PRICE_JETONS	|cffd6c8a9%s|r |cffd6c8a9Moedas Promotoras|r
+ITEMSHOP_PRICE_COINS_1	|cffd6c8a9%s|r |cffd6c8a9Moedas|r
+ITEMSHOP_PRICE_JETONS_1	|cffd6c8a9%s|r |cffd6c8a9Moedas Promotoras|r
+ITEMSHOP_PRICE_JUST_COINS	|cffd6c8a9%s|r |cffd6c8a9Moedas|r
+ITEMSHOP_PRICE_JUST_JETONS	|cffd6c8a9%s|r |cffd6c8a9Moedas Promotoras|r
+ITEMSHOP_PRICE_JUST_COINS_1	|cffd6c8a9%s|r |cffd6c8a9Moedas|r
+ITEMSHOP_PRICE_JUST_JETONS_1	|cffd6c8a9%s|r |cffd6c8a9Moedas Promotoras|r
+ITEMSHOP_PRICE_COINS_WITH_DISCOUNT	%s |cffd6c8a9Moedas|r |cff38C719(%d%%)|r
+ITEMSHOP_PRICE_JETONS_WITH_DISCOUNT	%s |cffd6c8a9Moedas Promotoras|r |cff38C719(%d%%)|r
+ITEMSHOP_BUY_TEXT_PRICE	Você quer comprar (x|cffF7BD48%d|r) |cffF7BD48%s|r
+ITEMSHOP_BUY_PRICE_COINS	para %s |cffF8BE47Moedas|r?
+ITEMSHOP_BUY_PRICE_JETONS	para %s |cffdf6649PCoins|r?
+ITEMSHOP_BUY_PRICE_COINS_WITH_DISCOUNT	para %s |cffF8BE47Moedas|r |cff38C719(%d%%)|r?
+ITEMSHOP_BUY_PRICE_JETONS_WITH_DISCOUNT	para %s |cffdf6649PCoins|r |cff38C719(%d%%)|r?
+ITEMSHOP_PROMOCODE_DESC	Digite o código do seu voucher abaixo para resgatar moedas
+ITEMSHOP_PROMOCODE_PLACEHOLDER	Insira o código do voucher...
+ITEMSHOP_PROMOCODE_CONFIRM	Resgatar
+WORLDBOSS_HEADER_TIME_STATUS	Status e reaparecimento
+WORLDBOSS_HEADER_RANKING	Classificação de danos
+WORLDBOSS_HEADER_BOSS_INFO	Informações do Worldboss
+GUILD_RAID_EASY_MODE	Fácil
+GUILD_RAID_MEDIUM_MODE	Médio
+GUILD_RAID_HARD_MODE	Duro
+GUILD_GUARDIAN_BONUSES_ACTIVE	Ativo
+GUILD_GUARDIAN_BONUSES_INACTIVE	Não ativo
+GUILD_GUARDIAN_NEED_ONE_ITEM	|Eemoji/check|e|cffb9b8b8[|r|cffdee356Guild|r|cffb9b8b8]|r |Eemoji/arrow_right|e |cff23fa2aYou have to have at least one guardian item equipped.|r
+GUILD_GUARDIAN_ON_COOLDOWN	A ativação do Guardião está em espera.
+GUILD_GUARDIAN_ACTIVATED	Os bônus do Guardião foram ativados!
+GUILD_GUARDIAN_DEACTIVATED	Os bônus do Guardião foram desativados.
+GUILD_DONATE_MATERIAL	Doe materiais
+GUILD_DONATE_AVAILABLE	Disponível: %d
+GUILD_NO_MATERIAL_TO_DONATE	Você não tem nenhum desse material para doar.
+GUILD_INVALID_DONATE_COUNT	Valor de doação inválido.
+GUILD_MATERIAL_DONATED_SUCCESS	Doado %d %s para armazenamento da guilda com sucesso!
+GUILD_EXP_INFO_1	A experiência pode ser aumentada concluindo ataques de guilda.
+GUILD_EXP_INFO_2	Cada chefe final do ataque de guilda deixa cair uma quantidade aleatória de itens,
+GUILD_EXP_INFO_3	que são usados para aumentar o nível da guilda.
+LOGIN_WINDOW_LOAD_ACCOUNT	Carregar conta - Usar chave -
+ACCE_ABSORB_CHANCE	Absorção: %d%%	
+ACCE_ABSORB_CHANCE2	%d%% - %d%%	
+AFFECT_REMOVE_QUESTION	Tem certeza de que deseja remover %s?	
+ALIGN_BONUS_1_1	Forte contra Humanos +100	
+ALIGN_BONUS_1_2	Forte contra Monstros: +100	
+ALIGN_BONUS_1_3	Dano Final +10%	
+ALIGN_BONUS_1_4	HP máximo +40.000	
+ALIGN_BONUS_2_1	Forte contra Humanos +75	
+ALIGN_BONUS_2_2	Forte contra Monstros: +75	
+ALIGN_BONUS_2_3	Dano Final +5%	
+ALIGN_BONUS_2_4	HP máximo +30.000	
+ALIGN_BONUS_3_1	Forte contra Humanos: +50	
+ALIGN_BONUS_3_2	Forte contra Monstros: +50	
+ALIGN_BONUS_3_3	Dano Final +3%	
+ALIGN_BONUS_3_4	HP máximo +20.000	
+ALIGN_BONUS_4_1	Forte contra Humanos: +35	
+ALIGN_BONUS_4_2	Forte contra Monstros: +35	
+ALIGN_BONUS_4_3	HP máximo +15.000	
+ALIGN_BONUS_5_1	Forte contra Humanos: +25	
+ALIGN_BONUS_5_2	Forte contra Monstros: +25	
+ALIGN_BONUS_5_3	HP máximo +10.000	
+ALIGN_BONUS_6_1	Forte contra Humanos: +15	
+ALIGN_BONUS_6_2	Forte contra Monstros: +15	
+ALIGN_BONUS_6_3	HP máximo +5.000	
+ALIGN_BONUS_7_1	Forte contra Humanos: +10	
+ALIGN_BONUS_7_2	Forte contra Monstros: +10	
+ALIGN_BONUS_7_3	HP máximo +2.500	
+ALL_CHANNEL	Todos os canais	
+ALL_KINGDOMS	|cFF97AE99Todos os Reinos|h|r	
+BATTLE_PASS_EXP	Concluído:	
+BATTLE_PASS_QUEST_DESC_01	Derrote o número necessário de monstros	
+BATTLE_PASS_QUEST_DESC_02	Recompensa: 2 pontos EXP	
+BATTLE_PASS_QUEST_DESC_03	Recompensa: 1 ponto EXP	
+BATTLE_PASS_QUEST_DESC_04	Recompensa: 2 pontos EXP	
+BATTLE_PASS_QUEST_DESC_05	Escreva o número necessário de mensagens em grito	
+BATTLE_PASS_QUEST_DESC_06	Atualize o número necessário de itens	
+BATTLE_PASS_QUEST_NAME_01	Derrote Monstros	
+BATTLE_PASS_QUEST_NAME_02	Derrote Chefes	
+BATTLE_PASS_QUEST_NAME_03	Destrua as Pedras Metin	
+BATTLE_PASS_QUEST_NAME_04	Masmorras completas	
+BATTLE_PASS_QUEST_NAME_05	Escreva em grito	
+BATTLE_PASS_QUEST_NAME_06	Atualizar item	
+BK_ENVANTER_TEXT1	Este equipamento funciona independentemente do equipamento normal.	
+BK_ENVANTER_TEXT2	Você não pode arrastar um item deste equipamento para o equipamento normal.	
+BK_ENVANTER_TEXT3		
+BK_ENVANTER_TEXT4	Cada item tem sua própria categoria separada.	
+BK_ENVANTER_TEXT5	Cada categoria possui 3 páginas utilizáveis.	
+BK_ENVANTER_TEXT6		
+BLUE_KINGDOM	|cFF8CADDBJinno|h|r	
+BONUS_END_IN	%s	
+BONUS_EVENT	Evento bônus:	
+BONUS_NEXT_EVENT	|Eemoji/key_rclick|e - Next Event	
+BONUS_START_IN	%s	
+BUFF_AFFECT_REMOVE_QUESTION	Tem certeza de que deseja remover %s?	
+CATEGORY_ALCHEMY	Alquimia	
+CATEGORY_LEGEKD	Pedras Lendárias	
+CATEGORY_MISJE	Missões	
+CATEGORY_OWOCE	Classificação	
+CATEGORY_PASY	Cintos	
+CATEGORY_POMOCNIK	Ajudante	
+CATEGORY_PRZEPUSTKI	Ingressos	
+CATEGORY_REKAWICE	Luvas	
+CATEGORY_RIPER	Fragmentos do Ceifador	
+CATEGORY_ULEP	Atualizadores	
+CATEGORY_UM_PASYWNE	Habilidades Passivas	
+CATEGORY_WOJNY	Fragmento de Guerra	
+CATEGORY_WSPOMAGACZE	Reforços	
+CATEGORY_ZWIERZAK	Bicho de estimação	
+CHEQUE_ONLY_VALUE	Você só pode inserir um número.	
+CHEQUE_SYSTEM_UNIT_CHEQUE	Ganho	
+CHEST_DROP_INFO	|Eemoji/key_ctrl|e + |Eemoji/key_shift|e + |Eemoji/key_rclick|e	
+COLLECITON_SEND_TOOLTIP	- Enviar item	
+COLLECTION_SEND_ALL_TOOLTIP	- Enviar tudo	
+COLLECTION_THIS_ITEM_IS_COLLECTED	Este item já foi enviado.	
+DALSZE_ZAKATKI	Mais cantos	
+DETAILS_CON	Vitalidade	
+DETAILS_DEX	Destreza	
+DETAILS_FAINT_RES	Resistência Fraca	
+DETAILS_INT	Inteligência	
+DETAILS_SLOW_RES	Resistência Lenta	
+DETAILS_STR	Força	
+DOUBLE_BOSS_LOOT_EVENT	|cFFcabdabDouble Boss Drop|r	
+DOUBLE_METIN_LOOT_EVENT	|cFFcabdabDouble Metin Drop|r	
+DOUBLE_MISSION_BOOK_EVENT	|cFFcabdabSaque de livro de missão dupla|r	
+DO_YOU_DROP_CHEQUE	Você quer perder %d ganhos?	
+DO_YOU_WANT_TO_CLOSE_OFFLINE_SHOP	Quer fechar sua loja?	
+DO_YOU_WANT_TO_REMOVE_ITEM	Quer remover %s da sua loja?	
+DROP_CHEQUE_FAILURE_1000_OVER	Você pode ganhar no máximo 999 Won.	
+DROP_ITEM_FAILURE_OFFLINE_SHOP	Você não pode largar este item enquanto a loja estiver aberta!	
+DUNGEON_CHEST_LOOT_EVENT	Aumento da queda do baú da masmorra	
+DUNGEON_COOLDOWN_EVENT	Tempo de espera da masmorra	
+DUNGEON_INFO_COOLDOWN	Tempo de espera: %s	
+DUNGEON_INFO_DO_YOU_TELEPORT	Você quer se teletransportar para %s?	
+DUNGEON_INFO_DURATION	Duração: %s	
+DUNGEON_INFO_ELEMENT_ATK_BONUS	Bônus ativo	
+DUNGEON_INFO_ELEMENT_DEF_AND_RES_BONUS	Bônus de Defesa e Resistência	
+DUNGEON_INFO_ELEMENT_UNKOWN_BONUS	Bônus desconhecido necessário	
+DUNGEON_INFO_ENTRACE	Entrada: %s	
+DUNGEON_INFO_FASTEST_TIME	Tempo mais rápido: %s	
+DUNGEON_INFO_HIGHEST_DMG	Maior dano: %s	
+DUNGEON_INFO_LEVEL_LIMIT	Limite de nível: %d a %d	
+DUNGEON_INFO_LOCATION	Localização: %s	
+DUNGEON_INFO_MINIMAP_TOOL_TIP	Informações sobre a masmorra	
+DUNGEON_INFO_NONE	Nenhum	
+DUNGEON_INFO_NOT_FOUND	Nenhuma masmorra foi encontrada.	
+DUNGEON_INFO_PARTY_LIMIT	Limite de membros do grupo: %d a %d	
+DUNGEON_INFO_STATUS_AVAILABLE	Disponível	
+DUNGEON_INFO_STATUS_CLOSED	Indisponível	
+DUNGEON_INFO_STATUS_COOLDOWN	Espere	
+DUNGEON_INFO_STATUS_HIGH_LEVEL	Nível muito pequeno!	
+DUNGEON_INFO_STATUS_LOW_LEVEL	Nível muito alto!	
+DUNGEON_INFO_TOOL_TIP	Masmorras	
+DUNGEON_INFO_TOOL_TIP_01	Nesta janela você pode encontrar todas as masmorras disponíveis.	
+DUNGEON_INFO_TOOL_TIP_02	Cada masmorra listada no painel esquerdo mostra vários	
+DUNGEON_INFO_TOOL_TIP_03	informações sobre ele, bem como mostrar quais itens	
+DUNGEON_INFO_TOOL_TIP_04	o chefe final cai.	
+DUNGEON_INFO_TOOL_TIP_05	Você também é capaz de se teletransportar para a entrada do	
+DUNGEON_INFO_TOOL_TIP_06	masmorra se estiver disponível.	
+DUNGEON_INFO_TOOL_TIP_07	No painel direito, você também pode encontrar seus resultados	
+DUNGEON_INFO_TOOL_TIP_08	como o ranking global dos 10 melhores jogadores.	
+DUNGEON_INFO_TOTAL_FINISHED	Conclusões: %d	
+DUNGEON_INFO_TYPE	Tipo: %s	
+DUNGEON_INFO_TYPE_01	Global	
+DUNGEON_INFO_TYPE_02	Grupo	
+DUNGEON_INFO_TYPE_03	Guilda	
+EMPIRE_WAR_EVENT	Guerra do Reino (Lv %d - Lv %d)	
+ENVANTER_ILE_AC	Aberto com equipamento	
+EVENT_TOOLTIP_DOESNT_HAVE_EVENT	Não há eventos neste dia.	
+EVENT_TOOLTIP_TITLE	[%s] Eventos ativos:	
+EXP_EVENT	EXP aumentada: %d%%	
+GAME_PICK_CHEQUE	Você recebeu %d ganhos.	
+HALLOWEEN_EVENT	dia das bruxas	
+ACCE_CLEAR_ATTR_CONFIRM	Tem certeza de que deseja liberar os bônus?
+ACHIEVEMENT_POINTS_TITLE	Pontos de conquista
+ACHIEVEMENT_POINTS_USAGE	Os pontos podem ser usados no NPC Hwa-Hee
+AFFECTSHOWER_REMOVE_TEXT	|Eemoji/key_lclick|e - Click to remove
+AFFECT_SHOWER_DELETE_BONUS	Tem certeza de que deseja remover este bônus?
+ALIGN_BONUS_0_1_1	Forte contra Humanos +100
+ALIGN_BONUS_0_1_2	Forte contra Monstros: +150
+ALIGN_BONUS_0_1_3	Dano total +10%
+ALIGN_BONUS_0_1_4	Máx. HP +50.000
+ALIGN_BONUS_0_1_5	Forte contra Elementos +10%
+ALIGN_BONUS_0_1_6	Resistência contra Elementos +10%
+ALIGN_BONUS_1_1_1	Forte contra Humanos +100
+ALIGN_BONUS_1_1_2	Forte contra Monstros: +125
+ALIGN_BONUS_1_1_3	Dano total +10%
+ALIGN_BONUS_1_1_4	Máx. HP +45.000
+ALIGN_BONUS_1_1_5	Forte contra Elementos +5%
+ALIGN_BONUS_1_1_6	Resistência contra Elementos +5%
+ARCTIC_DUNGEON	Caverna de Gelo
+AUTO_SHOUT_BUTTON	Mensagem Automática (Grito)
+AUTO_SHOUT_INFO	Envio automático de mensagens ativado.
+AUTO_SHOUT_INFO2	Envio automático de mensagens desativado.
+AUTO_SHOUT_INFO3	Última mensagem de grito não encontrada. O envio automático começará assim que você escrever algo.
+AVAILABLE	Disponível: {}
+AVERAGE_DAMAGE_DUNGEON_1	Calabouço Médio 1
+AVERAGE_DAMAGE_DUNGEON_2	Desfiladeiro do Imperador
+BIGGER_STAR_CHANCE	|cFFcabdabMAIOR CHANCE DE FISHING STAR|h|r
+BLEND_WINDOW_1	Você não selecionou nenhum elixir!
+BLEND_WINDOW_2	Você não tem o elixir selecionado em seu inventário!
+BOARD_SAVE_POSITION	Nome da posição salva:
+BONUS_NONE	Bônus: Nenhum
+BONUS_PRESENT	Bônus: {flags}
+BUFF_INTELLIGENCE	Inteligência: {}
+BUFF_IS_BONUS_ACTIVE	Bônus ativo
+BUFF_IS_BONUS_INACTIVE	Bônus inativo
+BUFF_SKILL_1	Bênção
+BUFF_SKILL_2	Ataque+
+BUFF_SKILL_3	Suporte Dragão
+BUFF_SKILL_LEVEL_DESC_1	Resistência contra ataques físicos: |cFFffce47+{}
+BUFF_SKILL_LEVEL_DESC_2	Chance de acerto crítico: |cFFffce47+{}|r
+CANCEL_TELEPORT	Eu não quero me teletransportar
+CANNOT_DOING_PRIVATE_SHOP_OPEN	Enquanto sua loja offline estiver aberta, você não poderá fazer mais nada.
+CATEGORY_1	Atualizar itens
+CATEGORY_10	Habilidades Passivas
+CATEGORY_11	Ingressos para masmorras
+CATEGORY_12	Luvas
+CATEGORY_13	Missões
+CATEGORY_14	Buff automático
+CATEGORY_15	Faixas
+CATEGORY_16	Enhancement / Enchant
+CATEGORY_17	Itens de Páscoa
+CATEGORY_18	Montagens
+CATEGORY_19	Relíquias e Derretimentos
+CATEGORY_2	Alquimia
+CATEGORY_20	Peixe
+CATEGORY_21	Troque troféus por baús de artefatos
+CATEGORY_22	Atualizar Pedras
+CATEGORY_23	Easter Items
+CATEGORY_24	Easter Costumes
+CATEGORY_25	Guild Raid Shards
+CATEGORY_26	Skill Costumes
+CATEGORY_27	More Stone Slots
+CATEGORY_28	Weaker itemshop items
+CATEGORY_3	Reforços
+CATEGORY_4	Fragmentos de Ceifador
+CATEGORY_5	Fragmentos de Guerra
+CATEGORY_6	Cintos
+CATEGORY_7	Pedras da Alma Lendárias
+CATEGORY_8	Bicho de estimação
+CATEGORY_9	Classificação
+CATEGORY_COSTUMES_COSTUME_WEAPON	Armas de fantasia
+CATEGORY_JEWELRY_ARMOR_PENDANT	Talismã
+CATEGORY_JEWELRY_ARMOR_WRIST	Pulseiras
+CHANCE_FORMAT	Chance: |cFF9dbbb1{}%
+CHANNEL_FORMAT	Canal {0}
+CHAT_OPEN_LINK	Quer abrir este link?
+CHAT_OPEN_LINK_DANGER	Aviso! Este link pode ser perigoso!
+CHEST_FIND_ITEMS_DESC_1	Encontre baús contendo
+CHEST_FIND_ITEMS_DESC_2	este item.
+CLICK_TO_BUY	Pressione {click_icon} para comprar.
+COLLECTIONER_CATEGORY_1	Guerreiro
+COLLECTIONER_CATEGORY_2	Ferreiro (eu)
+COLLECTIONER_CATEGORY_3	Ferreiro (II)
+COLLECTIONER_CATEGORY_4	Ferreiro (III)
+COLLECTIONER_CATEGORY_5	Ferreiro (IV)
+COLLECTIONER_CATEGORY_6	Ferreiro (V)
+COLLECTIONS_COLLECTED	Enviado!
+COLLECTIONS_NOT_COLLECTED	Ainda não coletado
+COLLECTION_MAIN_COMPLETE	Status: Enviado.
+COLLECTION_MAIN_NOT_COMPLETE	Situação: Não enviado.
+COLLECTION_ORE_1	Pântanos
+COLLECTION_ORE_2	Ferreiro (eu)
+COLLECTION_ORE_3	Ferreiro (II)
+COLLECTION_ORE_4	Ferreiro (III)
+COLLECTION_ORE_5	Ferreiro (IV)
+COLLECTION_ORE_6	Ferreiro (V)
+COLLECTION_PERCENT	Chance de bônus: {}%.
+COLLECTION_PERCENT_INCREASED	Chance de bônus: {}% + {}%.
+COLLECTION_PROGRESS	Progresso: {}%.
+COLLECT_LOCATION_LABEL	Localização:
+COSTUME_BODY	|cFFd8bb86Traje
+COSTUME_BODY_FOR_BUFF	|cFFd8bb86Traje de Autobuff
+COSTUME_HAIR	|cFFd8bb86Penteado
+COSTUME_HAIR_FOR_BUFF	|cFFd8bb86Penteado Autobuff
+COSTUME_PICK_POSSIBILITY	(Seleção de fantasias de armas disponível)
+COSTUME_SASH	|cFFd8bb86Faixa
+COSTUME_WEAPON	|cFFd8bb86Traje de arma
+COSTUME_WEAPON_FOR_BUFF	|cFFd8bb86Traje de arma Autobuff
+DEMON_TOWER	Torre Demoníaca
+DOUBLE_ACHIEVEMENT_POINTS	|cFFcabdabDouble AP Stones/Bosses|h|r
+DOUBLE_DROP_LOOT_TOOLTIP	Chance de drop duplo 100%
+DOUBLE_ORE_EVENT	|cFFcabdabDUPLA QUEDA DE MINÉRIO|h|r
+DRAGONSOUL_CHANCE	Chance: |cFFf4be00{}%|r
+DRAGONSOUL_ONLY_MYTHIC_CAN_BE_SWITCHED	|cFFff9494Somente a alquimia mítica pode ter bônus alterados.|r
+DRAGONSOUL_PLACE_DRAGON_SOUL_FIRST	|cFFff9494Coloque uma pedra de dragão primeiro.|r
+DRAGONSOUL_PRICE	Preço: |cFFc99f36200.000.000 {}
+DRAGONSOUL_RENEW_TIME	Renovação de tempo
+DRAGONSOUL_WRONG_ATTR_CHANGE_ITEM	|cFFff9494Este item não pode ser usado para alterar bônus de alquimia.|r
+DROP_CHANCE	|cFFc9f1c0 Chance de queda: {porcentagem:.2f}%
+DUNGEON_INFO_ACCESSIBLE	Acessível!
+DUNGEON_INFO_BUTTON_JOIN	Teleporte
+DUNGEON_INFO_BUTTON_REJOIN	Retornar
+DUNGEON_INFO_COMPLETION_COUNT	Contagem de conclusão: %s
+DUNGEON_INFO_COOLDOWN_REMAINING	Tempo restante:
+DUNGEON_INFO_DEVIL_BONUS	Forte contra Demônios (+
+DUNGEON_INFO_DROP_CHANCE	|cFFc9f1c0 Chance de queda:
+DUNGEON_INFO_DROP_GLOVES_NORMAL	- |cFFf1e6c0Drop com luvas: 13 unid.
+DUNGEON_INFO_DROP_GLOVES_VIP	- |cFFf1e6c0Drop com luvas (VIP): 14 unid.
+DUNGEON_INFO_DUNGEON_TYPE	Modo: %s
+DUNGEON_INFO_FASTEST_COMPLETION	Execução mais rápida: %s
+DUNGEON_INFO_GLOVES_BONUSES	|cFFecffb7Bônus possíveis (1 - 3):
+DUNGEON_INFO_GRETEST_DAMAGE	Maior dano: %s
+DUNGEON_INFO_MONSTER_TYPE	Corrida de monstros: %s
+DUNGEON_INFO_ORC_BONUS	Forte contra Orcs (+
+DUNGEON_INFO_PASS_ITEM	Passe necessário: %s
+DURATION	Duração
+EASTER_MAP_2025	Mapa de Páscoa
+ESTIMATED_SELLING_PRICE	|cFFb0a996Preço por peça.
+EXCHANGE_MONEY	Quantia
+FAST_EXCHANGE_TITLE	Troca rápida
+FISHWIKI_CATCHED_FISHES	Capturado: |cFFdbcba70|h
+FISHWIKI_CATCHED_FISHES_COUNT	Capturado: |cFFdbcba7%d|h
+FISHWIKI_GIVE_10_FISHES	Entregar 10x |cFFdbcba7Rainbow Trout|h|r com comprimento mínimo |cFFdbcba7100 cm.|h
+FISHWIKI_GIVE_CHANCE	Chance de sucesso: |cFFdbcba725%|h
+FISHWIKI_GIVE_CHANCE_SUCCESS	Chance de sucesso: |cFFdbcba7%d%%|h
+FISHWIKI_GIVE_FISHES	Entregue %d x |cFFdbcba7%s|h|r com comprimento mínimo |cFFdbcba7%d cm.|h
+FISHWIKI_LENGTH_RANKING	Maior classificação de peixes: |cFFdbcba7|h
+FISHWIKI_LENGTH_RANKING_BEST	Maior classificação de peixes: |cFFdbcba7%s|h
+FISHWIKI_LONGEST_FISH	Maior tempo capturado: |cFFdbcba70 cm.|h
+FISHWIKI_LONGEST_FISH_CM	Maior tempo capturado: |cFFdbcba7%.2f cm.|h
+FISHWIKI_MAIN_WINDOW	Coleção de Pesca
+FISHWIKI_MOST_EXPENSIVE_FISH	Mais caro capturado: |cFFdbcba70 Yang|h
+FISHWIKI_MOST_EXPENSIVE_FISH_YANG	Mais caro capturado: |cFFdbcba7%s Yang|h
+FISHWIKI_PROGRESS_STATE	%d/|cFFdbcba7%d|h
+FISHWIKI_REWARD_FOR_MISSION	Recompensa: |cFFdbcba7Forte contra Monstros +5%|h
+FISHWIKI_REWARD_FOR_MISSION_FISH	Recompensa: |cFFdbcba7%s|h
+FISHWIKI_ROD_LEVEL	Vara de Pesca +%d
+FISHWIKI_ROD_LEVEL_0	Vara de Pesca +0
+FISHWIKI_SHOW_RANKING	Mostrar classificação
+FISH_GIVE_MISSION_BTN	Entregue o peixe
+FISH_LENGTH_DEFAULT	0,00 cm.
+FISH_PROGRESS_INFO	11/|cFFFBA5EE20|h
+FISH_ROD_REQUIREMENT	de +0 a +15
+FRUIT_OF_LIFE_DESC_1	|cFFcabdabAdiciona {} pontos de classificação.
+FRUIT_OF_LIFE_DESC_2	|cFFcabdabPode ser usado até {} pontos de classificação.
+FRUIT_OF_LIFE_DESC_2_1	|cFFcabdabPode ser usado de {} a {} pontos de classificação.
+HELL_DUNGEON	Portões do Inferno
+INGAME_LOG_EXCHANGE_ITEM_INFO_0	Trocado com
+INGAME_LOG_EXCHANGE_ITEM_INFO_1	Informações adicionais
+INGAME_LOG_INFORMATION	Aqui você pode ver suas ações anteriores. Se você não conseguir encontrar o registro desejado, registre-se novamente.
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_0	Nome do item
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_1	Preço
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_2	Comprador
+INGAME_LOG_OFFLINESHOP_ITEM_INFO_3	Data da transação
+INGAME_LOG_TITLE_01	Histórico da loja off-line
+INGAME_LOG_TITLE_02	Histórico de troca
+INGAME_TRADELOG_PLAYERNAME	Nome do jogador
+INGAME_TRADELOG_YOU	Você
+INTROLOGIN_ACCOUNT_DELETED	A conta foi excluída.
+INTROLOGIN_ACCOUNT_NOT_LOADED	Você não tem nenhuma conta salva.
+INTROLOGIN_ACCOUNT_REQUIRED	Você deve ter uma conta salva para excluí-la.
+INTROLOGIN_ENTER_CREDENTIALS	Insira as credenciais para salvar a conta.
+INTROLOGIN_NOT_SAVED	Não salvo.
+INTROLOGIN_NO_ACCOUNT	Você deve ter uma conta salva para excluí-la.
+INTROLOGIN_SAVED	A conta foi salva.
+INTROSELECT_EMPIRE	Reino {}
+INVENTORY_ADDITIONAL_BONUSES_1	Bônus adicionais
+INVENTORY_ADDITIONAL_BONUSES_2	Runas Completas +5:
+INVENTORY_ADDITIONAL_BONUSES_3	Dano total +5%
+INVENTORY_ADDITIONAL_BONUSES_4	Dano médio +15%
+INVENTORY_ADDITIONAL_BONUSES_5	Forte contra Humanos +25%
+INVENTORY_ADDITIONAL_BONUSES_6	Runas Completas +9:
+INVENTORY_ADDITIONAL_BONUSES_7	Dano total +10%
+INVENTORY_ADDITIONAL_BONUSES_8	Dano médio +25%
+INVENTORY_ADDITIONAL_BONUSES_9	Forte contra Humanos +40%
+INVENTORY_BOX_TOOLTIP	Baús
+INVENTORY_CICEK_TOOLTIP	Elixires
+INVENTORY_DROP_TO_INVENTORY	Cair no inventário
+INVENTORY_DROP_TO_INVENTORY_DESC1	Desativar esta opção causará
+INVENTORY_DROP_TO_INVENTORY_DESC2	itens para colocar no inventário normal
+INVENTORY_EFSUN_TOOLTIP	Itens úteis
+INVENTORY_MOVE_ALL	Mova tudo
+INVENTORY_MOVE_ALL_DESC_1	Move todos os itens do normal
+INVENTORY_MOVE_ALL_DESC_2	inventário para a categoria atualmente aberta
+INVENTORY_MOVE_TO_SPECIAL_INVENTORY	Mover para inventário especial
+INVENTORY_OPENING_WHILE_FAST_MOVING_1	Abrir durante a transferência rápida de itens ativado.
+INVENTORY_OPENING_WHILE_FAST_MOVING_2	Aberto durante a transferência rápida de itens desativado.
+INVENTORY_OPENING_WHILE_MOVING	Abra enquanto se move
+INVENTORY_OPEN_TOGETHER_WITH_EQUIPMENT	Abrir junto com o equipamento
+INVENTORY_OPEN_WITH_INVENTORY_1	Abertura com inventário - ativado
+INVENTORY_OPEN_WITH_INVENTORY_2	Abrindo com inventário - desativado
+INVENTORY_OPTION_INFO_1	Habilitar esta opção causará
+INVENTORY_OPTION_INFO_2	a janela de categoria do item fornecido para abrir enquanto
+INVENTORY_OPTION_INFO_3	mover um item para o inventário especial.
+INVENTORY_OPTION_INFO_4	Atalho de teclado: {} + {}
+INVENTORY_PANEL_ACTIVATE	{} - Ativar
+INVENTORY_PANEL_ARTIFACTS	Artefatos
+INVENTORY_PANEL_AUTO_BUFF	Painel de autobuff
+INVENTORY_PANEL_BLOCK_EXP	Anti-exp
+INVENTORY_PANEL_BONUS_TABLE	Tabela de bônus
+INVENTORY_PANEL_BOOSTERS	Elixires
+INVENTORY_PANEL_CHANGE_EQ	Trocar equipamento
+INVENTORY_PANEL_COLLECTIONER	Coleções
+INVENTORY_PANEL_DUNGEONS	Janela da masmorra
+INVENTORY_PANEL_MISSIONS	Janela de missões
+INVENTORY_PANEL_MOUNT	Montar
+INVENTORY_PANEL_OFFLINE_SHOP	Loja off-line
+INVENTORY_PANEL_PET_WINDOW	Bicho de estimação
+INVENTORY_PANEL_POLY_SHOP	Pesquisa de loja
+INVENTORY_PANEL_QUICK_EQ	Mudança rápida de equipamento
+INVENTORY_PANEL_QUICK_WARP	Calendário de eventos
+INVENTORY_PANEL_RUNES	Runas
+INVENTORY_PANEL_SAFEBOX_ITEMSHOP	Safebox / Itemshop
+INVENTORY_PANEL_SAVE_POSITION	Locais salvos
+INVENTORY_PANEL_SPECIAL_INV	Inventário especial
+INVENTORY_PANEL_SWITCH_BOT	Robô de comutação
+INVENTORY_PANEL_TELEPORTATION	Mapa de teletransporte
+INVENTORY_PANEL_TRASH_BIN	Lixeira
+INVENTORY_PANEL_USE	{} - Abrir janela
+INVENTORY_PANEL_WEEKLY_RANK	Classificação semanal
+INVENTORY_PULL_OUT_ITEM	{} - Retirar
+INVENTORY_SEPARATE_ALL	Separe tudo
+INVENTORY_SEPARATE_ITEMS	Separar
+INVENTORY_SHOW_CHEST_DROP	Visualização da queda do baú
+INVENTORY_SKILL_BOOK_TOOLTIP	Livros
+INVENTORY_SPECIAL_INVENTORY_IS_FULL	O inventário especial {} está cheio.
+INVENTORY_STACK_ALL	{} + {} - Classifique em qualquer lugar
+INVENTORY_STACK_ITEMS	Classificar itens
+INVENTORY_STACK_ITEMS_IN_CATEGORY	{} - Classificar por categoria
+INVENTORY_STONES_ONLY	Você só pode inserir pedras da alma.
+INVENTORY_STONE_TOOLTIP	Pedras da alma e Alquimia
+INVENTORY_UPGRADE_ITEM_TOOLTIP	Atualizar itens
+INVENTORY_USE_SOME_ITEMS	Usar {}x
+ITEMSHOP_ADDITIONAL_TIME	Duração
+ITEMSHOP_ATTRIBUTE_EXP	|cFFFFCF48(PVM)|r
+ITEMSHOP_ATTRIBUTE_PVP	|cFFFFCF48(PvP)|r
+ITEMSHOP_CANNOT_BUY_MORE_THAN_20	Você não pode comprar mais de 20 peças.
+ITEMSHOP_CASH_UNIT	|cFFFFCF48DM|r
+ITEMSHOP_CATEGORY_01	Melhorias de itens
+ITEMSHOP_CATEGORY_02	Trajes
+ITEMSHOP_CATEGORY_03	Penteados
+ITEMSHOP_CATEGORY_04	Montagens
+ITEMSHOP_CATEGORY_05	Animais de estimação
+ITEMSHOP_CATEGORY_06	Fantasias de armas
+ITEMSHOP_CATEGORY_07	Itens Especiais
+ITEMSHOP_CATEGORY_08	Alquimia
+ITEMSHOP_CATEGORY_09	Faixas
+ITEMSHOP_CATEGORY_10	Fantasias de faixa
+ITEMSHOP_CATEGORY_11	Cupons DM
+ITEMSHOP_CATEGORY_12	VIP
+ITEMSHOP_CATEGORY_13	Outro
+ITEMSHOP_CATEGORY_14	Pacotes
+ITEMSHOP_COUNT	Você inseriu um valor inválido.
+ITEMSHOP_DETAIL_CHECK	Clique no botão "comprar" para mais detalhes
+ITEMSHOP_DISCOUNT	Descontos:
+ITEMSHOP_DISCOUNT_END	O desconto termina
+ITEMSHOP_DO_YOU_BUY_ITEM1	Você realmente quer comprar %s por %s?
+ITEMSHOP_DO_YOU_BUY_ITEM2	Você realmente quer comprar %s %s por %s?
+ITEMSHOP_EDITOR_ADD_ITEM	Adicionar item
+ITEMSHOP_EDITOR_ITEM_PREFIX	• %s
+ITEMSHOP_INVENTORY_FULL	Não há espaço suficiente no inventário.
+ITEMSHOP_LIMITED_COUNT	Limitado: |cFFf5ce42%d / %d
+ITEMSHOP_MISSING_DESCRIPTION	Descrição do item ausente.
+ITEMSHOP_NON_EDITOR	Você não é um editor, você não pode fazer isso.
+ITEMSHOP_NOT_ENOUGH_COINS	Você não tem moedas de dragão suficientes.
+ITEMSHOP_POPUP_ITEMS_LIMITED	Novos itens limitados estão disponíveis,
+ITEMSHOP_POPUP_ITEMS_NEW	Novos itens foram adicionados ao ItemShop,
+ITEMSHOP_POPUP_ITEMS_PROMO	Novos descontos estão disponíveis no ItemShop,
+ITEMSHOP_POPUP_ITEM_LIMITED	|cFFc7ffb6%s|r agora está disponível na ItemShop por tempo limitado.
+ITEMSHOP_POPUP_ITEM_NEW	|cFFc7ffb6%s|r foi adicionado ao ItemShop.
+ITEMSHOP_POPUP_ITEM_PROMO	|cFFc7ffb6%s|r agora está com desconto.
+ITEMSHOP_POPUP_SECOND_LINE	- Clique para visualizar.
+ITEMSHOP_PREMIUM_AUTOLOOT	Terceira mão
+ITEMSHOP_PREMIUM_EXP	EXP bônus
+ITEMSHOP_PREMIUM_FISH_MIND	Maior chance de peixes mais raros
+ITEMSHOP_PREMIUM_GOLD	Maior chance de derrubar Yang
+ITEMSHOP_PREMIUM_ITEM	Maior chance de dropar itens
+ITEMSHOP_PREMIUM_MARRIAGE_FAST	Tempo de casamento reduzido
+ITEMSHOP_PREMIUM_SAFEBOX	Cofre maior
+ITEMSHOP_SELECT_ATTRIBUTE	Selecione |cffffcf48BONUSES|r para o seu item
+ITEMSHOP_SELECT_ATTRIBUTE_ERROR	Você deve selecionar bônus para o seu item
+ITEMSHOP_SELECT_BONUS	Selecione bônus
+ITEMSHOP_SELECT_EMPTY	Nenhum
+ITEMSHOP_SELECT_ITEM	Selecione o item
+ITEMSHOP_SELECT_SOCKET	Selecione a pedra da alma
+ITEMSHOP_TOOLTIP_DETAILS	Este item é vendido em múltiplas variantes. Clique em "comprar" para ver mais detalhes.
+ITEMSHOP_UNKNOWN_ERROR	Erro desconhecido
+ITEMSHOP_WARP	Você deve esperar 10 segundos.
+ITEMSHOP_WHEEL_CHANCE	Chance: %.02f%%
+ITEMSHOP_WHEEL_COST	Custo de rotação:
+ITEM_DROP_EVENT	|cFFcabdabQueda aumentada: %d%%|r
+ITEM_LOTTERY_END_DATE	A loteria termina: %s
+ITEM_LOTTERY_ITEM_COUNT_WINDOW_TITLE	Insira a quantidade do item
+ITEM_LOTTERY_TOTAL_COUNT	Itens no pool: %d
+JUNGLE_DUNGEON	Selva Antiga
+KEY_F11	F11	
+KEY_F12	F12	
+KEY_RETURN	ENTER	
+LEFTOVER_BONUS_TIME	Tempo restante de bônus:
+LEFTOVER_TIME	Tempo restante:
+LOGIN_FAILURE_HWID	Você não pode fazer login neste dispositivo!	
+LOGIN_FAILURE_LOADING_IN_PROGRESS	Os arquivos do jogo estão carregando...	
+LOGIN_FAILURE_PIN	Nome de usuário, senha ou PIN incorretos.	
+LOGIN_INPUT_PIN	Digite seu PIN.	
+LOGIN_WRONG_VERSION	A versão do jogo está desatualizada! Use o patcher.	
+MALZEME_DEPOSU	Informação:	
+MAP_75	Vale dos Ciclopes	
+MAP_LAS	Floresta dos Espíritos	
+MAP_MINE	Mapa de Mineração	
+MAP_NONE	Local desconhecido	
+MAP_OGNISTA	Terra do Fogo	
+MAP_PAJAKI	Calabouço da Aranha	
+MAP_PUSTYNIA	Deserto do Faraó	
+MAP_SOHAN	Montanha Sohan	
+MAP_THREEWAY	Vale dos Orcs	
+MAP_ZACZAROWANY	Floresta Encantada	
+MESSENGER_TEAM	Equipe	
+MINIMAP_FPS_INFO	FPS:{:3d}
+MINIMAP_SERVER_INFO_REGULAR	|cFFc7a374Elvion|r, CH{}
+MINIMAP_SERVER_INFO_WITH_99	|cFFc7a374Elvion|r - Canal Global
+MINING_CHEST_EVENT	|cFFcabdabCHANCE DE DEIXAR UM BAÚ DE MINERAÇÃO DO MINÉRIO|h|r
+MINING_EVENT_RENEWAL_HIT_DELAY	Você não pode fazer isso tão rápido.
+MINI_GAME_RUMI_EXIT_QUESTION2	Os pontos atuais serão trocados por recompensas.	
+MINI_GAME_RUMI_START_QUESTION2	Você quer jogar?	
+MOONLIGHT_EVENT	|cFFcabdabMoonlight Treasure Drop|r	
+MOUNT_BONUS_NONE	Sem bônus
+MOUNT_DOYUMHWAN_MAP_NAME	Terra do Fogo	
+MOUNT_SOHAN_MAP_NAME	Montanha Sohan	
+MOUNT_TOOLTIP_APPLY_ATTBONUS_BOSS	Forte contra chefes
+MOUNT_TOOLTIP_APPLY_ATTBONUS_MONSTER	Forte contra monstros
+MOUNT_TOOLTIP_APPLY_ATTBONUS_STONE	Forte contra pedras
+MOUNT_TOOLTIP_MOUNT_SPEED	Velocidade de montagem
+MOUNT_TOOLTIP_MAX_HP	Máx. HP
+MOUNT_WINDOW_BONUSES	|cffbd99ff|H|h[ Bônus atuais ]|H|h
+MOUNT_WINDOW_CURRENT_EXP	|cffBEB4A8|H|hExperiência:|H|h |cff18f28d|H|h{} EXP|H|h
+MOUNT_WINDOW_FEED_ITEM_1	|cffc99573|H|h(Nv. 1-24)|H|h
+MOUNT_WINDOW_FEED_ITEM_2	|cffc99573|H|h(Nv. 25-49)|H|h
+MOUNT_WINDOW_FEED_ITEM_3	|cffc99573|H|h(Nv. 50-74)|H|h
+MOUNT_WINDOW_FEED_ITEM_4	|cffc99573|H|h(Nv. 75-100)|H|h
+MOUNT_WINDOW_INFO_LEVEL	Cada nível oferece bônus melhores
+MOUNT_WINDOW_LEVEL	|cffb482ff|H|hNível {}
+MOUNT_WINDOW_NEED_EXP	|cffBEB4A8|H|hExperiência necessária:|H|h |cff15bf70|H|h{} EXP|H|h
+MOUNT_YONGBI_MAP_NAME	Deserto de Yongbi	
+MOVE_ITEM_FAILURE_OFFLINE_SHOP	Não é possível mover este item ao abrir uma loja!
+MULTIPLE_PURCHASE	Compra múltipla: {key_shift}+{key_rclick}
+NEW_AFFECT_AUTO_METIN_FARM	Fila Metin (VIP)	SNA
+NONE_AFFECT	Sem bônus	
+NORMAL_EVENT_TIME	Ativável de: |cFFdbffa1%s|r até: |cFFdbffa1%s|r	
+NPC_SEARCH	Encontre NPC	
+NPC_SEARCH_TEXT	Aparece nestes mapas:	
+OFFLINESHOP_AVERAGE_PRICE	Preço unitário: {}
+OFFLINESHOP_AVERAGE_PRICE2	Total: {}
+OFFLINESHOP_AVERAGE_PRICE_INFO	<Informações sobre preço médio>
+OFFLINESHOP_AVERAGE_PRICE_NO_INFO	Preço médio não encontrado!
+OFFLINESHOP_CHANGE_ALL_PRICE	Atualizar todos os preços do mesmo item
+OFFLINESHOP_EDIT_SHOPNAME_DESCRIPTION	Insira um novo nome de loja
+OFFLINESHOP_EDIT_SHOPNAME_DESCRIPTION2	Novo nome:
+OFFLINESHOP_FILTER_TITLE	Filtros
+OFFLINESHOP_INPUT_INFO	Digite o preço que você deseja
+OFFLINESHOP_INPUT_INFO2	para vender este item por
+OFFLINESHOP_NOTIF_CLOSE_ALL	Fechar tudo
+OFFLINESHOP_NOTIF_ITEM_INFO	%s x%d vendido por %d.
+OFFLINESHOP_NO_MONEY_TO_WITHDRAW	Não há yang para retirar.
+OFFLINESHOP_NO_NAME	Sua loja não tem nome!
+OFFLINESHOP_RESULT_PER_PAGE	Resultados por página
+OFFLINESHOP_RESULT_PER_PAGE_ITEM	25 itens por página
+OFFLINESHOP_RESULT_PER_PAGE_ITEM2	50 itens por página
+OFFLINESHOP_RESULT_PER_PAGE_ITEM3	100 itens por página
+OFFLINESHOP_SELL_WITH_AVG_PRICE	Vender a preço médio
+OFFLINESHOP_SELL_WITH_AVG_PRICE2	Venda 10% acima do preço médio
+OFFLINESHOP_SELL_WITH_AVG_PRICE3	Venda 10% abaixo do preço médio
+OFFLINESHOP_SET_NAME	<- Digite o nome da sua loja ->
+OFFLINESHOP_SHOP_COLOR	Definir cor do nome da loja
+OFFLINESHOP_SHOP_DECO_0	Normal
+OFFLINESHOP_SHOP_DECO_1	1001 noites
+OFFLINESHOP_SHOP_DECO_2	Rei do churrasco
+OFFLINESHOP_SHOP_DECO_3	Caçadores de Tesouro
+OFFLINESHOP_SHOP_DECO_4	Comerciante de Fogo
+OFFLINESHOP_SHOP_DECO_5	Armeiro
+OFFLINESHOP_SHOP_DECO_TITLE	Decoração de loja
+OFFLINESHOP_TITLE_NAME	Nome
+OFFLINESHOP_TITLE_OTHER	Outro
+OFFLINESHOP_TITLE_PRICE	Preço
+OFFLINESHOP_TOOLTIP_RIGHT_CLICK_FOR_SALE	|Eemoji/key_rclick|e - Add item to shop
+OFFLINESHOP_TOOLTIP_RIGHT_CLICK_FOR_SALE2	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Quick add item to shop
+OFFLINESHOP_TOTAL_PRICE_OF_SHOP	Preço total de todos os itens da loja
+OFFLINESHOP_TOTAL_YANG_AMOUNT	Total: {}
+OFFLINE_SHOP	Loja off-line
+OFFLINE_SHOP_ADD_ITEM	Adicionar item
+OFFLINE_SHOP_ADD_ITEM_WINDOW	Adicione um item à sua loja
+OFFLINE_SHOP_BANK	Retirar
+OFFLINE_SHOP_BANK_BAD_VALUE	Valor incorreto inserido!
+OFFLINE_SHOP_BANK_EX	Digite o valor que deseja sacar:
+OFFLINE_SHOP_BANK_INFO	Os valores ganhos de yang e ganhos são atualizados a cada 5 segundos!
+OFFLINE_SHOP_BANK_TITLE	Ganhos
+OFFLINE_SHOP_BANK_VALUE	Seus ganhos atuais:
+OFFLINE_SHOP_BANK_WAIT	Você deve esperar 30 segundos antes de retirar novamente!
+OFFLINE_SHOP_BUY_ITEM	Você quer comprar %s x%d por %s?
+OFFLINE_SHOP_BUY_ITEM2	Você quer comprar %s por %s?
+OFFLINE_SHOP_CANNOT_SELL_ITEM	Este item não pode ser vendido em uma loja!
+OFFLINE_SHOP_CH	Canal
+OFFLINE_SHOP_CLOSE	Fechar loja
+OFFLINE_SHOP_CTIME	Tempo restante:
+OFFLINE_SHOP_DAY	Dias:
+OFFLINE_SHOP_DELETE_ITEM	Remover item
+OFFLINE_SHOP_DELETE_ITEM_WINDOW	Remover um item da sua loja
+OFFLINE_SHOP_EMOJI_TOOLTIP	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Remove item
+OFFLINE_SHOP_EMOJI_TOOLTIP2	|Eemoji/key_rclick|e - Update item price(s)
+OFFLINE_SHOP_EMOJI_TOOLTIP3	|Eemoji/key_ctrl|e + |Eemoji/key_rclick|e - Take item
+OFFLINE_SHOP_EMPTY	Nenhuma informação
+OFFLINE_SHOP_HOUR	Horas:
+OFFLINE_SHOP_INPUT_PRICE_DIALOG_TITLE	Preço
+OFFLINE_SHOP_IS_EMPTY	Sua loja está vazia!
+OFFLINE_SHOP_LEFT_TIME	Tempo restante: %s
+OFFLINE_SHOP_LOC	Localização
+OFFLINE_SHOP_LOCALIZATION_01	%s
+OFFLINE_SHOP_LOCALIZATION_02	(%d, %d)
+OFFLINE_SHOP_LOCALIZATION_03	CH%d
+OFFLINE_SHOP_MAP	Mapa
+OFFLINE_SHOP_NAME	Nome da loja:
+OFFLINE_SHOP_NO_ITEMS_IN_SHOP	Para criar uma loja, você deve colocar itens nela!
+OFFLINE_SHOP_OPEN	Loja aberta
+OFFLINE_SHOP_PLAYER_NAME	Jogador da loja offline -
+OFFLINE_SHOP_REMAINING_TIME	Tempo restante: 0 dias
+OFFLINE_SHOP_SEARCH	Procurar
+OFFLINE_SHOP_TIME	Dias: %d, Horas: %s
+OFFLINE_SHOP_TIMEE	Tempo restante
+OFFLINE_SHOP_WARNING	Se você não encontrar o item que procura porque o armazenamento está cheio, você verá mais itens depois de coletar os itens do armazenamento.
+OFFLINE_SHOP_WARNING1	Agora você está comprando itens usando o botão direito do mouse, tome cuidado!	
+OFFLINE_SHOP_WITHDRAW_YANG	Retirar
+OFFSHOP_DECORATION_SET	Definir decoração de loja
+ONLY_CHANNEL	Canal: %d	
+PASSIVE_SKILLS_FULLED_DESC_1	Se você tiver todas as habilidades passivas
+PASSIVE_SKILLS_FULLED_DESC_2	no nível P você ganhará
+PASSIVE_SKILLS_FULLED_DESC_3	|cFFffce47+{}|r para a habilidade
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_1	Se você tiver todas as habilidades de companheiro
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_2	no nível P você ganhará
+PASSIVE_SKILLS_FULLED_SHAMAN_DESC_3	|cFFffce47+{}|r para a habilidade
+PET_INFO_1	Se você tiver todas as habilidades em P,
+PET_INFO_2	você receberá um bônus adicional |cFFc8ff9c+30%|r em todas as habilidades.
+PET_INFO_3	Habilidade selecionada: {}
+PET_INFO_4	Bônus extra: |cFFc8ff9c+{}
+PET_SKILL_1	Vitalidade	
+PET_SKILL_10	Penetração	
+PET_SKILL_11	Chefe Rei	
+PET_SKILL_2	Loucura	
+PET_SKILL_3	Bravura	
+PET_SKILL_4	Foco	
+PET_SKILL_5	Poder	
+PET_SKILL_6	Onipotência	
+PET_SKILL_7	Absorção	
+PET_SKILL_8	Fúria	
+PET_SKILL_9	Armadura	
+PKT_OSIAG_LOCALE_GAME	AP	
+PKT_OSIAG_SYSTEM_PICK_PKT_OSIAG	testeteste: %d	
+POLYMARBLE_STAGE	|cFFffce47Estágio {}
+POLYMORPH_AFFECT_REMOVE_QUESTION	Você realmente deseja cancelar a transformação?	
+POLYMORPH_AFFECT_TOOLTIP	Transformação	SNA
+PREMIUM_EXTRA_SHOP_SEARCH_TOOLTIP	Premium is not active!\n-- Premium account benefits --\n *Remote purchase\n *Multiple purchases
+PREMIUM_EXTRA_SHOP_SEARCH_TOOLTIP2	Premium active!\n-- Premium account benefits --\n *Remote purchase\n *Multiple purchases
+PREMIUM_OVERIN_TOOLTIP	Somente usuários de contas premium podem usar este recurso.
+PREMIUM_OVERIN_TOOLTIP2	Você pode usar {} para ativar esse recurso.
+PREMIUM_PRIVATE_ITEM_ADD_DIFFERENCE_PRICE_WARNING	Você não pode vender o item a preços diferentes.	
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_WON2	O valor dos ganhos + o valor do ganho vendido não pode exceder o limite máximo.	
+PREMIUM_PRIVATE_ITEM_ADD_LIMIT_YANG2	O valor dos ganhos + valor do yang vendido não pode exceder o limite máximo.	
+PREMIUM_PRIVATE_SALE_CUSTOMER	Jogador: %s	
+PREMIUM_PRIVATE_SALE_TIME	Data: %s	
+PREMIUM_PRIVATE_SHOP_AUTO_MARKET_PRICE_INPUT_TOOLTIP	Venda automaticamente ao preço de mercado.	
+PREMIUM_PRIVATE_SHOP_BUILD_RESTRICTED	Uma loja não pode ser aberta neste local.	
+PREMIUM_PRIVATE_SHOP_HYPERLINK_HELP_TOOLTIP	Use CTRL + botão do mouse para adicionar um item à loja.	
+PREMIUM_PRIVATE_SHOP_INVALID_ITEM_CHECKIN_POSITION	Não é possível adicionar mais itens à sua loja.	
+PREMIUM_PRIVATE_SHOP_LOCKED_SLOT_QUESTION	Você quer desbloquear este slot?	
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE	[Ganhos atuais]	
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE_HINT_MSG	Atenção: o preço de mercado não considera a qualidade do item.	
+PREMIUM_PRIVATE_SHOP_MARKET_PRICE_NOT_AVAILABLE	Não disponível.	
+PREMIUM_PRIVATE_SHOP_MODIFY_STATE_OPEN_FAIL_TIME	Aguarde antes de abrir a loja novamente.	
+PREMIUM_PRIVATE_SHOP_NOT_MODIFY_STATE	Você não pode fazer isso enquanto sua loja não for gerenciada.	
+PREMIUM_PRIVATE_SHOP_NO_BUNDLE_ITEM	Você não pode abrir uma loja sem bolsa.	
+PREMIUM_PRIVATE_SHOP_NO_PREMIUM_BUNDLE_ITEM	Sem a Caxemira, você não pode mudar a aparência da sua loja.	
+PREMIUM_PRIVATE_SHOP_SHORT_TITLE	Insira um nome mais longo.	
+PREMIUM_PRIVATE_SHOP_TIME_EXPIRED	Prêmio expirado	
+PREMIUM_PRIVATE_SHOP_TOTAL_WORTH	Preço de venda:	
+PREMIUM_PRIVATE_SHOP_UNLOCK_KEY_MISSING	Você precisa de uma chave mágica para desbloquear isso.	
+PREMIUM_PRIVATE_SHOP_WARP_HELP_TOOLTIP	Clique para se teletransportar para a loja.	
+PREMIUM_PRIVATE_SHOP_WITHDRAW_QUESTIONG	Você realmente deseja retirar o yang da sua loja?	
+PRICE_FORMAT	Preço: |cFFffc700{} {} |cFFb8b8b8{} {}
+PRIVATESHOPSEARCH_ABLITY_POTION	Orvalho
+PRIVATESHOPSEARCH_ACCESSORY_SOCKET	Pano fino
+PRIVATESHOPSEARCH_ARMOR	Equipamento
+PRIVATESHOPSEARCH_ARROW	Setas
+PRIVATESHOPSEARCH_BELL	Sinos
+PRIVATESHOPSEARCH_BELT	Cintos
+PRIVATESHOPSEARCH_BLEND	Poções
+PRIVATESHOPSEARCH_BLOOD_PEARL	Pérola vermelho-sangue
+PRIVATESHOPSEARCH_BLUE_PEARL	Pérola azul
+PRIVATESHOPSEARCH_BODY	Armadura
+PRIVATESHOPSEARCH_BOW	Arcos
+PRIVATESHOPSEARCH_BUYTIME	Quer comprar o item selecionado?
+PRIVATESHOPSEARCH_CLAW	Garras
+PRIVATESHOPSEARCH_CLEAR_POTION	Elixires
+PRIVATESHOPSEARCH_COSTUME	Trajes
+PRIVATESHOPSEARCH_COSTUMEBODY	Fantasia
+PRIVATESHOPSEARCH_COSTUMEHAIR	Penteado
+PRIVATESHOPSEARCH_COSTUME_ACCE	Faixas
+PRIVATESHOPSEARCH_COSTUME_ACCE_SKIN	Fantasias de faixa
+PRIVATESHOPSEARCH_COSTUME_AURA	Fantasia de aura
+PRIVATESHOPSEARCH_COSTUME_MOUNT	Montagens
+PRIVATESHOPSEARCH_CRYSTAL	Cristal
+PRIVATESHOPSEARCH_DAGGER	Adagas
+PRIVATESHOPSEARCH_DEAD	Morto
+PRIVATESHOPSEARCH_DETACHMENT	Manual de pedra
+PRIVATESHOPSEARCH_DIAMOND	Diamante
+PRIVATESHOPSEARCH_DS	Alquimia da Pedra do Dragão
+PRIVATESHOPSEARCH_DS_BLACK	Ônix
+PRIVATESHOPSEARCH_DS_BLUE	Safira
+PRIVATESHOPSEARCH_DS_GREEN	Jade
+PRIVATESHOPSEARCH_DS_RED	Rubi
+PRIVATESHOPSEARCH_DS_WHITE	Diamante
+PRIVATESHOPSEARCH_DS_YELLOW	Granada
+PRIVATESHOPSEARCH_EAR	Brincos
+PRIVATESHOPSEARCH_FAN	Fãs
+PRIVATESHOPSEARCH_FISH	Peixe
+PRIVATESHOPSEARCH_FOOTS	Sapato
+PRIVATESHOPSEARCH_GEM	Gemas
+PRIVATESHOPSEARCH_GIFTBOX	Baús
+PRIVATESHOPSEARCH_GLOVE	Luvas
+PRIVATESHOPSEARCH_HEAD	Capacetes
+PRIVATESHOPSEARCH_LIVE	Vivo
+PRIVATESHOPSEARCH_MATERIAL	Materiais
+PRIVATESHOPSEARCH_METIN	Pedras espirituais
+PRIVATESHOPSEARCH_NECK	Colares
+PRIVATESHOPSEARCH_NEED_ITEM_BUY	Sem a bolsa correta, você não pode comprar nenhum item.
+PRIVATESHOPSEARCH_NEED_ITEM_FIND	Sem a bolsa correta, você não poderá procurar nenhum item.
+PRIVATESHOPSEARCH_NODELAY_POTION	Itens de HP
+PRIVATESHOPSEARCH_ORE	Minério
+PRIVATESHOPSEARCH_OTHER_COSTUMES	Outras fantasias
+PRIVATESHOPSEARCH_PET	Animais de estimação
+PRIVATESHOPSEARCH_PETAGG	Ovos de estimação
+PRIVATESHOPSEARCH_PETSKILLBOOK	Livros de habilidades para animais de estimação
+PRIVATESHOPSEARCH_PICK	Picaretas
+PRIVATESHOPSEARCH_POTION	Poções
+PRIVATESHOPSEARCH_QUEST	Busca
+PRIVATESHOPSEARCH_QUIVER	Aljavas
+PRIVATESHOPSEARCH_RESOURCE	Atualizar itens
+PRIVATESHOPSEARCH_ROD	Varas de pesca
+PRIVATESHOPSEARCH_SELECTITEM	Selecione um item.
+PRIVATESHOPSEARCH_SHIELD	Escudos
+PRIVATESHOPSEARCH_SKILLBOOK	Livros de habilidade
+PRIVATESHOPSEARCH_SKILLFORGET	Livro do Esquecimento
+PRIVATESHOPSEARCH_SKIN_AURA	Fantasia de aura
+PRIVATESHOPSEARCH_SKIN_MOUNT	Fantasia de montaria
+PRIVATESHOPSEARCH_SKIN_PET	Fantasia de animal de estimação
+PRIVATESHOPSEARCH_SKIN_SASH	Fantasia de faixa
+PRIVATESHOPSEARCH_SPECIAL	Variado
+PRIVATESHOPSEARCH_STONE	Fragmentos de energia
+PRIVATESHOPSEARCH_SWORD	Espadas de uma mão
+PRIVATESHOPSEARCH_TREASUREBOX	Baús
+PRIVATESHOPSEARCH_TUNING	Pergaminhos
+PRIVATESHOPSEARCH_TWOSWORD	Espadas de duas mãos
+PRIVATESHOPSEARCH_UNIQUE	Exclusivo
+PRIVATESHOPSEARCH_USEITEM	Consumíveis
+PRIVATESHOPSEARCH_USESPECIAL	Variado
+PRIVATESHOPSEARCH_WEAPON	Armas
+PRIVATESHOPSEARCH_WHITE_PEARL	Pérola branca
+PRIVATESHOPSEARCH_WRIST	Pulseiras
+PRIVATE_SHOP_BUY_ITEM_SELECTED_FAILURE	Não é possível remover um item que já foi comprado ou removido.	
+PRIVATE_SHOP_BUY_ITEM_SELECTED_OVERFLOW	Você pode selecionar no máximo 10 itens.	
+PRIVATE_SHOP_BUY_VNUM_ITEM_NOT_SELECTED	Selecione o item que deseja comprar.	
+PRIVATE_SHOP_CLOSE_QUESTION	Você quer fechar a loja particular?
+PRIVATE_SHOP_SEARCH_APPLY_FILTER_QUESTION	Você realmente deseja aplicar o filtro '%s'?	
+PRIVATE_SHOP_SEARCH_GENDER_FEMALE	Fêmea	
+PRIVATE_SHOP_SEARCH_GENDER_MALE	Macho	
+PRIVATE_SHOP_SEARCH_LIMIT_LEVEL	Nível do jogador	
+PRIVATE_SHOP_SEARCH_LIMIT_REFINEMENT	Nível de refinamento	
+PRIVATE_SHOP_SEARCH_LIMIT_STACK	Pilha	
+PRIVATE_SHOP_SEARCH_MAX	Máx.	
+PRIVATE_SHOP_SEARCH_MIN	Min.	
+PRIVATE_SHOP_SEARCH_PLAYER_NAME_NOT_SELECTED	Digite o nome do jogador.	
+PRIVATE_SHOP_SEARCH_REMOVE_FILTER_QUESTION	Você realmente deseja remover o filtro '%s'?	
+PRIVATE_SHOP_SEARCH_SELECT_ALCHEMY_CLARITY	Selecione clareza	
+PRIVATE_SHOP_SEARCH_SELECT_ALCHEMY_LEVEL	Selecione o nível	
+PRIVATE_SHOP_SEARCH_SELECT_ATTR	Selecione atributos: %d	
+PRIVATE_SHOP_SEARCH_SELECT_GENDER	Selecione o sexo	
+PRIVATE_SHOP_SEARCH_SELECT_JOB	Selecione a turma	
+PRIVATE_SHOP_SEARCH_SELECT_NONE	Nenhum	
+PRIVATE_SHOP_SEARCH_SELECT_SASH_ABSORPTION	Absorção de faixa	
+PRIVATE_SHOP_SEARCH_TITLE_ALCHEMY	Alquimia	
+PRIVATE_SHOP_SEARCH_TITLE_ATTRIBUTES	Atributos	
+PRIVATE_SHOP_SEARCH_TITLE_CLASSIFIERS	Classificadores	
+PRIVATE_SHOP_SEARCH_TITLE_LIMITS	Limites	
+PVP_EVENT_TIME	Começa em: %s	
+PVP_LEVEL0	[Lenda do Élfico]	
+PVP_LEVEL1	[Senhor Elvion]	
+PVP_LEVEL10	[Agressivo]	
+PVP_LEVEL11	[Evasivo]	
+PVP_LEVEL12	[Malicioso]	
+PVP_LEVEL13	[Cruel]
+PVP_LEVEL2	[Governante Élfico]	
+PVP_LEVEL3	[Grande Mestre]		
+PVP_LEVEL4	[Governante]	
+PVP_LEVEL5	[Invencível]	
+PVP_LEVEL6	[Onipotente]	
+PVP_LEVEL7	[Corajoso]	
+PVP_LEVEL8	[Recrutar]	
+PVP_LEVEL9	[Neutro]	
+QUEST_CATEGORY_00	Missões principais	
+QUEST_CATEGORY_01	Missões secundárias	
+QUEST_CATEGORY_02	Matar	
+QUEST_CATEGORY_03	Missões de coleção	
+QUEST_CATEGORY_04	Missões de evento	
+QUEST_CATEGORY_05	Missões diárias	
+QUEST_CATEGORY_06	Sistemas e habilidades	
+QUEST_CATEGORY_07	Missões diárias	
+RANKING_LEVEL_PREFIX	Nv. {}
+RANKING_TOP_15	Classificação entre os 15 primeiros
+RANKING_WINDOW_CATEGORY_ALCHEMY	Pedras de Dragão Refinadas
+RANKING_WINDOW_CATEGORY_BOSSES	Chefes derrotados
+RANKING_WINDOW_CATEGORY_DRAGON_COINS	Moedas de dragão gastas
+RANKING_WINDOW_CATEGORY_DUNGEONS	Masmorras
+RANKING_WINDOW_CATEGORY_FISHING	Pesca
+RANKING_WINDOW_CATEGORY_LEVEL	Nível alcançado
+RANKING_WINDOW_CATEGORY_MINING	Mineração
+RANKING_WINDOW_CATEGORY_MONSTERS	Monstros mortos
+RANKING_WINDOW_CATEGORY_REFINE	Itens atualizados
+RANKING_WINDOW_CATEGORY_STONES	Pedras destruídas
+RANKING_WINDOW_LEVEL_RANK_LIMIT	Na classificação de níveis, são exibidos personagens com nível 75+.
+RANKING_WINDOW_LOADING_IN_PROGRESS	Não é possível alterar a categoria enquanto o conteúdo de outra categoria está sendo carregado.
+RANKING_WINDOW_NO_CHARACTERS	Nenhum personagem
+RANKING_WINDOW_NO_POSITION	Sem posição
+RANKING_WINDOW_POSITION	Posição %s
+RANKING_WINDOW_RANKING_TITLE	Classificação
+RANKING_WINDOW_SERVER_RANKING_DO_NOT_RESET	A classificação do servidor não é redefinida.
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME	A redefinição da classificação ocorrerá em:|cFFF19BFF
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME_UPDATE	A redefinição da classificação ocorrerá em: |cFFcf9bff%s
+RANKING_WINDOW_WEEKLY_RANK_RESET_TIME_UPDATE1	A redefinição da classificação ocorrerá em: |cFFcf9bff0 seg.
+RANKING_WINDOW_WEERKLY_RANK_UNAVAILABLE	A classificação semanal não está disponível.
+RED_KINGDOM	|cFFFBB497Shinsoo|h|r	
+REFINEWINDOW_DO_NOT_CLOSE_WINDOW	Não feche a janela
+REFINEWINDOW_FIND_IN_SHOPS	Encontre itens nas lojas
+REFINEWINDOW_PRICE_1	Preço: {}
+REFINE_FAILURE_CAN_NOT_ATTACH	%s não pode ser anexado ao item.
+REMAINING_TIME_DAYS	Dias
+REMAINING_TIME_HOURS	Horas.
+REMAINING_TIME_MINUTES	Min.
+REMAINING_TIME_SECONDS	Seg.
+REMOVE_ITEM_DO_YOU_REMOVE	Você realmente deseja remover os itens selecionados?	
+RENDER_TARGET_PREVIEW_ITEM	Visualização do modelo
+RESP_AVAILABLE	Disponível	
+RESP_DROP_TEXT	Após clicar neste botão, o drop do monstro selecionado será exibido.
+RESP_DROP_TITLE	Informações sobre monstros
+RESP_MOB_TEXT	Quando esta caixa de seleção estiver marcada, o modelo do monstro será mostrado ao passar o mouse sobre ele.
+RESP_MOB_TITLE	Mostrar modelo de monstro
+RESP_PAGE_COUNT	Página %d / %d	
+RESP_RESP_TEXT	Quando esta caixa de seleção estiver marcada, passar o mouse sobre o botão "teletransportar" mostrará a localização do monstro no mapa.
+RESP_RESP_TITLE	Visualização do mapa	
+REVIVE_AUTO_TOWN_MESSAGE	Retorne à cidade em: {}	
+RUNE_DECK5_TOOLTIP	Runas - Bônus Adicional (Nível +5)	
+RUNE_DECK9_TOOLTIP	Runas - Bônus adicional (Nível +9)	
+SASH_ABSORBED_ITEM	Item absorvido
+SAVE_MAPS_BUSY	|cfffad3a5%s|r
+SAVE_MAPS_EMPTY	|cffe7a6a6- Nenhum dado salvo -|r
+SAVE_MAPS_OVERWRITE_DESC	Os dados existentes serão substituídos!
+SAVE_MAPS_SAVE_DESC	Descreva o local salvo com a maior precisão possível para melhor orientação.
+SAVE_MAPS_SAVE_TITLE	Insira o nome do local
+SCORPION_DUNGEON	Ruínas do escorpião
+SEARCH_IN_SHOPS_SHORTCUT	Pesquise nas lojas
+SECONDARY_LEVEL_0	Nenhum
+SECONDARY_LEVEL_1	Bronze eu
+SECONDARY_LEVEL_10	Onisciente
+SECONDARY_LEVEL_11	Ferro eu
+SECONDARY_LEVEL_12	Ferro II
+SECONDARY_LEVEL_13	Ferro III
+SECONDARY_LEVEL_14	Estelar
+SECONDARY_LEVEL_15	Real
+SECONDARY_LEVEL_16	Platina I
+SECONDARY_LEVEL_17	Platina II
+SECONDARY_LEVEL_18	Platina III
+SECONDARY_LEVEL_19	Platina IV
+SECONDARY_LEVEL_2	Bronze II
+SECONDARY_LEVEL_20	Platina V
+SECONDARY_LEVEL_21	Diamante eu
+SECONDARY_LEVEL_22	Diamante II
+SECONDARY_LEVEL_23	Diamante III
+SECONDARY_LEVEL_24	Diamante IV
+SECONDARY_LEVEL_25	Diamante V
+SECONDARY_LEVEL_26	Rubi eu
+SECONDARY_LEVEL_27	Rubi II
+SECONDARY_LEVEL_28	Rubi III
+SECONDARY_LEVEL_29	Rubi IV
+SECONDARY_LEVEL_3	BronzeIII
+SECONDARY_LEVEL_30	Rubi V
+SECONDARY_LEVEL_4	Prata eu
+SECONDARY_LEVEL_5	Prata II
+SECONDARY_LEVEL_6	Prata III
+SECONDARY_LEVEL_7	Ouro eu
+SECONDARY_LEVEL_8	Ouro II
+SECONDARY_LEVEL_9	Ouro III
+SECONDARY_LEVEL_BONUS_NONE	Sem bônus
+SECURITY_ANSWER_IS_WRONG	A resposta está incorreta, tente novamente! Nota: Cada tentativa incorreta reduz o tempo em 5 segundos.
+SECURITY_ANSWER_SUCCESS	Verificação do bot concluída com sucesso, você pode continuar jogando.
+SECURITY_CLEAR	Claro
+SECURITY_CONFIRM	Confirmar
+SECURITY_FIND_THE_DIFFERENT	Clique na imagem que é diferente das outras!
+SECURITY_NUMBERS_RESET_POS	Se os números aparecerem fora da janela e você não conseguir clicar neles, pressione este botão!
+SECURITY_REMAINING_TIME	Tempo restante: {:.1f}
+SECURITY_SELECT_ANSWER	Digite os números acima!
+SECURITY_SORT_IMAGES	Classifique os números arrastando-os de {}!
+SECURITY_SORT_IMAGES2	pequeno a grande
+SECURITY_SORT_IMAGES3	grande para pequeno
+SECURITY_YOU_HAVE_ONE_MORE_CHANGE	Escolha incorreta, tente novamente! Mais uma escolha incorreta irá desconectá-lo.
+SELL_PRICE	|cFFffc700Preço de venda:
+SHIP_DUNGEON_1	Navio Fantasma (I)
+SHIP_DUNGEON_2	Navio Fantasma (II)
+SHOP_BUY_NOTIF_0	foi vendido.
+SHOP_BUY_NOTIF_1	yang foi adicionado ao seu armazenamento.
+SHOP_MONEY_NOT_ENOUGH	Não é suficiente!
+SHOP_MONEY_NOT_ENOUGH2	O preço total dos produtos que deseja adicionar ao carrinho não deve ultrapassar o seu saldo.
+SHOP_NOT_ENOUGH_CHEQUE	Você não tem Wons suficientes.	
+SHOP_NOT_ENOUGH_MONEY_CHEQUE	Você não tem won ou yang suficientes.	
+SHOP_NOT_ENOUGH_PKT_OSIAG	Você não tem pontos de conquista suficientes.	
+SHOP_SEARCH_ACCE_GRADE_FILTER_0	Comum
+SHOP_SEARCH_ACCE_GRADE_FILTER_1	Multar
+SHOP_SEARCH_ACCE_GRADE_FILTER_2	Nobre
+SHOP_SEARCH_ACCE_GRADE_FILTER_3	Personalizado
+SHOP_SEARCH_ACCE_GRADE_FILTER_TITLE	Nível de faixa
+SHOP_SEARCH_ADD_ITEMS_TO_THE_CART_FIRST	Para executar esta ação, você deve primeiro selecionar os itens.
+SHOP_SEARCH_ADD_TO_BASKET	Adicionar item ao carrinho
+SHOP_SEARCH_ALL	Todas as categorias
+SHOP_SEARCH_BUY_CONFIRM	Você realmente quer comprar %s?
+SHOP_SEARCH_BUY_CONFIRM2	Você quer se teletransportar para a loja que contém %s?
+SHOP_SEARCH_BUY_SELECTED_ITEMS	Compre itens selecionados
+SHOP_SEARCH_BUY_SELECTED_ITEMS_CONFIRM	Você realmente quer comprar estes %d itens?
+SHOP_SEARCH_CLEAR_CART_FIRST	Esta ação só pode ser executada quando nenhum item estiver selecionado.
+SHOP_SEARCH_DS_CLARITY_FILTER_0	Nublado
+SHOP_SEARCH_DS_CLARITY_FILTER_1	Claro
+SHOP_SEARCH_DS_CLARITY_FILTER_2	Perfeito
+SHOP_SEARCH_DS_CLARITY_FILTER_3	Brilhante
+SHOP_SEARCH_DS_CLARITY_FILTER_4	Excelente
+SHOP_SEARCH_DS_CLARITY_FILTER_TITLE	Clareza da Alquimia do Dragão
+SHOP_SEARCH_DS_GRADE_FILTER_0	Diamante
+SHOP_SEARCH_DS_GRADE_FILTER_1	Rubi
+SHOP_SEARCH_DS_GRADE_FILTER_2	Âmbar
+SHOP_SEARCH_DS_GRADE_FILTER_3	Safira
+SHOP_SEARCH_DS_GRADE_FILTER_4	Granada
+SHOP_SEARCH_DS_GRADE_FILTER_5	Ônix
+SHOP_SEARCH_DS_GRADE_FILTER_TITLE	Nível de Alquimia do Dragão
+SHOP_SEARCH_ENTER_ITEMNAME	Pesquise por nome do item
+SHOP_SEARCH_FILTER_0_0	Min. Quantidade
+SHOP_SEARCH_FILTER_0_1	Máx. Quantidade
+SHOP_SEARCH_FILTER_1_0	Min. Nível
+SHOP_SEARCH_FILTER_1_1	Máx. Nível
+SHOP_SEARCH_FILTER_2_0	Meu. Abdominais.
+SHOP_SEARCH_FILTER_2_1	Máx. Abdominais.
+SHOP_SEARCH_FILTER_3_0	Min. Média
+SHOP_SEARCH_FILTER_4_0	Min. Preço
+SHOP_SEARCH_FILTER_4_1	Máx. Preço
+SHOP_SEARCH_ITEM_PRICE_PER_COUNT	Preço por unidade: %s
+SHOP_SEARCH_MULTIBUY_ACTIVATED	Você ativou a compra em massa, agora selecione os itens.
+SHOP_SEARCH_NOT_RESULT_FOUND	Nenhum resultado encontrado!
+SHOP_SEARCH_PREMIUM_NEEDED_FOR_THIS_ACTION	Uma conta premium é necessária para esta ação.
+SHOP_SEARCH_REMOVE_FROM_THE_BASKET	Remover item do carrinho
+SHOP_SEARCH_SEARCH_BY_PLAYERNAME	Pesquise pelo nome do jogador
+SHOP_SEARCH_SEARCH_BY_PLAYERNAME2	Pesquise pelo nome do jogador
+SHOP_SEARCH_SHORTCUT_SEARCH	|Eemoji/key_shift|e + |Eemoji/key_j|e - Search items in shops
+SHOP_SEARCH_TITLE	Pesquisa de loja
+SHOP_SEARCH_WAIT	Aguarde %d segundos antes de executar esta ação novamente.
+SHOP_TIMER_FORMAT	{} dias, {} horas, {} min.
+SKILLS_MAX_LEVEL	Nível máximo.
+SKILL_AFFECT_REMOVE_QUESTION	Você realmente deseja remover essa habilidade?	
+SKILL_DAMAGE_DUNGEON_2	Fortaleza Perdida do Esquecimento
+SKILL_DAMAGE_DUNGEON_3	Tumba do Antigo Barão
+SKILL_DAMAGE_DUNGEON_4	Masmorra de habilidade 3
+SKILL_DATA_129_DESC_1	|cFFc1c1c1Dano +{}%
+SPECIAL_INVENTORY_BOOKS	Livros
+SPECIAL_INVENTORY_CHESTS	Baús
+SPECIAL_INVENTORY_DEWS	Orvalho
+SPECIAL_INVENTORY_REFINE	Atualizar itens
+SPECIAL_INVENTORY_STONES_ALCHEMY	Pedras e Alquimia
+SPECIAL_INVENTORY_USABLE	Itens utilizáveis
+SPIDER_DUNGEON	Salão da Rainha Aranha
+STATS_ADD	Adicionar
+STATUS_GUI_TXT	Contar:	
+STONE_CRAFTING_DESC	Pedra da Alma +{} - {}x Fragmento de Pedra
+STONE_CRAFTING_QUICK_ADD	{} + {} - Adição rápida
+SUMMER_DUNGEON	Caverna de Solargon
+SWITCHBOT_ALTERNATIVE	Alternativa
+SWITCHBOT_CLEAR_ATTR	Remover bônus	
+SWITCHBOT_CLEAR_CONFIGURATION	Claro	
+SWITCHBOT_CONFIGURATION_TITLE	Seus modelos	
+SWITCHBOT_EMPTY_ATTR	- Você deve selecionar um bônus -	
+SWITCHBOT_INSTANT	Troca instantânea
+SWITCHBOT_INSTANT_COUNT_TITLE	Número de interruptores:
+SWITCHBOT_IN_PROGRESS	|cff73eb5eBônus serão visíveis apenas|r
+SWITCHBOT_IN_PROGRESS2	|cff73eb5equando o switchbot é parado.|r
+SWITCHBOT_LOAD_CONFIGURATION	Carregar	
+SWITCHBOT_SAVE	Salvar	
+SWITCHBOT_SAVE_BUTTON	Armazenar
+SWITCHBOT_SELECT_ATTR	Seleção de bônus	
+SWITCHBOT_START	Começar	
+SWITCHBOT_STOP	Parar	
+SWITCHBOT_TITLE	Robô de comutação	
+SWITCH_AVERAGE_EVENT	|cFFcabdabChance de rolar dano médio 63%|r
+SWITCH_AVERAGE_EVENT_TEXT	|cFFcabdabMaior chance de dano médio|r
+SWITCH_RARE_EVENT	|cFFcabdabRolagem mais fácil de bônus 6/7|r
+SWITCH_RUNE_EVENT	|cFFcabdabRolamento de relíquias mais fácil|r
+SWITCH_RUNE_EVENT_TEXT	|cFFcabdabMaior chance de relíquias de nível 3|r
+SYSTEM_OPTION_CPU_TILING_1	O modo CPU-Tiling pode aumentar o desempenho em computadores mais fracos.
+SYSTEM_OPTION_CPU_TILING_2	Se ocorrerem problemas gráficos, selecione 'Configurações do sistema' ou 'CONFIG.exe'
+SYSTEM_OPTION_CPU_TILING_3	e mude para o modo GPU-Tiling
+SYSTEM_OPTION_GPU_TILING_1	O modo GPU-Tiling pode funcionar lentamente em computadores mais fracos
+SYSTEM_OPTION_GPU_TILING_2	Se ocorrerem problemas gráficos, selecione 'Configurações do sistema' ou 'CONFIG.exe'
+SYSTEM_OPTION_GPU_TILING_3	e mude para o modo CPU-Tiling
+SYSTEM_OPTION_TILING_EXIT	O jogo deve ser reiniciado para alterar o modo Tiling.
+TARGET_LEVEL_ELITKA	Elite	
+TARGET_LEVEL_LEGENDA	Lenda	
+TARGET_RACE_FLAG_ANIMAL	Animal
+TARGET_RACE_FLAG_BOSS	Chefe
+TARGET_RACE_FLAG_DARK	Escuridão
+TARGET_RACE_FLAG_DESERT	Deserto
+TARGET_RACE_FLAG_DEVIL	Diabo
+TARGET_RACE_FLAG_DUNGEON	Masmorra
+TARGET_RACE_FLAG_EARTH	Terra
+TARGET_RACE_FLAG_ELEC	Raio
+TARGET_RACE_FLAG_FIRE	Fogo
+TARGET_RACE_FLAG_HUMAN	Humano
+TARGET_RACE_FLAG_ICE	Gelo
+TARGET_RACE_FLAG_INSECT	Inseto
+TARGET_RACE_FLAG_LEGENDA	Lenda
+TARGET_RACE_FLAG_MILGYO	Místicos
+TARGET_RACE_FLAG_ORC	Orc
+TARGET_RACE_FLAG_STONE	Pedra
+TARGET_RACE_FLAG_TREE	Floresta
+TARGET_RACE_FLAG_UNDEAD	Morto-vivo
+TARGET_RACE_FLAG_WIND	Vento
+TARGET_RACE_FLAG_WLADCA	Governante
+TARGET_RACE_NON	Nenhum
+TELEPORT_BUTTON	Teleporte
+TITLE_BONUS	Bônus
+TITLE_WINDOW_BONUS	Recompensa:
+TITLE_WINDOW_TASK	Tarefa:
+TITLE_WINDOW_TITLE	Título:
+TITLE_WINDOW_TITLE_ACTIVE	Ativo
+TITLE_WINDOW_TITLE_LOCKED	Bloqueado
+TITLE_WINDOW_TITLE_UNLOCKED	Desbloqueado
+TOOLTIP_APPLY_3	animal de estimação com bônus PVM:	
+TOOLTIP_APPLY_33050_1	Forte contra monstros +15%	
+TOOLTIP_APPLY_33051_1	Máx. PV +2.000	
+TOOLTIP_APPLY_33051_2	Forte contra humanos +15%	
+TOOLTIP_APPLY_ATTBONUS_BOSS	Forte contra chefes +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BOSS_POLY	Forte contra chefes +%d%%
+TOOLTIP_APPLY_ATTBONUS_ENCHANT_DARK_POLY	Forte contra a escuridão +%d%%
+TOOLTIP_APPLY_ATTBONUS_HUMAN_POLY	Forte contra humanos +%d%%
+TOOLTIP_APPLY_ATTBONUS_KLASY	Forte contra todas as classes +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_LEGENDA	Forte contra Lendas +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MAX_HP_POLY	Máx. PV: +%d
+TOOLTIP_APPLY_ATTBONUS_MONSTER_POLY	Forte contra monstros +%d%%
+TOOLTIP_APPLY_ATTBONUS_STONE	Forte contra pedras +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_STONE_POLY	Forte contra pedras +%d%%
+TOOLTIP_APPLY_ATTBONUS_WLADCA	Forte contra imperadores +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WLADCA_POLY	Forte contra imperadores +%d%%
+TOOLTIP_APPLY_DMG_BONUS	Ataque +%d%%	SA
+TOOLTIP_APPLY_FINAL_DMG_BONUS	Dano total +%d%%	SA
+TOOLTIP_APPLY_RESIST_KLASY	Resistência contra todas as classes +%d%%	SA
+TOOLTIP_APPLY_SKILE_BUFF_BOOK_BONUS	A chance de sucesso no treinamento de habilidades de autobuff aumentou 2,5x	SNA
+TOOLTIP_APPLY_SKILE_BUFF_NO_BOOK_DELAY	Se o treinamento da habilidade de autobuff falhar, você poderá tentar novamente imediatamente.	SNA
+TOOLTIP_APPLY_SKILE_PAS_BOOK_BONUS	A chance de sucesso no treinamento de habilidades passivas aumentou 2,5x	SNA
+TOOLTIP_APPLY_SKILE_PAS_NO_BOOK_DELAY	Se o treinamento de habilidades passivas falhar, você poderá tentar novamente imediatamente.	SNA
+TOOLTIP_APPLY_SKILE_PET_BOOK_BONUS	A chance de sucesso no treinamento de habilidades de animais de estimação aumentou 2,5x	SNA
+TOOLTIP_APPLY_SKILE_PET_NO_BOOK_DELAY	Se o treinamento de habilidades do animal de estimação falhar, você poderá tentar novamente imediatamente.	SNA
+TOOLTIP_ATTBONUS_DUNGEON	Poder da masmorra +%d%%	SA
+TOOLTIP_ATTBONUS_ELEMENT	Forte contra elementos +%d%%	SA
+TOOLTIP_ATTBONUS_ELEMENT_POLY	Forte contra elementos +%d%%
+TOOLTIP_ATTBONUS_PVM_SKILL	Dano de Habilidade PVM +%d%%	SA
+TOOLTIP_BONUS_CAN_BE_USE_X_TIMES	Este bônus pode ser usado: %dx
+TOOLTIP_BUYPRICE_TEXT	|cFF96e000[Preço de venda]|r	
+TOOLTIP_DEFBONUS_ELEMENT	Resistência elementar +%d%%	SA
+TOOLTIP_DOUBLE_LOOT_DROP	Chance de drop duplo +%d%%	SA
+TOOLTIP_DOUBLE_LOOT_SUMMER	Chance de drop duplo na Lagoa Cintilante +%d%%	SA
+TOOLTIP_DROP_INFO_PREFIX	• %s	
+TOOLTIP_DROP_INFO_RANGE_COUNT	Possível obter: %s - %s	
+TOOLTIP_DROP_INFO_SINGLE_COUNT	Possível obter:	
+TOOLTIP_ENCHANTED	|cFFc8ff9cAprimorado
+TOOLTIP_FISHINGROD_CAN_USE	O bônus pode ser usado: %dx
+TOOLTIP_FISHING_BIGGER_FISH_CHANCE	Chance de peixes maiores +%d%%	SA
+TOOLTIP_FISHING_INSTANT_CATCH_CHANCE	+%d%% Chance de captura instantânea	SA
+TOOLTIP_FISHING_MORE_POINTS_CHANCE	Chance de mais pontos +%d%%	SA
+TOOLTIP_FISHING_MORE_YANG_MULTIPLIER	Mais yang dos peixes +%d%%	SA
+TOOLTIP_FISHING_NEXT_SECTION_CHANCE	Chance de peixes mais raros +%d%%	SA
+TOOLTIP_FISHING_SKILL_BONUS_BIGGER_FISH	Chance de peixes maiores +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_INSTANT	Chance de captura instantânea +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_NEXT	Bônus de próximo nível:
+TOOLTIP_FISHING_SKILL_BONUS_NOW	Bônus de nível atual:
+TOOLTIP_FISHING_SKILL_BONUS_POINTS	Chance de mais pontos +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_RARE	Chance de peixes mais raros +%d%%
+TOOLTIP_FISHING_SKILL_BONUS_YANG	Mais yang dos peixes +%d%%
+TOOLTIP_FISHING_SKILL_MAX	A habilidade está no nível máximo!
+TOOLTIP_FISHING_SUCCESSFULL_COUNT	Peixe capturado com sucesso: %s
+TOOLTIP_FISHING_SUCCESS_CHANCE	Chance de pegar um peixe +%d%%	SA
+TOOLTIP_FISH_PRICE	Preço: %s
+TOOLTIP_ITEMSHOP_UNIQUE_ITEM	[Item exclusivo %d de %d]	
+TOOLTIP_ITEM_ENLIGHT_LIMIT_LEVEL	Do nível de Iluminação: %d
+TOOLTIP_ITEM_MOUNT_LIMIT_LEVEL	|cffBEB4A8|H|hNível de montagem necessário:|H|h |cff18f28d|H|h%d|H|h
+TOOLTIP_MALL_ITEMBONUS_STATIC_NEW	Este personagem dropa 12 baús de cada chefe final da masmorra.	SNA
+TOOLTIP_MALL_PICKUP	Coleta automática de itens.	SNA
+TOOLTIP_MALL_PREMIUM_MINE	Chance de extrair minério +5%, Chance de obter mais minério +5%, Chance de obter mais pontos +20%, Tempo de mineração reduzido em 1 segundo.	SNA
+TOOLTIP_MINING_LESS_MINE_TIME	Tempo de mineração reduzido em %d segundos.	SA
+TOOLTIP_MINING_MORE_ORES_CHANCE	Chance de obter mais pedaços de minério +%d%%	SA
+TOOLTIP_MINING_MORE_POINTS	Chance de mais pontos +%d%%	SA
+TOOLTIP_MINING_SUCCESS_CHANCE	Chance de extrair minério +%d%%	SA
+TOOLTIP_PASYWKI_MASTER	Habilidades passivas - bônus adicional	
+TOOLTIP_RESIST_BOSS	Resistência contra chefes: %d%%	SA
+TOOLTIP_RESIST_MONSTER	Resistência contra monstros: %d%%	SA
+TOOLTIP_RESIST_WLADCA	Resistência contra imperadores: %d%%	SA
+TOOLTIP_STAT_BONUS	Estatísticas +%s	SA
+TOOLTIP_TOGGLE_ACTIVE	Ativo
+TOURNAMENT_ALL_CHARACTER	Todas as especializações	
+TOURNAMENT_EVENT	Torneio PvP (%s - Lv %d - Lv %d)	
+TURN_IN_COMPLETE	|cFF66d678Entregado
+UI_LOCATION_01	Salvar	
+UI_LOCATION_02	Carregar	
+UI_LOCATION_03	Remover	
+UI_LOCATION_04	Posição não registrada	
+UI_LOCATION_05	Esta posição já está ocupada, use outra	
+UI_LOCATION_06	Termine de salvar a posição anterior primeiro	
+UI_LOCATION_07	Esta posição não pode ser usada	
+UI_LOCATION_08	O comprimento máximo do nome é de %d caracteres	
+UNIFIED_EXCHANGE_FORMAT	|cFFffc7001kkk {money_icon} |r= |cFFb8b8b81 {cheque_icon}
+UNIFIED_EXCHANGE_REVERSE_FORMAT	|cFFb8b8b81 {cheque_icon} |r= |cFFffc7001kkk {money_icon}
+UNIFIED_EXCHANGE_TITLE	Câmbio
+UNSAVED_POSITION	Posição não salva
+UPGRADE_CHANCE	Chance de atualização: |c{color}{percentage}%
+UPGRADE_CHANCE_EXTRA	Chance de atualização: |c{color}{percentage}% (+{percentageExtra}%)
+USE_ITEM_FAILURE_OFFLINE_SHOP	Este item não pode ser usado enquanto a loja estiver aberta!
+VALENTINE_EVENT	|cFFf263f0Gota de chocolate do Dia dos Namorados|r	
+WEEKLY_RANKING_TITLE	Classificação semanal (temporada {})
+WEEKLY_RANK_NO_TITLE	Sem título
+WEEKLY_RANK_SEASON_END	A temporada termina em: |cFFdeffb3{}d. {}h. {}min.
+WHEEL_GAME_CHEQUE_MODE	Para vitórias
+WHEEL_GAME_CURRENT_MODE_GOLD_WHEEL	Modo atual: Vitórias
+WHEEL_GAME_CURRENT_MODE_ITEM_WHEEL	Modo atual: Tokens de Roda
+
+WHEEL_GAME_ITEM_GOLD_COST	1x - 300 ganhos.
+WHEEL_GAME_ITEM_MODE	Para tokens de verão
+WHEEL_GAME_ITEM_WHEEL_COST	Preço: 1x Token
+WHEEL_GAME_SKIP_ANIMATION	Pular animação
+WHEEL_GAME_TITLE	Roda da fortuna
+WHEEL_OF_FORTUNE_CAT_1	Roda da Fortuna (1)
+WHEEL_OF_FORTUNE_CAT_2	Roda da Fortuna (2)
+WHEEL_OF_FORTUNE_REWARDS	Recompensas:
+WHEEL_REWARD_TEXT	Você recebeu
+WHEEL_REWARD_TEXT_1	você pode encontrar a recompensa em seu inventário
+WHEEL_REWARD_TITLE	Roda da fortuna
+WHELL_OF_FORTUNE_EVENT	Roda da fortuna	
+WIKI_100	Nv. Mais de 200
+WIKI_1_75	Nv. 1-99
+WIKI_76_100	Nv. 99-200
+WIKI_AKZADUR	Masmorra de Akzadur
+WIKI_MINING	Mineração
+WIKI_RELICS	Relíquias
+WIKI_AVAIBLE_AT	Disponível em
+WIKI_BASIC	F.A.Q
+WIKI_BASIC_DROP	Queda básica
+WIKI_BIOLOG	Pesca
+WIKI_BIOLOGO	Pesca
+WIKI_BODY_COSTUME	Trajes
+WIKI_BOOSTER	Reforços
+WIKI_BOSSES	Chefes
+WIKI_BOSSES_EVENT	Chefe do evento
+WIKI_CATEGORY	Categoria
+WIKI_CHESTS	Baús
+WIKI_CHESTS_ALTERNATIVE	Baús Alternativos
+WIKI_CHESTS_BOSS	Baús de chefe
+WIKI_CHESTS_DUNGEON	Baús de masmorra
+WIKI_CHESTS_EVENT	Baús de eventos
+WIKI_CHESTS_OTHER	Outros baús
+WIKI_CONTENT_INFO	Conteúdo de %s
+WIKI_COST	Custos
+WIKI_COMPANIONS	Companheiros
+WIKI_COSTUMES	Trajes
+WIKI_CUBE_INFO	Custos de itens de %s
+WIKI_DROPLIST_INFO	Lista suspensa de %s
+WIKI_EQUIPMENT	Equipamento
+WIKI_EQUIPMENT_ARMOR	Armadura
+WIKI_EQUIPMENT_BELT	Cintos
+WIKI_EQUIPMENT_BRACELET	Pulseiras
+WIKI_EQUIPMENT_EARRING	Brincos
+WIKI_EQUIPMENT_HELMET	Capacetes
+WIKI_EQUIPMENT_NECKLACE	Colares
+WIKI_EQUIPMENT_RINGS	Anéis
+WIKI_EQUIPMENT_SHIELD	Escudos
+WIKI_EQUIPMENT_SHOES	Sapato
+WIKI_EQUIPMENT_TALISMAN	Talismãs
+WIKI_EQUIPMENT_WEAPONS	Armas
+WIKI_EVENTS	Eventos
+WIKI_FAQ2	FAQ
+WIKI_GAMERULES	Regras
+WIKI_GAME_RULES	Regras
+WIKI_GUIDES	Informações sobre Elvion
+WIKI_GUIDES2	Informações sobre Elvion
+WIKI_HAIR_COSTUME	Penteados de fantasia
+WIKI_INFO_NO_RACE	Nenhum
+WIKI_INFO_RACE_ANIMAL	Animal
+WIKI_INFO_RACE_DARK	Escuro
+WIKI_INFO_RACE_DEVIL	Diabo
+WIKI_INFO_RACE_EARTH	Terra
+WIKI_INFO_RACE_ELEC	Raio
+WIKI_INFO_RACE_FIRE	Fogo
+WIKI_INFO_RACE_HUMAN	Meio-Humano
+WIKI_INFO_RACE_ICE	Gelo
+WIKI_INFO_RACE_METIN	Pedra Metin
+WIKI_INFO_RACE_MILGYO	Místicos
+WIKI_INFO_RACE_ORC	Orc
+WIKI_INFO_RACE_UNDEAD	Zumbi
+WIKI_INFO_RACE_WIND	Vento
+WIKI_INFO_RACE_ZODIAC	Zodíaco
+WIKI_INFO_RESIST_BELL	Sino
+WIKI_INFO_RESIST_BOW	Arco
+WIKI_INFO_RESIST_DAGGER	Punhal
+WIKI_INFO_RESIST_FAN	Fã
+WIKI_INFO_RESIST_MAGIC	Magia
+WIKI_INFO_RESIST_SWORD	Espada
+WIKI_INFO_RESIST_TWOHAND	Duas mãos
+WIKI_ITEM_NAME	Nome do artigo...
+WIKI_LEVEL_MOB_TEXT	Nível %d
+WIKI_LEVEL_TEXT	Nível %d - Refinar %d~%d
+WIKI_LEVEL_TEXT2	Nível %d~%d - Refinar %d~%d
+WIKI_LEVEL_TEXT2_CHAMPION	Nível de Campeão %d~%d - Refinar Alcance %d~%d
+WIKI_LEVEL_TEXT_CHAMPION	Nível de Campeão %d - Refinar Alcance %d~%d
+WIKI_METINSTONE	Pedras
+WIKI_MOB_NAME	Nome do monstro
+WIKI_MONSTER	Monstro
+WIKI_MOUNT	Animais de estimação e montarias
+WIKI_MOUNT_ITEM	Montagens
+WIKI_ORIGIN	Origem
+WIKI_ACHIEVEMENT_POINTS	Pontos de conquista
+WIKI_PET_ITEM	Animais de estimação
+WIKI_PET_LEVEABLE_ITEM	Animais de estimação niveláveis
+WIKI_SASH_COSTUME	Fantasia de faixa
+WIKI_SHINING	Brilhando
+WIKI_STATICS_INFO	Estatísticas %s
+WIKI_STATICS_INFO_DEFENSES	Defesas:
+WIKI_STATICS_INFO_DMG	Min. Dmg:%d | Máx. Dmg:%d | HP máximo: %d
+WIKI_STATICS_INFO_TYPE	Corrida: %s | Raça secundária: %s
+WIKI_STATICS_INFO_YNG	Min. Qual:%d | Máx. Qual:%d | EXP: %d
+WIKI_SYSTEM2	Sistemas básicos
+WIKI_TALISMAN	Talismãs
+WIKI_TEMNITE	Masmorras
+WIKI_THESTART2	Começando
+WIKI_TITLE	Wikipédia
+WIKI_TITLE2	[H] Wikipédia
+WIKI_UNKOWN_ITEM	Item desconhecido: %d
+WIKI_UNKOWN_MOB	Monstro desconhecido: %d
+WIKI_UPGRADE_COSTS	Item adicional
+WIKI_WEAPON_SKIN	Traje de arma
+WIKI_YANG_COSTS	Qual
+WIKI_ZODIAC	Templo do Zodíaco
+WONEXCHANGE_CONFIRM_QUESTION_1	Você quer vender %d Won por %s Yang?	
+WONEXCHANGE_CONFIRM_QUESTION_2	Você quer comprar %d Won por %s Yang?	
+WONEXCHANGE_CONFIRM_QUESTION_3	Continuar?	
+WORLDBOSS_GUARD_NAME	Anúncio
+WUKONG_DUNGEON	Montanhas Wukong
+YANG_DROP_EVENT	|cFFcabdabQueda de Yang aumentada: %d%%|r
+YELLOW_KINGDOM	|cFFFDE696Chunjo|h|r
+GUILD_GUARDIAN_ACTIVATE_FEE_INFO	A ativaçao dos bônus do guardiao custa 500.000 de ouro da guilda e dura 24 horas.

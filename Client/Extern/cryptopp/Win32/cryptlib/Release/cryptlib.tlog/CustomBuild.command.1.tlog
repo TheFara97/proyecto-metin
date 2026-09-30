@@ -1,0 +1,5 @@
+^D:\MT2\THRL\MT2009NEW\GAME\SOURCES\S3LL_SERVER\SRCS\EXTERN\CRYPTOPP\ADHOC.CPP.PROTO
+if not exist adhoc.cpp copy "D:\Mt2\Thrl\Mt2009New\Game\Sources\s3ll_server\Srcs\Extern\cryptopp\adhoc.cpp.proto" adhoc.cpp
+        echo: >> adhoc.cpp.copied
+^D:\MT2\THRL\MT2009NEW\GAME\SOURCES\S3LL_SERVER\SRCS\EXTERN\CRYPTOPP\RDRAND.ASM
+ml.exe /c /nologo /D_M_X86 /W3 /Cx /Zi /safeseh /Fo"Win32\cryptlib\Release\rdrand-x86.obj" "D:\Mt2\Thrl\Mt2009New\Game\Sources\s3ll_server\Srcs\Extern\cryptopp\rdrand.asm"

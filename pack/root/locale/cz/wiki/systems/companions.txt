@@ -1,0 +1,102 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/wikipedia.png]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Content List:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. Pet
+[COLOR=0x63FFB2;FONT_SIZE=14]*2. Mount and companion equipment
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. Pet
+[Y_PADDING=10;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]Under F6 Key you will find companion window
+[Y_PADDING=8;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]Until level 40 your pet receives experience with your character
+[Y_PADDING=8;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]On level 40 and above you will need feed items to increase pet experience
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Pet Food (40-70):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives 10% of experience to pet
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 40 - 70
+[ITEM=80033; IS_LINK=1; Y=220; X=30]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Pet Food (70-110):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives 10% of experience to pet
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 70 - 110
+[ITEM=80056; IS_LINK=1; Y=287; X=30]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Pet Food (110-150):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives 10% of experience to pet
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 110 - 150
+[ITEM=80057; IS_LINK=1; Y=354; X=30]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1.1 Pet Skills
+[Y_PADDING=10;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]Pet have 11 passive skills each giving different bonus.
+[Y_PADDING=10;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]When level is increased you will gain 1 skill point which can be then distributed to any skill.
+[Y_PADDING=10;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]After reaching 10 skills points in one skill the grade of skill will increase to M level
+[Y_PADDING=10;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]For skills M->G you will need to read pet skill books to increase the skill further.
+
+[COLOR=ef4f00;Y_PADDING=10;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]You can get the pet skill books from this chest (chest drop from most of the metinstones)
+[ITEM=50097; IS_LINK=1; Y=570; X=250]
+[Y_PADDING=55;X_PADDING = 235;FONT_SIZE=13]*Contains:
+[ITEM=90501; IS_LINK=1; Y=640; X=50]
+[ITEM=90502; IS_LINK=1; Y=640; X=90]
+[ITEM=90503; IS_LINK=1; Y=640; X=130]
+[ITEM=90504; IS_LINK=1; Y=640; X=170]
+[ITEM=90505; IS_LINK=1; Y=640; X=210]
+[ITEM=90506; IS_LINK=1; Y=640; X=250]
+[ITEM=90507; IS_LINK=1; Y=640; X=290]
+[ITEM=90508; IS_LINK=1; Y=640; X=330]
+[ITEM=90509; IS_LINK=1; Y=640; X=370]
+[ITEM=90510; IS_LINK=1; Y=640; X=410]
+[ITEM=90511; IS_LINK=1; Y=640; X=450]
+
+[COLOR=ef4f00;Y_PADDING=50;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]To increase G grade pet skills you will need Pet Soul Stone:
+[ITEM=90500; IS_LINK=1; Y=720; X=250]
+
+[COLOR=0x63FFB2;Y_PADDING=50;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]If you have all skills at P, you will receive an additional bonus +30% to all skills
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=820; CENTER_ALIGN]
+
+[COLOR=0xffd700; Y_PADDING=55; CENTER_ALIGN; FONT_SIZE=14]2. Mount
+[Y_PADDING=8;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]You can level up mount with feeding items.
+[Y_PADDING=8;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]Each level gives powerful bonuses.
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Food (lv. 1-24):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives +25 EXP
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 1 - 24
+[ITEM=203000; IS_LINK=1; Y=955; X=30]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Food (lv. 25-49):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives +25 EXP
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 25 - 49
+[ITEM=203001; IS_LINK=1; Y=1022; X=30]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Food (lv. 50-74):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives +25 EXP
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 50 - 74
+[ITEM=203002; IS_LINK=1; Y=1087; X=30]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Food (lv. 75-99):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives +25 EXP
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 75 - 99
+[ITEM=203003; IS_LINK=1; Y=1155; X=30]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Food (lv. 100-124):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives +25 EXP
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 100 - 124
+[ITEM=203013; IS_LINK=1; Y=1223; X=30]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=30]Food (lv. 125-150):
+[Y_PADDING=8;X_PADDING = 75;FONT_SIZE=13]*Gives +25 EXP
+[Y_PADDING=1;X_PADDING = 75;FONT_SIZE=13]*Possible to use on levels: 125 - 150
+[ITEM=203014; IS_LINK=1; Y=1291; X=30]
+
+[COLOR=0xffd700; Y_PADDING=35; CENTER_ALIGN; FONT_SIZE=14]2.1 Companion Equipment
+[Y_PADDING=8;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]Pet have 5 eq items which you can refine.
+[Y_PADDING=8;X_PADDING = 55;CENTER_ALIGN;FONT_SIZE=14]Mount have 3 eq items which you can refine. 
+
+[ITEM=80109; IS_LINK=1; Y=1440; X=150]
+[ITEM=80119; IS_LINK=1; Y=1440; X=190]
+[ITEM=80129; IS_LINK=1; Y=1440; X=250]
+[ITEM=80139; IS_LINK=1; Y=1440; X=300]
+[ITEM=80149; IS_LINK=1; Y=1440; X=350]
+
+[ITEM=202009; IS_LINK=1; Y=1500; X=210]
+[ITEM=202019; IS_LINK=1; Y=1500; X=250]
+[ITEM=202029; IS_LINK=1; Y=1500; X=300]

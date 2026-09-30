@@ -1,0 +1,45 @@
+ASLAN_BUFF_TITLE_MAIN_BOARD	Autobuff
+ASLAN_BUFF_TITLE_CREATE_BOARD	Autobuff
+ASLAN_BUFF_TITLE_LEARN_GRANDMASTER	Skill Training
+ASLAN_BUFF_TITLE_RESET_SKILL	Reset Skill
+ASLAN_BUFF_TITLE_CHANGE_NAME	Change Name
+ASLAN_BUFF_BUTTON_SUMMON	Summon
+ASLAN_BUFF_BUTTON_UNSUMMON	Unsummon
+ASLAN_BUFF_BUTTON_EXPORT	Export
+ASLAN_BUFF_TITLE_SKILLS	Skills
+ASLAN_BUFF_SKILLPOINTS	Skill points: %d
+ASLAN_BUFF_INTELLIGENCE	INT: %d
+ASLAN_BUFF_TITLE_IMPROVE_CHANGE	Change and Development
+ASLAN_BUFF_BUTTON_TEXT_USE	Use
+ASLAN_BUFF_INPUT_NAME_TITLE	Name of your autobuff
+ASLAN_BUFF_CHANGE_NAME	Change name
+ASLAN_BUFF_CHANGE_SEX	Change sex
+ASLAN_BUFF_RESET_SKILL	Reset skills
+ASLAN_BUFF_HOVER_EXP_INFO	Experience: %s / %s (%.2f%%)
+ASLAN_BUFF_CHAT_INFO_NAME_IS_EMPTY	You must enter a name.
+ASLAN_BUFF_SELECT_SKILL	Select a skill
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_1	Success!
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_2	The skill %s has been increased! (Success)
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_1	The skill %s has not been increased! (Failure)
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_2	Only half of the cost has been deducted.
+ASLAN_BUFF_POPUP_GRANDMASTER_NO_SKILLS	You do not have any skills at G level. (Grand Master)
+ASLAN_BUFF_POPUP_NOT_ACTIVE_SHAMAN	You do not have an active companion.
+ASLAN_BUFF_POPUP_RESET_SKILL_1	The skill %s has been deactivated.
+ASLAN_BUFF_POPUP_RESET_SKILL_2	The skill %s has been activated.
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_1	Are you sure you want to export the companion?
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_2	The export cost is %s.
+ASLAN_BUFF_QUESTION_BEFORE_CHANGE_SEX	Are you sure you want to change the companion's gender?
+ASLAN_BUFF_CHAT_NO_SKILL_ITEM	You do not have the required book or stone.
+ASLAN_BUFF_CHAT_NO_CHANGE_NAME_ITEM	You must have Name Oil [Buff] to change the companion's name.
+ASLAN_BUFF_CHAT_NO_CHANGE_SEX_ITEM	You must have Modification Spell [Buff] to change the companion's gender.
+ASLAN_BUFF_CHAT_NO_RESET_SKILL_ITEM	You must have Skill Reset Scroll [Buff] to reset the companion's skill.
+ASLAN_BUFF_SKILLBOARD_COST	Cost: %s
+ASLAN_BUFF_SKILLBOARD_COST_EMPTY	Cost: ----
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS	Skill points: %d
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS_EMPTY	Skill points: ----
+ASLAN_BUFF_TOOLTIP_WITH_SOCKET_ZERO	The seal has not been used yet. Be the first person to release the companion from it.
+ASLAN_BUFF_TOOLTIP_MALE	Male
+ASLAN_BUFF_TOOLTIP_FEMALE	Female
+ASLAN_BUFF_TOOLTIP_LEVEL	Level: %s
+ASLAN_BUFF_TOOLTIP_SKILLPOINTS	Skill points: %s
+ASLAN_BUFF_TOOLTIP_INTELLIGENCE	Intelligence: %s
